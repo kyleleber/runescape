@@ -1,0 +1,13 @@
+{
+  "name": "kyleleber/runescape",
+  "description": "Drupal 9 module for integrating a runescape classic private server's game database",
+  "type": "drupal-module",
+  "authors": [
+    {
+      "name": "Kyle Leber",
+      "email": "kyleleber2014@gmail.com"
+    }
+  ],
+  "minimum-stability": "alpha",
+  "require": {}
+}
