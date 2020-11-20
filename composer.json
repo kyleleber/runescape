@@ -8,6 +8,7 @@
       "email": "kyleleber2014@gmail.com"
     }
   ],
+  "license": "GPL-2.0-or-later",
   "minimum-stability": "alpha",
   "require": {}
 }
