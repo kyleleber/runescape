@@ -1,0 +1,11 @@
+uuid: 87d02d49-6699-42f6-8049-3a6fe8a7e31d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zLNc_QOuiZlXMshw5j0sJC1BDWRBIW4W4pf3Gq8mriY
+id: wilderness_guide
+npc_id: '493'
+npc_description: 'He''s ready for a fight'
+label: 'Wilderness guide'
+items: null

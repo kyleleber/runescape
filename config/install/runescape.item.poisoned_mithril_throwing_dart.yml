@@ -1,0 +1,10 @@
+uuid: 8392c14b-1bb3-420b-b836-837f7fd5d54f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nJnx3NiOlU_ddxHl53p7qga4X-PjijUk1PStws3qOFw
+id: poisoned_mithril_throwing_dart
+item_id: '1125'
+item_description: 'A venomous throwing dart with a mithril tip.'
+label: 'Poisoned Mithril Throwing Dart'

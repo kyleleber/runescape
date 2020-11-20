@@ -1,0 +1,10 @@
+uuid: 46b240a5-22c0-4c15-97e1-78299b4c4290
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 46OHg-QxvteiEGE1VPtb5qBlXbEeMjqaC6hmqXM35ho
+id: bobs_fingerprint
+item_id: '1208'
+item_description: 'An impression of Bobs fingerprint'
+label: 'Bobs fingerprint'

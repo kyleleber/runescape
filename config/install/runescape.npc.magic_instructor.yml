@@ -1,0 +1,11 @@
+uuid: ca70a4c1-1108-45a9-9efa-9620b07e9c73
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9ztCrbQ3fE5ZbdbZBXALq2hfjoe3z75CGKqcn5HVl1E
+id: magic_instructor
+npc_id: '494'
+npc_description: 'An old wizard'
+label: 'Magic Instructor'
+items: null

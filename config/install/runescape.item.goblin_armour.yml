@@ -1,0 +1,10 @@
+uuid: cdbf2f19-47bc-4ee8-86fa-afbd4d083c1b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QAwo8pDeHzBvmQWf_I_fxvOgO8YQf0ynyAnlm-0kZKg
+id: goblin_armour
+item_id: '275'
+item_description: 'Armour Designed to fit Goblins'
+label: 'Goblin Armour'

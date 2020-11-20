@@ -1,0 +1,11 @@
+uuid: 7ca53320-e401-46f3-95df-8af6f1ab648c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4MdZol60VE-hX59kMCby8Icc8s5PA1ZF6UgHmft1R2A
+id: apothecary
+npc_id: '33'
+npc_description: 'I wonder if he has any good potions'
+label: Apothecary
+items: null

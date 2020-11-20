@@ -1,0 +1,10 @@
+uuid: c05a6953-a088-4dd1-ab2a-03ee183b5d25
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wOgNVENigApOE9235CFdwWxS-6iacJT5daGpp4zUl3Q
+id: mixed_chemicals
+item_id: '1180'
+item_description: 'A pungent mix of 3 chemicals'
+label: 'Mixed chemicals'

@@ -1,0 +1,11 @@
+uuid: c9d8e06e-059f-4936-8555-e405866ce47b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gIJBRjAF5o0H9pbl5paGb5RZHszG8vOt2_2t8dw8yyo
+id: helemos
+npc_id: '269'
+npc_description: 'A retired hero'
+label: Helemos
+items: null

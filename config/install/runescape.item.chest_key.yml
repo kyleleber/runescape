@@ -1,0 +1,10 @@
+uuid: 5a5cc1d0-2f4a-4e27-a033-96a786d5fc64
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vuNdg1-gJiCY3Yk-KNpJuRlN6xCHFL3yBmzjAjpyqVQ
+id: chest_key
+item_id: '1164'
+item_description: 'A small key for a chest'
+label: 'chest key'

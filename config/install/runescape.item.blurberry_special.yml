@@ -1,0 +1,10 @@
+uuid: ff05d6e5-84df-4f4e-83b3-329d0cb29c38
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gdG9lSVcpD8EyPKnOXFSJy-Ax6lMJl9o34c-yw6qYe0
+id: blurberry_special
+item_id: '938'
+item_description: 'Looks good..smells strong'
+label: 'blurberry special'

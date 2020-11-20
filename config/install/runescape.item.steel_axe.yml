@@ -1,0 +1,10 @@
+uuid: 29f9bf70-3f33-469c-8180-4e3c224c8dc3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5FxfIpCqGDdTwJjZViTAa8U283FyBlVYo5A0KguMdpI
+id: steel_axe
+item_id: '88'
+item_description: 'A woodcutters axe'
+label: 'Steel Axe'

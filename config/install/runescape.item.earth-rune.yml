@@ -1,0 +1,10 @@
+uuid: efa1dc71-11d3-42a2-83ad-dfa993552b3a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d5Y6WXbH9S44re-x4i97cwR0iQ7mugBiodkkbAjmS2o
+id: earth-rune
+item_id: '34'
+item_description: 'One of the 4 basic elemental runes'
+label: Earth-Rune

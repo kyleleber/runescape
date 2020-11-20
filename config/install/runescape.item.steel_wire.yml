@@ -1,0 +1,10 @@
+uuid: f93f3efa-186b-4776-b1f4-bc61b94b9ce1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XcZQTc1SdK5ieygQ0pp23ek281WB3RkNYibEAC0iYeU
+id: steel_wire
+item_id: '975'
+item_description: 'Useful for crafting items'
+label: 'Steel Wire'

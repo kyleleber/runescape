@@ -1,0 +1,10 @@
+uuid: f09701ec-189c-4b4a-b468-2de59c96cc13
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dB3K4wap39kj3wBNutug37RMVsmFiMlLTnWEzxa8mOc
+id: amulet_of_othainian
+item_id: '1009'
+item_description: 'A strange looking amulet'
+label: 'Amulet of Othainian'

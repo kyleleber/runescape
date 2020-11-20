@@ -1,0 +1,10 @@
+uuid: 09102531-ccac-4d41-b5be-3e20776a9cbe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sJ1z5ZdgEickHFvM3YHDIc-1lSLNegaU_a3phgTpUEM
+id: dwarven_stout
+item_id: '269'
+item_description: 'A Pint of thick dark beer'
+label: 'Dwarven Stout'

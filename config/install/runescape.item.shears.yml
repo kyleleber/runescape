@@ -1,0 +1,10 @@
+uuid: e4c08eb9-7f8e-4654-a160-b98d00a3413c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vsrXy9J8wcEY3Y7AEYb-bwIzdA3K35O3A8cthGGia4A
+id: shears
+item_id: '144'
+item_description: 'For shearing sheep'
+label: shears

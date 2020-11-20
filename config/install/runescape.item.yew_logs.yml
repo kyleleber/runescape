@@ -1,0 +1,10 @@
+uuid: 44ca0bbe-f8d0-41e2-8be3-481d17d66f20
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LvqwE7vFtWgM6l1cRJnWvxb_hNP0QrRC_TVAn1RSrJs
+id: yew_logs
+item_id: '635'
+item_description: 'Logs cut from a yew tree'
+label: 'Yew Logs'

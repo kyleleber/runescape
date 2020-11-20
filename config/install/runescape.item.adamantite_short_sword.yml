@@ -1,0 +1,10 @@
+uuid: 3b4dd157-3117-4c42-ab45-2080977b97ea
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FBpsVgkI2bEcfVbOnRtK5JS4D-Qc8mbaPha1exlKxaM
+id: adamantite_short_sword
+item_id: '69'
+item_description: 'A razor sharp sword'
+label: 'Adamantite Short Sword'

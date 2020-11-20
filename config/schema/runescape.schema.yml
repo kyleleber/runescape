@@ -1,0 +1,33 @@
+npc.*:
+  type: config_entity
+  label: 'NPC'
+  mapping:
+    id:
+      type: string
+      label: 'Id'
+    npc_id:
+      type: integer
+      label: 'Npc Id'
+    npc_description:
+      type: string
+      label: 'Description'
+    label:
+      type: label
+      label: 'Label'
+
+item.*:
+  type: config_entity
+  label: 'Item'
+  mapping:
+    id:
+      type: string
+      label: 'Id'
+    item_id:
+      type: integer
+      label: 'Item Id'
+    item_description:
+      type: string
+      label: 'Description'
+    label:
+      type: label
+      label: 'Label'

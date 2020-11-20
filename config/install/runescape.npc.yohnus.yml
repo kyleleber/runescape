@@ -1,0 +1,11 @@
+uuid: 6ad1ff04-85d0-4881-8fc0-4f6ee7a2899a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q_I_5bsXBn--X-89SRM3-7v-sed3mppqkKodCV_cyjU
+id: yohnus
+npc_id: '622'
+npc_description: 'This is Yohnus - he runs the local blacksmiths'
+label: Yohnus
+items: null

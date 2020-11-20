@@ -1,0 +1,10 @@
+uuid: 7e9c6b3e-1e3d-4b5a-b8f6-0fd64048b103
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: s9stci6L93Ihv3JCbo7HJG5fmS1sV2R007TqNbgg7k8
+id: poisoned_steel_dagger
+item_id: '561'
+item_description: 'Short but pointy'
+label: 'Poisoned Steel dagger'

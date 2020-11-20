@@ -1,0 +1,10 @@
+uuid: 218f3cc1-d89d-42e7-8474-aed2bc225302
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0lLNi5zi2OIKBpBBdGpgKl40OuI5XAJNAKtOFjgUTYc
+id: hemenster_fishing_trophy
+item_id: '720'
+item_description: 'Hurrah you won a fishing competition'
+label: 'Hemenster fishing trophy'

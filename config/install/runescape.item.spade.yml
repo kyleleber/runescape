@@ -1,0 +1,10 @@
+uuid: 2120f7d6-2c59-441b-a561-83c1d5151bc4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ibjhGbUdJUPwTC5D4UptQx9YatAp4mJ8rydcW-uQOnI
+id: spade
+item_id: '211'
+item_description: 'A fairly small spade'
+label: Spade

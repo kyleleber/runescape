@@ -1,0 +1,11 @@
+uuid: a4c15ba7-f6fe-4756-9d04-e2f4272dd8af
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1MyuNw5i_2bK22LAnfNwMvGljRMLQPIHoSiVDPFFW4c
+id: professor_oddenstein
+npc_id: '38'
+npc_description: 'A mad scientist if I ever saw one'
+label: 'Professor Oddenstein'
+items: null

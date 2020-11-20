@@ -1,0 +1,10 @@
+uuid: 12701a57-99fe-41a5-ac9c-e5d685da186f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: olwTLBm3hZIPhMRJSwqj8B7pK37V5lZ4kMedNIbdczs
+id: fire-rune
+item_id: '31'
+item_description: 'One of the 4 basic elemental runes'
+label: Fire-Rune

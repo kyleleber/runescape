@@ -1,0 +1,10 @@
+uuid: f5499ed7-f52b-442c-993a-e07023a90e82
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cTAmuuv2kh2mpZZqVrCO7v3zxs0ZyPqnwohhz61ih-c
+id: gianne_cook_book
+item_id: '899'
+item_description: 'Aluft Giannes favorite dishes'
+label: 'gianne cook book'

@@ -1,0 +1,10 @@
+uuid: 5d910600-38bd-42de-804d-f5e2acc18127
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: H3Rn4FBL_2vcTDU90CfsNg5iZxLwGKu_KR1apsed_p4
+id: booking_of_binding
+item_id: '1238'
+item_description: 'An ancient tome on Demonology'
+label: 'Booking of Binding'

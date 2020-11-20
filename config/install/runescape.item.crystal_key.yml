@@ -1,0 +1,10 @@
+uuid: 6820c7b7-62bb-456c-b622-f6ed59381cb5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vpCNJLmWRGjm2E5uevchDv7bfwLsPiM-UhLukDUuuCQ
+id: crystal_key
+item_id: '525'
+item_description: 'A very shiny key'
+label: 'Crystal key'

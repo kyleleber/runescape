@@ -1,0 +1,11 @@
+uuid: 825912f0-a1bd-4c6a-a7ae-57fe71356ede
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w9Sdsz1XPyJC8F6RkMMaqMTLZG6QoMyNqIhxKUE-qJA
+id: paladin
+npc_id: '633'
+npc_description: 'A paladin of Ardougne'
+label: Paladin
+items: null

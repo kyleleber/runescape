@@ -1,0 +1,11 @@
+uuid: a5898612-ee64-4a79-8ccb-5973b665c5b6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yddCagDkM_pYho_bXlTPfzdDkx4-U21l4zAG0nEXzVw
+id: fire_giant
+npc_id: '344'
+npc_description: 'A big guy with red glowing skin'
+label: 'Fire Giant'
+items: null

@@ -1,0 +1,11 @@
+uuid: edd9e383-2bd9-483b-bddd-362605368136
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gOjktw4oO2sn1_m91HYX9vC2Nsg8Hs4BiDLmGIYkzKE
+id: jungle_savage
+npc_id: '776'
+npc_description: 'A savage and fearless Jungle warrior'
+label: 'Jungle Savage'
+items: null

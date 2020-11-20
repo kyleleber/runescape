@@ -1,0 +1,10 @@
+uuid: 64bcf7c5-8a11-4a14-8a17-c7ecdba7e40c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EkEKmknAmROXsS5bFL1XW1Eo5cYJwBHIu_NabI14S8c
+id: ice_arrows
+item_id: '723'
+item_description: 'Can only be fired with yew or magic bows'
+label: 'Ice Arrows'

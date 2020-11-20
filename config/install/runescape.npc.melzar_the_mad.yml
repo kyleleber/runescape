@@ -1,0 +1,11 @@
+uuid: 3230bac1-b569-4b74-bb6c-34ea433c3b19
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AxG5hULns_mBeTn0hNPYbR1TVnlMax7D_Ow7fyB-lZE
+id: melzar_the_mad
+npc_id: '182'
+npc_description: 'He looks totally insane'
+label: 'Melzar the mad'
+items: null

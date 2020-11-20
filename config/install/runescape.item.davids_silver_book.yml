@@ -1,0 +1,10 @@
+uuid: 7ac83c6c-d62b-4007-977a-7157a9356256
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7bbbxK7NSi_MFukC4mhLQWJzSYdtNoDD5QkUBnSRnVY
+id: davids_silver_book
+item_id: '1227'
+item_description: 'An ornamental silver book coated with flour'
+label: 'Davids Silver Book'

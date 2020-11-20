@@ -1,0 +1,10 @@
+uuid: 07858156-4ae6-475b-99b0-3c85d3a91635
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Qb0wrssTOC4vHfqf_RT5-vRCPXL28OudPqY6WNbQM1U
+id: distillator
+item_id: '804'
+item_description: 'It''s for seperating compounds'
+label: Distillator

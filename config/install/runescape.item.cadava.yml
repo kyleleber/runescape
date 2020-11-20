@@ -1,0 +1,10 @@
+uuid: 4a9a7885-6e24-40d9-9f1f-689b51035566
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sfYbUEE9jHJS2FUTJmtzG-e79ovNZdZqB5lQEPP-qgs
+id: cadava
+item_id: '57'
+item_description: 'I''m meant to give this to Juliet'
+label: Cadava

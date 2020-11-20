@@ -1,0 +1,10 @@
+uuid: 1d8efe70-ded0-46bc-a21e-850026824bca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 75QdfKHAuy5pWoJyeB-MH841OAuPeapvP5tAdW16Zzs
+id: bow_string
+item_id: '676'
+item_description: 'I need a bow handle to attach this too'
+label: 'bow string'

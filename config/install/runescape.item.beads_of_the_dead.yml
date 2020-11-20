@@ -1,0 +1,10 @@
+uuid: 98de2f4c-b686-450a-afcf-5b024b9365ff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RbY2qFvjOQZqu1jFWhJnHwq5clsbk6famN85ZAumo2o
+id: beads_of_the_dead
+item_id: '852'
+item_description: 'A curious looking neck ornament'
+label: 'Beads of the dead'

@@ -1,0 +1,11 @@
+uuid: 2abb9304-0289-46d5-a1ed-da32a6f39e06
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: i0R93bTrGitL3cpzu4YYLd_7F6UwURxGRw8vQpLISkk
+id: otherworldly_being
+npc_id: '298'
+npc_description: 'Is he invisible or just a set of floating clothes?'
+label: 'Otherworldly being'
+items: null

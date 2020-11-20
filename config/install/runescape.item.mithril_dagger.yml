@@ -1,0 +1,10 @@
+uuid: d37fb4b7-195d-48de-a234-92971ade2557
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z2xQIPeuffw3cMwUdjZL7znKMuQyGYlM304CkzXqWiQ
+id: mithril_dagger
+item_id: '64'
+item_description: 'Short but pointy'
+label: 'Mithril dagger'

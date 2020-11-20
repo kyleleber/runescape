@@ -1,0 +1,10 @@
+uuid: b823cb30-1f94-4c49-bf29-d4e96d992ed4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p1XXKICmZ74T5eDokBx0ShLjCJZxyXKSWb0X25cvNfk
+id: veg_batta
+item_id: '949'
+item_description: 'well..it looks healthy'
+label: 'Veg batta'

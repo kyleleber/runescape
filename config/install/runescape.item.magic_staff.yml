@@ -1,0 +1,10 @@
+uuid: 7a441775-cdfe-4357-bc9c-758ff9897dee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fHvXNBtomoXjecYltlcgMHGJKQ6EeA1IuSRfAVzY5Ic
+id: magic_staff
+item_id: '198'
+item_description: 'A Magical staff'
+label: 'Magic Staff'

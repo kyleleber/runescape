@@ -1,0 +1,10 @@
+uuid: b89c5724-c365-4198-be4e-0b31237cde9f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CZmqd1VMa0pOHYH0w544joFbFSEYYboaMf3e0ZHcUlo
+id: diary
+item_id: '537'
+item_description: 'Property of Nora.T.Hag'
+label: Diary

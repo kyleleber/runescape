@@ -1,0 +1,10 @@
+uuid: a88a76d7-46c4-46d5-9e8c-8eab8ab53bf1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4tP3T6C6R9S4MA_SoWNtp1RTuIJdmIgojanBKMB9CQo
+id: yew_shortbow
+item_id: '655'
+item_description: 'Short but effective'
+label: 'Yew Shortbow'

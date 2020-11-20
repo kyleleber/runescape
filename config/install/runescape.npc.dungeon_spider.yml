@@ -1,0 +1,11 @@
+uuid: d59b8580-ac66-4957-a155-d586e6edaec6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iVUFCo1Xtzk0inHBbWCw91oXa7yEoZyMnscTuItSzWc
+id: dungeon_spider
+npc_id: '656'
+npc_description: 'A nasty poisonous arachnid'
+label: 'Dungeon spider'
+items: null

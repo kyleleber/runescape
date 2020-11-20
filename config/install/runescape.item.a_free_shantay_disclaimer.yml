@@ -1,0 +1,10 @@
+uuid: a921f16d-d17b-4fea-b6df-aaef7c496f16
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qndMRC7EViiuxCPlNyRT787nHgKZWddlY5z5LxdaTDY
+id: a_free_shantay_disclaimer
+item_id: '1099'
+item_description: 'Very important information.'
+label: 'A free Shantay Disclaimer'

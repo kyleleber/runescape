@@ -1,0 +1,10 @@
+uuid: 4cbe9a20-03ba-49f5-8bfa-9e60bd043465
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: r16zBf9j_inzkb2q5c-To5NwGO6bLVy5XtYsMe7VQZg
+id: palm_tree_leaf
+item_id: '1279'
+item_description: 'A thick green plam leaf - natives use this to cook meat in'
+label: 'Palm tree leaf'

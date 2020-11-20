@@ -1,0 +1,10 @@
+uuid: b29106e5-e3f1-43b6-8e63-6486a58949de
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0QdhJ_1uK4dnyzELhgSDXcFgCLzZlJU2_yNm1PkbJx0
+id: coat_of_arms
+item_id: '999'
+item_description: 'A symbol of truth and all that is good'
+label: 'Coat of Arms'

@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function runescape_map_tracking_theme() {
+  return [
+    'tracking_map' => [
+      'render element' => 'elements',
+      'template' => 'tracking-map',
+    ],
+  ];
+}

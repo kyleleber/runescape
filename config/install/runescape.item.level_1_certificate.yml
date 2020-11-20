@@ -1,0 +1,10 @@
+uuid: 28da3e83-0dcb-488a-9b5a-625bf4279f1e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: daM7t__xt_35z9CrwgE11ZPCy-jh9e0F8SPT-_Fdw6E
+id: level_1_certificate
+item_id: '1142'
+item_description: 'A Certificate of education'
+label: 'Level 1 Certificate'

@@ -1,0 +1,9 @@
+uuid: 33cd4a98-2a0c-4f4d-a09a-c560eb8a9798
+langcode: en
+status: true
+dependencies: {  }
+id: guard_lvl_28
+npc_id: '65'
+npc_description: "He tries to keep order around here\t"
+label: 'Guard (lvl 28)'
+items: ''

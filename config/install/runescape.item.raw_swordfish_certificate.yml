@@ -1,0 +1,10 @@
+uuid: 503e4b16-c31e-4873-9335-2ba93d70aefe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EdYUf48zLbG0BI65WlllbXZS9N_N9jTU1MQOljvC_Wk
+id: raw_swordfish_certificate
+item_id: '536'
+item_description: 'Each certificate exchangable at draynor market for 5 raw swordfish'
+label: 'Raw swordfish certificate'

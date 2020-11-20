@@ -1,0 +1,10 @@
+uuid: d09b6f22-80ab-4173-a161-a4a38d60c4a5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: X0GGfo5Hc-K7iCdFBKlICwZhgInW_SOLj0qFL322R9o
+id: ranarr_weed
+item_id: '448'
+item_description: 'A useful herb'
+label: 'Ranarr Weed'

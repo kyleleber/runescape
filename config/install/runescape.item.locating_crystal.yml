@@ -1,0 +1,10 @@
+uuid: bbdf5e35-2a46-4540-8704-f72b54cfb9bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NWm5ijUGuu1amdSux_wphaF6YRyxaFfXrT2TA1yNvfc
+id: locating_crystal
+item_id: '972'
+item_description: 'A magical crystal sphere'
+label: 'Locating Crystal'

@@ -1,0 +1,10 @@
+uuid: ae060195-b580-4257-b745-73ae84e01c1c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QK2FH5zLTNzbIywRukjo7QvPifJTQdQhcAnAwVCkchE
+id: molten_glass
+item_id: '623'
+item_description: 'hot glass ready to be blown'
+label: 'molten glass'

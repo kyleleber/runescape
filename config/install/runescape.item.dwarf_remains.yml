@@ -1,0 +1,10 @@
+uuid: 0036be0f-d5a7-433a-82dc-599d8b9951a6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aQaK5eQqDr9O6DRaJJ9DqkP2x806r9bOaszOyjYgX_E
+id: dwarf_remains
+item_id: '1046'
+item_description: 'The remains of a dwarf savaged by goblins'
+label: 'dwarf remains'

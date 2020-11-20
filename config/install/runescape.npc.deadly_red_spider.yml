@@ -1,0 +1,11 @@
+uuid: 48874a8c-0ff1-4c9e-bf2d-32075e078d71
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vUBPDjGgVxNuTLzlnkzDq4nNcSDpvR9pQPADkMAVhlI
+id: deadly_red_spider
+npc_id: '99'
+npc_description: 'I think this spider has been genetically modified'
+label: 'Deadly Red spider'
+items: null

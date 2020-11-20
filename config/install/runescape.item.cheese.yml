@@ -1,0 +1,10 @@
+uuid: 67fb2e31-2c5e-42e2-a31d-f6e572d9f643
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w8agPf6-ubOw611mUu3QlQ8v7v3c8vi0EeDWxcYSJ9c
+id: cheese
+item_id: '319'
+item_description: 'It''s got holes in it'
+label: Cheese

@@ -1,0 +1,10 @@
+uuid: bb793b18-ba4f-4602-9069-e828341e53fd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: av7aslwrSKUdwuIbh9arAHCgA2hCuUjPB_3IcRD4K78
+id: rubber_tube
+item_id: '213'
+item_description: 'Its slightly charred'
+label: 'rubber tube'

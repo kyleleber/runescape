@@ -1,0 +1,10 @@
+uuid: f1f67720-e403-464d-aeb3-c53c1d713bde
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1NfDrKnDRWuCvtKZlCxDwWAqpn6-zumIwRkeTHzbJqY
+id: coal
+item_id: '155'
+item_description: 'hmm a non-renewable energy source!'
+label: coal

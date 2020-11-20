@@ -1,0 +1,11 @@
+uuid: e7466ec2-e8e0-4827-8873-90bad9c0da8a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wogKUMIkOzRYmMbKl-019gwQ5rGW2utKupPQbHIeWsQ
+id: jonny_the_beard
+npc_id: '25'
+npc_description: 'I can see why he''s called the beard'
+label: 'Jonny the beard'
+items: null

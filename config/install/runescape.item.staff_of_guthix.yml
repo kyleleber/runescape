@@ -1,0 +1,10 @@
+uuid: d5242481-1f9d-4b51-9708-a8cca7c4fb9f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6ZKQp6UmBPvNShjw80kjJYATcKt0QwOwQjXFpxg6OWQ
+id: staff_of_guthix
+item_id: '1217'
+item_description: 'It''s a stick of the gods'
+label: 'Staff of guthix'

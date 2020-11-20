@@ -1,0 +1,10 @@
+uuid: a4e1af58-0f76-475f-a49e-025e8eeaa786
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7OXL8B3Djprj1KHF9Ml3b8CyQ91lCHUE0BUgh-kNsNU
+id: unblessed_holy_symbol
+item_id: '45'
+item_description: 'This needs blessing'
+label: 'Unblessed Holy Symbol'

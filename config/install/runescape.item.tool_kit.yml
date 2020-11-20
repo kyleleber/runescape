@@ -1,0 +1,10 @@
+uuid: ce12e0c8-77ea-428c-b279-4db581b27a57
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3OYlMkb6Q8uC3ov3rbNlOlb1CHv1ngWB2XknjOoV7c8
+id: tool_kit
+item_id: '1055'
+item_description: 'These could be handy!'
+label: 'Tool kit'

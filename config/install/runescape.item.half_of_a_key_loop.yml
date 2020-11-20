@@ -1,0 +1,10 @@
+uuid: 23432c28-94f8-454d-962d-154a2cc216ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Lg393S_RU8Qm4Hd_fo1EyK_tO2sEnhxx4G_Ry0j2s4M
+id: half_of_a_key_loop
+item_id: '527'
+item_description: 'A very shiny key'
+label: 'Half of a key (Loop)'

@@ -1,0 +1,10 @@
+uuid: f794c4a1-e476-4856-b005-4e87c77df48e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 55WNDNPxe3AfgX9AhOWOeL6YVsD7dzcFAuLbRfD0JbY
+id: medium_adamantite_helmet
+item_id: '107'
+item_description: 'A medium sized helmet'
+label: 'Medium Adamantite Helmet'

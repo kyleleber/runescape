@@ -1,0 +1,10 @@
+uuid: 50b026af-0213-4231-81e4-07cc99308a6c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TkSplo7A5209TbyIApbU2eyBbilRRiNBURVX6j6Er48
+id: karamja_rum
+item_id: '318'
+item_description: 'A very strong spirit brewed in Karamja'
+label: 'Karamja Rum'

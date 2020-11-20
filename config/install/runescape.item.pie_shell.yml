@@ -1,0 +1,10 @@
+uuid: c4cfc0f6-4065-4882-817f-df547ba6a7ee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0JBM1RlSLy1KX0CqMryiswHuCns36xCLAka8DzxqbXU
+id: pie_shell
+item_id: '253'
+item_description: 'I need to find a filling for this pie'
+label: 'pie shell'

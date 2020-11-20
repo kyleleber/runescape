@@ -1,0 +1,10 @@
+uuid: dbf96bb1-4c6b-401d-b1f6-06a46f7fe849
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6Akfog3cImDLvIRcx7C3SgMDcw5F-OXz7_i6A4jW50s
+id: gnomebatta_dough
+item_id: '880'
+item_description: 'Dough formed into a base'
+label: 'gnomebatta dough'

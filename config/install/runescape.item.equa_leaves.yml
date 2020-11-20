@@ -1,0 +1,10 @@
+uuid: 7cbd3d43-c008-43a5-93f7-e7cd31bd4fa9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xT99jCP19iwtEDQg_bpOzC-jXcXB34w2S7zltL4JjCA
+id: equa_leaves
+item_id: '873'
+item_description: 'Small sweet smelling leaves'
+label: 'Equa leaves'

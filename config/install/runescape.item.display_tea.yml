@@ -1,0 +1,10 @@
+uuid: a2301a3a-3dd2-44c0-b305-a97f4df3551c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: s2MjUurVtFP0GkKvaBgJkn1sb5rSA4QYlzc4XamQKbA
+id: display_tea
+item_id: '1285'
+item_description: 'A nice cup of tea - for display only'
+label: 'display tea'

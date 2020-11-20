@@ -1,0 +1,10 @@
+uuid: 517de66c-d0ff-47a2-9d2a-30a848e6ef93
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EQo2FHHPgyUTedIytdTSeGKEkVUrI4r9A9kW-popdXQ
+id: blurberry_badge
+item_id: '916'
+item_description: 'an official cocktail maker'
+label: 'Blurberry badge'

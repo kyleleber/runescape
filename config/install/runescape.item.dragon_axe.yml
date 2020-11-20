@@ -1,0 +1,10 @@
+uuid: af8a3930-ac7d-48d9-ab52-725bf79cdebc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vqJfALNYqy6sZGafzBciMQ_oCk015TjukIbzJT3qILs
+id: dragon_axe
+item_id: '594'
+item_description: 'A vicious looking axe'
+label: 'Dragon axe'

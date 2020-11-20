@@ -1,0 +1,11 @@
+uuid: 7a241013-6d36-48d3-9482-2c09fe6c7678
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: H0ztzURzfrA8PIIW85Yv6LGRj2diW-0BRFHO8reW4KI
+id: moss_giant
+npc_id: '594'
+npc_description: 'his beard seems to have a life of its own'
+label: 'Moss Giant'
+items: null

@@ -1,0 +1,10 @@
+uuid: c46635a5-1f9a-4f59-89eb-c6a181adb23f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: R5_HyS6ZRua_YXF2AJBj9UVBmy_pBXuRo9qN67C-jFM
+id: cape_of_legends
+item_id: '1288'
+item_description: 'Shows I am a member of the legends guild'
+label: 'Cape of legends'

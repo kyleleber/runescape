@@ -1,0 +1,10 @@
+uuid: 11b7b491-9840-4619-a08d-35231a7298ed
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VEfWws09DPy8qPDaqof_Bq8giv7y_QD-OKc0zZm48IY
+id: casket
+item_id: '549'
+item_description: 'I hope there is treasure in it'
+label: Casket

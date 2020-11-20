@@ -1,0 +1,10 @@
+uuid: 57d3db47-9772-4806-bfef-6cf1f10eb93d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mCZ2tY-A7zYQyqhACn9pj_s1N1o7G9pN5NQqlASVJ64
+id: maze_key
+item_id: '421'
+item_description: 'The key to the entrance of Melzar''s maze'
+label: 'Maze key'

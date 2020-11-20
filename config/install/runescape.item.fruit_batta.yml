@@ -1,0 +1,10 @@
+uuid: 53d54805-9037-4994-88e4-886482f36e79
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RiyXQEqwQyjdaKCRSqRzaUSWBdYrwinBy0kcp3XvOdQ
+id: fruit_batta
+item_id: '948'
+item_description: 'actually smells quite good'
+label: 'fruit batta'

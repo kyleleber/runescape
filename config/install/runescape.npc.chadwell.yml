@@ -1,0 +1,11 @@
+uuid: bf1ce5be-385b-423b-b56e-43bcb614dd76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BHsUs8CVihmKAsDequ9eMNF4VqhZfI-vdHgWhoRu4JM
+id: chadwell
+npc_id: '661'
+npc_description: 'A sturdy looking gent'
+label: Chadwell
+items: null

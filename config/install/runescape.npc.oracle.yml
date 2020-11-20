@@ -1,0 +1,11 @@
+uuid: 09c63b1f-dbe1-4315-9160-3de2e3b87ecf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SI1axz_yVvPRw3UyS4lKNnXwireG6ys_gpoNaCNK59I
+id: oracle
+npc_id: '197'
+npc_description: 'A mystic of unknown race'
+label: Oracle
+items: null

@@ -1,0 +1,10 @@
+uuid: c17c980e-eb6d-433c-a751-8f48c9df369c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gH9xb8i7kHKYyyEbJrTZo-XKA34IpCo_HdcooTugmNs
+id: large_black_helmet
+item_id: '230'
+item_description: 'A full face helmet'
+label: 'Large Black Helmet'

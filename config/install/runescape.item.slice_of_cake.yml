@@ -1,0 +1,10 @@
+uuid: 6a26fa4d-90ab-482c-9f4e-78de48f1ab7f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xW1S8ZVBGQaa0NspnNJ6hetSBTB0Upscz1Yj230NexM
+id: slice_of_cake
+item_id: '335'
+item_description: 'I''d rather have a whole cake!'
+label: 'Slice of Cake'

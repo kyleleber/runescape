@@ -1,0 +1,10 @@
+uuid: 8e3397f9-7bd0-437d-be59-47a11605ea25
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aY-ZermkhxDjMjGLneOwcAmPpkvTj0nEouHrHFK92sw
+id: id_paper
+item_id: '573'
+item_description: 'ID of Hartigen the black knight'
+label: 'ID Paper'

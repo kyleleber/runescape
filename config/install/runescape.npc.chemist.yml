@@ -1,0 +1,11 @@
+uuid: 957da744-faa9-4de1-ae0a-dc5fe3326607
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HdOo1PCKO-gVHgSuv5NTZ8ngFMej6i17_AfnnIpu8gM
+id: chemist
+npc_id: '504'
+npc_description: 'He looks clever enough'
+label: Chemist
+items: null

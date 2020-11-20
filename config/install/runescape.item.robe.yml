@@ -1,0 +1,10 @@
+uuid: fb3bf00f-be40-4874-bd79-eb85df9d67cd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IGPgz56M1Xk5OojLTRB_hrAGiWzWWuQWpUQCnlw4nAU
+id: robe
+item_id: '1234'
+item_description: 'A worn robe'
+label: Robe

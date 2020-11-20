@@ -1,0 +1,11 @@
+uuid: 7af47260-05f2-49b4-9902-e2cbc538fa58
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mscDEg_L2xl_ESOO4XKXraEPg3jTa5Mkt9sQTkoWOUs
+id: traiborn_the_wizard
+npc_id: '17'
+npc_description: 'An old wizard'
+label: 'Traiborn the wizard'
+items: null

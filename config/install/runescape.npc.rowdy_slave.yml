@@ -1,0 +1,11 @@
+uuid: a107179f-7fe6-4194-a2cd-bd1896640cdd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yYj2Yi5A20q3TlhanbCsRQaFRoSCC0Fb-uGP2aUUd0E
+id: rowdy_slave
+npc_id: '718'
+npc_description: 'A slave whos looking for trouble.'
+label: 'Rowdy Slave'
+items: null

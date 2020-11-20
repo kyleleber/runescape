@@ -1,0 +1,10 @@
+uuid: f52e42f2-d839-4292-b205-fd27712390cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XlY4jm0KK1tkMUcrQxRppjMrOwywGLbCjmx7n7vvqkg
+id: sapphire_amulet
+item_id: '302'
+item_description: 'I wonder if I can get this enchanted'
+label: 'Sapphire Amulet'

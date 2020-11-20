@@ -1,0 +1,11 @@
+uuid: 15ada3b7-8ffd-4024-8a1b-aec9dfa73cee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LeCGDHXrcRY-H6FlobGnxV3vlsSadGFoMcSqi5rPh3w
+id: high_priest_of_entrana
+npc_id: '395'
+npc_description: 'A Peaceful monk'
+label: 'High priest of entrana'
+items: null

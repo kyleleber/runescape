@@ -1,0 +1,10 @@
+uuid: ba804021-76d8-4592-8e93-1c2bf15d59bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pBqRpnikcWZ7wR2wQzpquS8oLLuDQUnctUr56dXqOuc
+id: bronze_plate_mail_legs
+item_id: '206'
+item_description: 'These look pretty heavy'
+label: 'Bronze Plate Mail Legs'

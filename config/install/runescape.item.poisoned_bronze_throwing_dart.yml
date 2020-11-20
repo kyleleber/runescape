@@ -1,0 +1,10 @@
+uuid: 6858bc7d-e83e-42c1-9b8d-c1e0b58ccf66
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jrWkB9yn3W6K4ZGnvNA5u3o2ykjVsonJNK55MlIUq_c
+id: poisoned_bronze_throwing_dart
+item_id: '1122'
+item_description: 'A venomous throwing dart with a bronze tip.'
+label: 'Poisoned Bronze Throwing Dart'

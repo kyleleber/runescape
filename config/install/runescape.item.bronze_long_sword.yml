@@ -1,0 +1,10 @@
+uuid: 74b37514-9774-4668-b8d6-51057209bcb7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KGfVh6QqnjWA49eUlwUR2YWFQNGOIbLcBYKXMfBq0Ss
+id: bronze_long_sword
+item_id: '70'
+item_description: 'A razor sharp sword'
+label: 'Bronze Long Sword'

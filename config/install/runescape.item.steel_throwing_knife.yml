@@ -1,0 +1,10 @@
+uuid: e5fe703f-b6b1-41de-80a1-f3db4327f5b7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5XIIb-HDoW8bkxuHKrtd7aXwWtqbbCeN-V326aQd5hI
+id: steel_throwing_knife
+item_id: '1077'
+item_description: 'A finely balanced knife'
+label: 'Steel throwing knife'

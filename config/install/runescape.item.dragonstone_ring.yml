@@ -1,0 +1,10 @@
+uuid: d2617cac-c2f3-4bbb-8740-5f17e33bf00e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Bk6vPxG2rBjKrqn5AKPH2c9SnYVsudfWn7wU25qzYF4
+id: dragonstone_ring
+item_id: '543'
+item_description: 'A valuable ring'
+label: 'Dragonstone ring'

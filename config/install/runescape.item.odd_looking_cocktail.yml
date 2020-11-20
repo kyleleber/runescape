@@ -1,0 +1,10 @@
+uuid: e3d0c7a5-791b-4f7e-9d47-4355f8182539
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: n29duX9FNe9lKnZqJUpuyFPfZ6pe5h8NSIftJJEN3gg
+id: odd_looking_cocktail
+item_id: '867'
+item_description: 'A cool refreshing mix'
+label: 'odd looking cocktail'

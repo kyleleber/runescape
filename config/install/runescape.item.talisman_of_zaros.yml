@@ -1,0 +1,10 @@
+uuid: a31c8b17-bed5-4748-9687-facd43f31692
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FEzMjRHj-_E6O0QI4u3lE7IBy9Gc9x46YEQIJdjhohs
+id: talisman_of_zaros
+item_id: '1175'
+item_description: 'an ancient item'
+label: 'Talisman of Zaros'

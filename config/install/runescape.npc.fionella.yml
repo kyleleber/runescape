@@ -1,0 +1,11 @@
+uuid: c58344f0-1171-4626-8510-fb5907281b9c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NG4nKpVYIEzqgFx71W-MIUjyiANcedGPkF1EHsbb-48
+id: fionella
+npc_id: '788'
+npc_description: 'She runs the legends general store'
+label: Fionella
+items: null

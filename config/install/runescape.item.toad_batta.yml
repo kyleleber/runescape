@@ -1,0 +1,10 @@
+uuid: 54779efd-4b1f-49c0-93a3-313d2f805805
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xuWerMXG5iOxLkyro1P9oxU3lyZqh0qI33IcK43-AU0
+id: toad_batta
+item_id: '945'
+item_description: 'actually smells quite good'
+label: 'toad batta'

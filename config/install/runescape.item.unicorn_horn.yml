@@ -1,0 +1,10 @@
+uuid: ce6d5b58-1421-4d83-bb2f-be899d26fe43
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8DnLuoRWMXoaR11ZZGA7-8FBSuZIgleNp-dOi6-h9DI
+id: unicorn_horn
+item_id: '997'
+item_description: 'Poor unicorn went splat!'
+label: 'Unicorn horn'

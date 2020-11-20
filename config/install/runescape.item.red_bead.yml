@@ -1,0 +1,10 @@
+uuid: f6b5a80d-8b9d-4f7c-b0b5-054b6168cf7f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8DBGrycpYjmhQrFGZSHFQPS35EOln_FdYk2PUeMp0yk
+id: red_bead
+item_id: '231'
+item_description: 'A small round red bead'
+label: 'Red Bead'

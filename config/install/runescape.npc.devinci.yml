@@ -1,0 +1,11 @@
+uuid: 43acdad2-65e4-4bd3-9c10-b0503dea7420
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: t6qgAsuVjYPmITMlpOZD-fJ92D6jiRc1UUO7Io3jtlk
+id: devinci
+npc_id: '511'
+npc_description: 'He has a colourful personality'
+label: DeVinci
+items: null

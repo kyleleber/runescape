@@ -1,0 +1,10 @@
+uuid: a7c3c6c6-aa82-45d8-bae4-06e3c90d4f9b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9_IEd8m7i0lx89BEv6QSTzUn99P28dRQGkcOobrMPns
+id: ogre_relic_part
+item_id: '1050'
+item_description: 'A piece of a statue'
+label: 'Ogre relic part'

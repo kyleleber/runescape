@@ -1,0 +1,10 @@
+uuid: 1d1d0b81-d0be-40ef-a185-c1d5bde587e4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8bSRu1dozKXsHmZb75HBtM0k7XTGYFtOlSctYZx9ct4
+id: greendye
+item_id: '515'
+item_description: 'A little bottle of dye'
+label: Greendye

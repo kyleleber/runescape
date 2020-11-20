@@ -1,0 +1,11 @@
+uuid: fcc4b777-edb4-441c-b87e-801444357540
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rgstovdGxxTn26fToC7t8xwsZI3py53doe0ycKx_eZ4
+id: chaos_dwarf
+npc_id: '190'
+npc_description: 'a dwarf gone bad'
+label: 'chaos Dwarf'
+items: null

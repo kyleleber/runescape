@@ -1,0 +1,11 @@
+uuid: 7f78e0ad-61fb-4b0f-94c9-85610c6730a3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IxFFeXH5GdqmdOoZQvMUE2Dvvt7PTABh1k7F320wt4Q
+id: grum
+npc_id: '157'
+npc_description: 'Grum the goldsmith'
+label: Grum
+items: null

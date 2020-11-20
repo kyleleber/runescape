@@ -1,0 +1,10 @@
+uuid: d8402aa2-ec7f-4cd4-9635-86950acafb3b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uTUUeJx8YL3kUqR0XUlpT8rsh5a7LTQfd5Z5OVj9wNs
+id: crossbow_bolts
+item_id: '190'
+item_description: 'Good if you have a crossbow!'
+label: 'Crossbow bolts'

@@ -1,0 +1,10 @@
+uuid: 5dcf141a-9804-4f82-b105-72b4a4a99d70
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 67wmLJaKizLUrDIYBLsgWU33l7BFgArjqrFChkbvVg4
+id: black_kite_shield
+item_id: '433'
+item_description: 'A large metal shield'
+label: 'Black Kite Shield'

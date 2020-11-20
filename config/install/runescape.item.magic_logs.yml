@@ -1,0 +1,10 @@
+uuid: 9970de47-e445-45e7-a926-be650759e715
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AGpNrqFmqBf3ezjKr9DTbcinuulFDocDbkcHEdXmvVo
+id: magic_logs
+item_id: '636'
+item_description: 'Logs made from magical wood'
+label: 'Magic Logs'

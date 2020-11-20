@@ -1,0 +1,11 @@
+uuid: f24239e2-f81d-4f03-b633-d5b376e45bc3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GVsL6Dr2hpjSy0hrzGcqTjBbvs2z0Ni6HYuWOvA2nYI
+id: thordur
+npc_id: '175'
+npc_description: 'He runs a a tourist attraction'
+label: Thordur
+items: null

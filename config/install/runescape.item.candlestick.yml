@@ -1,0 +1,10 @@
+uuid: 6bee87e9-1874-4b3c-bcb8-d3c237be0fc8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lT1WvCbxeP6eiwHq7k4TRxq4SEnX_SGb8NzIaIAIOYo
+id: candlestick
+item_id: '585'
+item_description: 'A valuable candlestick'
+label: Candlestick

@@ -1,0 +1,10 @@
+uuid: 130345ef-125d-4754-8c92-992e814a01db
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7TkEl_oKcgQtIV7VtKsNopQPikeYHPPb8tPThPLC0EI
+id: poisoned_mithril_spear
+item_id: '1138'
+item_description: 'A mithril tipped spear with added venom'
+label: 'Poisoned Mithril Spear'

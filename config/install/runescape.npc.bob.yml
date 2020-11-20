@@ -1,0 +1,11 @@
+uuid: 8b125f69-4558-4a92-a3ea-86b1665a18f8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mU1fFq_l40oXV4AMzNM5J-dPAyzGDLlgvqFX7i1lxKA
+id: bob
+npc_id: '1'
+npc_description: 'An axe seller'
+label: Bob
+items: null

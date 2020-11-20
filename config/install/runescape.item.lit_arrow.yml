@@ -1,0 +1,10 @@
+uuid: 0822dc5b-e387-4475-a7f6-54c42d8b3a24
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: F8oGx731oSE6HjGacu2AdVGCWFLv-bpnntKxlff334c
+id: lit_arrow
+item_id: '985'
+item_description: 'A flamming arrow'
+label: 'Lit Arrow'

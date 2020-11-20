@@ -1,0 +1,10 @@
+uuid: 414b29eb-cb6d-4915-b3f8-b9d302c20ec4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lInonEPTp888pAQfaDbKVaYg6eZsWm3F9j9ObPdMJ3k
+id: unstrung_maple_longbow
+item_id: '662'
+item_description: 'I need to find a string for this'
+label: 'unstrung Maple Longbow'

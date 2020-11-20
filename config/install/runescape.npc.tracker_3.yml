@@ -1,0 +1,11 @@
+uuid: f7a5c890-50dc-48c8-90ae-66eb256322d6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VoJjCWy-DbOWzGrVR6hnp5-sOKtIshARtrwuKFyy0oc
+id: tracker_3
+npc_id: '406'
+npc_description: 'It''s a tree gnome'
+label: 'tracker 3'
+items: null

@@ -1,0 +1,10 @@
+uuid: 40c24158-390d-4d94-8841-d7ff5453b3fc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RJfpVnKAAwwKMY_vbARhS1AHG3EObG9G7TrmW-wbhas
+id: jade
+item_id: '893'
+item_description: 'A semi precious stone'
+label: Jade

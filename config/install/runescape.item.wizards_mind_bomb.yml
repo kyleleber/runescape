@@ -1,0 +1,10 @@
+uuid: 416c7f15-add5-463e-a119-be3bca198d57
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: elaQ-vpCa7tghKNR_GIp6y1ouxRSXIHj4ZjaLCZfLHU
+id: wizards_mind_bomb
+item_id: '268'
+item_description: 'Its got strange bubbles in it'
+label: 'Wizards Mind Bomb'

@@ -1,0 +1,10 @@
+uuid: 5c517b99-e6d4-4699-87f6-a84d278eb984
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QLm8dPPb_ksqPlI48n5-AT8CbM4mpAvW99ohAPYNsrM
+id: bronze_dart_tips
+item_id: '1062'
+item_description: 'Dangerous looking dart tips - need feathers for flight'
+label: 'Bronze dart tips'

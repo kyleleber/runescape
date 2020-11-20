@@ -1,0 +1,10 @@
+uuid: 814b851d-8fc6-4456-965f-8d4ac0dc19e6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TvCohCQQo6WZhOYkNw7CgNtnSFnEvfm5IZT88SX9LvA
+id: amulet_of_doomion
+item_id: '1010'
+item_description: 'A strange looking amulet'
+label: 'Amulet of Doomion'

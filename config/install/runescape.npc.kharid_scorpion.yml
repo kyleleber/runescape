@@ -1,0 +1,11 @@
+uuid: f1b3dcab-3a0e-448b-b8d3-09a21fc2e9df
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QzQlLnJ0dofoBYTZIlDZs8AGOUv1TX9_UGCg3p1jYOI
+id: kharid_scorpion
+npc_id: '304'
+npc_description: 'a smaller less dangerous scorpion'
+label: 'Kharid Scorpion'
+items: null

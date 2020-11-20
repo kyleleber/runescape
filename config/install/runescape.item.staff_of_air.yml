@@ -1,0 +1,10 @@
+uuid: a986b658-fe1d-4d62-bcfe-cec55467605e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rWNnHh2T-q86ZwSHTDtEKdjT4fjcmO7_wXj4AcCaxCM
+id: staff_of_air
+item_id: '101'
+item_description: 'A Magical staff'
+label: 'Staff of Air'

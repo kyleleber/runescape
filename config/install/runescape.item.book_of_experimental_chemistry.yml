@@ -1,0 +1,10 @@
+uuid: e43aa474-1d3d-4145-aba0-06fe46eb7f47
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p-Sx9p5Zxg6psRLYYdXCcmS85jcBqr9RsJAHVoaaZhU
+id: book_of_experimental_chemistry
+item_id: '1141'
+item_description: 'A book on experiments with volatile chemicals'
+label: 'Book of experimental chemistry'

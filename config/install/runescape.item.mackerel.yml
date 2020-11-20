@@ -1,0 +1,10 @@
+uuid: fb12da18-fa33-4b09-8eea-b76b09a9b1bc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w2F0zCSVerQMfO0OLKaSguh4MDYp7hi9ZPC9cQUxRbc
+id: mackerel
+item_id: '553'
+item_description: 'Some nicely cooked fish'
+label: Mackerel

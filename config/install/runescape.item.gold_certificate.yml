@@ -1,0 +1,10 @@
+uuid: 01027f29-7fec-4a25-94a6-3b1ac9162c3f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yVaHxfhOdqAHEqnqFn11A-3i9yQeozBq-CIL_BGMQ7Q
+id: gold_certificate
+item_id: '521'
+item_description: 'Each certificate exchangable at draynor market for 5 gold nuggets'
+label: 'Gold certificate'

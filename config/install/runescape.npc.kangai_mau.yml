@@ -1,0 +1,11 @@
+uuid: eaafd4e0-0b4d-42b3-bddb-400683aa8523
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AWx71as7sUK1ZNCwNGXxwwip2_gT3_xSyTPYoUp6jFI
+id: kangai_mau
+npc_id: '332'
+npc_description: 'A tribesman'
+label: 'Kangai Mau'
+items: null

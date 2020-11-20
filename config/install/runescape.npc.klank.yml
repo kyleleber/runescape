@@ -1,0 +1,11 @@
+uuid: 3d7da579-75df-4bb2-8db6-39c854019c97
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mUzpvDn6Cm_8rqicBkZ1fh1McERBgthWfj8NDQAPhbE
+id: klank
+npc_id: '648'
+npc_description: 'A short angry guy'
+label: Klank
+items: null

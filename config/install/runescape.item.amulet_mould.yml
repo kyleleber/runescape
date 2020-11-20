@@ -1,0 +1,10 @@
+uuid: d4f103de-f7da-471d-8fa6-5a7da1266e17
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hPTLGW3oikmK05Oio8oMI_9aJSChOlRB3xkE0XQES10
+id: amulet_mould
+item_id: '294'
+item_description: 'Used to make gold amulets'
+label: 'Amulet mould'

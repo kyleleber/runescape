@@ -1,0 +1,10 @@
+uuid: ffd6da68-b272-41fe-845b-e9223151b69a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Wqqd6Uref6sxT4mzcmZ-F0sISAx-3K9qkVMhJbaP04A
+id: scatched_notes
+item_id: '1243'
+item_description: 'It looks like a page ripped from a book'
+label: 'Scatched notes'

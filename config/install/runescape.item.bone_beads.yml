@@ -1,0 +1,10 @@
+uuid: 4d8917a6-dd9e-44d6-853a-a8f0e119803e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RkXp1g5IebVTzdcuLpIKjU9pvr9yKRVMbSfv66hVLpc
+id: bone_beads
+item_id: '976'
+item_description: 'Beads carved out of bone'
+label: 'Bone Beads'

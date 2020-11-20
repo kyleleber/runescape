@@ -1,0 +1,10 @@
+uuid: 0ca7696e-635e-4770-a4c1-76345c0e405c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gePKXK9gCis7h_I80evAAThob0MZzrZB56da5n2qAgY
+id: black_dagger
+item_id: '423'
+item_description: 'Short but pointy'
+label: 'Black dagger'

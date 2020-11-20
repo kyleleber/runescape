@@ -1,0 +1,11 @@
+uuid: f7c3f1f9-3751-4b5d-983a-87b22385f3f7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gqxpzEw9MQ53nKIonP0BeZ5sGQqX3HelkA_yX0PxqRU
+id: cult_member
+npc_id: '425'
+npc_description: 'An suspicous looking man in black'
+label: 'cult member'
+items: null

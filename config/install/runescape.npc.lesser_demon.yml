@@ -1,0 +1,11 @@
+uuid: 9bd0a7d5-5fb6-4a83-b9eb-6193a7e993f1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Xg0_dJOZ9WOiLzXj-9jTnSlRr-hKwN0wD4kXa8kNUXE
+id: lesser_demon
+npc_id: '181'
+npc_description: 'Lesser but still very big'
+label: 'Lesser Demon'
+items: null

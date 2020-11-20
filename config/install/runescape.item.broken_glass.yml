@@ -1,0 +1,10 @@
+uuid: d9afe135-88c0-4a11-8222-bf426510127b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0vnSiR_PYofpanZfzyC9I9U9L2z4YqH9SSqszYp4GX0
+id: broken_glass
+item_id: '1170'
+item_description: 'smashed glass'
+label: 'Broken glass'

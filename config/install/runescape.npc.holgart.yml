@@ -1,0 +1,11 @@
+uuid: 8d4fe231-8907-4122-bbf3-f446c1b09b97
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5JgoPdA5UhZO7b4TYX3403yyG8DPAttJyoIDHzAiP58
+id: holgart
+npc_id: '458'
+npc_description: 'An old sailor'
+label: Holgart
+items: null

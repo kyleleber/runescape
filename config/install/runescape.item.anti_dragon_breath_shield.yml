@@ -1,0 +1,10 @@
+uuid: e36ac9dd-560f-4f84-8d3b-c655f7535b09
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xCnCGoNZKGMOCmbcnUZ5s3LLeBpPk0WfWQKhcVe4tds
+id: anti_dragon_breath_shield
+item_id: '420'
+item_description: 'Helps prevent damage from dragons'
+label: 'Anti dragon breath Shield'

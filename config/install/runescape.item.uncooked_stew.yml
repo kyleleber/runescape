@@ -1,0 +1,10 @@
+uuid: f09a4934-2eaf-4597-9824-1190b4c628ca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sfWmxSb0mJi88svPdmofz7ZVN8_ZJDjYF_E9wHGGsrk
+id: uncooked_stew
+item_id: '345'
+item_description: 'I need to cook this'
+label: 'Uncooked stew'

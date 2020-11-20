@@ -1,0 +1,10 @@
+uuid: 238bb7ee-fbc7-4f1c-b8b7-490e1367fb40
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SXMuNH8xfvPc4MJBx88KSfO9akC7Fziy0ebQDtIjnP4
+id: dagger
+item_id: '1236'
+item_description: 'Short but pointy'
+label: Dagger

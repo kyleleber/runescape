@@ -1,0 +1,10 @@
+uuid: 72b94953-e275-4875-bba9-44f0509132c0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zf0CL5UWboV278ujsoHhO7b-RQAVoE4GkSbv_Rd7xVU
+id: mithril_bar_certificate
+item_id: '530'
+item_description: 'Each certificate exchangable at draynor market for 5 mithril bars'
+label: 'Mithril bar certificate'

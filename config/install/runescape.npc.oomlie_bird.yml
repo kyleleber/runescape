@@ -1,0 +1,11 @@
+uuid: 12711700-11cd-4f20-81af-528740dad1b4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JgefpMdTZUAw7EJAQCmUbaApmjXBjT43jHsINR6AJCc
+id: oomlie_bird
+npc_id: '777'
+npc_description: 'A variety of flightless jungle fowl - it has a sharp beak and a bad temper.'
+label: 'Oomlie Bird'
+items: null

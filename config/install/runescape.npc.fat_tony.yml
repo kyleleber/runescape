@@ -1,0 +1,11 @@
+uuid: 16ff8878-fe86-48c3-a940-37350e2ae48e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BKaMrcVVPiaOo93HODv8VrpmKGSIrhDOSzQQ5mVkhgk
+id: fat_tony
+npc_id: '235'
+npc_description: 'A Gourmet Pizza chef'
+label: 'Fat Tony'
+items: null

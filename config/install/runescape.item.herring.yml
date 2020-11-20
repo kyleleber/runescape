@@ -1,0 +1,10 @@
+uuid: 4bf0ee46-5978-470b-b791-5e0a52a71480
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KbgOcL3IcDZCtsAPMK6nHpN3Z2td7wVYhtoP8-e_eDc
+id: herring
+item_id: '362'
+item_description: 'Some nicely cooked fish'
+label: Herring

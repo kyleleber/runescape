@@ -1,0 +1,10 @@
+uuid: 05d1cacc-7b36-4092-8d54-405cd1e5706b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dZdBmiALxSnV6dD5FApYIyD11yJOAK8jXZGgK8qhCF4
+id: tomato_mixture
+item_id: '1106'
+item_description: 'A mixture of tomatoes in a bowl'
+label: 'Tomato Mixture'

@@ -1,0 +1,10 @@
+uuid: e2916a50-0a8a-456f-912c-fd851994325e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9s3MHFhgKt-PYg_oaCTqxd3-25v2U49grz2vOSQi_dk
+id: mithril_square_shield
+item_id: '126'
+item_description: 'A medium metal shield'
+label: 'Mithril Square Shield'

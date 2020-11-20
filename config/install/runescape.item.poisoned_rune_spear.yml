@@ -1,0 +1,10 @@
+uuid: 504eedd9-3ed5-4ce1-ab13-7d9cc42643ad
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-xKhBJ-XeHgKLG-Vk8SadF_LhcGSHWsfT7uPKWuRmus'
+id: poisoned_rune_spear
+item_id: '1140'
+item_description: 'A rune tipped spear with added venom'
+label: 'Poisoned Rune Spear'

@@ -1,0 +1,10 @@
+uuid: fa03e46a-a00b-4689-876d-f36f3e296068
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JGEvwdVErmjqyIfKYxjkT2iZ7wJdd4BW4AL_ydeLZ0g
+id: grain
+item_id: '29'
+item_description: 'Some wheat heads'
+label: grain

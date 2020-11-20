@@ -1,0 +1,11 @@
+uuid: 679e50aa-c4f9-4a87-8c75-c7d185a72be6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Tt-kP9Q38I9KXX7NXrFFSFrkUrUTS_uNddX-fKbUNgI
+id: drogo
+npc_id: '113'
+npc_description: 'He runs a mining store'
+label: Drogo
+items: null

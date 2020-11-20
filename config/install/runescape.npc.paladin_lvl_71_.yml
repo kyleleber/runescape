@@ -1,0 +1,9 @@
+uuid: a7930355-b0d7-4e77-9ae8-9af60cd46dd8
+langcode: en
+status: true
+dependencies: {  }
+id: paladin_lvl_71_
+npc_id: '323'
+npc_description: 'A paladin of Ardougne'
+label: 'Paladin (lvl 71)'
+items: ''

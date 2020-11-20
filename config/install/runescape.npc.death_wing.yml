@@ -1,0 +1,11 @@
+uuid: 489e5c01-85b2-4502-b5d1-b093ecd8c10c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lpQws3xicpYq0FB3i5xv2f0enEdHfyC_IOW6-ST1Uok
+id: death_wing
+npc_id: '768'
+npc_description: 'A supernatural creature of the underworld'
+label: 'Death Wing'
+items: null

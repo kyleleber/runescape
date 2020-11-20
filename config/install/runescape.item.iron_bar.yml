@@ -1,0 +1,10 @@
+uuid: ec46f978-4bd6-44b6-90dd-cd47cf2fee23
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: k1EJugxAyow4E6Ga0FPsDkIDnPMUYPbwc9yNXVriVkw
+id: iron_bar
+item_id: '170'
+item_description: 'it''s a bar of iron'
+label: 'iron bar'

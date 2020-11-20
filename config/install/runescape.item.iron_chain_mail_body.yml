@@ -1,0 +1,10 @@
+uuid: 8be068ec-0e1d-447c-bb77-51e9d59353dd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cm9RVwYMy2dfcjY2GObBNsK8795z1j5QJ3pA4bSZZ5Y
+id: iron_chain_mail_body
+item_id: '7'
+item_description: 'A series of connected metal rings'
+label: 'Iron Chain Mail Body'

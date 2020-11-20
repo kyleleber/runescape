@@ -1,0 +1,10 @@
+uuid: 202f989e-b6d0-41e3-809f-ea17318c8bd7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oeO4uncY8RUaFVwNykk-8b3OAUpg1S4FywP3KlcIx5M
+id: glarials_pebble
+item_id: '787'
+item_description: 'A small pebble with elven inscription'
+label: 'Glarials pebble'

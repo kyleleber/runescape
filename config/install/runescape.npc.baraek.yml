@@ -1,0 +1,11 @@
+uuid: 1e173d74-36ba-4502-a1fd-c38d785058e5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Dw1UtMUTh-zrXs5O6MCUdC1ezFPipvK1XkbdUfHG_D4
+id: baraek
+npc_id: '26'
+npc_description: 'A fur trader'
+label: Baraek
+items: null

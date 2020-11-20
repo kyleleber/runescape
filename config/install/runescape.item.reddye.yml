@@ -1,0 +1,10 @@
+uuid: 00711143-d2bf-434c-ac2f-4dab48277958
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _XiSc36VU5CkeI-wS9UnTQ34taIhhqMFgTu5jiC3pK8
+id: reddye
+item_id: '238'
+item_description: 'A little bottle of dye'
+label: Reddye

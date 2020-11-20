@@ -1,0 +1,10 @@
+uuid: c9dfd454-b599-42a7-8968-13881cb061a8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bE1pn3bW8sOJQAsKe3qUprS01dNOFiztvkrpoHeda7c
+id: level_3_certificate
+item_id: '1144'
+item_description: 'A Certificate of education'
+label: 'Level 3 Certificate'

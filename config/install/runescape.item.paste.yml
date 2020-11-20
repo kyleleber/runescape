@@ -1,0 +1,10 @@
+uuid: 0e8ad71e-9a64-4ec6-b471-cca768e14c6e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Vqt1o9PI-xJEV_hyMuDfsTsrMIZ031mzbdVc5FPEl1s
+id: paste
+item_id: '240'
+item_description: 'A bottle off skin coloured paste'
+label: Paste

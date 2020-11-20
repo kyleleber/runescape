@@ -1,0 +1,10 @@
+uuid: 5c029aad-8a78-4835-91d3-01bc81a36ccf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vpTf_Lnnp5k4tp4fEoIQ0Dt61nuVXn6AdaEA7BMt2CU
+id: poison_bronze_arrows
+item_id: '574'
+item_description: 'Venomous looking arrows'
+label: 'Poison Bronze Arrows'

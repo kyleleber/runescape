@@ -1,0 +1,11 @@
+uuid: 6fae83a0-99ad-40cc-8d96-7911001fe5a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oY3BSrUpdCL4zrcQyRzYL73xXNsofwc2dMlLwxw5lF4
+id: serevel
+npc_id: '623'
+npc_description: 'This is Serevel - he sells tickets for the Lady of the Waves'
+label: Serevel
+items: null

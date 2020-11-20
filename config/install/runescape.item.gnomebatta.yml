@@ -1,0 +1,10 @@
+uuid: 0375948f-da2d-4430-9568-1cd029fcdac7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d03zFWock_w4p-QPKmhx6v6F7BU9UWR0cZhVgvXOvFI
+id: gnomebatta
+item_id: '886'
+item_description: 'It''s burnt to a sinder'
+label: gnomebatta

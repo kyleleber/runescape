@@ -1,0 +1,10 @@
+uuid: c137bf49-e4a8-4506-ab73-cccdd3526620
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dzpPmTHdSXglMcBMwDlOiGkpACLEssjvMIp_u3A7Exg
+id: ground_bat_bones
+item_id: '1051'
+item_description: 'The ground bones of a bat'
+label: 'Ground bat bones'

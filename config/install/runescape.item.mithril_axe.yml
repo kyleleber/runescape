@@ -1,0 +1,10 @@
+uuid: db100bf5-4a38-42dc-add2-85f81072a924
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Q0iYkuvt_FJE1depjSFYBsGEEwO9ttyCwePtVACzUJM
+id: mithril_axe
+item_id: '203'
+item_description: 'A powerful axe'
+label: 'Mithril Axe'

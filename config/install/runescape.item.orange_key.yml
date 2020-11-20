@@ -1,0 +1,10 @@
+uuid: b933bff7-7f10-4fa0-9e4e-cfee64381c79
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aJDoOfnE_vBfBFxunmCXyAcpnMU1-sVuLzsvAe_qLXc
+id: orange_key
+item_id: '391'
+item_description: 'A painted key'
+label: 'Orange Key'

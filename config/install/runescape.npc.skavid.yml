@@ -1,0 +1,11 @@
+uuid: 5dd45d89-e19a-4694-8681-33650d2b8d4a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pMj-AX9SX6v6j4bn0okKfPCdzcXvQnBkC59q0nm1gqM
+id: skavid
+npc_id: '709'
+npc_description: 'Servant race to the ogres'
+label: Skavid
+items: null

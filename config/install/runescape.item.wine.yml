@@ -1,0 +1,10 @@
+uuid: 8a7efb0d-dfda-481c-bd6c-f2914ead3973
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OOfIhLR6y_KxaOMS8JLzpsomsMM7TWvT2529GrLFJHs
+id: wine
+item_id: '142'
+item_description: 'It''s full of wine'
+label: wine

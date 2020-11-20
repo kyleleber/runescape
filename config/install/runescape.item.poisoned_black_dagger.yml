@@ -1,0 +1,10 @@
+uuid: 84fb3c47-74d7-4b01-9b7d-7d6f99805991
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8HRwg6K9fVsCOKf2NJHUEuXAO-XKblSkAItqOGMc5EY
+id: poisoned_black_dagger
+item_id: '565'
+item_description: 'Short but pointy'
+label: 'Poisoned Black dagger'

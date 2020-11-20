@@ -1,0 +1,10 @@
+uuid: 10657da5-07e3-422f-bf7c-d2f649093856
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UpjyeCFM0IFw_CqHewPxoMU5Q_fV3nt4r4ZD48ARJ40
+id: half_full_wine_jug
+item_id: '246'
+item_description: 'It''s half full of wine'
+label: 'Half full wine jug'

@@ -1,0 +1,10 @@
+uuid: ec3a0c25-131e-4565-ad73-77c5c49dcfb7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xJ1as8yrj4Okm61PntXk-nUkxrk94wgjorVmzYwu_FI
+id: silver_bar_certificate
+item_id: '531'
+item_description: 'Each certificate exchangable at draynor market for 5 silver bars'
+label: 'silver bar certificate'

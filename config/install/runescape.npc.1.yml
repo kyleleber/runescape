@@ -1,0 +1,9 @@
+uuid: 96e76526-71df-460f-a0fd-ec1c4022cc1b
+langcode: en
+status: true
+dependencies: {  }
+id: '1'
+npc_id: '11'
+npc_description: 'One of runescapes many citizens'
+label: Man
+items: ''

@@ -1,0 +1,10 @@
+uuid: 01b3acaa-052e-46e3-bfdb-2125f86a560c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1WBQt5mmhMnKL4CtE_0787PLHjyCyQPcKUsVLT22SDc
+id: large_iron_helmet
+item_id: '6'
+item_description: 'A full face helmet'
+label: 'Large Iron Helmet'

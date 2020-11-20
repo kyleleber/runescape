@@ -1,0 +1,10 @@
+uuid: b8b31d81-a24c-47e6-9eca-b7a28dc1c9dd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q5SYMSrvNoN-j5RueYCq0zyVZrnVsbYKPpnO24Yhtuc
+id: adamantite_mace
+item_id: '97'
+item_description: 'A spiky mace'
+label: 'Adamantite Mace'

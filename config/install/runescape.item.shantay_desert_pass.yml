@@ -1,0 +1,10 @@
+uuid: 845e545f-8757-423e-9206-c7d82f21f864
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9QaFke4XP5DDS2P8BJWvT8fcq00sx0tgIWYMmZEgpVU
+id: shantay_desert_pass
+item_id: '1030'
+item_description: 'Allows you into the desert through the Shantay pass worth 5 gold.'
+label: 'Shantay Desert Pass'

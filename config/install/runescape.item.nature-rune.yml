@@ -1,0 +1,10 @@
+uuid: 9f1e8aa4-1a9e-442c-aca8-f13fee8ae817
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2Pzu6c8EV4HGMwZleerv4YcHxxCR-lfYdoVPC6yvZds
+id: nature-rune
+item_id: '40'
+item_description: 'Used for alchemy spells'
+label: Nature-Rune

@@ -1,0 +1,11 @@
+uuid: 92c30a50-ce06-4735-950c-b82ff122a40e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gO-ipDA8IIto-AO4MuXm5eQucudXsCwYduH15WvYm5I
+id: spider
+npc_id: '34'
+npc_description: 'Incey wincey'
+label: spider
+items: null

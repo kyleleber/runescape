@@ -1,0 +1,11 @@
+uuid: 79d3a5d1-426f-4891-8e2b-9a8283a0f3cb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MeSrDPAwWSu-adNsH1LhpZQvNm2LF7YorHi9uMPAkqE
+id: remsai
+npc_id: '397'
+npc_description: 'It''s a tree gnome'
+label: remsai
+items: null

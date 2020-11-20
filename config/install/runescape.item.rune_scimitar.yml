@@ -1,0 +1,10 @@
+uuid: 1dd665a0-cee9-4ca7-92e6-f0a5b4058406
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XWD-cVX7x2lCPkWj6CjqNJIcvLcB_V_KjN3FZ3BmgLE
+id: rune_scimitar
+item_id: '398'
+item_description: 'A vicious curved sword'
+label: 'rune Scimitar'

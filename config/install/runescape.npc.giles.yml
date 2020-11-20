@@ -1,0 +1,11 @@
+uuid: 14d433d3-982b-47ad-ad80-d637bd91e406
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sOISGlxLenJSNwYAfR3G86roP1FlaUCP6DUSwWcyyBc
+id: giles
+npc_id: '225'
+npc_description: 'He runs an ore exchange store'
+label: Giles
+items: null

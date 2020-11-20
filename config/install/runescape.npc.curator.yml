@@ -1,0 +1,11 @@
+uuid: d0f4cab8-3b08-4b43-a074-88da4a6ac865
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: D7damIHAKOT_8U08uH2W0lf23foNMVwpNr1QlfAL2_4
+id: curator
+npc_id: '39'
+npc_description: 'He looks like he''s daydreaming'
+label: Curator
+items: null

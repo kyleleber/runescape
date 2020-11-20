@@ -1,0 +1,10 @@
+uuid: a94a6d2f-276c-46e3-b9ea-caa1c5f6e440
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4H2PLhp32FU8hBpxwzU4muyc-5KmkhAdoPqqa9ehPLU
+id: adamantite_arrow_heads
+item_id: '673'
+item_description: 'Not much use without the rest of the arrow!'
+label: 'adamantite arrow heads'

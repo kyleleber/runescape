@@ -1,0 +1,10 @@
+uuid: 32b222a2-4768-44ba-b68d-4b5650477e9b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0taCZPj52iJqVMxwwcTtSjUze9ANAtjpdk3Z2AWmHFo
+id: vial
+item_id: '465'
+item_description: 'This vial is empty'
+label: Vial

@@ -1,0 +1,10 @@
+uuid: 2af28d53-2572-4306-95be-f1a089fc091f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hx2HAqfIwHOtH36GFjz-KkhRhzVmPI9sxhiaX4uz6so
+id: bronze_pickaxe
+item_id: '156'
+item_description: 'Used for mining'
+label: 'Bronze Pickaxe'

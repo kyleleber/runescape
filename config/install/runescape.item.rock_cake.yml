@@ -1,0 +1,10 @@
+uuid: 487c5b8c-111a-474d-be6b-625080c3d643
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f0IKKzqiqOvuRLPmaXEvWrA8NzqnynX2LrRcAMa-UKs
+id: rock_cake
+item_id: '1061'
+item_description: 'Yum... I think!'
+label: 'Rock cake'

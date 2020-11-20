@@ -1,0 +1,11 @@
+uuid: 075da07b-59e1-46ce-be9a-dacfbf581bb0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MP1_8HgsSYO_P-67P00zfrzlJ9k8U9LviqIb2Spg4X4
+id: thrantax
+npc_id: '288'
+npc_description: 'A freshly summoned demon'
+label: Thrantax
+items: null

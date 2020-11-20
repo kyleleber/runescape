@@ -1,0 +1,11 @@
+uuid: d17f3a33-65ff-4090-9d81-fcbb1b85d9f6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EfSwJCvZHvQKb-zOr9B6pQHjFnypcuNQeV5vwq6sKKI
+id: cow
+npc_id: '217'
+npc_description: 'It''s a dairy cow'
+label: cow
+items: null

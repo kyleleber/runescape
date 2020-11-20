@@ -1,0 +1,11 @@
+uuid: 9e39ebaf-6583-42ca-873e-9c589a041616
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: g4khUeHzYtD2vLsguC25t9diP3o-pkNoq-ZIysYqoBo
+id: charlie
+npc_id: '550'
+npc_description: 'Poor guy?'
+label: charlie
+items: null

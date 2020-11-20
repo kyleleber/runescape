@@ -1,0 +1,11 @@
+uuid: 5d0435c9-53d0-4894-97d3-ed78aae98c74
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CRWnThfdGgY1QjfDu1LLVHKm6FtvjCf0UTgFmtFyjf4
+id: kent
+npc_id: '459'
+npc_description: 'caroline''s husband'
+label: kent
+items: null

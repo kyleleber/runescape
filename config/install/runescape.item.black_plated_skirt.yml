@@ -1,0 +1,10 @@
+uuid: 3a673854-d7be-4289-b076-b1dbf93d3b56
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qWCjsmHhFJh9fHW1joGJOobKccvbd4RubmtrOVmS5LM
+id: black_plated_skirt
+item_id: '434'
+item_description: 'designer leg protection'
+label: 'Black Plated skirt'

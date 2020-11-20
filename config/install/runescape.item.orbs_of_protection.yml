@@ -1,0 +1,10 @@
+uuid: 46980c62-0f93-493c-acf9-0efad8728e0d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HXSav_FO8UwFnzAwF-DLt7TzwH15QAZBDHf6z4D_ZRU
+id: orbs_of_protection
+item_id: '741'
+item_description: 'two strange glowing green orbs'
+label: 'orbs of protection'

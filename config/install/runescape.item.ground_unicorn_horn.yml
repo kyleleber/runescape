@@ -1,0 +1,10 @@
+uuid: 7e600e74-fc23-488d-9bce-f9b1588ad666
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: m48gFdXdkdvM98aaKIg4WHhHb_cT3Ioz45xFyH3fHQs
+id: ground_unicorn_horn
+item_id: '473'
+item_description: 'A useful potion ingredient'
+label: 'Ground unicorn horn'

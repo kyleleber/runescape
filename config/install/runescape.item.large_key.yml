@@ -1,0 +1,10 @@
+uuid: d9cdd00e-8cc7-41f2-9969-f93a1b7bbf34
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Sc2okNYEk_nHnCsq-e4b36n_bKOI9hQrfx3UFQNgSF4
+id: large_key
+item_id: '789'
+item_description: 'I wonder what this is the key to'
+label: 'large key'

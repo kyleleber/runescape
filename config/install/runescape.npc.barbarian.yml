@@ -1,0 +1,11 @@
+uuid: 5be33e95-b2bc-42e6-9212-e54036eb47c2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LqX3ef1iRveIUIHeQvUjAxMziIBV3ueKqzYA-xSk1mk
+id: barbarian
+npc_id: '76'
+npc_description: 'Not civilised looking'
+label: Barbarian
+items: null

@@ -1,0 +1,11 @@
+uuid: 3e743782-ae86-405a-a634-505c17248e89
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IwW6mQ1199p2MD-eKYonRdQe6LIVRKN0UdBp0_t6_Lg
+id: 1st_plague_sheep
+npc_id: '430'
+npc_description: 'The sheep has the plague'
+label: '1st plague sheep'
+items: null

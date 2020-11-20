@@ -1,0 +1,11 @@
+uuid: e0438451-0ba8-42d3-9cf4-d6b338faa25a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DVvHZaXQhkNn2QtSsv3KOEkDLLPPQ3QyhH1IsqXeBho
+id: examiner
+npc_id: '723'
+npc_description: 'As you examine the examiner you examine that she is indeed an examiner!!'
+label: Examiner
+items: null

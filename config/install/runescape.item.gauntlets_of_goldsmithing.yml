@@ -1,0 +1,10 @@
+uuid: a0fbc405-fd02-41ec-a8ef-3b204b7b65e6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bUT6sT9AaPTn2voNvkUZtFWB4DQx5wbmhqSmKWCOgHE
+id: gauntlets_of_goldsmithing
+item_id: '699'
+item_description: 'metal gloves for gold making'
+label: 'gauntlets of goldsmithing'

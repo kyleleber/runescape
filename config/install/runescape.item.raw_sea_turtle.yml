@@ -1,0 +1,10 @@
+uuid: 819ea859-5e76-49bc-87d6-affab5f4cac3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kjZ6AxR94Oybff1p7XA4oZBvu_Kncm-V3Zq3iZjiZmU
+id: raw_sea_turtle
+item_id: '1192'
+item_description: 'A rare catch!'
+label: 'Raw Sea turtle'

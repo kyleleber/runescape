@@ -1,0 +1,10 @@
+uuid: 0a0331db-225e-4d3d-b788-c2bc04f6efe1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: re-Hj_rqdscV5P_IimtqvGCpUI5oTmNOnUfWIFTquWQ
+id: boots_of_lightfootedness
+item_id: '722'
+item_description: 'Wearing these makes me feel like I am floating'
+label: 'Boots of lightfootedness'

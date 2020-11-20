@@ -1,0 +1,11 @@
+uuid: 3f57da33-65d9-4609-b77b-703f02405493
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qr0OXtpx6aLnQHMdXMvkUPsbRDjjWdSqONnfbswHe6k
+id: baker
+npc_id: '325'
+npc_description: 'He sells hot baked bread'
+label: Baker
+items: null

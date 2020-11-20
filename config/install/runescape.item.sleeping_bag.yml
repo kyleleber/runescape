@@ -1,0 +1,10 @@
+uuid: 0d1b1628-1344-4004-8aaa-cd319c5d6f2c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZX8Jg2BHLBwaqA_-NgRVjo1UITh-Z0zHZu-RwOxM50E
+id: sleeping_bag
+item_id: '1263'
+item_description: 'Not as comfy as a bed but better than nothing'
+label: 'Sleeping Bag'

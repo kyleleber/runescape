@@ -1,0 +1,10 @@
+uuid: d9136378-e547-4e48-a238-26d83e03410f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Yx--MRGcf3sUrdsz6-8Yv1ie9BkGU07tNHu49ypi3aE
+id: mithril_seed
+item_id: '796'
+item_description: 'Magical seeds in a mithril case'
+label: 'Mithril seed'

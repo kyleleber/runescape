@@ -1,0 +1,10 @@
+uuid: 6841cf37-beb7-43fc-8042-005f7641914d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: snC9CFcOB9V5DfQAGDi8xbISnYYo1tWMrS8Vud5vHXc
+id: torstol
+item_id: '934'
+item_description: 'A useful herb'
+label: Torstol

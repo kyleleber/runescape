@@ -1,0 +1,11 @@
+uuid: 6a1e338f-29f4-470c-88f1-84b4ae2f7497
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _mhZWHvO2CindUPT7vlnS07OUrOZNpvYIbMqHz-Y5Ow
+id: pierre_the_dog_handler
+npc_id: '742'
+npc_description: 'Its the guy who looks after the family guard dog'
+label: 'Pierre the Dog Handler'
+items: null

@@ -1,0 +1,11 @@
+uuid: ee0a6daa-28ad-4ab0-88a6-03552ff97f68
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3R5_yluGQJvKiSdXcCg4pa6oXLKBnZ793-dI4u3UlBU
+id: jailguard
+npc_id: '127'
+npc_description: 'I wonder what he''s guarding'
+label: Jailguard
+items: null

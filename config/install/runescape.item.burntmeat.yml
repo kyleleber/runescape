@@ -1,0 +1,10 @@
+uuid: 6cc015cc-4d6d-4f8a-a125-e7d281611bcf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vk7Kj9QDsO9o3KezM5ck_K9l2MTtmbn96cqWPEgK4Uk
+id: burntmeat
+item_id: '134'
+item_description: 'Oh dear'
+label: burntmeat

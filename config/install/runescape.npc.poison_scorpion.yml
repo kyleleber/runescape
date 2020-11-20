@@ -1,0 +1,11 @@
+uuid: 0b630695-e79b-42d6-b5fe-1661fda9056a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7FwCKsVLtdZkb-_VUFSlqmCapPkoO5uv88fwqObvnlE
+id: poison_scorpion
+npc_id: '271'
+npc_description: 'It has a very vicious looking tail'
+label: 'Poison Scorpion'
+items: null

@@ -1,0 +1,11 @@
+uuid: ee99c1a2-cbf1-47c3-a5d0-cf854a6f7af3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CGEp2rSAS1shOK1YiPCk_StqkWlTEbztamv1W_31lHw
+id: pit_scorpion
+npc_id: '786'
+npc_description: 'Very vicious little scorpions'
+label: 'Pit Scorpion'
+items: null

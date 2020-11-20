@@ -1,0 +1,11 @@
+uuid: ff6a8c53-9807-4aff-aa46-b872b4619ab3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xd3_X7-fP5kcOl05qZsZusQDlWkRuqjgE1mmyg22hww
+id: fur_trader
+npc_id: '327'
+npc_description: 'A buyer and seller of animal furs'
+label: 'Fur trader'
+items: null

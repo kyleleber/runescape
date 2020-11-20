@@ -1,0 +1,11 @@
+uuid: 4de8cef2-f0d4-4eba-a933-b0d89494fc27
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DnMYYCna1dq11TamIJvJy0cUDzvgj4-jQcf7Xyfw76s
+id: dark_warrior
+npc_id: '199'
+npc_description: 'A warrior touched by chaos'
+label: 'Dark Warrior'
+items: null

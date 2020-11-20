@@ -1,0 +1,11 @@
+uuid: e231c7fa-7074-4e9d-9726-0175a2dc501e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: symVgGmJxabI517mICxU5nOshcPzn_24rOCwb8u3Ceo
+id: hops
+npc_id: '510'
+npc_description: 'Hes drunk'
+label: Hops
+items: null

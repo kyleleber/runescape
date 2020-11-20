@@ -1,0 +1,10 @@
+uuid: 66d09f71-1d11-4662-80d1-661faa35d20f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: G8c69pCRAu0UbEyZKuMPS7KA0WdkiVFhOWaOyzOSAyo
+id: medium_black_helmet
+item_id: '470'
+item_description: 'A medium sized helmet'
+label: 'Medium black Helmet'

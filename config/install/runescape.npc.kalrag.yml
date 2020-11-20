@@ -1,0 +1,11 @@
+uuid: 81f758f6-bc1a-45f9-840f-34f43595293f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jQowYo6eCWEGC0Ung-Ffkf8KGxwY_enz4j3yAOBHeSk
+id: kalrag
+npc_id: '641'
+npc_description: 'I think this is one of Ibans pets'
+label: Kalrag
+items: null

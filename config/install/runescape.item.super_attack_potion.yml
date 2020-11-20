@@ -1,0 +1,10 @@
+uuid: a6bf43ee-93e4-428b-a0ed-ab44bde60c1c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dr48Ix3UFnTqzdBY9O8muWsCkjrwznVv7oRkd8Dhes0
+id: super_attack_potion
+item_id: '488'
+item_description: '1 dose of attack potion'
+label: 'Super attack Potion'

@@ -1,0 +1,10 @@
+uuid: f7e754e0-bb73-4a0d-be51-0e5ba83a8960
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hK7EetBu_3qpFZGVewFxPvG9r5iiNUPF3_TBQYwq6Lk
+id: lemon
+item_id: '855'
+item_description: 'It''s very fresh'
+label: lemon

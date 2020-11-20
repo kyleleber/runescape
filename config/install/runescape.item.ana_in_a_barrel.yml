@@ -1,0 +1,10 @@
+uuid: 27db3c3f-08a6-4a80-9342-98733dfb6a8f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-yklr4HxSIfctJ0Mqas4UaRPg-j_DsBDKYIe9iNq8Jg'
+id: ana_in_a_barrel
+item_id: '1039'
+item_description: 'A roughly constructed barrel with an Ana in it!'
+label: 'Ana in a Barrel'

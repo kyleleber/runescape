@@ -1,0 +1,11 @@
+uuid: 9f29eb98-078a-421b-9344-9e7f19548ad5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DCqkEHOVnnhop3XMmgv-PfQvxqrQjMVhCVKRYeP0t_U
+id: wilough
+npc_id: '781'
+npc_description: 'A young son of gertrudes'
+label: Wilough
+items: null

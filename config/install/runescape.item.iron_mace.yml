@@ -1,0 +1,10 @@
+uuid: a065ee3c-3843-4e6e-8704-bba6346fc255
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bPYnXIOdcWERntztIKpBHzzxl7vxZOGADcMXXnEs3vo
+id: iron_mace
+item_id: '0'
+item_description: 'A spiky mace'
+label: 'Iron Mace'

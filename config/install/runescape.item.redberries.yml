@@ -1,0 +1,10 @@
+uuid: b50c88b0-f1a3-469c-97e5-c1e469be7d43
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5OeYhogf9rOW_ymNXPmFg3H-izaScXVuvY_sXa4U8vI
+id: redberries
+item_id: '236'
+item_description: 'Very bright red berries'
+label: Redberries

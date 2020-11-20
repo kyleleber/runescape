@@ -1,0 +1,10 @@
+uuid: 97eb6a0a-247b-47cf-841c-c25b926d8ae2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7M17T62C-NvojaK4x2EbxFB8cAfyyb_qEaPjrVgSgtE
+id: pendant_of_armadyl
+item_id: '726'
+item_description: 'Allows me to fight Lucien'
+label: 'Pendant of Armadyl'

@@ -1,0 +1,10 @@
+uuid: 387139b7-dafc-4135-918d-c93cc685d239
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ix3wTClI5bPxkB3UIIcD-TvypP2AkuBY24bXo4X2bPk
+id: santas_hat
+item_id: '971'
+item_description: 'Its a santa claus hat'
+label: 'Santas hat'

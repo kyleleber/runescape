@@ -1,0 +1,10 @@
+uuid: 1c4cce6a-ccc0-43ce-8cab-5ea89136b33e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: klAuQVaCq61I_AqxY65w3vn8nVlkIfg0FQVRr3RRs9U
+id: leather_gloves
+item_id: '16'
+item_description: 'These will keep my hands warm!'
+label: 'Leather Gloves'

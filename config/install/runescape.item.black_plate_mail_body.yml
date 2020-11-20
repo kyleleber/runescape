@@ -1,0 +1,10 @@
+uuid: cb782b82-4958-4f9f-8652-d7390db9647b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vNP7KAfOAzBCBHK6FVbbp_ftnFA5SORrAwVqUk9OHl8
+id: black_plate_mail_body
+item_id: '196'
+item_description: 'Provides excellent protection'
+label: 'Black Plate Mail Body'

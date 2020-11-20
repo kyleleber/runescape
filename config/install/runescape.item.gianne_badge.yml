@@ -1,0 +1,10 @@
+uuid: 3f1dce7c-8a4c-4bd0-a83f-d1879f7c3ab4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bOdJrATq3rr7dgNIMkxJgL4Q1OJOkC-nIuz_WvlWSKA
+id: gianne_badge
+item_id: '917'
+item_description: 'an official gianne chef'
+label: 'Gianne badge'

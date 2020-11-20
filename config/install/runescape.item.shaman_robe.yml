@@ -1,0 +1,10 @@
+uuid: 907aa904-af2c-44ca-b00f-321b60fbceff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: k0Q5izeMKOGml-TSm81WOajlO-3Wa8cGdd-JqvQJce4
+id: shaman_robe
+item_id: '1087'
+item_description: 'This has been left by one of the dead ogre shaman'
+label: 'Shaman robe'

@@ -1,0 +1,10 @@
+uuid: 9e8c49d1-0938-4361-a7b3-3e84d8ef2c05
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: E32lCBToazN6j3SyuC-B-Pn_rav8XqlEEn0bP1RZ4mQ
+id: cadavaberries
+item_id: '55'
+item_description: 'Poisonous berries'
+label: Cadavaberries

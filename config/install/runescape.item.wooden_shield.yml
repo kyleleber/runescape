@@ -1,0 +1,10 @@
+uuid: 90ca648a-bfb1-44c6-8f17-5ed928b509cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IXuWJS8z4rBXVWd9JAEQrsbfD1D5XHPtMRB4-63Blrs
+id: wooden_shield
+item_id: '4'
+item_description: 'A solid wooden shield'
+label: 'Wooden Shield'

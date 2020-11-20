@@ -1,0 +1,10 @@
+uuid: 11c66225-6ce2-46cf-b75e-759c1137c432
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jeAGTzQ6Bl6fZhWnmw6H5L-J6HGvTmDcnbtgSleK3cA
+id: elizabeths_fingerprint
+item_id: '1211'
+item_description: 'An impression of Elizabeths fingerprint'
+label: 'Elizabeths fingerprint'

@@ -1,0 +1,11 @@
+uuid: 5517343f-3042-4fab-ad85-7876581119a1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MTKTMfAeS-JvijCN_LFsT7xpgUui1lAGLPLa9C1ANZY
+id: king_lathas
+npc_id: '512'
+npc_description: 'King Lanthas of east ardounge'
+label: 'king Lathas'
+items: null

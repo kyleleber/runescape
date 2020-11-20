@@ -1,0 +1,10 @@
+uuid: dbe58cd5-d22c-4213-aa60-d56d36bd0340
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 212CmFVXj41kQy-CTlcGORTdyqelXhkgS1fiewp1fck
+id: rashiliya_corpse
+item_id: '977'
+item_description: 'The remains of the Zombie Queen'
+label: 'Rashiliya Corpse'

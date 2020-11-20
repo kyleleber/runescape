@@ -1,0 +1,10 @@
+uuid: 25e4183b-2b2f-42e4-ab7c-2caad9760b1d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZfkPeuOja7DkE3xi7tOiUlR_aoPpKUT2TKAeRHieQck
+id: gold
+item_id: '690'
+item_description: 'this needs refining'
+label: gold

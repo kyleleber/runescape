@@ -1,0 +1,10 @@
+uuid: 1c329d30-d27c-4023-8d6c-40fb8584f4bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 98fHLGZC5FNA4TGVcmrkVdLggWg3f67vQ3feZuHmGYo
+id: poisoned_rune_dagger
+item_id: '563'
+item_description: 'Short but pointy'
+label: 'Poisoned Rune dagger'

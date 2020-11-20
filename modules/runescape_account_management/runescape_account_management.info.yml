@@ -1,0 +1,7 @@
+name: Runescape Account Management
+type: module
+description: 'Allows private server in-game accounts to be created via website and imported from other servers.'
+package: gaming
+core_version_requirement: 9.x
+dependencies:
+  - runescape_server_integration

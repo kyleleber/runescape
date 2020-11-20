@@ -1,0 +1,11 @@
+uuid: 296f4ae1-8c5a-478e-9c2e-a8f127cc9a8e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lOj8vHBvWPxg2naLTlzlyHj-EBuLI1FURIxOw6DDrZc
+id: herquin
+npc_id: '155'
+npc_description: 'A gem merchant'
+label: Herquin
+items: null

@@ -1,0 +1,11 @@
+uuid: 94655d40-a25d-4537-a292-f23fc4cc69cc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YILRvhmvgPitI7Mo4JFOuo6GBCskXOFVhOumFrmiG1U
+id: rashiliyia
+npc_id: '533'
+npc_description: 'A willowy ethereal being who floats above the ground'
+label: Rashiliyia
+items: null

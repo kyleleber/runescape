@@ -1,0 +1,11 @@
+uuid: fe248370-7909-4b70-99e5-04785ba16666
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iroytUy5E1VXOCMhlrgTs-U_lJfxrWH32SbuvW59zSo
+id: cart_driver
+npc_id: '619'
+npc_description: 'He drives the cart'
+label: 'Cart Driver'
+items: null

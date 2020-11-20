@@ -1,0 +1,10 @@
+uuid: 0ac64890-2b47-4e3c-9552-65f546491984
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GB9JepSETbfKwfo2QEnVva4DH67cEptf7bi7IdMchio
+id: a_chunk_of_crystal
+item_id: '1219'
+item_description: 'A reddish crystal fragment - it looks like it formed a shape at one time.'
+label: 'A chunk of crystal'

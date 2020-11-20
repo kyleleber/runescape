@@ -1,0 +1,10 @@
+uuid: 8bc1fd13-c573-495a-8a90-fef36fddab02
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wAKm9UFRgvmWJW3DDVrmf-DsH1Fy343-ADWVfm4uR4M
+id: fishing_potion
+item_id: '491'
+item_description: '1 dose of fishing potion'
+label: 'fishing Potion'

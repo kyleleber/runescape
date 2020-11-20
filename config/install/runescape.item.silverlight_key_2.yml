@@ -1,0 +1,10 @@
+uuid: 5bbb6ff1-6d54-4ebc-a70d-c991a667ebaa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qCWgKuV6XYx0SQg1A-IkUyYWjpfGNyp3YJhTNYUduqY
+id: silverlight_key_2
+item_id: '26'
+item_description: 'A key given to me by Captain Rovin'
+label: 'Silverlight key 2'

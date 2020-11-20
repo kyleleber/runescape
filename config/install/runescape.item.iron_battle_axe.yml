@@ -1,0 +1,10 @@
+uuid: b1844309-ebc5-4caa-8964-bbce56983f94
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: C54jt22pVNieIEL_SEik5iV_vLSEcgo6kdXOGojRZcU
+id: iron_battle_axe
+item_id: '89'
+item_description: 'A vicious looking axe'
+label: 'Iron battle Axe'

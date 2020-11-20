@@ -1,0 +1,10 @@
+uuid: bcda9d22-5eb8-4ecc-932e-5c6066a13bc4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JUrq9H1pJxImmM0iQzQtPiwC4IYN2iI7ywTJbNPZ8yg
+id: a_lump_of_charcoal
+item_id: '983'
+item_description: 'a lump of cooked coal good for making marks.'
+label: 'A lump of Charcoal'

@@ -1,0 +1,11 @@
+uuid: 72e71c80-4386-46dc-bb3e-ef05febd411c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _3gVLhfkXtdnFWU6vBfKBgGAwgrQhy-uKWxC_TYGKyY
+id: silk_merchant
+npc_id: '326'
+npc_description: 'He buys silk'
+label: 'silk merchant'
+items: null

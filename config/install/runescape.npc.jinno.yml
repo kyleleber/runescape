@@ -1,0 +1,11 @@
+uuid: 9c44000a-5316-403f-a284-60c7b0bde0f0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hEq74RFxPyohX4DwhLQoAvebvtNa4eJqXQ_LBnV3_fM
+id: jinno
+npc_id: '466'
+npc_description: 'He doesn''t seem to mind his lack of legs'
+label: jinno
+items: null

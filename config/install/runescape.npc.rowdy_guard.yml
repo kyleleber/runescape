@@ -1,0 +1,11 @@
+uuid: c57d4064-a29d-4717-9dc9-713bdb49417d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Eeryato83AiN8U3bcFQ7geqMzbZEjOeJ4MMRI7VXS9Y
+id: rowdy_guard
+npc_id: '716'
+npc_description: 'He looks as if hes spoiling for trouble'
+label: 'Rowdy Guard'
+items: null

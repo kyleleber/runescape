@@ -1,0 +1,10 @@
+uuid: 6e26a028-dd2a-45c3-9613-92eae0960bbc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j8ttAnnK7c8aYGT_2syuT9kKEXxhGqFGXYVTn-q-7yo
+id: cadantine
+item_id: '452'
+item_description: 'A powerful herb'
+label: Cadantine

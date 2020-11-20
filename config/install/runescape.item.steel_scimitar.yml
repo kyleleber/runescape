@@ -1,0 +1,10 @@
+uuid: 8448e5a8-e7bb-4a01-b638-804cf9f99249
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _SLph1ByCywkN0pd6oJmDaxwvV5lY8OVwqPYHQduyLU
+id: steel_scimitar
+item_id: '84'
+item_description: 'A vicious curved sword'
+label: 'Steel Scimitar'

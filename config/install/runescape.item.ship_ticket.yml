@@ -1,0 +1,10 @@
+uuid: 83665197-d807-444a-bb92-a156fa1761b1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: P6scqN0REfgzWgicK80HWEXfjwP14dGEL6sm8zdnRoM
+id: ship_ticket
+item_id: '988'
+item_description: 'Allows you passage on the ''Lady of the Waves'' ship.'
+label: 'Ship Ticket'

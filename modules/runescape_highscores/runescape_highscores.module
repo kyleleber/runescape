@@ -1,0 +1,32 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function runescape_highscores_theme() {
+  return [
+    'highscore_categories' => [
+      'render element' => 'elements',
+      'template' => 'highscore-categories',
+      'variables' => [
+        'categories' => [],
+      ],
+    ],
+    'highscore_data' => [
+      'render element' => 'elements',
+      'template' => 'highscore-data',
+      'variables' => [
+        'skill' => '',
+        'results' => [],
+      ],
+    ],
+    'highscore_individual_data' => [
+      'render element' => 'elements',
+      'template' => 'highscore-individual-data',
+      'variables' => [
+        'user' => '',
+        'results' => [],
+      ],
+    ],
+  ];
+}

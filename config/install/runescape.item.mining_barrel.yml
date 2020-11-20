@@ -1,0 +1,10 @@
+uuid: 1d20cc24-e3b7-4ca0-99cc-daf201e7f951
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WYtSa90ViWCoum7elkAmcjKb_q2qi6LX7rpXTn9kIQE
+id: mining_barrel
+item_id: '1038'
+item_description: 'A roughly constructed barrel for carrying rock.'
+label: 'Mining Barrel'

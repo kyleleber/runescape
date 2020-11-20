@@ -1,0 +1,10 @@
+uuid: 0c6c8e4c-2248-44ca-89f7-7dbb98e14faa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: L7FHwt-J915JShVPNV3aquDlkprucY0_6Ngop8Ww_rs
+id: bunch_of_keys
+item_id: '583'
+item_description: 'Some keys on a keyring'
+label: 'Bunch of keys'

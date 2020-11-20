@@ -1,0 +1,10 @@
+uuid: a015af43-328c-4776-97b2-d7ccb74f3d09
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xKEv3kNxq_LyVwAT5pz01rjHFtfRLBjQU-KFI8G3fjA
+id: druids_robe
+item_id: '608'
+item_description: 'Keeps a druids''s knees nice and warm'
+label: 'Druids robe'

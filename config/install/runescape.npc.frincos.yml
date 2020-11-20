@@ -1,0 +1,11 @@
+uuid: 0c3f4d04-ae02-412b-bb94-3137a58ed55e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-yIAWGMOq9FYGtrl0fgpVv-WCHz5rwSPf2pszkFQJGI'
+id: frincos
+npc_id: '297'
+npc_description: 'A Peaceful monk'
+label: Frincos
+items: null

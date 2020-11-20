@@ -1,0 +1,10 @@
+uuid: a60be2cc-b69f-44a6-a2d8-37ae16a67e43
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YF0qoABX07hdfAHMy9Och0m9RzPSs0bGj0SoGgHPdlg
+id: rune_plate_mail_body
+item_id: '401'
+item_description: 'Provides excellent protection'
+label: 'Rune Plate Mail Body'

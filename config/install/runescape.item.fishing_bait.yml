@@ -1,0 +1,10 @@
+uuid: 760370a1-68be-4fd8-8099-0ee5f95f7fac
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lIJJqkJ08d8nSKaYRcF97cfcg04oR0VQDXlWeUN3Hc8
+id: fishing_bait
+item_id: '380'
+item_description: 'For use with a fishing rod'
+label: 'Fishing Bait'

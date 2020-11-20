@@ -1,0 +1,10 @@
+uuid: f3ce65b8-4497-46c2-9c6c-98a25679521d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rsUhEIr9rGcEEgT1pkUCtw24G95fD7jazmERE2HjdK8
+id: lime_slices
+item_id: '865'
+item_description: 'It''s very fresh'
+label: 'lime slices'

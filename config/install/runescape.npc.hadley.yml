@@ -1,0 +1,11 @@
+uuid: 0cde82a7-73a6-4e12-9246-a862d688d038
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KeUktANtGEt9lztHMkUISIgWubL7LeHktmLqZdDzAT8
+id: hadley
+npc_id: '472'
+npc_description: 'A happy looking fellow'
+label: hadley
+items: null

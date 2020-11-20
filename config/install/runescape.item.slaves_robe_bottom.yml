@@ -1,0 +1,10 @@
+uuid: 6d075210-a4af-4182-bb90-21797cdbada4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 69sfXQH0-kbOux6lC1j24a9vOkj_XJlT0j94L8m6D9U
+id: slaves_robe_bottom
+item_id: '1022'
+item_description: 'A dirty desert skirt'
+label: 'Slaves Robe Bottom'

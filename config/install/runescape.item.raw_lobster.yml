@@ -1,0 +1,10 @@
+uuid: 24506dde-9fb5-49b6-8115-b68c84fa65f1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DUN37gXf9HyyWwnrZ3e57hvmm8WCbdhG1TTb5yeU97U
+id: raw_lobster
+item_id: '372'
+item_description: 'I should try cooking this'
+label: 'Raw Lobster'

@@ -1,0 +1,11 @@
+uuid: 5b122737-52fb-4623-ba48-e04d12ab4630
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BIqP1JJK-eU_A6V_5kbnolidt5UZsfYAy5o9ymIlXZo
+id: local
+npc_id: '381'
+npc_description: 'A scruffy looking chap'
+label: local
+items: null

@@ -1,0 +1,10 @@
+uuid: 461d9556-4b09-4504-8c93-0ca50be9046c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TZXGdFAlyrnNnH82mPMXBy1HOGhMw9-sMa3uLX-_BKg
+id: fishing_rod
+item_id: '377'
+item_description: 'Useful for catching sardine or herring'
+label: 'Fishing Rod'

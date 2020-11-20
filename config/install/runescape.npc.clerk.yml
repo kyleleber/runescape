@@ -1,0 +1,11 @@
+uuid: f10ac923-f07f-4f3a-acd6-946a74b44bdf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PKY4BGyAIo7rv-BpdmXLU8ydtaWKiCgZ5LFzbebBaeY
+id: clerk
+npc_id: '452'
+npc_description: 'A bueracratic administrator'
+label: Clerk
+items: null

@@ -1,0 +1,11 @@
+uuid: 700a4630-feca-435f-aec0-8fa49b608050
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oOvrq7-3nZCc-qa0WnV6BCdDo4rCnkSwm25mem1EdF8
+id: brother_omad
+npc_id: '350'
+npc_description: 'A Peaceful monk'
+label: 'Brother Omad'
+items: null

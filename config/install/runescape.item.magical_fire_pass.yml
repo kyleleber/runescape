@@ -1,0 +1,10 @@
+uuid: 518ce6f2-e9b0-43ba-996a-9b45f3b72287
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NA6gtDbpZnPrsAzmfwcnNoGjQ_Scgbop65-g6uznOA8
+id: magical_fire_pass
+item_id: '1250'
+item_description: 'A pass which allows you to cross the flaming walls into the Flaming Octagon'
+label: 'Magical Fire Pass'

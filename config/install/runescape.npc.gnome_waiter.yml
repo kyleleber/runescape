@@ -1,0 +1,11 @@
+uuid: 726760a3-cd6d-4794-8a8d-10238a0bc5bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xEAsHYpq1AijUJu5fnNh5ktrEh996nQV9iAinEE_Nvk
+id: gnome_waiter
+npc_id: '581'
+npc_description: 'He can serve you gnome food'
+label: 'Gnome waiter'
+items: null

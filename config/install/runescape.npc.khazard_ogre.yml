@@ -1,0 +1,11 @@
+uuid: adeec2b2-62c3-49bb-89be-2dd87eb11db3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WjbMK1XQxvFt07KqiWyuVUzYLP6T35qCQmELMJxR_NA
+id: khazard_ogre
+npc_id: '384'
+npc_description: 'Khazard''s strongest ogre warrior'
+label: 'Khazard Ogre'
+items: null

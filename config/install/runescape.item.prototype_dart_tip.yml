@@ -1,0 +1,10 @@
+uuid: 162f89bf-0d90-4d23-b60e-3e9a3638fec1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lp1UCtMjwYY_swxGbQDnwlrTAFmidEl_G6YwWT2y-Ac
+id: prototype_dart_tip
+item_id: '1071'
+item_description: 'Dangerous looking dart tip - needs feathers for flight'
+label: 'Prototype dart tip'

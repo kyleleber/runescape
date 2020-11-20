@@ -1,0 +1,11 @@
+uuid: 53bbd677-f58f-4303-8c7b-3598a773385a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2U0unwW1McnWl7wTr6M0b5X2D49nxgjHBsDOhvDw7so
+id: magic_store_owner
+npc_id: '514'
+npc_description: 'An old wizard'
+label: 'Magic store owner'
+items: null

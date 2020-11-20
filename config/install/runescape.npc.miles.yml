@@ -1,0 +1,11 @@
+uuid: d20ac99a-3f2a-433d-8f3c-c2a9c012ab61
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7scQreB04AwX-HV42YUudZH7J-MWSW4WJPmoQ18cqt0
+id: miles
+npc_id: '226'
+npc_description: 'He runs a bar exchange store'
+label: Miles
+items: null

@@ -1,0 +1,11 @@
+uuid: 7cb24040-8e28-4afa-97e2-2aea85d64d01
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vGEGInNGcjjJhPv8_5Fy7-fxOnqf7qR6b8GtaQhSl6A
+id: grew
+npc_id: '681'
+npc_description: 'The chieftan of this ogre tribe'
+label: Grew
+items: null

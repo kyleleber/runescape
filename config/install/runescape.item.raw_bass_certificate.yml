@@ -1,0 +1,10 @@
+uuid: 43abfc0f-adcb-4201-b9ea-f11371b5bb58
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YAxqD3dkWMoMH4fx-BW1XWdnCcjZCDwA3WQWzHQ_jGQ
+id: raw_bass_certificate
+item_id: '629'
+item_description: 'Each certificate exchangable at Catherby for 5 raw bass'
+label: 'Raw bass certificate'

@@ -1,0 +1,11 @@
+uuid: facd8694-efaa-4fed-8aa1-542b94c751f6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gkeZRZ0lngWiILycbg8Q1XF6-lXREeXCnCuPqZ4FffY
+id: nora_t_hag
+npc_id: '242'
+npc_description: 'She''s got warts'
+label: 'Nora T Hag'
+items: null

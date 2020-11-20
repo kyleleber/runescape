@@ -1,0 +1,10 @@
+uuid: f92bda48-263d-4ac4-a59b-97c7a67c576c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YEqNYOm4k7O4CQ4_p-bNNbpGJN6XvIJN4xWabjXSJS4
+id: rough_sketch_of_a_bowl
+item_id: '1246'
+item_description: 'A roughly sketched picture of a bowl made from metal'
+label: 'Rough Sketch of a bowl'

@@ -1,0 +1,10 @@
+uuid: 3bc710ec-e51a-4cce-b15d-e1a53106f8de
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Hh8tLykhAJ8nyID1ehsNY93yRXtYn3p0piGRKNBsqPM
+id: unenchanted_dragonstone_amulet
+item_id: '610'
+item_description: 'I wonder if I can get this enchanted'
+label: 'Unenchanted Dragonstone Amulet'

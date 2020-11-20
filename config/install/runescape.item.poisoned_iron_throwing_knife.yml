@@ -1,0 +1,10 @@
+uuid: 407faeba-d139-4ce5-98fc-c6508aedd360
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: P8h6sts-0meZHXpxjPHmChWYX7fAZctm_s4C56apeuA
+id: poisoned_iron_throwing_knife
+item_id: '1129'
+item_description: 'A finely balanced knife with a coating of venom'
+label: 'Poisoned Iron throwing knife'

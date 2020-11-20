@@ -1,0 +1,10 @@
+uuid: a62679fa-d892-4728-83d1-89528effa298
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aLPXcVU4rBqZfquJhSr2kW-iMivNOSyYVNRkn42ol78
+id: poisoned_fish_food
+item_id: '178'
+item_description: 'Doesn''t seem very nice to the poor fishes'
+label: 'Poisoned fish food'

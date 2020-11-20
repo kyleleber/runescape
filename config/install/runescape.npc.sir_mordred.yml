@@ -1,0 +1,11 @@
+uuid: e28c0d34-35ed-46db-bdd9-0b56f2021191
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vK-RJORoSet0F69N3Q3ZvjY1E0vGOf0ogHCcJRLqWD4
+id: sir_mordred
+npc_id: '276'
+npc_description: 'An evil knight'
+label: 'Sir Mordred'
+items: null

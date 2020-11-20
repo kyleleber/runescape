@@ -1,0 +1,10 @@
+uuid: 150b3ad3-91b4-40bd-9624-d944c2b708fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2A0Mh2uKLeBgWmH2m4ZPku_eMABW4Z6-xyug0OBh36o
+id: randass_journal
+item_id: '996'
+item_description: 'An old journal with several pages missing'
+label: 'Randas''s journal'

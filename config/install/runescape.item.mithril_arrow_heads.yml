@@ -1,0 +1,10 @@
+uuid: cf01328e-849c-414c-b5af-e500a1e67df5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: STNesC6rhrA7XEAcsI9-VNAABT3sexYa7ruAXnA4syQ
+id: mithril_arrow_heads
+item_id: '672'
+item_description: 'Not much use without the rest of the arrow!'
+label: 'mithril arrow heads'

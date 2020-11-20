@@ -1,0 +1,11 @@
+uuid: 7f8f9da9-191f-4b30-bcb9-29cc8e6da712
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5HEEB4edQSzaHlKA_hr4tbmMvQIPPY3DT_jiT9pDEC0
+id: edmond
+npc_id: '437'
+npc_description: 'A local civilian'
+label: Edmond
+items: null

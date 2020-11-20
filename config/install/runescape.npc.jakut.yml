@@ -1,0 +1,11 @@
+uuid: f93eb30e-31ad-44df-a306-2b2932239d58
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ga4rF5AGgFtfNhq027UN-1fmdHAn4gVWFMBTyO0795Y
+id: jakut
+npc_id: '220'
+npc_description: 'An unusual looking merchant'
+label: Jakut
+items: null

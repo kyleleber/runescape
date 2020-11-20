@@ -1,0 +1,10 @@
+uuid: 061c65b3-47ba-45c0-9ab4-a8cba7e462f3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: P7GHUgS8_A2GOW9g9BWjWM2uY8FY1fuIq3ib28BmPCo
+id: dwarf_cannon_furnace
+item_id: '1187'
+item_description: bang
+label: 'Dwarf cannon furnace'

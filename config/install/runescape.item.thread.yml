@@ -1,0 +1,10 @@
+uuid: 563947d6-fef9-4094-91e4-af531088f5c2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HqAl9AoNQw8R5Dn8ZxuBFfcWOo-golpy03lVIv4rdpI
+id: thread
+item_id: '1202'
+item_description: 'A piece of blue thread discovered at the scene of the crime'
+label: Thread

@@ -1,0 +1,11 @@
+uuid: 140e9df6-3bc4-4032-bccc-d759b9398106
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7mfytefB7M729BNhAuAC_OgSkot1Zi07cCc6-rjeYZ0
+id: betty
+npc_id: '149'
+npc_description: 'A witch'
+label: Betty
+items: null

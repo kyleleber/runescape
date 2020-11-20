@@ -1,0 +1,11 @@
+uuid: 589482d4-4a1e-48df-ba11-3601e486116c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7XI1HdBlNOAPHnkelvlf4GQ1_oz3RFC2sMdQfkSPlIs
+id: og
+npc_id: '680'
+npc_description: 'The chieftan of this ogre tribe'
+label: Og
+items: null

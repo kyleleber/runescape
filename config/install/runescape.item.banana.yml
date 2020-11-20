@@ -1,0 +1,10 @@
+uuid: 4c5de216-64a7-4a7a-9b31-41d2fbdc70b5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4xZkaUdLEzNLOXmkIfzBkiU4uJhyEIKo4CN3dWxQpOA
+id: banana
+item_id: '249'
+item_description: 'Mmm this looks tasty'
+label: banana

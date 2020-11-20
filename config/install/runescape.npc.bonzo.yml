@@ -1,0 +1,11 @@
+uuid: 09d52bf7-5e51-4f73-a946-224009431060
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: inlhJOrgjWVXESeUiuoWWXeP_wVF9uQNXKu-LRzlI34
+id: bonzo
+npc_id: '347'
+npc_description: 'Fishing competition organiser'
+label: Bonzo
+items: null

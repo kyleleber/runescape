@@ -1,0 +1,10 @@
+uuid: 4cd6cebf-319d-41f7-a65d-ca97c18c6b16
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3sBXRC5wI87vlOGwMNvcxrVM01D5ZTYUxkgp04EzO60
+id: chocolate_saturday
+item_id: '942'
+item_description: 'A warm creamy alcoholic beverage'
+label: 'Chocolate saturday'

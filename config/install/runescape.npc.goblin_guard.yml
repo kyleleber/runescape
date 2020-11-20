@@ -1,0 +1,11 @@
+uuid: 1c0c4762-5010-4a27-bc38-a97e9db0d301
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zRgpRBLNHbfWI9OmIqfIQmooYiBcZb5AvxoB_oLHdvU
+id: goblin_guard
+npc_id: '651'
+npc_description: 'An imposing green creature'
+label: 'Goblin guard'
+items: null

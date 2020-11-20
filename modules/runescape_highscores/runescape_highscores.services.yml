@@ -1,0 +1,6 @@
+services:
+  runescape_highscore.manager:
+    class: Drupal\runescape_highscores\HighscoreManager
+    arguments:
+      - '@runescape_server_integration.manager'
+

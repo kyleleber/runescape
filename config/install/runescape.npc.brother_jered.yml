@@ -1,0 +1,11 @@
+uuid: d76e33ce-d774-4e17-b8da-1e3a3225daed
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2usxKI3XLyGUBdwfRzPuXTi5di2TRs4ZvM01yNoljE4
+id: brother_jered
+npc_id: '176'
+npc_description: human
+label: 'Brother Jered'
+items: null

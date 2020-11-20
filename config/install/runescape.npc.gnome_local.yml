@@ -1,0 +1,11 @@
+uuid: 60175924-9a11-4950-a6ed-d5c339b588b8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UOGKtxr9fGk6fg4PaSbrteOKvLJtyEOFKQZsYUPi2gk
+id: gnome_local
+npc_id: '593'
+npc_description: 'A tree gnome villager'
+label: 'Gnome local'
+items: null

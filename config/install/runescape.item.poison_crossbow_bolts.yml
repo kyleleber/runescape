@@ -1,0 +1,10 @@
+uuid: 5eda3fa2-a6aa-428a-b5dd-2aaa9299b861
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jCIuJazODqzVOsz2xzLs2q47YfJ7fD88Ag67P1AfpIE
+id: poison_crossbow_bolts
+item_id: '592'
+item_description: 'Good if you have a crossbow!'
+label: 'Poison Crossbow bolts'

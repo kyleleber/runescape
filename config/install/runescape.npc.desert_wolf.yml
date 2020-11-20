@@ -1,0 +1,11 @@
+uuid: 5615ab5b-1c32-4ff3-b57d-838c5628b499
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vKqyg-UumA4CsbRiXrwgzeh-F0w17L3hN_ca6dJ3iic
+id: desert_wolf
+npc_id: '721'
+npc_description: 'A vicious Desert wolf'
+label: 'Desert Wolf'
+items: null

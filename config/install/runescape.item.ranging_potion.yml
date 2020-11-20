@@ -1,0 +1,10 @@
+uuid: e5c0c4a2-9cec-443f-a8b4-dfdbf5e5fe36
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mUdEA43XMhlyZUXf2Gr-uUAigM99N1YcVWFkkFWvM94
+id: ranging_potion
+item_id: '500'
+item_description: '1 dose of ranging potion'
+label: 'ranging Potion'

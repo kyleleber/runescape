@@ -1,0 +1,11 @@
+uuid: 49566381-e1a0-474a-8095-7ba80c3eb426
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MiVyYpMfkHT9rTeSmjUwoN5WoWu1jIEHfwIWorJQC0Q
+id: sir_vyvin
+npc_id: '138'
+npc_description: 'One of the white knights of Falador'
+label: 'Sir Vyvin'
+items: null

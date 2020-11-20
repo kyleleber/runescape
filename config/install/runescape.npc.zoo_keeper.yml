@@ -1,0 +1,11 @@
+uuid: c7fb2f98-cd80-4f36-9611-a31649e211b1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SN25JqWjS2vTGqGeTIHEHJ6XLvPx1fhF_QG0IzKsGog
+id: zoo_keeper
+npc_id: '338'
+npc_description: 'He looks after Ardougne city zoo'
+label: 'zoo keeper'
+items: null

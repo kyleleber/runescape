@@ -1,0 +1,11 @@
+uuid: 84a14a08-cbe1-4aca-b32f-c74f171f48cc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: k0EUKNgYfsNmPHqBTmxiboBtnOYG-xmNudWx1Ij40uA
+id: guidors_wife
+npc_id: '488'
+npc_description: 'She looks rather concerned'
+label: 'Guidors wife'
+items: null

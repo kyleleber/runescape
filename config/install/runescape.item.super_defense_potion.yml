@@ -1,0 +1,10 @@
+uuid: 3c154061-5381-4c20-9206-28c651c5805a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KnqKCe6_EvzQVDFjmmqyV_qPaXaILTGhl5tMXsWv_j4
+id: super_defense_potion
+item_id: '497'
+item_description: '1 dose of defense potion'
+label: 'Super defense Potion'

@@ -1,0 +1,10 @@
+uuid: 649df039-ba5b-47a6-8bc2-a4ef8d026377
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BHzLE9liy0nxT6LAMsS4UWEfzRaHv8ucSmZ0mP4_r20
+id: keep_key
+item_id: '1012'
+item_description: 'A small prison key'
+label: 'keep key'

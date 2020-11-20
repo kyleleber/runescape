@@ -1,0 +1,10 @@
+uuid: a85c99a5-e1d4-4dcd-9373-7719f4bfbf2f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wstx57wgCqFNQKenD-IRBHm6M1gVMobclGDav6afQw8
+id: mithril_plate_mail_body
+item_id: '119'
+item_description: 'Provides excellent protection'
+label: 'Mithril Plate Mail Body'

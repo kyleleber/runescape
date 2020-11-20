@@ -1,0 +1,10 @@
+uuid: 78b61a27-0c54-4523-a55f-6b88762f9947
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LR6xJ8fRHptbdaBq92qI7K30gyypZCsRciJS8lFNa-o
+id: medium_bronze_helmet
+item_id: '104'
+item_description: 'A medium sized helmet'
+label: 'Medium Bronze Helmet'

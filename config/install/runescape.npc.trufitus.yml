@@ -1,0 +1,11 @@
+uuid: b673a470-5cee-4c26-b687-2bf6fb4b32ea
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sNMcolS7-_pGpOIv2JfcCI7vEprtjAJvbolRAjMx-kQ
+id: trufitus
+npc_id: '517'
+npc_description: 'A wise old witch doctor'
+label: Trufitus
+items: null

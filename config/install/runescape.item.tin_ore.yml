@@ -1,0 +1,10 @@
+uuid: 0b411d8c-5161-4641-badd-561dfe620c9d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wCWGpdSWwUG3NKya9zWdTFdowqxNKO6IdtsKWPM1j3o
+id: tin_ore
+item_id: '202'
+item_description: 'this needs refining'
+label: 'tin ore'

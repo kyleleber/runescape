@@ -1,0 +1,10 @@
+uuid: dd7a6f78-29bc-45b1-8a5a-4b31de6a1c76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: n_qmBpQ8hzq9HcodlbHNoyUW5MVvl60BSbfvGsiOJPc
+id: adamantite_bar
+item_id: '174'
+item_description: 'it''s a bar of adamantite'
+label: 'adamantite bar'

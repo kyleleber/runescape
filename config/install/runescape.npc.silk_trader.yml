@@ -1,0 +1,11 @@
+uuid: c0023e37-d2fd-4b42-86e1-f9b338b45047
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AhzA7inWu6V-pxWs_0ZuXOCy1rsFj_BaE4LybxT3IK4
+id: silk_trader
+npc_id: '71'
+npc_description: 'He sells silk'
+label: 'silk trader'
+items: null

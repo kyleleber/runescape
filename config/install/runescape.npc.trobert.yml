@@ -1,0 +1,11 @@
+uuid: ef511df0-8d8b-4c06-b337-a54572bba468
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f5LF0QKZBTx-fIfqqJQSiEzNjKQ4dVYF-wEbUduaUgA
+id: trobert
+npc_id: '256'
+npc_description: 'A well dressed thief'
+label: Trobert
+items: null

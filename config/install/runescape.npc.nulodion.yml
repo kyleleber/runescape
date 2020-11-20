@@ -1,0 +1,11 @@
+uuid: 15489362-1c5d-4b07-a24d-edcda4202124
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pVZH-OXYgw6UOchAzefpWkt18MPcWfSPiUcWu9NStW0
+id: nulodion
+npc_id: '698'
+npc_description: 'Hes the head of black guard weapon development'
+label: Nulodion
+items: null

@@ -1,0 +1,10 @@
+uuid: 5fb95891-d6a4-4632-819c-1de24d368200
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6eXTQjr81H-UO4dg37X2PDLZUkrazl_11L_J9O82we4
+id: uncut_red_topaz
+item_id: '889'
+item_description: 'A semi precious stone'
+label: 'Uncut Red Topaz'

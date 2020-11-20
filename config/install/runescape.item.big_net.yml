@@ -1,0 +1,10 @@
+uuid: 72935588-087a-40dc-9f69-c9c3e103f90a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LsPPYrUL7puFr7J7gboxsSCfhHjZeEcGTFUrf4UDCcY
+id: big_net
+item_id: '548'
+item_description: 'Useful for catching lots of fish'
+label: 'Big Net'

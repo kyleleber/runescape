@@ -1,0 +1,10 @@
+uuid: 5ca4fe99-a2ea-4013-948f-6e7bad3d36e1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SThCxHsGzQlrPRE4lbXaeVpbzgluQNjqTlxdopzAAdI
+id: plank
+item_id: '1283'
+item_description: 'Damaged remains of the ship'
+label: Plank

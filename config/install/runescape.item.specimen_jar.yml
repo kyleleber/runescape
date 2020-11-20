@@ -1,0 +1,10 @@
+uuid: 6ad5a100-83b4-4a38-ad64-c43819a9180c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: F5Iz3payWerRi9Ia9YQJ36XqkHGi5UDj8cmr75TZ_YQ
+id: specimen_jar
+item_id: '1116'
+item_description: 'a jar for holding soil samples'
+label: 'Specimen jar'

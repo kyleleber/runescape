@@ -1,0 +1,10 @@
+uuid: f04b3049-45a4-4afc-85a3-09fc2553feb8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8qyKMkCYny2HB7gt1gfz8tJmlkbsX9zx067vZFHns48
+id: dragon_square_shield
+item_id: '1278'
+item_description: 'An ancient and powerful looking Dragon Square shield.'
+label: 'Dragon Square Shield'

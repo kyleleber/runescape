@@ -1,0 +1,10 @@
+uuid: 3f9d3e72-4be5-485d-b85d-4f97ad295242
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2Wzs0PztjFvYPgK7nRKVypYkBrK5jhWPK5aKnvfobVM
+id: rune_arrow_heads
+item_id: '674'
+item_description: 'Not much use without the rest of the arrow!'
+label: 'rune arrow heads'

@@ -1,0 +1,10 @@
+uuid: fdef4e70-6577-4b4c-8626-4086a64d239f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LY3FiL0BfiPWX9TDAd4uS_CGsRfRNRTwuH5Ph0u9Enw
+id: battlestaff_of_air
+item_id: '617'
+item_description: 'A Magical staff'
+label: 'Battlestaff of air'

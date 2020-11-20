@@ -1,0 +1,10 @@
+uuid: 23f773bb-4914-4060-8eff-80fab4e20019
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8vYNGi4yI1fcX-vUhDd4mC3Jv73VIoeO1JOlbk5Zp8U
+id: rune_spear
+item_id: '1092'
+item_description: 'A rune tipped spear'
+label: 'Rune Spear'

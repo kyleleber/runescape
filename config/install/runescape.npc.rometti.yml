@@ -1,0 +1,11 @@
+uuid: a3a25467-e620-4698-8a48-3fe8a77f4b80
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: t9RDUGPQRnfN8_0UMGpk7eNw_aWqWqOtbxDOTTkaWJk
+id: rometti
+npc_id: '532'
+npc_description: 'Its a well dressed tree gnome'
+label: rometti
+items: null

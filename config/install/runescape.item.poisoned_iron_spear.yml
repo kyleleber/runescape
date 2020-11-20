@@ -1,0 +1,10 @@
+uuid: d8e124c3-6bf0-4576-b89d-562800d6a9ae
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 17vV1WBJP9dLpFOdmTXVgLoCn8djswle8bA4ZS5SwIA
+id: poisoned_iron_spear
+item_id: '1136'
+item_description: 'An iron tipped spear with added venom'
+label: 'Poisoned Iron Spear'

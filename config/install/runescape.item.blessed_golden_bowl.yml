@@ -1,0 +1,10 @@
+uuid: a27e40e0-186f-4a6b-9497-2f9d0c0d596b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: G1iJSL_nHKRuMycP8qJJdflyrU1HnancVn4OkHrK-go
+id: blessed_golden_bowl
+item_id: '1266'
+item_description: 'A specially made bowl constructed out of pure gold - it looks magical somehow'
+label: 'Blessed Golden Bowl'

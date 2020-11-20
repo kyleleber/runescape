@@ -1,0 +1,11 @@
+uuid: 79eae354-bdd7-438a-bcf5-99a2374c02d6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Dl-x5t3_jTgjaifr7DAuovkTqloQkcJDCWR1XnVYj70
+id: warrior
+npc_id: '320'
+npc_description: 'A skilled fighter'
+label: Warrior
+items: null

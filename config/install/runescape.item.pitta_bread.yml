@@ -1,0 +1,10 @@
+uuid: c3e38e1e-cf84-4df8-89b2-eec239d2262f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: urRZ2E-6bNgw1aTmlaffF-TWRJ9p7ZUepno8IM3seBg
+id: pitta_bread
+item_id: '1105'
+item_description: 'Mmmm I need to add some other ingredients yet.'
+label: 'Pitta Bread'

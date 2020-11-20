@@ -1,0 +1,11 @@
+uuid: ee6866fa-3f29-460d-92c5-154d0f6bc9b7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zdP1Zgd9baQeqZFA05rtb1wDYTvHJOgruyBpknIbefU
+id: thurgo
+npc_id: '134'
+npc_description: 'A short angry guy'
+label: Thurgo
+items: null

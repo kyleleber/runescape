@@ -1,0 +1,10 @@
+uuid: 21911dbd-a0d0-4857-a962-63b794779169
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WlAyWZ5SZcaa6nze5b9HUNnnIZFoPHXau5tbyJgvBWo
+id: poisoned_bronze_throwing_knife
+item_id: '1128'
+item_description: 'A finely balanced knife with a coating of venom'
+label: 'Poisoned Bronze throwing knife'

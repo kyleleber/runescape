@@ -1,0 +1,10 @@
+uuid: 634dea2c-e902-4a68-9168-2847110ebc04
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MmdoTPheRPAL6fap5qvCKrpvUE_PzFmh3rHYUUIKCEs
+id: magic_longbow
+item_id: '656'
+item_description: 'A Nice sturdy bow'
+label: 'Magic Longbow'

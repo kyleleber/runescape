@@ -1,0 +1,11 @@
+uuid: 085a30e3-e271-4f8d-b865-cccc0fb139aa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lV_9uupBMJE95SYroH-KeicfNio5fjmqd4F9Ua_W_z0
+id: mourner
+npc_id: '502'
+npc_description: 'A mourner or plague healer'
+label: Mourner
+items: null

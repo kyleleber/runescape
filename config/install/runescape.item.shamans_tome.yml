@@ -1,0 +1,10 @@
+uuid: bc69c52e-5562-4cf1-b3e9-27bccdb3e1bd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: L9AQK0MlGYNmphokUyTVhw9wJ0xjAy5xJ9NBx55vWD8
+id: shamans_tome
+item_id: '1244'
+item_description: 'An ancient tome on various subjects...'
+label: 'Shamans Tome'

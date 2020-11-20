@@ -1,0 +1,10 @@
+uuid: f37292fb-b909-4890-9f47-79e37b767d43
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Lk7tqxatKhseJPdoihscy5XDJgU6U3Pw8Y_AA3vrqLs
+id: bronze_bar
+item_id: '169'
+item_description: 'it''s a bar of bronze'
+label: 'bronze bar'

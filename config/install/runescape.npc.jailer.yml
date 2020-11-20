@@ -1,0 +1,11 @@
+uuid: 373088e2-2fa5-4fbc-a732-745fadc6a0c7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lu5W4kNMb67A__9eFW_D_de_O36VcWyxwt-XLqqG3l8
+id: jailer
+npc_id: '265'
+npc_description: 'Guards prisoners for the black knights'
+label: Jailer
+items: null

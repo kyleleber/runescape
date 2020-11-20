@@ -1,0 +1,10 @@
+uuid: aef1e60f-6d96-4674-aeee-5dd509e1a43a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qnT2Cge7GW2pusrGcWhns_XQHpap_xncbflUrNyd5ss
+id: broken_staff
+item_id: '1167'
+item_description: 'that''s been here some time'
+label: 'broken staff'

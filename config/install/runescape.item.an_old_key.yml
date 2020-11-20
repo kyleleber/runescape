@@ -1,0 +1,10 @@
+uuid: d705f835-0f65-45fd-a9ab-9bb221b1f55c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3q1l_6kyh5havjRCCV4sTIf_1Yj7uxxNXjV2p1wyvNU
+id: an_old_key
+item_id: '797'
+item_description: 'A door key'
+label: 'An old key'

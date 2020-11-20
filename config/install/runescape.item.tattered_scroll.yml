@@ -1,0 +1,10 @@
+uuid: b20adf78-f407-4f9b-b141-ca55bb1f1aef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jbcG1ADNMRUPfUtesMXR7o7eNifw1kaIg18EbO-suRI
+id: tattered_scroll
+item_id: '959'
+item_description: 'An ancient tattered scroll'
+label: 'Tattered Scroll'

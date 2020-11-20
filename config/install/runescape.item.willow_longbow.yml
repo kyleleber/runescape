@@ -1,0 +1,10 @@
+uuid: bf425745-6c09-40b0-8a99-b6f0424a66a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CdbCSff0A2gsBT14FPcg5lbfTtefgpYMsUdwPiTLPe8
+id: willow_longbow
+item_id: '650'
+item_description: 'A Nice sturdy bow'
+label: 'Willow Longbow'

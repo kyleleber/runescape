@@ -1,0 +1,11 @@
+uuid: b8097449-7df1-4149-aaa8-200fef3db9fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z1rEuXNYW4lJOpmnBbRi2yDKONmLUEnhy0s4QVp6dzs
+id: khazard_commander
+npc_id: '428'
+npc_description: 'It''s one of General Khazard''s commander''s'
+label: 'Khazard commander'
+items: null

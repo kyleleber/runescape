@@ -1,0 +1,11 @@
+uuid: 1b8afa16-952c-40e7-8728-a71797564e8e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CZlO4-Odt9TWot4d1NoGeo-wwBV4ZTVJY60Kk0ruz-s
+id: obli
+npc_id: '620'
+npc_description: 'An intelligent looking shop owner'
+label: Obli
+items: null

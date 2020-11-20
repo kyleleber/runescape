@@ -1,0 +1,10 @@
+uuid: a4f647ce-5566-43ca-a689-8be263d513bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wQEhnxTXy-QvATPISTVpC20g3DOPHYwoL4hlBG_FzJQ
+id: unpowered_orb
+item_id: '611'
+item_description: 'I''d prefer it if it was powered'
+label: 'Unpowered orb'

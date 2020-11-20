@@ -1,0 +1,10 @@
+uuid: 515fa757-917c-4d11-9390-5937bc1e3970
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lHuu3HCj0ftl1deHySqRorulSrfDGHsjXu6_BUYNkgs
+id: adamantite_axe
+item_id: '204'
+item_description: 'A powerful axe'
+label: 'Adamantite Axe'

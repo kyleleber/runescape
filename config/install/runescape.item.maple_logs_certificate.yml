@@ -1,0 +1,10 @@
+uuid: 654b4d47-0095-4474-8215-16488378b26a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uXehoeffSbfQsRS40pigCvqJpQKmKzYsJNQMfdsPudg
+id: maple_logs_certificate
+item_id: '712'
+item_description: 'Each certificate exchangable at Ardougne for 5 maple logs'
+label: 'maple logs certificate'

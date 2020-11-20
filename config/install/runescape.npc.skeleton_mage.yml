@@ -1,0 +1,11 @@
+uuid: 59fbbd8d-26bb-4fb1-8de3-8c6a798fffd9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4IzODwVnwYGEpC3733Svjp5SfWYEPqeVMma78ulo_K8
+id: skeleton_mage
+npc_id: '498'
+npc_description: 'It rattles as it walks'
+label: 'skeleton mage'
+items: null

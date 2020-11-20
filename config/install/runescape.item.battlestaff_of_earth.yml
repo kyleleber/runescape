@@ -1,0 +1,10 @@
+uuid: 6800e06e-5c0e-4df1-a7b1-d4909d725398
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PlXOr1RgynPheMG1SSz7zQDD0cEWhEAHAGjgXbJ3Iwc
+id: battlestaff_of_earth
+item_id: '618'
+item_description: 'A Magical staff'
+label: 'Battlestaff of earth'

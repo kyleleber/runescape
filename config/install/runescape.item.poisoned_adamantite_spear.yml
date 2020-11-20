@@ -1,0 +1,10 @@
+uuid: 52b72d7f-d3dc-4b52-a88c-273255e89270
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dC8dTG-HCEVD_zY_JQbSZZT4vxZ8ucZu9OeC0yvAABE
+id: poisoned_adamantite_spear
+item_id: '1139'
+item_description: 'An adamantite tipped spear with added venom'
+label: 'Poisoned Adamantite Spear'

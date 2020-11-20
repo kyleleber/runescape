@@ -1,0 +1,10 @@
+uuid: 35b6026f-9fb0-41d8-a3be-16149046f8e2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 33znaq_iVysmq3oGEOT9eNdyXBS6tJglpgUUiG-8NPA
+id: liquid_honey
+item_id: '809'
+item_description: 'This isn''t worth much'
+label: 'Liquid Honey'

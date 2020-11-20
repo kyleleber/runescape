@@ -1,0 +1,11 @@
+uuid: f2f8287e-abaa-47bd-b98d-6cadd4674337
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QImJF8xMoGMmSn8t5AH0jf17HiU8fzbj0pT46n5lVVc
+id: tramp
+npc_id: '28'
+npc_description: 'A scruffy looking chap'
+label: Tramp
+items: null

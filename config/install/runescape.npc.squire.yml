@@ -1,0 +1,11 @@
+uuid: 9cc15053-9f12-4187-b919-5f1b789b4877
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qULQGuxEg0wZl2FW6wBdZ-k8vV2A1NSOljwNIKb6ENc
+id: squire
+npc_id: '132'
+npc_description: 'A young squire'
+label: squire
+items: null

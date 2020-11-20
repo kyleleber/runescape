@@ -1,0 +1,10 @@
+uuid: 290bd629-f44a-49dc-966c-bb5c98435e1d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ePcb0p1VLEPnr-O6JAcWuAqU79dZ8OfIJk-n7WMoy0Y
+id: dragonstone
+item_id: '523'
+item_description: 'This looks very valuable'
+label: Dragonstone

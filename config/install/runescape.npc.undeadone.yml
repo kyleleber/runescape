@@ -1,0 +1,11 @@
+uuid: e650cc34-fa79-4c79-8451-9719f43a59e1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pWEmV72v8rTJ-nJ4lVTHfIbEwdZwtHLCX7YMnPjtdBo
+id: undeadone
+npc_id: '542'
+npc_description: 'One of Rashaliyas Minions'
+label: UndeadOne
+items: null

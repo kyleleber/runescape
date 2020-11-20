@@ -1,0 +1,10 @@
+uuid: aff38ca0-77c1-4107-8dab-0ff990bc70c1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sdhbldw1xRwqdbfPI_q0GcTK6TviScCp22wxa88-teA
+id: stew
+item_id: '346'
+item_description: 'It''s a meat and potato stew'
+label: Stew

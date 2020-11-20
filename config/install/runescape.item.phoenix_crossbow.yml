@@ -1,0 +1,10 @@
+uuid: 9fbd513f-eb26-4d07-8807-685dceea697c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vrzRrvBC3QVkBqhN2-pVy0vMmsCCt4XEp4q5gWQS4Zo
+id: phoenix_crossbow
+item_id: '59'
+item_description: 'Former property of the phoenix gang'
+label: 'Phoenix Crossbow'

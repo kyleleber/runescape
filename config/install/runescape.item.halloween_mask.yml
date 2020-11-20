@@ -1,0 +1,10 @@
+uuid: 96f219f8-96ab-4832-ae0f-fc9ba0563179
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rlfuy-F9S_ScVRS2VysdzVTtPxGADjt9vXqu0X8YLdA
+id: halloween_mask
+item_id: '832'
+item_description: 'aaaarrrghhh ... i''m a monster'
+label: 'halloween mask'

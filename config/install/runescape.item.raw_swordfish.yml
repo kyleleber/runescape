@@ -1,0 +1,10 @@
+uuid: 88409e50-c8b6-4efd-9b42-659a408357f2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _0YHtkztqG1yDbgDcfWeu_ZGh4Fyrf2Y54a06JtW1Pg
+id: raw_swordfish
+item_id: '369'
+item_description: 'I should try cooking this'
+label: 'Raw Swordfish'

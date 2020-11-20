@@ -1,0 +1,11 @@
+uuid: bc260ec2-c9af-4109-8d5e-914d9c84d1ea
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MK86DC2m_IplutxlIUFKK0IhMQTkBCa_YTyHui2RPF8
+id: dwarf_commander
+npc_id: '771'
+npc_description: 'He guards the mines'
+label: 'Dwarf commander'
+items: null

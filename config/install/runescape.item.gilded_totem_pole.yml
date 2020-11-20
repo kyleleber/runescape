@@ -1,0 +1,10 @@
+uuid: ce99e7a5-5ead-4aee-89e5-eb07e3dfb439
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ANzEGJuIT4P8Lhur2UU3oP-_tvk52MkDet53yXV3Loo
+id: gilded_totem_pole
+item_id: '1265'
+item_description: 'A well crafted totem pole - given to you as a gift from Gujuo'
+label: 'Gilded Totem Pole'

@@ -1,0 +1,11 @@
+uuid: 44a3d215-643a-4fff-8f9b-f41821fdba7c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RrDGUddMPmADUoeXakau7cyH2MYxSUKV34nYpMfjKJU
+id: klarense
+npc_id: '193'
+npc_description: 'A young sailor'
+label: Klarense
+items: null

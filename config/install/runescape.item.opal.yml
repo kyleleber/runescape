@@ -1,0 +1,10 @@
+uuid: fe774040-b04d-44b4-ba4b-07b0574a261a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: czGXt9V9AWvoPnMhlj5wHfX6e1z2WHPEFv6X5QPfSyk
+id: opal
+item_id: '894'
+item_description: 'A semi precious stone'
+label: Opal

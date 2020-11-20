@@ -1,0 +1,10 @@
+uuid: 1935bbaf-df06-4f01-bd4c-1d1a4bed575d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: a9VYijatVc2cDpFTlpNf7TANSZMdk1_MIDoKmyLVQuI
+id: iron_square_shield
+item_id: '3'
+item_description: 'A medium metal shield'
+label: 'Iron Square Shield'

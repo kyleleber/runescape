@@ -1,0 +1,11 @@
+uuid: 0b9ac917-a7f9-4a7d-aa9e-a1ab58d4e1f8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q-uDR9cyK0QZutY2v360eUDfG-p_Ta7iLF7gr6Tk1oo
+id: shadow_spider
+npc_id: '343'
+npc_description: 'Is it a spider or is it a shadow'
+label: 'Shadow spider'
+items: null

@@ -1,0 +1,10 @@
+uuid: 99513fd8-276d-4ed6-905a-7f1f898d4f77
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gZLPna9pNW6wJl1trItkcRMTKaE5Ku8KqXwMntI1WXg
+id: klanks_gauntlets
+item_id: '1006'
+item_description: 'Heavy hand protection'
+label: 'Klanks gauntlets'

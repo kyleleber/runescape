@@ -1,0 +1,11 @@
+uuid: d142ad9d-a6b4-4e87-8a89-8f10cf1b3757
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bph6ZWTQPppoTj-QlWdeSCp5DZZUWC8lE_TlZBUanP0
+id: orven
+npc_id: '369'
+npc_description: 'He runs a fish exchange store'
+label: Orven
+items: null

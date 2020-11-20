@@ -1,0 +1,10 @@
+uuid: c202b35f-44a7-4ead-8d42-c324bc85a8e5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MioKlTtI42085lsFwpoF4cCmRS9u7TUrugr4jNeKXO0
+id: soil
+item_id: '794'
+item_description: 'It''s a bucket of fine soil'
+label: Soil

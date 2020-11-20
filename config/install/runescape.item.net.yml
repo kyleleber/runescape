@@ -1,0 +1,10 @@
+uuid: 1e058ee5-b163-48bc-97cd-1b4045c76cc6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zaX65ifBuVOH8PeG00rNOxjUdp1l6rYo4Frj0KKgrAo
+id: net
+item_id: '376'
+item_description: 'Useful for catching small fish'
+label: Net

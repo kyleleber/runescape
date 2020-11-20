@@ -1,0 +1,8 @@
+uuid: 1af24129-b689-4b1d-bbe3-2a3109674073
+langcode: en
+status: true
+dependencies: {  }
+id: thread_sewing_
+item_id: '43'
+item_description: 'Used with a needle to make clothes'
+label: Thread

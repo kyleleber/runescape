@@ -1,0 +1,11 @@
+uuid: 1e910c0d-3390-4b7f-b2fa-c6f480077d99
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xNuMiHPC1OtQ2kcpBIpgBSaP1a0p94LFrmCbMuUErzQ
+id: student
+npc_id: '727'
+npc_description: 'A student busily digging!'
+label: Student
+items: null

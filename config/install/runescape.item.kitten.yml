@@ -1,0 +1,10 @@
+uuid: b35e4c72-0e26-4db0-abe5-568813c2d53f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZUHnxRoIxc6n2rU4mLB5h1mMhmiT19wzvNgQvGn9elg
+id: kitten
+item_id: '1096'
+item_description: purrr
+label: Kitten

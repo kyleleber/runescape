@@ -1,0 +1,10 @@
+uuid: 00bf97a3-9ebf-4778-95df-08ef4551ffe9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 00sENMut3gQYTG0u6NWfmJfyIdNIwWBl3v6ThLGlfpE
+id: zamorak_cape
+item_id: '1213'
+item_description: 'A cape from the almighty zamorak'
+label: 'Zamorak Cape'

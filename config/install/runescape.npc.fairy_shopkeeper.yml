@@ -1,0 +1,11 @@
+uuid: 4e486b02-6312-4a8c-b487-f3f4173856d9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gS-fG-7BZ4wNwcrtih7vGSjOwra_UQdRnP9zs4Og6-4
+id: fairy_shopkeeper
+npc_id: '222'
+npc_description: 'I wonder what he''s got for sale'
+label: 'Fairy Shopkeeper'
+items: null

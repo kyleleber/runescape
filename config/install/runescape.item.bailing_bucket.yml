@@ -1,0 +1,10 @@
+uuid: b71ab55a-0d11-404f-9fbe-2c8d27c25c3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V4Aptv10RQvR8N3uaAWagOLovkPsi0Ls77lUzcOafa8
+id: bailing_bucket
+item_id: '1282'
+item_description: 'It''s a water tight bucket'
+label: 'Bailing Bucket'

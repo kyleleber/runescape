@@ -1,0 +1,10 @@
+uuid: 06ac8638-f840-4f11-973e-ea4bc18e42c2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f4lk5ormN_0RC1BGnHhXzJoaoZZxu7bbcAJmwb_Aj6Q
+id: dwarf_brew
+item_id: '1001'
+item_description: 'It''s a bucket of home made brew'
+label: 'Dwarf brew'

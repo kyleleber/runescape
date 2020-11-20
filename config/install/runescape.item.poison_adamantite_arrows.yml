@@ -1,0 +1,10 @@
+uuid: d971a247-48d5-4624-b9c5-d27190ba158d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QES0Xj4OJD42y7Yr7SOu-_9lAcfsRv8NtUc8m8M1EyA
+id: poison_adamantite_arrows
+item_id: '645'
+item_description: 'Venomous looking arrows'
+label: 'Poison Adamantite Arrows'

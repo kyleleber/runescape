@@ -1,0 +1,10 @@
+uuid: 86621397-643c-4032-9c16-9c7e371337ce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-yAe3Szs4pJyiyrnWHECYhuWq3on2tFBp8txLxz-oBg'
+id: cocktail_glass
+item_id: '854'
+item_description: 'For sipping cocktails'
+label: 'cocktail glass'

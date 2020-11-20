@@ -1,0 +1,11 @@
+uuid: 3ceafb1a-31bc-4c1c-a82d-08822357c7ff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: T-fyjLzQmkMJ_k5w9Dlu_uI1W0WCx2JmMZ3RoiKIIAI
+id: ted_rehnison
+npc_id: '446'
+npc_description: 'The head of the Rehnison family'
+label: 'Ted Rehnison'
+items: null

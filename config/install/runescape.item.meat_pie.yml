@@ -1,0 +1,10 @@
+uuid: 8d05b679-fabd-4a7b-abe9-ba8e5576a378
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kjFEL5nlXmhdwrSycXdnZUhpc09KCtg_DP0FYhLSOeo
+id: meat_pie
+item_id: '259'
+item_description: 'Mighty and meaty'
+label: 'meat pie'

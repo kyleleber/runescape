@@ -1,0 +1,11 @@
+uuid: 5a9019e2-6e6a-4528-80c2-6a0765208089
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mS6khsosHkMMetJyXyC5LUDsWQyrL_ZE6Fn9gF8ywOo
+id: legends_guild_guard
+npc_id: '736'
+npc_description: 'This guard is protecting the entrance to the Legends Guild.'
+label: 'Legends Guild Guard'
+items: null

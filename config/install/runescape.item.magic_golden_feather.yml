@@ -1,0 +1,10 @@
+uuid: 25a1d8ab-161c-44ce-916f-806838d042fb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Lef9UrgN78vjIRvLQEZVQ-oy--lMjio5IHTNk2lPVkY
+id: magic_golden_feather
+item_id: '745'
+item_description: 'It will point the way for me'
+label: 'magic golden feather'

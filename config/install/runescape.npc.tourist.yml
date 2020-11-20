@@ -1,0 +1,11 @@
+uuid: 89de7e52-eb2e-4111-a71d-497d7de35944
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SIPMsZm-ujFwTWnAViyBsxWRtbExtYXxJ_0EgJR1WrA
+id: tourist
+npc_id: '544'
+npc_description: human
+label: tourist
+items: null

@@ -1,0 +1,10 @@
+uuid: ab11dc08-bbc2-4191-861a-1a89c1b13ff7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rHF9GwqkIb7qkFjiCqbD2tqDP7dhHurcWtaudio8V6Q
+id: ruby_necklace
+item_id: '693'
+item_description: 'I wonder if this is valuable'
+label: 'Ruby necklace'

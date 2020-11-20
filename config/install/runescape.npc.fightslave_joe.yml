@@ -1,0 +1,11 @@
+uuid: 5de5dbe5-5455-4304-9c99-ebd89680a751
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oHl9YTes69SnX2I2dnApkYdzz-jNX2vHs-jlmhhr7QU
+id: fightslave_joe
+npc_id: '379'
+npc_description: 'He look''s mistreated and weak'
+label: 'fightslave joe'
+items: null

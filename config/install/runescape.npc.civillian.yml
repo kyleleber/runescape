@@ -1,0 +1,11 @@
+uuid: 71d52dc0-6ec4-4a2a-a55a-1ef4beed4166
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wKoY3UTFmCjZy12ofkMPJ6I59iJ9aOWimq7GZ6rK0R0
+id: civillian
+npc_id: '732'
+npc_description: 'He looks aggitated!'
+label: civillian
+items: null

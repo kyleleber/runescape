@@ -1,0 +1,10 @@
+uuid: dd14e534-b857-468c-ad57-1911f438c55a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ScuP_LqphlLSMportABJ-eoo2-GTnuud3RY54A8i6pY
+id: magic_scroll
+item_id: '752'
+item_description: 'Maybe I should read it'
+label: 'Magic scroll'

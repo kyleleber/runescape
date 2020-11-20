@@ -1,0 +1,10 @@
+uuid: ca4b5d6f-c43c-420b-9b9d-09e9ee34a662
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FRDUOv3MMlCqYE3CFlW05XgFUGSSbO6PgVRZpWWJC2E
+id: white_bead
+item_id: '234'
+item_description: 'A small round white bead'
+label: 'White Bead'

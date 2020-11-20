@@ -1,0 +1,10 @@
+uuid: dc35fce8-12f3-43bf-bd2b-0523f9a28188
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qIDdZcY7bBDnmqXGO6-zxf7xX4iIkGVRDN-seRpQc14
+id: rune_battle_axe
+item_id: '93'
+item_description: 'A vicious looking axe'
+label: 'Rune battle Axe'

@@ -1,0 +1,10 @@
+uuid: 230d4fd6-fbf5-4a80-b66d-d060758a896d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Qu5XwkIoR_lc8awyrcSws8sxxGKE45HcdxBcZhqy68w
+id: black_axe
+item_id: '428'
+item_description: 'A sinister looking axe'
+label: 'Black Axe'

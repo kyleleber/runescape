@@ -1,0 +1,11 @@
+uuid: 5d9550ab-edee-4042-9235-d9ba37f07951
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UXT9OeyvCU6DHtifzyTsDlHHkzXdA4d8dtWEd_qN15E
+id: master_fisher
+npc_id: '368'
+npc_description: 'The man in charge of the fishing guild'
+label: 'Master fisher'
+items: null

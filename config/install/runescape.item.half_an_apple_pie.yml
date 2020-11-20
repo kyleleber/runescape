@@ -1,0 +1,10 @@
+uuid: 1d6b64f1-2fcc-48c4-ac64-b860b5d964ee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5EdQQ9a7pElDQFiLjn6mySETWKdof7vjRpfjWVuXadM
+id: half_an_apple_pie
+item_id: '263'
+item_description: 'Mmm Apple pie'
+label: 'Half an apple pie'

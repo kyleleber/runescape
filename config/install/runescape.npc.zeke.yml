@@ -1,0 +1,11 @@
+uuid: 075c75a7-6208-4cd5-b863-932f3e882ad2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LMhg482Jfjnd3lVv0gP0yNEKtfM65pT0Qq-bQy-rVqk
+id: zeke
+npc_id: '84'
+npc_description: 'He sells Scimitars'
+label: Zeke
+items: null

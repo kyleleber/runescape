@@ -1,0 +1,10 @@
+uuid: 82ceed1f-9c8c-4109-be74-b31249ae4f76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NkW6oC9Sl0KXs7tl5yhcVL4Xfx1Cz8mKaR_d-eybMNU
+id: chaos-rune
+item_id: '41'
+item_description: 'Used for mid level missile spells'
+label: Chaos-Rune

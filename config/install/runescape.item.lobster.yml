@@ -1,0 +1,10 @@
+uuid: eae94573-e78e-4017-94f7-e915ebcbb6ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uVIlzt858WvRVC5gpMhqXNkFDEnWsxBsoU-uOHzkMIY
+id: lobster
+item_id: '373'
+item_description: 'This looks tricky to eat'
+label: Lobster

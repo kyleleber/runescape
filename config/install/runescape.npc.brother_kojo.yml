@@ -1,0 +1,11 @@
+uuid: a73f5660-46fc-4d3c-8a47-1997d7e81dd0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1oabk695gQwAcAxYUZ8hURGzOxqc1ozCK-T-uTCIuQw
+id: brother_kojo
+npc_id: '366'
+npc_description: 'A Peaceful monk'
+label: 'Brother Kojo'
+items: null

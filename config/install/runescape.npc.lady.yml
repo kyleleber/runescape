@@ -1,0 +1,11 @@
+uuid: 4206ae63-63a2-4351-9331-e31bdd20fb48
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vHaubA8Bohz_GvRV0TbH8l5VY06FCWHjAu3Jqp-mdkY
+id: lady
+npc_id: '285'
+npc_description: 'She has a hint of magic about her'
+label: lady
+items: null

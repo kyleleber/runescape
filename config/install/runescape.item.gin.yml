@@ -1,0 +1,10 @@
+uuid: b301a2f6-5104-4986-b8fb-9e28946709ce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TTXm1lninl7g8QYSUKsMppk1TlHZljnBsN3UAVvKDGA
+id: gin
+item_id: '870'
+item_description: 'A strong spirit'
+label: gin

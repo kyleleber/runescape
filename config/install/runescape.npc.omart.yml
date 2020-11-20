@@ -1,0 +1,11 @@
+uuid: eb3d2d6a-7301-40ca-8e7f-d4ff88a6be1f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-IATDi_RmkS2IhYZ7NMZT3m_VhA7pKO5rtZrEqpQcCU'
+id: omart
+npc_id: '484'
+npc_description: 'A nervous looking fellow'
+label: Omart
+items: null

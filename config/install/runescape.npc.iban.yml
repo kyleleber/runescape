@@ -1,0 +1,11 @@
+uuid: 52e69a0e-9e7e-4394-9061-f0d2dd5af46a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UXunPRM691ULGW3RumDeWySUh-m-TAXgftvWpvUzdko
+id: iban
+npc_id: '649'
+npc_description: 'You feel terror just looking at him'
+label: Iban
+items: null

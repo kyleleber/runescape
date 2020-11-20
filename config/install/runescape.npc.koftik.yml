@@ -1,0 +1,11 @@
+uuid: 7def13d1-7614-43e1-8bb9-255788a40d8e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qhMYD7xcRNHPwa1icEW9VPJ4l1wRb7uwnRhiNIRKIBM
+id: koftik
+npc_id: '659'
+npc_description: 'The kings top tracker'
+label: Koftik
+items: null

@@ -1,0 +1,11 @@
+uuid: 1ea01e83-a044-4082-aa37-2479f090643f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PllQMnbI7tzQX8GQUs8kzKbZ0kJrT1x-u1g4rNEUesY
+id: gorad
+npc_id: '683'
+npc_description: 'A high ranking ogre official'
+label: Gorad
+items: null

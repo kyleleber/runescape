@@ -1,0 +1,25 @@
+runescape.npc.add_action:
+  route_name: entity.npc.add_form
+  title: 'Add Npc'
+  appears_on:
+    - entity.npc.list
+
+runescape.npc.list_action:
+  route_name: entity.npc.list
+  title: 'List Npcs'
+  appears_on:
+    - entity.npc.add_form
+    - entity.npc.edit_form
+
+runescape.item.add_action:
+  route_name: entity.item.add_form
+  title: 'Add Item'
+  appears_on:
+    - entity.item.list
+
+runescape.item.list_action:
+  route_name: entity.item.list
+  title: 'List Items'
+  appears_on:
+    - entity.item.add_form
+    - entity.item.edit_form

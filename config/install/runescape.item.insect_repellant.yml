@@ -1,0 +1,10 @@
+uuid: b71f0393-0f12-48ad-a9a8-e9870ccbcbf8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OnPdGY8eiEJpW-TaztUfiDcUeC_yLPf1kM4QojIQPoM
+id: insect_repellant
+item_id: '603'
+item_description: 'Drives away all known 6 legged creatures'
+label: 'insect repellant'

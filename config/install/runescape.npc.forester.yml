@@ -1,0 +1,11 @@
+uuid: d7b4055e-cbe0-4182-9f9a-853a6588373a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5rCg70Q1o-1zKCPaNhFgOKN9KKX22SROpMqKMWGmlOA
+id: forester
+npc_id: '348'
+npc_description: 'He looks after McGrubor''s wood'
+label: Forester
+items: null

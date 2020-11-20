@@ -1,0 +1,10 @@
+uuid: d278a34d-ad60-4f74-b2b6-8fe77d781816
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p1kFpKtAeFkMu1UdIhu6nSpo2Z56L1K3nIxedjxcy_Q
+id: yellow_bead
+item_id: '232'
+item_description: 'A small round yellow bead'
+label: 'Yellow Bead'

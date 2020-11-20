@@ -1,0 +1,10 @@
+uuid: 3cedab64-509e-45ec-be18-89eccbfd3169
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BTmuGRPKPrbRZy0RNwny1FV8sstJ_HipgDflZcRdntw
+id: black_short_sword
+item_id: '424'
+item_description: 'A razor sharp sword'
+label: 'Black Short Sword'

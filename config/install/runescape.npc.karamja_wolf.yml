@@ -1,0 +1,11 @@
+uuid: a57566b5-c972-41ee-8bef-2c94c87820bf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: A0l_4hMmUk3zsqBh_hTrtgwwlOuS44JpnITlK67F28I
+id: karamja_wolf
+npc_id: '775'
+npc_description: 'A hungry'
+label: 'Karamja Wolf'
+items: null

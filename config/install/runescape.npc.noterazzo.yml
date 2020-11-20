@@ -1,0 +1,11 @@
+uuid: 25342879-d01d-4a84-aa3c-e7f5156f23f0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NyUSec8h3nWunFxbgzrNcj_HSyQ_HchcfAKGfQURVyQ
+id: noterazzo
+npc_id: '233'
+npc_description: 'A bandit shopkeeper'
+label: Noterazzo
+items: null

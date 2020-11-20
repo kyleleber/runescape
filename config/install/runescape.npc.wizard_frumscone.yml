@@ -1,0 +1,11 @@
+uuid: e46b2f71-158b-44bd-ad62-65ce45086e82
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WeQ37-ipqGbKtveBydq00O_ePTvuYXIggur-e2mMilw
+id: wizard_frumscone
+npc_id: '515'
+npc_description: 'A confused looking wizard'
+label: 'Wizard Frumscone'
+items: null

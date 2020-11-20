@@ -1,0 +1,11 @@
+uuid: 1e8fe81a-ed0e-46a6-b930-386f7cbc7eef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PSxHQxZZumGpAZprfy4ngoDgsMrJAzWQ5uqF4cszQjs
+id: bartender
+npc_id: '529'
+npc_description: 'I could get a beer off him'
+label: Bartender
+items: null

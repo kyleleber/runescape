@@ -1,0 +1,11 @@
+uuid: 06fece93-f548-4c88-b848-c0656f05794f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ckH3x-dK1stUps7t3xtq7Djv7oOgllU8W1A1Pqo8BYw
+id: border_guard
+npc_id: '162'
+npc_description: 'a guard from Al Kharid'
+label: 'Border Guard'
+items: null

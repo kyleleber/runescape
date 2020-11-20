@@ -1,0 +1,10 @@
+uuid: bf5af1bb-f758-48bf-939c-bebd706e3f76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: btc1ccMhGj1L2LmXQketdwKwrP-Ou6R4KsGLEJBl46Y
+id: super_attack_potion_certificate
+item_id: '1273'
+item_description: 'Exchangable at Yanille for 5'
+label: 'Super Attack Potion Certificate'

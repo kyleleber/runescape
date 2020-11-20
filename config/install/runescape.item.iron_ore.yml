@@ -1,0 +1,10 @@
+uuid: 956a2fb8-e4b1-489e-9998-ff9a7361fd09
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4Oc-YJ7kQb4SrObmZK36Pct8poJ7h-XYXPkT4duDXQ8
+id: iron_ore
+item_id: '151'
+item_description: 'this needs refining'
+label: 'iron ore'

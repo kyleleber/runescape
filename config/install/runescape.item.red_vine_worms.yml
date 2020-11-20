@@ -1,0 +1,10 @@
+uuid: cdcd1c33-11ad-485d-95c4-17051180f1f5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xQdCwuHBK_vOIf8w5bLCSCM_ZxfeFeWydIT2PNG2dKY
+id: red_vine_worms
+item_id: '715'
+item_description: 'Strange little red worms'
+label: 'Red vine worms'

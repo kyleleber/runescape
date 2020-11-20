@@ -1,0 +1,10 @@
+uuid: f8f6c86a-fa4c-40d9-9bb2-eebb4eecf285
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hv0n67k2EdtHPlEmmbRgLExho3tt5bTzVpHLRcgqkeE
+id: poisoned_mithril_throwing_knife
+item_id: '1131'
+item_description: 'A finely balanced knife with a coating of venom'
+label: 'Poisoned Mithril throwing knife'

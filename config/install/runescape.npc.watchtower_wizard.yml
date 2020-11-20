@@ -1,0 +1,11 @@
+uuid: 01aa53ac-c2a0-4777-a121-777ba4328ad1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: adYPttTOZXXPZadazi9olJos30QYZynENfZ5SKizzkw
+id: watchtower_wizard
+npc_id: '672'
+npc_description: 'A learned man'
+label: 'Watchtower wizard'
+items: null

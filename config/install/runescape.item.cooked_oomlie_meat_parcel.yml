@@ -1,0 +1,10 @@
+uuid: 36837615-1d9f-42e4-9020-167cd15b4fcf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AjHKA9Ko6zsHWrndAln5gqFBF5ZgXs5TflIYsGLB7lk
+id: cooked_oomlie_meat_parcel
+item_id: '1269'
+item_description: 'Deliciously cooked Oomlie meat in a palm leaf pouch.'
+label: 'Cooked Oomlie meat Parcel'

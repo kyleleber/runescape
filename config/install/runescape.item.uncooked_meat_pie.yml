@@ -1,0 +1,10 @@
+uuid: 190c984d-2866-4def-add1-d02d6d92f697
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xNderZT5E8Rvlfwx8d5tKxWVX2OSImbpaoeTldDHKKo
+id: uncooked_meat_pie
+item_id: '255'
+item_description: 'I need to cook this first'
+label: 'Uncooked meat pie'

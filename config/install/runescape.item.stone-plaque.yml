@@ -1,0 +1,10 @@
+uuid: 327bc9c1-d98a-4677-bfbc-c81870fccdff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uNtRYAYC8fyaKi5B7257mQebo5qlzFSHoqzThOrcWY8
+id: stone-plaque
+item_id: '958'
+item_description: 'A stone plaque with carved letters in it'
+label: Stone-Plaque

@@ -1,0 +1,10 @@
+uuid: 9adc91f4-1893-4362-acf3-ef76ab8fa129
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pqRzL_QRaG_5eKUuEiE4xkc1Dj2g5vSDXXWQZm0Pea4
+id: cooking_apple
+item_id: '252'
+item_description: 'I wonder what i can make with this'
+label: 'cooking apple'

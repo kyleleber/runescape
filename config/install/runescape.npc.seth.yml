@@ -1,0 +1,11 @@
+uuid: 291833a4-1989-4f26-a2b4-77aa6f2498cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-KIm-yfqxVyvLcOsPi_7U9yjdEM4YKlWeU4bwKJk-I4'
+id: seth
+npc_id: '267'
+npc_description: 'He runs a fish exchange store'
+label: Seth
+items: null

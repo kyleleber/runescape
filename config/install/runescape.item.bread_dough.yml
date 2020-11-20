@@ -1,0 +1,10 @@
+uuid: 1c607bc9-518f-416d-880d-7bfbbc14712b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sjka5cKrpbFVPCnuhFsSEazZ0CyyYLHk2cPEfXa2IDc
+id: bread_dough
+item_id: '137'
+item_description: 'Some uncooked dough'
+label: 'bread dough'

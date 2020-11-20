@@ -1,0 +1,10 @@
+uuid: 07a7c65e-7311-483b-8bae-d96c75d329d9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5eB16JOqIXPeJOGJ1wdzHpDDVSn0OyeYkPKI3MblwAg
+id: egg
+item_id: '19'
+item_description: 'A nice fresh egg'
+label: Egg

@@ -1,0 +1,10 @@
+uuid: d7b2058a-f1fd-4a3d-bc94-811f772d5f9a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dA9ZYBBXen3_mZhVtQRbBQcoU3vMrdD9muwklrUQvzg
+id: burnt_lobster
+item_id: '374'
+item_description: Oops!
+label: 'Burnt Lobster'

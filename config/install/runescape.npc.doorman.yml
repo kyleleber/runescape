@@ -1,0 +1,11 @@
+uuid: 6d37e094-e183-4c52-82d6-c70fbe8b77af
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3JTJ8hlK5HZJnkzKZPlzSW1XEGPYcgKTSwEzmhAgUBQ
+id: doorman
+npc_id: '221'
+npc_description: 'He guards the entrance to the faerie market'
+label: Doorman
+items: null

@@ -1,0 +1,10 @@
+uuid: 0530f094-f7de-40f3-a743-49f3492c0b05
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8I5WpSjaaTqM23bQihhMQTdZLajZa1WoZPbXOWQ7Wgw
+id: white_berries
+item_id: '471'
+item_description: 'Poisonous berries'
+label: 'White berries'

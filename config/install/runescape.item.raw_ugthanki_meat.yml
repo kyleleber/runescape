@@ -1,0 +1,10 @@
+uuid: 9ceeb18c-0f1e-4ef5-bdff-57cca252038e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6mwsdTdjMgXq0Q_SLQH0y-QVhHUgzuffxpJcJPk1ICM
+id: raw_ugthanki_meat
+item_id: '1101'
+item_description: 'I need to cook this first'
+label: 'Raw Ugthanki Meat'

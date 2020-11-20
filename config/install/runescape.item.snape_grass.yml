@@ -1,0 +1,10 @@
+uuid: 3e320eed-8c69-40d1-b2e2-5dbb3cf2f1bc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cbfxAv4yXvIVE3aCkHQdkZr88nYrgaYpLG8B9siFeUs
+id: snape_grass
+item_id: '469'
+item_description: 'Strange spikey grass'
+label: 'Snape grass'

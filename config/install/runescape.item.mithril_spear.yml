@@ -1,0 +1,10 @@
+uuid: 94c78af7-a9dc-44dc-8856-fb71a0567e9a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6v1trTP-VY7-MhTXyJ2fgcqVqx2lZ-jXllzWYNJiVdg
+id: mithril_spear
+item_id: '1090'
+item_description: 'A mithril tipped spear'
+label: 'Mithril Spear'

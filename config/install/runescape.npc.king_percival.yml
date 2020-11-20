@@ -1,0 +1,11 @@
+uuid: 4e90305a-f067-43d5-862c-922a931bbf2d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JdX70HDa9XAGOywSEQ9_XwSCwJdc7tRTTAGuIh4LG3c
+id: king_percival
+npc_id: '415'
+npc_description: 'The new fisher king'
+label: 'King Percival'
+items: null

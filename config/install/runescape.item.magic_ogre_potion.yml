@@ -1,0 +1,10 @@
+uuid: b765126a-4866-46fd-ada9-30d5402af429
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xuHQ6jPFK_PrT3OtZCDK2fL-sT5IdO7XhdPsHNjFsJY
+id: magic_ogre_potion
+item_id: '1054'
+item_description: 'A strange liquid that bubbles with power'
+label: 'Magic ogre potion'

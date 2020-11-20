@@ -1,0 +1,10 @@
+uuid: 1b5442bb-52ef-4b6f-9470-a412dae46a04
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FMCD0ldeCtO6qAk4UhXb7XAOAxLAvBH1NgMS29uiLVU
+id: blessed_golden_bowl_with_plain_water
+item_id: '1286'
+item_description: 'A golden bowl filled with plain water'
+label: 'Blessed Golden Bowl with plain water'

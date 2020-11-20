@@ -1,0 +1,11 @@
+uuid: d73f8b68-1c99-4207-bf74-5e7d3fdfe4e2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d-4V6GJMwH5EXQYiPF10p-mYUQglUe7uOCOuZtqhgpM
+id: black_heather
+npc_id: '237'
+npc_description: 'A bandit leader'
+label: 'Black Heather'
+items: null

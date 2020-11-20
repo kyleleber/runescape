@@ -1,0 +1,10 @@
+uuid: 497fdc28-a5a6-445d-88ad-71129e119104
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ac1j_0fDiVUHriExuazvTaIJIoiI4QtXYJsQyIuZdYw
+id: raw_trout
+item_id: '358'
+item_description: 'I should try cooking this'
+label: 'Raw Trout'

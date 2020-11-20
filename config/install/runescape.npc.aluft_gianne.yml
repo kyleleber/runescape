@@ -1,0 +1,11 @@
+uuid: 6997956e-6c40-4b3a-9214-4375b8db2fd6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FruK3F3LPA7G-MIlNviK_5BWScKhK6jL6KK-Kh27tp0
+id: aluft_gianne
+npc_id: '536'
+npc_description: 'Its a tree gnome chef'
+label: 'Aluft Gianne'
+items: null

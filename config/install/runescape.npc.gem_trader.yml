@@ -1,0 +1,11 @@
+uuid: 1f20373b-8f46-4fed-b9b6-bcbeeac6d633
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mlVjZxRKTPX-K6qW8qTWR18HZJfpbk_mgrI40cpIp5w
+id: gem_trader
+npc_id: '308'
+npc_description: 'He sells gems'
+label: 'gem trader'
+items: null

@@ -1,0 +1,10 @@
+uuid: 3214e132-df95-4349-82f8-0695d3ed6fb0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-PCy6VTo6BkENprNfAw1QlGeOdSBvldK9_BDiXWFG9E'
+id: gnome_batta
+item_id: '946'
+item_description: 'smells like pants'
+label: 'gnome batta'

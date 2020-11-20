@@ -1,0 +1,10 @@
+uuid: f63163ff-bb19-4586-882b-5476e975a1d8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hLkSjMBnF2qBSoJnKbC4Yu8yE4iw_NIAK8hNdf1Wisg
+id: bass_certificate
+item_id: '628'
+item_description: 'Each certificate exchangable at Catherby for 5 bass'
+label: 'bass certificate'

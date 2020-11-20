@@ -1,0 +1,10 @@
+uuid: e585e08b-47fb-46f4-becd-0f44c5f96756
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3c6EreRIdpY0PeL8AQeVf7o1pL0DLye0YqSmvM9_i90
+id: radimus_scrolls
+item_id: '1233'
+item_description: 'Mission briefing and the completed map of Karamja - Sir Radimus will be pleased...'
+label: 'Radimus Scrolls'

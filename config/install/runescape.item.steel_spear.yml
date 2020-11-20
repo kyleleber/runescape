@@ -1,0 +1,10 @@
+uuid: 07fa1de7-8e68-4cd9-8829-68d234f767e8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: J2U0nO41SITHF0Zy_NIChIyvpJYhRUQ13eG-JGH4viU
+id: steel_spear
+item_id: '1089'
+item_description: 'A steel tipped spear'
+label: 'Steel Spear'

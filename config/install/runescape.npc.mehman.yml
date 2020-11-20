@@ -1,0 +1,11 @@
+uuid: 7848b3b7-f897-4f19-998a-92c4a14407ae
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OibCBftfH6zKij9W4K7oJPhBN5WhmVyAFeO-TQzHYU0
+id: mehman
+npc_id: '553'
+npc_description: local
+label: Mehman
+items: null

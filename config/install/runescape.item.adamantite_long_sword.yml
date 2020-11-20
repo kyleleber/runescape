@@ -1,0 +1,10 @@
+uuid: ffffa809-c3a3-49ff-a334-c36dc63a315e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nDtdcTtqP5UYPXdSPlN6XPbDp1CBD7mSD6xnl20IaWQ
+id: adamantite_long_sword
+item_id: '74'
+item_description: 'A razor sharp sword'
+label: 'Adamantite Long Sword'

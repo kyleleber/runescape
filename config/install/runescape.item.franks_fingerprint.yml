@@ -1,0 +1,10 @@
+uuid: f95addaa-6916-4498-950f-14bc361bad14
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eAH9Xi3veYaKPBaBBTagGiXDxiww_sqyR6m8AAPkPDY
+id: franks_fingerprint
+item_id: '1212'
+item_description: 'An impression of Franks fingerprint'
+label: 'Franks fingerprint'

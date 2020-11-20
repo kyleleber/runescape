@@ -1,0 +1,10 @@
+uuid: d3c18de2-2692-4e1e-befe-7de73e35e0e4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HvJ-l4sQeD9RJIALkFbG2P3_JPDykyxKmbf3avDEYdU
+id: amulet_of_holthion
+item_id: '1011'
+item_description: 'A strange looking amulet'
+label: 'Amulet of Holthion'

@@ -1,0 +1,10 @@
+uuid: 5df6ca79-827d-471d-a298-df715555d5f1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: knueogvCGYdjs7IKCdHDlEzr7lGPDviqMe2mj-y1BmU
+id: fingernails
+item_id: '1036'
+item_description: 'Ugh gross!'
+label: Fingernails

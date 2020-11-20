@@ -1,0 +1,10 @@
+uuid: 769ac30b-400d-48d2-86d0-686007cfc451
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: a1f68K-tBqisbYacXOQy7xubiITBe65knmfVkCZL0Sw
+id: uncut_diamond
+item_id: '157'
+item_description: 'this would be worth more cut'
+label: 'uncut diamond'

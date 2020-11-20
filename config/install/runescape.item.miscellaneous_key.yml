@@ -1,0 +1,10 @@
+uuid: 7199105d-d9da-4ea6-9598-58483567c4f6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 50F2sk0PsHaalsAhmKwOF0JQYIe7XgKwnZRiLFLkHbE
+id: miscellaneous_key
+item_id: '582'
+item_description: 'I wonder what this unlocks'
+label: 'Miscellaneous key'

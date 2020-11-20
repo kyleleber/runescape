@@ -1,0 +1,10 @@
+uuid: 242427b2-e7f0-4874-818e-ba5f1ffb958f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OLp3aEAbS431D2Wm6Ov-otn-k-oaRoJj0y8_Owt5H7k
+id: sinister_key
+item_id: '932'
+item_description: 'You get a sense of dread from this key'
+label: 'Sinister key'

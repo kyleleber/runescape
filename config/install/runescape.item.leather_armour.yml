@@ -1,0 +1,10 @@
+uuid: 13d2ca61-a4e8-4b9e-9632-93314462f88d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PX1BRtmySzFSOX6-S2Z6COKRofwWbpu80NxiOO4WLIc
+id: leather_armour
+item_id: '15'
+item_description: 'Better than no armour!'
+label: 'Leather Armour'

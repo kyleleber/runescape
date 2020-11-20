@@ -1,0 +1,10 @@
+uuid: c47fbc85-e21b-469d-91f2-303c923ab77b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KHwjUtAmljgT01a84lvIHoViIiXuKJv1rsbSVT5NfzY
+id: little_key
+item_id: '780'
+item_description: 'Quite a small key'
+label: 'little key'

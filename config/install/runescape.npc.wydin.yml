@@ -1,0 +1,11 @@
+uuid: 7a04071b-c048-4e5f-a47e-8e574ff17027
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4o11JOWj4Ip6hBfwW_mPpo0GwrdKcEUhHbqJ6ho-sh8
+id: wydin
+npc_id: '129'
+npc_description: 'A grocer'
+label: Wydin
+items: null

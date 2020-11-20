@@ -1,0 +1,10 @@
+uuid: cdff8b3f-5e7e-4b25-8395-794e063cfccb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Zx4tjL-PJ0XeTqfAIkrFfPPzTlYaw7xD_P73Ks0UyqI
+id: gold_nuggets
+item_id: '1118'
+item_description: 'Real gold pieces!'
+label: 'gold Nuggets'

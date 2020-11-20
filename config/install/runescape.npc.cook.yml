@@ -1,0 +1,11 @@
+uuid: 1336f92e-580e-43ff-bfec-9036bb3a07b5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2pDuTuWzi1WOB3cN5K4Z6Xp9ZSrw_6WgjcC1mb3yzbY
+id: cook
+npc_id: '7'
+npc_description: 'The head cook of Lumbridge castle'
+label: cook
+items: null

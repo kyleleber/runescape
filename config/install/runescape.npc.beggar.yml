@@ -1,0 +1,11 @@
+uuid: ddbf1907-bea3-4929-b121-5be2c3318da5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: T6znNq6wGz9ydOJtNVPD5XFc1ZYlhWSNj6XxEWJDz1o
+id: beggar
+npc_id: '286'
+npc_description: 'A scruffy looking chap'
+label: Beggar
+items: null

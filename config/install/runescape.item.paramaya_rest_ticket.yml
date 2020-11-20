@@ -1,0 +1,10 @@
+uuid: d1a28d28-1dd9-446c-a902-e6f4fbc8a853
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5uhamUhM2W0LZSYmA3xz-9c3Qjqs9IEoVUhb9iivC-s
+id: paramaya_rest_ticket
+item_id: '987'
+item_description: 'Allows you to rest in the luxurius Paramaya Inn'
+label: 'Paramaya Rest Ticket'

@@ -1,0 +1,10 @@
+uuid: e5692855-6dba-41b5-8674-e565dcab95e7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OVkLDxg_6xICieG3rKOG8YDbU6oiWBZVDVUsQcGkk9Y
+id: davids_fingerprint
+item_id: '1210'
+item_description: 'An impression of Davids fingerprint'
+label: 'Davids fingerprint'

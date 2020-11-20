@@ -1,0 +1,10 @@
+uuid: d27f2beb-c40e-4fbe-bd2b-42be136f8b55
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dHfniIRCbI83iYTdwQ5Xdmp4ypnBwrkNwvKBaw7A2Hw
+id: iron_spear
+item_id: '1088'
+item_description: 'An iron tipped spear'
+label: 'Iron Spear'

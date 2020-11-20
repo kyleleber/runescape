@@ -1,0 +1,10 @@
+uuid: bf71fb39-1442-4ade-9739-ff1d78a2bf5d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lNVjl3tAF-V_-kRguO_g0udDBuilsfk4xyPWGksiMWQ
+id: copper_ore
+item_id: '150'
+item_description: 'this needs refining'
+label: 'copper ore'

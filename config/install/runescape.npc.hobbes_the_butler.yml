@@ -1,0 +1,11 @@
+uuid: deee1468-fbe6-4920-807e-18125ae1b31a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xuYy1zoIu7qwCQyI9OTnmejg6-g4uQkRrHV_dIuHHIs
+id: hobbes_the_butler
+npc_id: '743'
+npc_description: 'Its the family butler'
+label: 'Hobbes the Butler'
+items: null

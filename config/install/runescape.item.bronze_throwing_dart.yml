@@ -1,0 +1,10 @@
+uuid: a887d54d-662a-4a36-965a-a8ef8666320c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BKse-bhWN8hwfgjPI4hU23NIPTtohlOOpdJA0jjMVqg
+id: bronze_throwing_dart
+item_id: '1013'
+item_description: 'A deadly throwing dart with a bronze tip.'
+label: 'Bronze Throwing Dart'

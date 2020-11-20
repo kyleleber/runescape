@@ -1,0 +1,10 @@
+uuid: 2dfeaa07-b547-436b-872a-307f9f87d559
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TJ4a70qxfkcqox0FkkEv8jghLO6UBE6MZpMxd2A4J7Q
+id: adamantite_pickaxe
+item_id: '1261'
+item_description: 'Requires level 31 mining to use'
+label: 'Adamantite Pickaxe'

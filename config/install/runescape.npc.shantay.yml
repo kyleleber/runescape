@@ -1,0 +1,11 @@
+uuid: 5734b366-9379-4358-80ae-69380777097b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bwYviylewf2GW7u1OtMnOSCABhMByc5xLtFKGZQ1-mI
+id: shantay
+npc_id: '549'
+npc_description: human
+label: Shantay
+items: null

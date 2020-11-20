@@ -1,0 +1,10 @@
+uuid: ef98002d-26f1-4967-97ff-2ed696550cd2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: X-oaKC1duvjW92Kedt8HJ-nHLNzwcUbWWfju_0w65Gg
+id: ruby_amulet
+item_id: '304'
+item_description: 'I wonder if I can get this enchanted'
+label: 'Ruby Amulet'

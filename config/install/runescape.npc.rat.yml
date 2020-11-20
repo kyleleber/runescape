@@ -1,0 +1,11 @@
+uuid: 94a6d55c-de02-4be5-9a97-154546e37af1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ne-znJtKlts8cGCz0xAOqvq2a_FO-eSLuyFkD6qY1Bo
+id: rat
+npc_id: '473'
+npc_description: 'Overgrown vermin'
+label: Rat
+items: null

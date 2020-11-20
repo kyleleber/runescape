@@ -1,0 +1,10 @@
+uuid: 3129fbfa-7592-4fd9-931c-ff86c58e55e7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4uSa4pqXOIrY8W3R2mLDh-XN3NYkcNU_keJfdipS7pg
+id: faladian_knights_sword
+item_id: '265'
+item_description: 'A razor sharp sword'
+label: 'Faladian Knight''s sword'

@@ -1,0 +1,10 @@
+uuid: 3364d06d-0d19-4294-9914-f24c24413c08
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KRZ0IaCQspuBXqjPmMi3sb6DjTbXCpLSz_yhFC8dI80
+id: barcrawl_card
+item_id: '668'
+item_description: 'The official Alfred Grimhand barcrawl'
+label: 'barcrawl card'

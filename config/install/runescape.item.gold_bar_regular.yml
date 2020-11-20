@@ -1,0 +1,8 @@
+uuid: 0ced8539-348b-4b43-b0a9-c5e86d1db57b
+langcode: en
+status: true
+dependencies: {  }
+id: gold_bar_regular
+item_id: '172'
+item_description: 'This looks valuable'
+label: 'Gold Bar'

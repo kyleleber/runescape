@@ -1,0 +1,10 @@
+uuid: e93f90a2-73fb-4a5f-9666-7da2f4e21428
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DkT0sVeUsbpp5kAvgr_7JZ0Nkatxl5VY5jwzvFGK89Q
+id: bread
+item_id: '138'
+item_description: 'Nice crispy bread'
+label: bread

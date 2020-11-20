@@ -1,0 +1,10 @@
+uuid: 4533ee3b-7092-4ee9-a1b4-3194175b976a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ued-DPu66F1CI38aU5ji1u44vy8j8og-svWCWFYljuo
+id: water_skin_mouthful_left
+item_id: '1084'
+item_description: 'A waterskin with a mouthful of water left'
+label: 'Water Skin mouthful left'

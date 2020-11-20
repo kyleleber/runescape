@@ -1,0 +1,10 @@
+uuid: 764cb04d-1790-4b60-95f6-ba9d6fa47dbe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: T5IaqmUMKqujz0vpZ8oTueZsgbyAp_IVJnmsxGSrwNs
+id: volencia_moss
+item_id: '822'
+item_description: 'A very rare species of jungle herb'
+label: 'Volencia Moss'

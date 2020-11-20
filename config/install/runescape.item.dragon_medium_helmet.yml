@@ -1,0 +1,10 @@
+uuid: 34daffde-b42b-4017-b1a3-ec476005d388
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8DoP10pbHws3VtxVLAsA6L6QR4TSnPlXbeLlUD95BxM
+id: dragon_medium_helmet
+item_id: '795'
+item_description: 'A medium sized helmet'
+label: 'Dragon medium Helmet'

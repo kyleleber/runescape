@@ -1,0 +1,10 @@
+uuid: 848bd9c9-ca7d-4f51-bd6a-ae0c56dbd301
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: es0OPb3gvvs7-iPU5vFEmuC3eRIWzgffhgNmJ3YZbkY
+id: broken_arrow
+item_id: '1165'
+item_description: 'that''s been here some time'
+label: 'broken arrow'

@@ -1,0 +1,11 @@
+uuid: e1b5e8cd-3c2d-4206-972c-966b0798eaf3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cJ6-5FxmpDnSsfMhf3nPD9Q4JsiI_zvLGS3Lv4knp6M
+id: hudo_glenfad
+npc_id: '537'
+npc_description: 'Its another jolly tree gnome'
+label: 'Hudo glenfad'
+items: null

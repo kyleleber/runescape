@@ -1,0 +1,10 @@
+uuid: 00e4e279-1033-4088-b838-4f8e2010a593
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iB0OEmYYxRZufx7ok5N1jmACA2qIz81rmTAFKwid7tg
+id: prayer_potion_certificate
+item_id: '1272'
+item_description: 'Each certificate exchangable at Yanille for 5 prayer potions'
+label: 'Prayer Potion Certificate'

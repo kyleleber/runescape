@@ -1,0 +1,11 @@
+uuid: 8ebac560-68f1-4af9-9bae-0e0e07b4f8c2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Wi1snQUYRxx-UnnKR0aFlAGhYNoF25P7k-5iYxrXvv4
+id: khazard_scorpion
+npc_id: '386'
+npc_description: 'A large angry scorpion'
+label: 'Khazard Scorpion'
+items: null

@@ -1,0 +1,11 @@
+uuid: d18898ce-413b-4b6c-9c69-01e3ab80d9d1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sGzYeJGL8nd0nKELMY9XgnUriItHDqnC9RdoLa2pGRY
+id: echned_zekin
+npc_id: '740'
+npc_description: 'An evil spirit of the underworld.'
+label: 'Echned Zekin'
+items: null

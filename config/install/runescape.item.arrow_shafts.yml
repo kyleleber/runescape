@@ -1,0 +1,10 @@
+uuid: a7900779-89c5-4ff8-809d-9576ffeb67be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z8BkJJLdb66eB4EXI5qaZfFWg7902i9JJDAMuHwHB6o
+id: arrow_shafts
+item_id: '280'
+item_description: 'I need to attach feathers to these'
+label: 'arrow shafts'

@@ -1,0 +1,11 @@
+uuid: 1debecd0-efea-421f-b51e-5a21cec5e004
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kaalQYysdEMwLyUxPHJ1kFB6DJgDFQ-dkFCaO_tNJag
+id: shop_keeper
+npc_id: '528'
+npc_description: 'he sells weapons'
+label: 'shop keeper'
+items: null

@@ -1,0 +1,10 @@
+uuid: dc4101c5-f39c-49b7-ad10-129c58a54170
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gsj-bmCoCO1rlnzclh80Nj6Y39S13lvsrsm8zvyqsYE
+id: belt_buckle
+item_id: '1151'
+item_description: 'been here some time'
+label: 'Belt buckle'

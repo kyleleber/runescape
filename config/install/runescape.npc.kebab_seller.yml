@@ -1,0 +1,11 @@
+uuid: 57bce485-d59e-471f-9711-672e7c099a2d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: u57b4JwbjZ-ocId2M8x6uVMsB8F42KZNRDlmgziw7AY
+id: kebab_seller
+npc_id: '90'
+npc_description: 'A seller of strange food'
+label: 'Kebab Seller'
+items: null

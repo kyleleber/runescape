@@ -1,0 +1,10 @@
+uuid: 912e7a60-4001-4e92-8e73-877431bafaca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eI16wF8MYYg6F4xJY0z8tmzE_uCmkFwhLa8IiO7ZU4E
+id: fly_fishing_rod
+item_id: '378'
+item_description: 'Useful for catching salmon or trout'
+label: 'Fly Fishing Rod'

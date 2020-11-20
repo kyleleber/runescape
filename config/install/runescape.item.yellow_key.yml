@@ -1,0 +1,10 @@
+uuid: e7f0d069-3211-4914-9b52-84115f66a495
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c-rIUhIIOuyJAEtOHH3Gdl3qP9oifZpMPE_WvSNlTB0
+id: yellow_key
+item_id: '392'
+item_description: 'A painted key'
+label: 'yellow key'

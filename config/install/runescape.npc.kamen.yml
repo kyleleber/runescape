@@ -1,0 +1,11 @@
+uuid: 1788eb40-090d-48ff-a2c9-9226ee3a0f7e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yjA-8IRZulJzmkfbk3jzAFsr7WLOWaualMl6PSrUB_o
+id: kamen
+npc_id: '657'
+npc_description: 'A short angry guy'
+label: Kamen
+items: null

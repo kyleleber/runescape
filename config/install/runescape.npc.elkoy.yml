@@ -1,0 +1,11 @@
+uuid: 4def5a8e-7969-473e-bb77-cd9ac470f068
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: K7T_2DPvWeNACWS1pmvPMysK6RWeYKKRvcY56REha1U
+id: elkoy
+npc_id: '396'
+npc_description: 'It''s a tree gnome'
+label: elkoy
+items: null

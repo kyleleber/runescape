@@ -1,0 +1,10 @@
+uuid: 6f40705d-a59d-4e6a-b0a1-22609d067805
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9mA53yb4SXAKtLP4BN5MRzzce2KyUMK_vV92j5sz5JU
+id: redberry_pie
+item_id: '258'
+item_description: 'Looks tasty'
+label: 'Redberry pie'

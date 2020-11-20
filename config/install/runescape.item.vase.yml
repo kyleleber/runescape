@@ -1,0 +1,10 @@
+uuid: 7d77b229-7644-459a-a760-809495641868
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rWmbs5K69uH4F2AHEOFKXIlnQDx1EprDNXsIqBmEW04
+id: vase
+item_id: '1168'
+item_description: 'An old vase'
+label: vase

@@ -1,0 +1,10 @@
+uuid: f3d1f9ee-7726-4fe0-b6fe-cd061c4e14d2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KZGzQh9jFCczmqmb6sN6bgqVC8-r8Vr7HmOvgi9Sld4
+id: steel_short_sword
+item_id: '67'
+item_description: 'A razor sharp sword'
+label: 'Steel Short Sword'

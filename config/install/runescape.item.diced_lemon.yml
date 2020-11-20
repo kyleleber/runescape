@@ -1,0 +1,10 @@
+uuid: b0e8d882-99e8-40ef-adb2-9363196be0d6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XoxVHHwzpcDrKsqwNEG9Rx7L-aK1JkRibual4fscx1A
+id: diced_lemon
+item_id: '860'
+item_description: 'Fresh chunks of lemon'
+label: 'Diced lemon'

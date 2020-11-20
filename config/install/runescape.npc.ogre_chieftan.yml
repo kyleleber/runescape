@@ -1,0 +1,11 @@
+uuid: 7a394b3d-96da-447a-a98f-237f7b2f003b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QGeYjnX89X_jPZkCTC1qToBIYLh3bH_CO8uYTYkggd4
+id: ogre_chieftan
+npc_id: '531'
+npc_description: 'A slightly bigger uglier ogre'
+label: 'Ogre chieftan'
+items: null

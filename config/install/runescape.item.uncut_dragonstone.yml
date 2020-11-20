@@ -1,0 +1,10 @@
+uuid: 79c52ab9-1124-43ee-96ea-f3f9daa19d0c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zXaftkLlFv2kT2_2TpUdEFCAHoXFkvad8z3gb1ZMJpI
+id: uncut_dragonstone
+item_id: '542'
+item_description: 'this would be worth more cut'
+label: 'uncut dragonstone'

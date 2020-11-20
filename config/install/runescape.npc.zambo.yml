@@ -1,0 +1,11 @@
+uuid: 3018fc1b-d78a-4dc4-8c71-21612e4fde9e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EPSzteIWkdJ44y-gsY9wRCvtlHuP4ZdcSxFwLn4hdfE
+id: zambo
+npc_id: '165'
+npc_description: 'He will sell me exotic rum'
+label: Zambo
+items: null

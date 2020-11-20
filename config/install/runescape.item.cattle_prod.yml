@@ -1,0 +1,10 @@
+uuid: 59d19f26-d754-41ef-8a73-f1253a226f9f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ViTZiT0OIxTDtqjHjT7HYxFkc106uIlfzsn6RxiWbXc
+id: cattle_prod
+item_id: '757'
+item_description: 'An old cattle prod'
+label: 'Cattle prod'

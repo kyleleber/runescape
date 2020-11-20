@@ -1,0 +1,10 @@
+uuid: 12aec16b-61fe-4add-86d6-291f8debe448
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tAM81YmEbg68QIJpkbTe9Fm-r28YMIj0swQursDKz0Q
+id: gold_ring
+item_id: '283'
+item_description: 'A valuable ring'
+label: 'Gold ring'

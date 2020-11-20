@@ -1,0 +1,10 @@
+uuid: a392b79b-c88b-4d24-b8cb-bb56ff0d7238
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-nQVtamt5o57RIBLS-O5TdYB0A5NuW5W4Dd_42TuX2E'
+id: keyprint
+item_id: '247'
+item_description: 'An imprint of a key in a lump of clay'
+label: Keyprint

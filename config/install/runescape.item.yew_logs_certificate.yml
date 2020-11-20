@@ -1,0 +1,10 @@
+uuid: a8cccb5a-c39f-41db-b274-ecf6cb863439
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2-PnwennLfTAMkbWV_LYkA4agNk2LxFj-7xnP1S4VAo
+id: yew_logs_certificate
+item_id: '711'
+item_description: 'Each certificate exchangable at Ardougne for 5 yew logs'
+label: 'yew logs certificate'

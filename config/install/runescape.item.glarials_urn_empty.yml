@@ -1,0 +1,10 @@
+uuid: 381fe158-01b6-4c51-8e5e-c9283af40a1c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ywaT1pllvIm5Cg3iEWg8SalJO2yFoQ-gdgTmbcE3tvM
+id: glarials_urn_empty
+item_id: '806'
+item_description: 'An empty metal urn'
+label: 'Glarials urn'

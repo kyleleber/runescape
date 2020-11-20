@@ -1,0 +1,10 @@
+uuid: 50bd9257-1117-43a1-9739-7896638f2f4f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QIaqXXlbWBVncq9Z23QGa_KfwLy2AXVqVDqpgAdc84I
+id: steel_throwing_dart
+item_id: '1024'
+item_description: 'A deadly throwing dart with a steel tip.'
+label: 'Steel Throwing Dart'

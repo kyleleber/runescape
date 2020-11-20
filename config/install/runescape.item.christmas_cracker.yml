@@ -1,0 +1,10 @@
+uuid: 2ce2d6ee-ba1f-498f-ac7e-200bd7357df1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v3wZKLgbQZ9dg_Ac3y9OyrcdiiOH-XIH2WVt0QLx2JI
+id: christmas_cracker
+item_id: '575'
+item_description: 'Use on another player to pull it'
+label: 'Christmas cracker'

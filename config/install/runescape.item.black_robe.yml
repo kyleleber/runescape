@@ -1,0 +1,10 @@
+uuid: 1eaaa963-c940-4e65-a411-d4372d5d7c33
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: A0U6dSLCynAH-Jl3cLQlhKTd2jxDWflfFpP0AdlECOk
+id: black_robe
+item_id: '216'
+item_description: 'I can do magic better in this'
+label: 'Black robe'

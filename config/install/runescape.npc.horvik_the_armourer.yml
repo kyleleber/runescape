@@ -1,0 +1,11 @@
+uuid: 73423bfd-4359-481e-99fb-fa5980d7f4f2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MTDH_t1oqCtmWBZ9euAxnU26wVyx1_VzR4kZFWJZbj8
+id: horvik_the_armourer
+npc_id: '48'
+npc_description: 'He looks strong'
+label: 'Horvik the Armourer'
+items: null

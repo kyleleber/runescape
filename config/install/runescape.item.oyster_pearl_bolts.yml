@@ -1,0 +1,10 @@
+uuid: 93426243-a8c0-4885-91a3-f54f6e0a46a4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8168iE91JrCAC5cTSIEQDDGlN8AXEspqzUEpLHE0scM
+id: oyster_pearl_bolts
+item_id: '786'
+item_description: 'Great if you have a crossbow!'
+label: 'Oyster pearl bolts'

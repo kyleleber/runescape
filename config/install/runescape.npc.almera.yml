@@ -1,0 +1,11 @@
+uuid: 819f7f46-0c76-402c-96ba-e89a07ed232b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: s_52nAI6UmNwILje_Miw41gQE4m5PXwDkTzyTOoBboM
+id: almera
+npc_id: '470'
+npc_description: 'A woman of the wilderness'
+label: Almera
+items: null

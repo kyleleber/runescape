@@ -1,0 +1,10 @@
+uuid: 10a66463-c09f-488f-abb7-0631aab2bf88
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IGmZk7DR57aFkcBF2Y1SzV94pHKbZxq6OC5tTFm6Lsg
+id: steel_battle_axe
+item_id: '90'
+item_description: 'A vicious looking axe'
+label: 'Steel battle Axe'

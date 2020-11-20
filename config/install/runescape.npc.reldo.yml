@@ -1,0 +1,11 @@
+uuid: b289ffe2-6845-48c4-82c4-fc0693e90a0d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oiXI-bdB2XlWO0goYqXE8Aa296QYvF4ci6bjVOx_wSM
+id: reldo
+npc_id: '20'
+npc_description: 'I think he''s the librarian'
+label: Reldo
+items: null

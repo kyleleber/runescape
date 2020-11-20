@@ -1,0 +1,10 @@
+uuid: 84557106-c4e1-41b3-b7f7-66b34655f142
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6gilmH2_cOkpYpNDqBDYt6bwWRudTae8493pR7AGJDQ
+id: a_hunk_of_crystal
+item_id: '1221'
+item_description: 'A reddish crystal fragment - it looks like it formed a shape at one time.'
+label: 'A hunk of crystal'

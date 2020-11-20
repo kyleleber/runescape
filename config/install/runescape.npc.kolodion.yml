@@ -1,0 +1,11 @@
+uuid: 4a857710-2580-4723-8bcf-79e3333fee3e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zenXHMc4YthPVkmOZrFBgEGQj2iWQg7kN5VTQlP0gBc
+id: kolodion
+npc_id: '760'
+npc_description: 'Hes a shape shifter'
+label: kolodion
+items: null

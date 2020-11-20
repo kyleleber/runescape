@@ -1,0 +1,9 @@
+uuid: 81d55fb4-d77c-4574-835a-2ed9ff8760e2
+langcode: en
+status: true
+dependencies: {  }
+id: bear_lvl_24_
+npc_id: '8'
+npc_description: 'Eek! A bear!'
+label: 'Bear (lvl 24)'
+items: ''

@@ -1,0 +1,11 @@
+uuid: 1e073fff-cdfd-462a-9b2d-34608578ad75
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 32R7wZn13gjm7Vz_xnLjp6UkT6IUu_Q4lQv1LeVnfqI
+id: baby_blue_dragon
+npc_id: '203'
+npc_description: 'Young but still dangerous'
+label: 'Baby Blue Dragon'
+items: null

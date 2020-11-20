@@ -1,0 +1,10 @@
+uuid: 47f0dc44-619b-413e-af1e-2706ffd281fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qzcj7uSCUV056oNnjJTaHoSqRdz_r5IP_NfgcTZUs6M
+id: cracked_rock_sample
+item_id: '1150'
+item_description: 'It''s been cracked open'
+label: 'Cracked rock Sample'

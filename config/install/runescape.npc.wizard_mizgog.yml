@@ -1,0 +1,11 @@
+uuid: 2e5aa9ae-723e-43a9-b6bc-cd5d3ed132c1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pqzIdbHZGMom8htQeiTD-EzqvtDUyIVohJIf0LKX1cM
+id: wizard_mizgog
+npc_id: '117'
+npc_description: 'An old wizard'
+label: 'Wizard Mizgog'
+items: null

@@ -1,0 +1,10 @@
+uuid: 89c425b2-b8d9-40b4-9919-be9cffcb7b65
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YBE54vraKLg2XhHaJBRMDZulRHCEu1TqpBxaCSSwP6o
+id: ground_blue_dragon_scale
+item_id: '472'
+item_description: 'This stuff isn''t good for you'
+label: 'Ground blue dragon scale'

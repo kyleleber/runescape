@@ -1,0 +1,8 @@
+runescape_map_tracking.map:
+  path: '/runescape/tracking-map'
+  defaults:
+    _controller: '\Drupal\runescape_map_tracking\Controller\TrackingMap::build'
+    _title: 'Runescape Tracking Map'
+  requirements:
+    _permission: 'access content'
+

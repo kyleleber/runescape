@@ -1,0 +1,10 @@
+uuid: aaf0d0dd-e51f-45fe-bf41-39129b422013
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9M_HkOlFOISJPrbez8zdJPo5FuVr4xCufZgm04yPnnw
+id: iron_plate_mail_body
+item_id: '8'
+item_description: 'Provides excellent protection'
+label: 'Iron Plate Mail Body'

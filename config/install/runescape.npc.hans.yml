@@ -1,0 +1,11 @@
+uuid: 70d45d3d-a9c4-4a55-a507-431a52398175
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2To2akTgafUrDoNTgn-xr9ezkqjSZN7nbQdpKcAdIMs
+id: hans
+npc_id: '5'
+npc_description: 'A castle servant'
+label: Hans
+items: null

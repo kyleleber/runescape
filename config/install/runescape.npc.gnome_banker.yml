@@ -1,0 +1,11 @@
+uuid: 9c538049-bc94-4fea-a857-0a149cfc72c9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: z9pLfEmw3ZegAswrt7Zb3EJICCQrJD32o08-_HNg9Os
+id: gnome_banker
+npc_id: '540'
+npc_description: 'Its tree gnome banker'
+label: 'Gnome banker'
+items: null

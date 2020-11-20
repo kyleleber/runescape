@@ -1,0 +1,11 @@
+uuid: 887df80b-5b54-4652-a62f-98e4746cffb2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fpgbcH7VIn8K9qOontH2wS3fctkaXXSlGyBVwQggmGE
+id: brother_cedric
+npc_id: '357'
+npc_description: 'A Peaceful monk'
+label: 'Brother Cedric'
+items: null

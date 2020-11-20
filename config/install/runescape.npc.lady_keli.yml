@@ -1,0 +1,11 @@
+uuid: c68f9074-0530-463c-9ae6-b3dddf29513c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NrTxb-PiWfqnlJbGgPE8UKqhhFZh6nKyKWib9AxHw4o
+id: lady_keli
+npc_id: '123'
+npc_description: 'An Infamous bandit'
+label: 'Lady Keli'
+items: null

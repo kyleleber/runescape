@@ -1,0 +1,11 @@
+uuid: 6f0aa958-4221-4b2f-9b15-4a0cf21d60c5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d_CIX79vv4qiyyHBZzjzH2fN6AuR6-ybmUbQMEWiqKw
+id: king_narnode_shareen
+npc_id: '545'
+npc_description: 'Its a gnome he looks important'
+label: 'King Narnode Shareen'
+items: null

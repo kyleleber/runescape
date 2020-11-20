@@ -1,0 +1,11 @@
+uuid: b0150ecb-8f10-40b7-b781-f50402312881
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MmCuZpVXPtEAZfov0SXuh6KM8DAfQxu7VBIjih15lM4
+id: tree_spirit
+npc_id: '216'
+npc_description: 'Ooh spooky'
+label: 'tree spirit'
+items: null

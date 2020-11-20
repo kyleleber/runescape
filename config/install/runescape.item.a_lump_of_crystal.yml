@@ -1,0 +1,10 @@
+uuid: e0e708be-0ec5-49a7-a7dd-177d69d97c35
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9KHsu0FdpMs7wp1p9HIPURFX8epVZkxAT-xxXu8Wing
+id: a_lump_of_crystal
+item_id: '1220'
+item_description: 'A reddish crystal fragment - it looks like it formed a shape at one time.'
+label: 'A lump of crystal'

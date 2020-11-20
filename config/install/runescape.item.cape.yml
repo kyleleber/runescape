@@ -1,0 +1,10 @@
+uuid: 354267bf-63c4-473a-8367-57bcc78ce08c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zc5yh1ASbMocs3AwURSlY2kgfycQrte2B3Ykg6jd8RM
+id: cape
+item_id: '514'
+item_description: 'A thick purple cape'
+label: Cape

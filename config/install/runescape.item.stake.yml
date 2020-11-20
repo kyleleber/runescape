@@ -1,0 +1,10 @@
+uuid: 89ee4bb9-5fee-43b5-a0fc-880c04a4bddf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YuwObYUeVTLVPk9Un1X6-cBNPCtK9zAYHzs7-co5jVU
+id: stake
+item_id: '217'
+item_description: 'A very pointy stick'
+label: stake

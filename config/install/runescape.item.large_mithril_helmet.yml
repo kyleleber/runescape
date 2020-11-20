@@ -1,0 +1,10 @@
+uuid: fcecc5ca-3f55-4f79-ae9e-af34e5c305b6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: J-cvsZPt-xZFVCAokMGP_o110g3IR4bSmWknpeJTrW4
+id: large_mithril_helmet
+item_id: '110'
+item_description: 'A full face helmet'
+label: 'Large Mithril Helmet'

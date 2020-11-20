@@ -1,0 +1,10 @@
+uuid: d7423395-c3bf-4937-847b-42b2cecfe807
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PNG3uhTdp4EH2pKQrzPerUw5n9Uo4y3MRwyxusVDuuo
+id: rock_sample
+item_id: '1149'
+item_description: 'A rock sample'
+label: 'Rock Sample'

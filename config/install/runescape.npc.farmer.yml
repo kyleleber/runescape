@@ -1,0 +1,11 @@
+uuid: ca199aec-95dd-4677-aaa2-ddec897baba8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YtwwaHwQ8-mqE7bk8UcWTXg_aVqRYM4bXZ1Qg467Wng
+id: farmer
+npc_id: '319'
+npc_description: 'An humble peasant'
+label: farmer
+items: null

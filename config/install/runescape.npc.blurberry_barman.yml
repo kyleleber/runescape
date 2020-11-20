@@ -1,0 +1,11 @@
+uuid: fd2678ab-cee0-442c-8566-bad88aa972c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6sjqs9X_NFW7W2zijBnXnbWhmcTOXlsnP_wAzNiqJX4
+id: blurberry_barman
+npc_id: '580'
+npc_description: 'He serves cocktails'
+label: 'Blurberry barman'
+items: null

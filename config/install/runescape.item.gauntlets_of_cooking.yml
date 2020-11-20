@@ -1,0 +1,10 @@
+uuid: b197e293-c2cf-4bdf-a3d5-6f0387a6a2ba
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yt6XSbHv0hlfR6DgqoRZ8g33w6_JX7fSJIhIiUF2Lf4
+id: gauntlets_of_cooking
+item_id: '700'
+item_description: 'Used for cooking fish'
+label: 'gauntlets of cooking'

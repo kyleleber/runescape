@@ -1,0 +1,10 @@
+uuid: ed9b4dcf-f845-4ed3-9a7b-d912fb97512a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VJpMEcf0NSIFEWfrvzDfYX8zU3P1YZyrGEfI7WCQw94
+id: iron_arrow_heads
+item_id: '670'
+item_description: 'Not much use without the rest of the arrow!'
+label: 'iron arrow heads'

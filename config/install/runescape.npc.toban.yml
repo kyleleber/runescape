@@ -1,0 +1,11 @@
+uuid: f10a6a21-6765-4c28-9d29-d963c1d12b2d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CO5WWtZcbU3oSVsZ3wWDEg45S0PuE6MBSLHMFzC69fU
+id: toban
+npc_id: '682'
+npc_description: 'The chieftan of this ogre tribe'
+label: Toban
+items: null

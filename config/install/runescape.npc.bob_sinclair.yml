@@ -1,0 +1,11 @@
+uuid: 80768d8a-8ce5-4d0b-a0ca-048ebe685aaa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6AO1Lhy_657AT1PVIlVTyVJ7TOUTAT21OjHHNkPVHF0
+id: bob_sinclair
+npc_id: '752'
+npc_description: 'The second child of the late Lord Sinclair'
+label: 'Bob Sinclair'
+items: null

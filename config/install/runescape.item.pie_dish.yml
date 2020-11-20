@@ -1,0 +1,10 @@
+uuid: 0bce4097-c5c0-4f1c-95aa-1ad2434a8a2d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VxaeVdaSwMz6rBv4Pl-P-haKmyPWqRFGAWkaDrD8p0Y
+id: pie_dish
+item_id: '251'
+item_description: 'For making pies in'
+label: 'Pie dish'

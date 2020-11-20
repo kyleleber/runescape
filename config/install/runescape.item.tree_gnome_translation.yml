@@ -1,0 +1,10 @@
+uuid: b2943ee3-f8bb-4742-9740-401d692bc074
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GjKWhcuACyss_mdSOtX0qw54MQUXg025KMsANNUwW60
+id: tree_gnome_translation
+item_id: '918'
+item_description: 'Translate the old gnome tounge'
+label: 'tree gnome translation'

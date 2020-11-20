@@ -1,0 +1,10 @@
+uuid: 8ba30e1c-9176-4304-bf1d-4bc73afe0f2a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fMxqCkCNN4JKEtiSS2MVC1TxPZc-GNm86epk5n_V5H4
+id: dwellberries
+item_id: '765'
+item_description: 'some rather pretty blue berries'
+label: dwellberries

@@ -1,0 +1,15 @@
+entity.user.account:
+  path: '/user/account/{account_id}/account-information'
+  defaults:
+    _controller: '\Drupal\runescape_account_management\Controller\Account::build'
+    _title_callback: 'Drupal\runescape_account_management\Controller\Account::accountTitle'
+  requirements:
+    _user_is_logged_in: 'TRUE'
+
+runescape_account_management.migration-form:
+  path: '/admin/config/runescape/migration-form'
+  defaults:
+    _form: '\Drupal\runescape_account_management\Form\UserMigrationManagement'
+    _title: 'User Account Migration Form'
+  requirements:
+    _permission: 'Administer runescape account creations'

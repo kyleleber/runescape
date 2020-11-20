@@ -1,0 +1,10 @@
+uuid: b055afd1-2237-4011-8795-b698ea784612
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XvRhu1jFLqsGhIx0Wyu4QzNPj5Vs-aXgNP9WpqXNJV0
+id: staff_of_armadyl
+item_id: '725'
+item_description: 'A Magical staff'
+label: 'Staff of Armadyl'

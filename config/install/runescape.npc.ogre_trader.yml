@@ -1,0 +1,11 @@
+uuid: f9728fe9-dcdb-4511-a6cc-16f89f742dab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yXxhs579EfHfnt74kfGfBE5okArVj5XfDTdo0EqFDkw
+id: ogre_trader
+npc_id: '689'
+npc_description: 'He trades in food'
+label: 'Ogre trader'
+items: null

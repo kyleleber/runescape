@@ -1,0 +1,10 @@
+uuid: 17d26ee6-7bd0-4cf2-b1dc-3ece009da15e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YYB2sG2lVWq7EYUxAvnvrAnNYc81rEgBgdU1Rfv__wk
+id: slaves_robe_top
+item_id: '1023'
+item_description: 'A dirty desert shirt'
+label: 'Slaves Robe Top'

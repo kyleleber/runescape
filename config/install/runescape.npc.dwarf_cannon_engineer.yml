@@ -1,0 +1,11 @@
+uuid: 3eea64d3-6be4-4e9e-96ed-b534b715c3b4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _p9mDoSOmiQr0vlEy1rXpikdKL2xWHekn18IVttOU3E
+id: dwarf_cannon_engineer
+npc_id: '770'
+npc_description: 'Hes the head of black guard weapon development'
+label: 'Dwarf Cannon engineer'
+items: null

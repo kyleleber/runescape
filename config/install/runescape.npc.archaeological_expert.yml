@@ -1,0 +1,11 @@
+uuid: f2e1739f-e1fc-4b1d-8271-f1419590fee4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Gzp9Re79zpxRQEANgmNwmCQ6UasmrRKUvRcvjKU9u2M
+id: archaeological_expert
+npc_id: '728'
+npc_description: 'An expert on archaeology!'
+label: 'Archaeological expert'
+items: null

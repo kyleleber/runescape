@@ -1,0 +1,10 @@
+uuid: 500541c6-f76b-4357-bcdd-075fbac1e782
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cZiDF2mY95IVLoH36F463og4UoUibjB5rdj22eJcSik
+id: book
+item_id: '768'
+item_description: 'Turnip growing for beginners'
+label: Book

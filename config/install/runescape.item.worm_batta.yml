@@ -1,0 +1,10 @@
+uuid: 6901cbf5-dc26-473d-ae5e-fd526db6a163
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7LF0b4LeUt-oUid0YoVOYwf1tmh7zqPtWZwp75i2AhM
+id: worm_batta
+item_id: '947'
+item_description: 'actually smells quite good'
+label: 'worm batta'

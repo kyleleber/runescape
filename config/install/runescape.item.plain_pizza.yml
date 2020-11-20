@@ -1,0 +1,10 @@
+uuid: 16d2cf63-9136-4d38-b09c-9363f127a0c3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bEuU3l_KzYPlO6aj_VMmGZmh0FiqsWt3e57wGluDDgk
+id: plain_pizza
+item_id: '325'
+item_description: 'A cheese and tomato pizza'
+label: 'Plain Pizza'

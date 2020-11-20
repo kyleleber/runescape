@@ -1,0 +1,10 @@
+uuid: 10abda2d-d1f9-4fe0-a33a-080afb6659d4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 48w1KS_V-fJOuUT5mBQUQUxZpmDJfKI2wyLDrIQjVX4
+id: marrentill
+item_id: '445'
+item_description: 'A herb used in poison cures'
+label: Marrentill

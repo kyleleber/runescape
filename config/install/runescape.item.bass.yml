@@ -1,0 +1,10 @@
+uuid: 6dadb220-c9e2-490c-8b4f-cd1292586bd4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 21CO28mowlGo0B6h5p401XFja2-8gEWwnz_ZfO_7cNU
+id: bass
+item_id: '555'
+item_description: 'Wow this is a big fish'
+label: Bass

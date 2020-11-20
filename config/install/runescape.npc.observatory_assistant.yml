@@ -1,0 +1,11 @@
+uuid: 9a8aa290-ad80-4d7b-a19b-8e5181e2e347
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CyPlWLekkBvVJ33yoGfaWRrpBH49TbemWmSnb0YTX5A
+id: observatory_assistant
+npc_id: '654'
+npc_description: 'The Professors assistant'
+label: 'Observatory assistant'
+items: null

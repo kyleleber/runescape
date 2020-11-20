@@ -1,0 +1,11 @@
+uuid: 8092ebfa-7182-46e0-a7e5-a426280eae18
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cFElcqwlpU6ncihhIQnBnb2LG85v7iFGxJu3-fKfM18
+id: black_dragon
+npc_id: '291'
+npc_description: 'A fierce dragon with black scales!'
+label: 'Black Dragon'
+items: null

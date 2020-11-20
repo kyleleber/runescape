@@ -1,0 +1,10 @@
+uuid: 74b3b053-9925-4448-975c-6247ff6a3079
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iF5G2uX_0WrHT1UiRq9dObZWRpVCHDCAWArFWTVWYik
+id: iron_axe
+item_id: '12'
+item_description: 'A woodcutters axe'
+label: 'Iron Axe'

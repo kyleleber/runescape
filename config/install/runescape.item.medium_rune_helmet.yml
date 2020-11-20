@@ -1,0 +1,10 @@
+uuid: 6ede51b5-c008-4937-b51c-9cb31b467359
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sm6WRhFimjslIfXVOy9sQ3cV4xlVRZoAzlVLoUKJXuU
+id: medium_rune_helmet
+item_id: '399'
+item_description: 'A medium sized helmet'
+label: 'Medium Rune Helmet'

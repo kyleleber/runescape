@@ -1,0 +1,10 @@
+uuid: 0b4abdb9-0116-4fe6-9eb6-cdc66b82e745
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6tw4JWlv1UWxLSAp_zDHieeCnwsBm9V9-59tofg55nM
+id: feather
+item_id: '381'
+item_description: 'Used for fly-fishing'
+label: Feather

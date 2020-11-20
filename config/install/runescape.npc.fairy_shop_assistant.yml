@@ -1,0 +1,11 @@
+uuid: a54a20da-5bb9-43ef-a697-198acef4dec6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OXbFKW7g4ExkDLU_qwjAOVfSlNHwXZz9m23U3qLsc8w
+id: fairy_shop_assistant
+npc_id: '223'
+npc_description: 'Maybe he''d like to buy some of my junk'
+label: 'Fairy Shop Assistant'
+items: null

@@ -1,0 +1,11 @@
+uuid: 4ea1fa42-1570-49a7-be0d-55fcaa0e0ef1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Smg1Czoxt-lqofAnAAlzUfMXnxk8jBQYtotz5BH8uVc
+id: elena
+npc_id: '483'
+npc_description: 'She looks concerned'
+label: Elena
+items: null

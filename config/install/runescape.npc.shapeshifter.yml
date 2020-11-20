@@ -1,0 +1,11 @@
+uuid: 3c6b1a05-0217-4672-bab7-86a921df28ca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LF8u0nsXUoovIVqMTTYnPFD9uyf3B9WP9fQTGjUD8Z8
+id: shapeshifter
+npc_id: '247'
+npc_description: 'A sinister looking wolf'
+label: shapeshifter
+items: null

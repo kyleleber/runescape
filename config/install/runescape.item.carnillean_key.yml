@@ -1,0 +1,10 @@
+uuid: 4db1ac1b-b4e2-4366-bfd6-38856a87cb9d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KiT00O_DSGsA2_czXU9PAGvmQxzxmAa3H44FyMV75Iw
+id: carnillean_key
+item_id: '756'
+item_description: 'An old rusty key'
+label: 'Carnillean Key'

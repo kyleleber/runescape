@@ -1,0 +1,11 @@
+uuid: 55db6342-6a62-4597-8b3b-48ce6ee55dde
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fXWDTSCGifTSiOp9x5hJvsIKj2uNQEsxPYZLvgxlv4E
+id: kaleb
+npc_id: '621'
+npc_description: 'This is Kaleb Paramaya - a warm and friendly inn owner'
+label: Kaleb
+items: null

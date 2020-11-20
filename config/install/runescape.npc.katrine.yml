@@ -1,0 +1,11 @@
+uuid: 50e68689-4ac7-42b9-8633-0928cb5cd4d6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NyORtP5V2B487FwAaLGwydfDknAwPZhK2nngWcAx-MU
+id: katrine
+npc_id: '27'
+npc_description: 'She doesn''t look to friendly'
+label: Katrine
+items: null

@@ -1,0 +1,10 @@
+uuid: 6bc4e33c-f68c-4857-a45b-11a3bffa0f3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6O5_kgjjnpELAtBC2H4aL4jqUcZQl6UuTZgVm0hkPAw
+id: flax
+item_id: '675'
+item_description: 'I should use this with a spinning wheel'
+label: flax

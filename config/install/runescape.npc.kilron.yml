@@ -1,0 +1,11 @@
+uuid: 8e542dfe-73b1-4254-b133-ab755292e8a1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-qRHiLZsP6-8KU7TM8U6SpBOqWfi_2lNn6_i_Pd_dyg'
+id: kilron
+npc_id: '487'
+npc_description: 'He looks shifty'
+label: Kilron
+items: null

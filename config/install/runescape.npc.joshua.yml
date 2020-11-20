@@ -1,0 +1,11 @@
+uuid: 74223798-85bb-4ce5-a9fd-5b78393b2856
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kfTj3xZasqyDF-dDRWj3QWxZbxTkXo5QuyxTfWOi20s
+id: joshua
+npc_id: '354'
+npc_description: 'A grumpy fisherman'
+label: Joshua
+items: null

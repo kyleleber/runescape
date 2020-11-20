@@ -1,0 +1,10 @@
+uuid: 25e6829c-4117-4225-869d-7f12b05f94a2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9eW9-elujSIhgr1NAbqOwoCD5cvYQtBtLZ2uqI1bk-U
+id: mithril_throwing_knife
+item_id: '1078'
+item_description: 'A finely balanced knife'
+label: 'Mithril throwing knife'

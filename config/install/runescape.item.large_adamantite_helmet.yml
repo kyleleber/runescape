@@ -1,0 +1,10 @@
+uuid: b5d093af-ea3c-4677-b667-67efeca5c3d8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QTR5xJYTLhzR-s1LNg7yaA725In1n5g8gdsdeAwT-q4
+id: large_adamantite_helmet
+item_id: '111'
+item_description: 'A full face helmet'
+label: 'Large Adamantite Helmet'

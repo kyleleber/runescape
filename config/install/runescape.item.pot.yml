@@ -1,0 +1,10 @@
+uuid: 12094569-5ff3-4708-84bf-878a23e90f1b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _uaz3yPPozJwdON4ci35vGRAT8wh9oyNopJAOmPcT3Y
+id: pot
+item_id: '135'
+item_description: 'This pot is empty'
+label: pot

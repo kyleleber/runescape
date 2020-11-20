@@ -1,0 +1,10 @@
+uuid: 9ed1f3d8-279e-4c6b-8c46-fcf70859151f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WEm-KLBNUQittxezZQ0rOUYBt0APlS2k6nbz0hiHP3o
+id: oak_logs
+item_id: '632'
+item_description: 'Logs cut from an oak tree'
+label: 'Oak Logs'

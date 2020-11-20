@@ -1,0 +1,10 @@
+uuid: ce6d0499-21be-4a28-9fff-af08afc9491e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lmKzfEJRDTsflScgkyah2NYoHGTx_jgRDbB0kc4eBI0
+id: bronze_plate_mail_top
+item_id: '308'
+item_description: 'Armour designed for females'
+label: 'Bronze Plate Mail top'

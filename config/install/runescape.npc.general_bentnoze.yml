@@ -1,0 +1,11 @@
+uuid: 045421a4-ffcc-4678-8f6c-823fd4bfdea3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 64ZsEMYWfnXyK5To3j_pLkylQcPBG7BYms9dd-jGJNM
+id: general_bentnoze
+npc_id: '152'
+npc_description: 'An ugly green creature'
+label: 'General Bentnoze'
+items: null

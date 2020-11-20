@@ -1,0 +1,11 @@
+uuid: be581b1a-291a-483a-9a38-01d72f0a97b6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nyTZXiCrdLIr3zqAF96h4ewzhmhvRR-a1Fml9c6vci8
+id: boy
+npc_id: '240'
+npc_description: 'He doesn''t seem very happy'
+label: Boy
+items: null

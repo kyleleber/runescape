@@ -1,0 +1,11 @@
+uuid: e5613bf6-c7b5-4cd5-b005-465f62d9b99d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3Z3Zewj1heSs9gbKFIbzJL_azKPK7dJcJVLHWlqkItg
+id: assistant
+npc_id: '720'
+npc_description: 'He is an assistant to Shantay and helps him to run the pass.'
+label: Assistant
+items: null

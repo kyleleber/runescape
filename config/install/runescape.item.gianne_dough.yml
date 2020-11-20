@@ -1,0 +1,10 @@
+uuid: ec210618-8ec9-4863-8abd-90f50c657d47
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Hb0aGGa4bslGkX7l7SgRU2OSPae7OqC3rFmh4O22_VU
+id: gianne_dough
+item_id: '881'
+item_description: 'It''s made from a secret recipe'
+label: 'gianne dough'

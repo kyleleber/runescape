@@ -1,0 +1,10 @@
+uuid: bf220c60-e7ee-4afb-8c0f-b6aeb6ef3e13
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tn7BHPHNLjJEy321fZj3m4PMuLgELYGXySHi3Rkrn44
+id: adamantite_chain_mail_body
+item_id: '116'
+item_description: 'A series of connected metal rings'
+label: 'Adamantite Chain Mail Body'

@@ -1,0 +1,11 @@
+uuid: 394f4bd3-cd70-46d6-b26a-ccba7c8f2bbc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: M4uX6bnzIyhJXEw49GRY6PQhB-NOdGggfjZHEsFTPYs
+id: seer
+npc_id: '301'
+npc_description: 'An old wizard'
+label: Seer
+items: null

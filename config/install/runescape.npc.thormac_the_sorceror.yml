@@ -1,0 +1,11 @@
+uuid: 008af605-e4fd-4773-8f4f-d7e2ea5b0187
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aIqnvlbMFU61m6fJDYSCXgU6gpPH2niluDuN9MCGYyQ
+id: thormac_the_sorceror
+npc_id: '300'
+npc_description: 'A powerful sorcerrer'
+label: 'Thormac the sorceror'
+items: null

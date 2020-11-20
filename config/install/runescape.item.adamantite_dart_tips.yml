@@ -1,0 +1,10 @@
+uuid: db619624-cebc-4ba5-ad9c-8ed97ff467e3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MigO717Jau7iNVnOID0Q8UyHvl9ZRNLo3xLzzmg8n0E
+id: adamantite_dart_tips
+item_id: '1066'
+item_description: 'Dangerous looking dart tips - need feathers for flight'
+label: 'Adamantite dart tips'

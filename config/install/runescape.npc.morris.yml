@@ -1,0 +1,11 @@
+uuid: a0be25af-e1d3-4bed-b2d0-c69cdb46e7c8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GyHE52hUvevF8c-8x5d_EvsGdQyrWSbc-KSJMKctaqk
+id: morris
+npc_id: '349'
+npc_description: 'Fishing competition organiser'
+label: Morris
+items: null

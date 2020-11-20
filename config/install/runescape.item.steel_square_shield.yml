@@ -1,0 +1,10 @@
+uuid: f7224c35-4b8c-4606-8203-49b731a558bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gtmervJVX1cJFmV-rRBAyKWIhdiywiSFr--JXumjT5g
+id: steel_square_shield
+item_id: '125'
+item_description: 'A medium metal shield'
+label: 'Steel Square Shield'

@@ -1,0 +1,11 @@
+uuid: d1c48a31-c36e-4a65-81df-e371b4dbb0f5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: faav8rbKYf_fuiB27vdVXacF6XXGoWvPKyG1ibraj6U
+id: gertrude
+npc_id: '714'
+npc_description: 'A busy housewife'
+label: Gertrude
+items: null

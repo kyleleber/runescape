@@ -1,0 +1,11 @@
+uuid: f93326db-4b04-4a65-bc7f-90c3874311f5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9uoNMCUAaG95YPDG-sUUqVXyzWQ7sW2Uwtmb0mlrv_4
+id: claus
+npc_id: '429'
+npc_description: 'the carnillean family cook'
+label: claus
+items: null

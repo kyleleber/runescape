@@ -1,0 +1,10 @@
+uuid: 49863ecc-e416-42d2-a4d8-d1a509417e44
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: N2fl8k5WkLfsM7S8BmvCNLfMoMSwZiw2mrt3m1ahaTw
+id: skirt
+item_id: '195'
+item_description: 'A ladies skirt'
+label: skirt

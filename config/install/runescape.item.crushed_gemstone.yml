@@ -1,0 +1,10 @@
+uuid: 1799a132-a686-4f41-b1cb-e20679e7edf6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6u_Xs1oQYkfUVT2yHvilr45-6vtbvUgRaWIZXHV9XqE
+id: crushed_gemstone
+item_id: '915'
+item_description: 'A gemstone that has been smashed'
+label: 'Crushed Gemstone'

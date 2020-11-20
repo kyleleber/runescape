@@ -1,0 +1,7 @@
+runescape_server_integration.configuration:
+  path: '/admin/config/runescape/server-integration'
+  defaults:
+    _form: '\Drupal\runescape_server_integration\Form\ServerIntegrationSettings'
+    _title: 'Server integration configuration'
+  requirements:
+    _permission: 'administer runescape server integration settings'

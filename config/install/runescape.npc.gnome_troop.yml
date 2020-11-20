@@ -1,0 +1,11 @@
+uuid: 1a469c41-7c7c-4a3d-923a-96c7dde31725
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OWpx2BUWYvp97DyW6dXSrvmesmOIXnEzfP5cIhwn68g
+id: gnome_troop
+npc_id: '409'
+npc_description: 'It''s a tree gnome trooper'
+label: 'gnome troop'
+items: null

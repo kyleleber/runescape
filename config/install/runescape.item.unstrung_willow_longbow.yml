@@ -1,0 +1,10 @@
+uuid: 34b86d12-c9b4-4067-800f-36644d5062f0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1UvjEfUo7ZUqLIF9-_d47PbtXcpP1Y0Pu3hi4lv-vNI
+id: unstrung_willow_longbow
+item_id: '660'
+item_description: 'I need to find a string for this'
+label: 'unstrung Willow Longbow'

@@ -1,0 +1,10 @@
+uuid: 9d850853-8b5e-4d90-9a82-b1497f21411d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Hg4Vrl53DLwnQNAm8ni1qYGE4bU65vDMFVkCXQgcTXQ
+id: death-rune
+item_id: '38'
+item_description: 'Used for high level missile spells'
+label: Death-Rune

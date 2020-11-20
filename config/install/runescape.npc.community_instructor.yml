@@ -1,0 +1,11 @@
+uuid: c3c7792f-af98-4317-8d01-d4d9ebc8cefd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Y5Aw8f2sR9zQ6DZoa4KA01sU-teznZRKRc0Za1e1Ryw
+id: community_instructor
+npc_id: '496'
+npc_description: 'This is the last advisor - honest'
+label: 'Community instructor'
+items: null

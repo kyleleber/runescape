@@ -1,0 +1,10 @@
+uuid: 50268d53-759d-47f3-aee6-e0aee9df5a8e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d9FMYQKuQJNlnnko8PNF697L4sg65s4rFu8gAW6_1RA
+id: iron_throwing_knife
+item_id: '1075'
+item_description: 'A finely balanced knife'
+label: 'Iron throwing knife'

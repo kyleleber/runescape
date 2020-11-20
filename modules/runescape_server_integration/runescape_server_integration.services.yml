@@ -1,0 +1,5 @@
+services:
+  runescape_server_integration.manager:
+    class: Drupal\runescape_server_integration\ServerIntegrationManager
+    arguments:
+      - '@config.factory'

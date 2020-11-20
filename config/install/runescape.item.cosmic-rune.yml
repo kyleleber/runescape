@@ -1,0 +1,10 @@
+uuid: 32fd8da7-f30b-4817-875c-5ec39393fe36
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fgN8JlFjx3-RU32wY4xUKkDuwkF7EXVBHcyjV9PkXd0
+id: cosmic-rune
+item_id: '46'
+item_description: 'Used for enchant spells'
+label: Cosmic-Rune

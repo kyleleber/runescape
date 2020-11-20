@@ -1,0 +1,10 @@
+uuid: d67fe359-eb39-490b-9b05-174eef387d5f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0CURo33QTiJPJCT4uG-FYC23FwyS6X2ZxaYmuGwvVe0
+id: air-rune
+item_id: '33'
+item_description: 'One of the 4 basic elemental runes'
+label: Air-Rune

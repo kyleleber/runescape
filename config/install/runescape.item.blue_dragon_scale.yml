@@ -1,0 +1,10 @@
+uuid: 128eb877-489a-4d70-8e17-56b7045d271e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VbLgLrsHZ6c-HXj_JiCLs1r__X9zmNNPvRhHb_3PDgs
+id: blue_dragon_scale
+item_id: '467'
+item_description: 'A large shiny scale'
+label: 'Blue dragon scale'

@@ -1,0 +1,11 @@
+uuid: fc02f16f-d213-44cf-83ce-4132ed8f5a2e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lupjdFJLEPnVvidvpIDeIkDYMqtTGpvTaqPkwC8Nb7A
+id: cassie
+npc_id: '101'
+npc_description: 'She sells shields'
+label: Cassie
+items: null

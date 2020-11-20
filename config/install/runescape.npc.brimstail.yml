@@ -1,0 +1,11 @@
+uuid: ca947c50-e7b5-4b49-8783-503da4181aee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oP6x7egeJF8QNFx51VUK0AYZx95oiwdPG8w7D4pZ6ns
+id: brimstail
+npc_id: '590'
+npc_description: 'An ancient looking gnome'
+label: Brimstail
+items: null

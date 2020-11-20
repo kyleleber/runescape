@@ -1,0 +1,11 @@
+uuid: 61db692d-5c57-4a76-9d28-83979527e7a7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 11wCsI8-3Pp6CGPtfLguJgoMGDuEk3JQ8UObR8bqlg0
+id: mining_instructor
+npc_id: '482'
+npc_description: 'A short angry guy'
+label: 'mining instructor'
+items: null

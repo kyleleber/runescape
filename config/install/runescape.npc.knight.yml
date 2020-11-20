@@ -1,0 +1,11 @@
+uuid: cb158055-e6af-43c5-a7b6-a9b144d158bb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: k3BJbSAsp66pXxait48ChJVJLgRQeTtSvc5xHhty4Ck
+id: knight
+npc_id: '322'
+npc_description: 'A knight of Ardougne'
+label: Knight
+items: null

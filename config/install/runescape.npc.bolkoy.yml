@@ -1,0 +1,11 @@
+uuid: 7b119a00-6bbc-4e01-b2c7-5e9b091a3567
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: D6woOCxDaf_OnfU4WSaSUUE9CdiDLoD3QzHJmQ0UJEo
+id: bolkoy
+npc_id: '398'
+npc_description: 'It''s a tree gnome'
+label: bolkoy
+items: null

@@ -1,0 +1,11 @@
+uuid: ad87852a-4409-48b3-8926-5dc74b42fb0a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vfK8r4IYBtCEUpm2iqZQxKpesPKsTcBh3prKyOc8Ork
+id: necromancer
+npc_id: '358'
+npc_description: 'A crazy evil necromancer'
+label: Necromancer
+items: null

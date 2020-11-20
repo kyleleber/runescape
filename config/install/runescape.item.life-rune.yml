@@ -1,0 +1,10 @@
+uuid: 6d730bc1-5f4a-4c30-bb98-29f685023082
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GKyXXFoWx3muiyv9T0sqbtL_6LPR0deeDijuS6Lef5M
+id: life-rune
+item_id: '37'
+item_description: 'Used for summon spells'
+label: Life-Rune

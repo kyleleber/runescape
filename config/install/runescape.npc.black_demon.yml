@@ -1,0 +1,11 @@
+uuid: 240254c0-5f07-4ca3-a130-b74f1bcbf331
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c1yBBa69anauf1eEEDH0EDVafMEXp0v8cUElii3tvPw
+id: black_demon
+npc_id: '568'
+npc_description: 'A big scary jet black demon'
+label: 'Black Demon'
+items: "933|1\r\n157|1\r\n523|1\r\n646|12\r\n404|1\r\n400|1\r\n112|1\r\n399|1\r\n403|1\r\n130|1\r\n230|1\r\n93|1\r\n81|1\r\n426|1\r\n424|1\r\n428|1\r\n90|1\r\n42|5\r\n42|3\r\n40|78\r\n40|60\r\n619|7\r\n619|5\r\n41|10\r\n38|45\r\n33|75\r\n31|25\r\n181|1\r\n33|50\r\n11|135\r\n640|150\r\n373|2\r\n373|1\r\n10|30\r\n10|131\r\n408|1\r\n480|1\r\n11|345\r\n174|1\r\n10|44\r\n160|1\r\n159|1\r\n158|1\r\n1092|1\r\n1277|1\r\n526|1\r\n527|1\r\n795|1\r\n10|220\r\n10|460\r\n646|150\r\n646|75"

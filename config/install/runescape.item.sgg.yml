@@ -1,0 +1,10 @@
+uuid: 07513b4f-4f6a-4fb5-b327-fda1d547f24f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qEMQ_Zr_BIW3DNLfM8u7TN4wg95Lt6w_osb5ZNzSkgs
+id: sgg
+item_id: '941'
+item_description: 'A short green guy..looks good'
+label: SGG

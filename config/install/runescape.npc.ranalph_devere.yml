@@ -1,0 +1,11 @@
+uuid: 60a5368f-98d5-41e0-9ec9-f0f8d20b6b19
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: On8KKxABMmE15Akp5H-awlFw4jKx0uMDUGo00T2CZdM
+id: ranalph_devere
+npc_id: '762'
+npc_description: 'The animated spirit of Ranalph Devere'
+label: 'Ranalph Devere'
+items: null

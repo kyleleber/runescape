@@ -1,0 +1,10 @@
+uuid: 63628548-af1a-4661-a700-8510d54e3d2b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BIQYvwjDAnRFxbUYc4o36Bg9tke7rjSygSboEe2UaQU
+id: chocolate_cake
+item_id: '332'
+item_description: 'This looks very tasty!'
+label: 'Chocolate Cake'

@@ -1,0 +1,11 @@
+uuid: 3cb5d42a-60f0-477c-a7b2-243de040ef95
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nQ4qrZ73yFaC-h0Nc0s6kH1ek4dHMdEi-uEUuOf1DqA
+id: crone
+npc_id: '394'
+npc_description: 'A strange old lady'
+label: Crone
+items: null

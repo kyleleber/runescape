@@ -1,0 +1,11 @@
+uuid: 908854e3-2858-4ef3-9e2c-339522e54723
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: W08incY6pjdtj1u95xdE5ySfTck090bouky1i4XTpp0
+id: fairy_queen
+npc_id: '392'
+npc_description: 'A very little queen'
+label: 'Fairy queen'
+items: null

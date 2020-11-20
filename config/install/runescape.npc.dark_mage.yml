@@ -1,0 +1,11 @@
+uuid: 8ce2ff77-078e-4ab4-b772-66c67438f499
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YUgXuS20YH-kKEoFT8F5EEZb1Up8m78sE-AamDXG21k
+id: dark_mage
+npc_id: '667'
+npc_description: 'He works in the ways of dark magic'
+label: 'Dark Mage'
+items: null

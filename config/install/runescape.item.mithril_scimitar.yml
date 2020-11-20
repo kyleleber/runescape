@@ -1,0 +1,10 @@
+uuid: 939e7c9c-e8f2-4d21-af1e-490ed73a2c25
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1niP9vmErl_wL0IxJRzQtWoHF40dEw6uQz22kwO759w
+id: mithril_scimitar
+item_id: '85'
+item_description: 'A vicious curved sword'
+label: 'Mithril Scimitar'

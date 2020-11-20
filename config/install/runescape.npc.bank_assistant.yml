@@ -1,0 +1,11 @@
+uuid: 2c47d324-53c0-4013-b9b4-3d736f37f0ba
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kOLARxoL7rHQ-bR4_10aMqKCCB6MLwBt92QIy11Bi4w
+id: bank_assistant
+npc_id: '485'
+npc_description: 'She can look after my stuff'
+label: 'Bank assistant'
+items: null

@@ -1,0 +1,11 @@
+uuid: 50506818-a32b-4db6-b376-1d0a4514eb26
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4TtDgNhxdynH5yG979Iv_dEPKForpJROTqdFuh5RVv0
+id: jungle_banker
+npc_id: '617'
+npc_description: 'He can look after my money'
+label: 'Jungle Banker'
+items: null

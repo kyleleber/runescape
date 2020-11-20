@@ -1,0 +1,13 @@
+runescape_map:
+  version: 1.x
+  css:
+    theme:
+      css/map.css: {}
+  js:
+    js/map.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings
+
+

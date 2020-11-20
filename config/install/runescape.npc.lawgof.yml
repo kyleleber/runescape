@@ -1,0 +1,11 @@
+uuid: 9a3440a3-409a-40cb-9a4b-9039ca4059ff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3sMNidC6tHQjB7HopaMIpnebfYQJmozFaLHs5HZjAx0
+id: lawgof
+npc_id: '693'
+npc_description: 'He guards the mines'
+label: Lawgof
+items: null

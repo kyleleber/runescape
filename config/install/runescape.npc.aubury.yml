@@ -1,0 +1,11 @@
+uuid: 518b5834-1240-497e-9ac6-5e68addd5a29
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KXnIDCdjGu1C2sENjn5clZqe1tatKZiTwHZV5kO2f1c
+id: aubury
+npc_id: '54'
+npc_description: 'I think he might be a shop keeper'
+label: Aubury
+items: null

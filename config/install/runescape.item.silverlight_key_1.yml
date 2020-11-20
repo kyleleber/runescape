@@ -1,0 +1,10 @@
+uuid: b8f9f143-7f6a-4087-bba4-bca4ab7c7829
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2zqR2eZwFTnIp-81whp9esBEFrbRBQs7cWheRi1M6tQ
+id: silverlight_key_1
+item_id: '25'
+item_description: 'A key given to me by Wizard Traiborn'
+label: 'Silverlight key 1'

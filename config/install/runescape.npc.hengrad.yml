@@ -1,0 +1,11 @@
+uuid: 699f80d9-d2fb-4e08-9efc-f9b6660d889b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yZ7vFObZvft9A5gClpjpUNZkSBIb9xHbs08YKa1tn0E
+id: hengrad
+npc_id: '387'
+npc_description: 'He look''s mistreated and weak'
+label: hengrad
+items: null

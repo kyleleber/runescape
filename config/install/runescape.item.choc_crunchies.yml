@@ -1,0 +1,10 @@
+uuid: 3c02885a-3604-45e4-b9ab-d66578edf29f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ygHvcr5MuvvDZFzet5GyyOeqQdAhO-Tuji21D8g0b20
+id: choc_crunchies
+item_id: '954'
+item_description: 'yum ... smells good'
+label: 'Choc crunchies'

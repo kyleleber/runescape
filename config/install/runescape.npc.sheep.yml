@@ -1,0 +1,11 @@
+uuid: e00a5425-f551-42d0-bef7-150cfdf7b838
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BRThY1cmtSiILkjjCDslL60AfRtvg66k-gbGr6zU4vc
+id: sheep
+npc_id: '2'
+npc_description: 'A very wooly sheep'
+label: Sheep
+items: null

@@ -1,0 +1,10 @@
+uuid: c7d27773-e273-4b32-8734-e229a1028a75
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cuW22KC_QFEz-ZfZzn-nLLzUARKpEW6wHfOjf-0271Q
+id: dusty_key
+item_id: '596'
+item_description: 'A key given to me by Velrak'
+label: 'Dusty Key'

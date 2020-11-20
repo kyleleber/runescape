@@ -1,0 +1,10 @@
+uuid: 3cda734b-85f1-4840-a0c1-c67972e3f44c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lQkLuwo-tDbb5j0Ecq6Rk3XHTO6yLHyjE6P8YyCWeZE
+id: adamantite_scimitar
+item_id: '86'
+item_description: 'A vicious curved sword'
+label: 'Adamantite Scimitar'

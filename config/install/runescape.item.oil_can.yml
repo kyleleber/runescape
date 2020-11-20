@@ -1,0 +1,10 @@
+uuid: e7835c54-13a3-4748-bb77-d5d50e65d7c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TOZmNbAfj7v_feGYQanboA6uawuSYIakGsLvuqyDP0Q
+id: oil_can
+item_id: '208'
+item_description: 'Its pretty full'
+label: 'Oil can'

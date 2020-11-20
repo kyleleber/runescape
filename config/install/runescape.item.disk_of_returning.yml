@@ -1,0 +1,10 @@
+uuid: f82edbbd-e377-4c99-bbec-8723cc0cfdff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PpFKf89i58DhUwATk-WbZSXgdzwdyZ63uLCY0UC2Xdc
+id: disk_of_returning
+item_id: '387'
+item_description: 'Used to get out of Thordur''s blackhole'
+label: 'Disk of Returning'

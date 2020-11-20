@@ -1,0 +1,10 @@
+uuid: e8b050f5-626b-4a15-b10e-82cf34dac12d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Bi3Ywg2miFIb2R5zOjKWHJAuoznJSO57RUmwgppq5lw
+id: armour
+item_id: '1235'
+item_description: 'An unusually red armour'
+label: Armour

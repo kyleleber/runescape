@@ -1,0 +1,10 @@
+uuid: f87a2aae-b0b4-4653-85e9-ef89ef089c95
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: b2nlgFO1te6DECillg9YCJsBPSkgEEE2hMMXIV2A0D0
+id: cream
+item_id: '871'
+item_description: 'Fresh cream'
+label: cream

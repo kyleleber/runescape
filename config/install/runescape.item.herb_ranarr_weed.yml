@@ -1,0 +1,8 @@
+uuid: 6e3b6560-28bd-4705-8d91-e45c0412e772
+langcode: en
+status: true
+dependencies: {  }
+id: herb_ranarr_weed
+item_id: '438'
+item_description: 'I need a closer look to identify this'
+label: 'Herb (Ranarr Weed)'

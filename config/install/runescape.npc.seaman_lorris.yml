@@ -1,0 +1,11 @@
+uuid: 7d89051f-02bc-4239-83e1-223b4114227a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QBP9SUG4G76B_4BXBToX0X_-bsiG4fewIdIoQOrsocw
+id: seaman_lorris
+npc_id: '170'
+npc_description: 'A young sailor'
+label: 'Seaman Lorris'
+items: null

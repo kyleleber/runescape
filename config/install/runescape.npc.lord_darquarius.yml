@@ -1,0 +1,11 @@
+uuid: cececbbb-d886-4b1d-bda1-3a4436cc8d17
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aqlkiFB3EgLqvVh62_aq71DepHIQxiZLLQwqkh9i9kM
+id: lord_darquarius
+npc_id: '266'
+npc_description: 'A black knight commander'
+label: 'Lord Darquarius'
+items: null

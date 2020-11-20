@@ -1,0 +1,10 @@
+uuid: 38ad1564-a8ff-414e-b429-6e69f730f997
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TE56KmhOH_DezdrcKYQdPIOwO2KwT2nWSK71olvxQ-0
+id: holy_water_vial
+item_id: '1239'
+item_description: 'A deadly potion against evil kin'
+label: 'Holy Water Vial'

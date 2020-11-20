@@ -1,0 +1,10 @@
+uuid: a4901f08-e25a-4d1a-96e6-e466f5f56949
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mCTrC6ODdjUTmUQfU5_q_Q4V1hPYjSNGnsCoSvWMs7Y
+id: large_bronze_helmet
+item_id: '108'
+item_description: 'A full face helmet'
+label: 'Large Bronze Helmet'

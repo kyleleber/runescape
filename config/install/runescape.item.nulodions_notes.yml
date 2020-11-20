@@ -1,0 +1,10 @@
+uuid: 606dbcdf-b2fe-423e-86ca-df05b23f172b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1NlgEqwYxyh3fy1WDYAxwRK-jYFyAkCQIPg148JPBIg
+id: nulodions_notes
+item_id: '1056'
+item_description: 'Construction notes for dwarf cannon ammo'
+label: 'Nulodions notes'

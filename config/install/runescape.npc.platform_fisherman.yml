@@ -1,0 +1,11 @@
+uuid: e1df0974-5e88-43ba-ad84-4dbd217b9109
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UjLCuO3BmgIn2xPDvoxzJP6VBAPIQTXobgHs1g6UpPo
+id: platform_fisherman
+npc_id: '464'
+npc_description: 'an emotionless fisherman'
+label: 'Platform Fisherman'
+items: null

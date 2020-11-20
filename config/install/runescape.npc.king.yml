@@ -1,0 +1,11 @@
+uuid: e62f9792-be29-4a2e-bee6-8e24ba69935c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5PJdZGTE23mn93e5tVW6Ut-mkrwYcPpj9HG5pQrDLnQ
+id: king
+npc_id: '42'
+npc_description: 'King Roald the VIII'
+label: king
+items: null

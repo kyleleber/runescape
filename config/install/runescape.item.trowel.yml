@@ -1,0 +1,10 @@
+uuid: 890eb6ca-f04a-474f-8e5a-007347c00265
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kbewIHoAk_ydQDnGnlAPMClmsBZwKBtIrzTYy-vC7Bo
+id: trowel
+item_id: '1145'
+item_description: 'A small device for digging'
+label: Trowel

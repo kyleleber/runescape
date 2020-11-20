@@ -1,0 +1,11 @@
+uuid: b8300519-1241-4ac2-acf0-8c24a4d1e0ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UfR7488aR8B3PtS430gPh8zan9C751YR1TK6fc5WbqM
+id: bolren
+npc_id: '400'
+npc_description: 'It''s a gnome he look''s important'
+label: bolren
+items: null

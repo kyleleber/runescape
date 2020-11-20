@@ -1,0 +1,10 @@
+uuid: ca790e0f-6783-479a-b19d-51338fa54100
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Wutahs9_WuxXJ6exEP3x2K9kP4OPjj1ZYZqxQeSxyNs
+id: wine_of_zamorak
+item_id: '501'
+item_description: 'It''s full of wine'
+label: 'wine of Zamorak'

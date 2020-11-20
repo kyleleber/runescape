@@ -1,0 +1,10 @@
+uuid: eaf3ae89-8bf0-4364-a9ea-2852fca4e191
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: G4tucq1HDMJyIqUbTFAeJA5SwEY7xC9QYNr-PAFue2I
+id: fire_orb
+item_id: '612'
+item_description: 'A magic glowing orb'
+label: 'Fire orb'

@@ -1,0 +1,10 @@
+uuid: 139f58eb-0d3d-4dc1-9419-dd8c04fb608e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iEemPb0UjzXQvd1ATMC2wWhyVUn6wnRdebZ11ixc7yg
+id: chocolaty_milk
+item_id: '770'
+item_description: 'Milk with chocolate in it'
+label: 'chocolaty milk'

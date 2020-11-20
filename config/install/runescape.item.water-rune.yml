@@ -1,0 +1,10 @@
+uuid: d90bb779-faf3-4d15-a0d5-834dd0359dbd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YD58LXVtWnBr_jIyFem366v_E4WdHz6icpkhY8xYDLc
+id: water-rune
+item_id: '32'
+item_description: 'One of the 4 basic elemental runes'
+label: Water-Rune

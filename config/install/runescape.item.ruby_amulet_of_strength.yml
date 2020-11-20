@@ -1,0 +1,10 @@
+uuid: e3859107-80d6-4bc9-900d-0d4889c31b53
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kuvY8g3yfXNmrbqM20Exh_jYEfs9LzfLNRQzDwCywuw
+id: ruby_amulet_of_strength
+item_id: '316'
+item_description: 'It improves my damage'
+label: 'Ruby Amulet of strength'

@@ -1,0 +1,11 @@
+uuid: 968aecfc-9ecf-4f91-8b13-ada72ccbc2d1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 70y1bhTpOmM6_aN-JjqZs6d1_LdNIlcSRI3tybuzpI4
+id: unhappy_peasant
+npc_id: '416'
+npc_description: 'He looks tired and hungry'
+label: 'unhappy peasant'
+items: null

@@ -1,0 +1,11 @@
+uuid: 19a0f65b-e8df-4287-83d7-36ced982851f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: owhzCQ_Ip0bWlSRVEDgpVQrak-FbgdvIX6_WhllM9Nk
+id: spice_merchant
+npc_id: '329'
+npc_description: 'He sells exotic spices'
+label: 'spice merchant'
+items: null

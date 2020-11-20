@@ -1,0 +1,11 @@
+uuid: f99d29e8-d150-4d6a-aec4-d24d30676ffb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5Y5_4oOtj7kTIJJHwu2ruvDH8btMBXF7kATOt7W-S1E
+id: osman
+npc_id: '120'
+npc_description: 'He looks a little shifty'
+label: Osman
+items: null

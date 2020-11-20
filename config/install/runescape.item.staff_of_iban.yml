@@ -1,0 +1,10 @@
+uuid: 31b5338b-c5df-4ee4-bab2-37e46f7862d3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JSgyOG8tpRiAVKP6Kbme6ORLtBWP7znMqbqzEwyTp38
+id: staff_of_iban
+item_id: '1031'
+item_description: 'The staff is damaged'
+label: 'Staff of Iban'

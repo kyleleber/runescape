@@ -1,0 +1,10 @@
+uuid: a679c51f-f840-4989-9839-cc97a3229a9d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3pwXCf6zkk2HEvzCwSCiz8NU-oD4VzKHxIkNlc7lqYE
+id: ogre_potion
+item_id: '1053'
+item_description: 'A strange liquid'
+label: 'Ogre potion'

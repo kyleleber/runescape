@@ -1,0 +1,10 @@
+uuid: 3090ef78-7aa4-4488-9d64-37582f12118f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ovb8T8s5gsX3KpmSDRG4TrjBr-BVCToIBeP4HA9Qqy4
+id: onion_and_tomato_and_ugthanki_mix
+item_id: '1109'
+item_description: 'A mixture of onions and tomatoes and Ugthanki meat in a bowl'
+label: 'Onion and Tomato and Ugthanki Mix'

@@ -1,0 +1,11 @@
+uuid: 6555a032-4583-4d3f-b12e-cbdbd5d2b541
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tYsUMEEbMIwxcUL7ZR797J2FqG4gR6ZjVfgiCu-oNcY
+id: ice_warrior
+npc_id: '158'
+npc_description: 'A strange inhuman warrior'
+label: 'Ice warrior'
+items: null

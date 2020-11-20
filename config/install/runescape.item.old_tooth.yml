@@ -1,0 +1,10 @@
+uuid: 1876a0ce-1c09-487f-b345-0519eb7f7ac6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Jym8tc_XTsHjTcbmi0rL5jrXjfXiEBgmv_-mLPZGVZo
+id: old_tooth
+item_id: '1162'
+item_description: 'a large single tooth'
+label: 'Old tooth'

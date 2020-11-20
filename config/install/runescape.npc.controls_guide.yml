@@ -1,0 +1,11 @@
+uuid: d975127e-a965-4014-9bd6-3cb94005a9a9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2UBfoVM1YgKDgv_236jnFXdZUM3WNWrcfKi5PxvBBls
+id: controls_guide
+npc_id: '499'
+npc_description: 'Hes ready for a fight'
+label: 'controls guide'
+items: null

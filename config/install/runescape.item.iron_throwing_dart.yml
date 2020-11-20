@@ -1,0 +1,10 @@
+uuid: 25ce4144-799f-458a-aa26-4969fcec9f07
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dAp13ezhMLcJiJe5M5J9oMs_QVgksAZvo5oBIK9aeT4
+id: iron_throwing_dart
+item_id: '1015'
+item_description: 'A deadly throwing dart with an iron tip.'
+label: 'Iron Throwing Dart'

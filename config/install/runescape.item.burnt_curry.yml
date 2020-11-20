@@ -1,0 +1,10 @@
+uuid: b6d507a3-b1b1-4585-a813-dee506e541a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZiYQfhNQXj8GygjObKkZiJyDJrBIG-9f-9cGlB4Bjy4
+id: burnt_curry
+item_id: '710'
+item_description: 'Eew it''s horribly burnt'
+label: 'Burnt curry'

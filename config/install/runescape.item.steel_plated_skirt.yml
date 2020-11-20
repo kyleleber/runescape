@@ -1,0 +1,10 @@
+uuid: e7b5d43b-6489-4d72-8120-9428847754bd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4YN1bcgJ_L9bx0SSuijnO_jAqTxcDwO8dRQYx4G3_3s
+id: steel_plated_skirt
+item_id: '225'
+item_description: 'designer leg protection'
+label: 'Steel Plated skirt'

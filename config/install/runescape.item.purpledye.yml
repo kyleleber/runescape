@@ -1,0 +1,10 @@
+uuid: 48be9210-58f7-4647-8200-ca8284d9f682
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WYdyIqO6j5-G-l-G73k5ULj7EmAoSA7Lj_yUnbA79-8
+id: purpledye
+item_id: '516'
+item_description: 'A little bottle of dye'
+label: Purpledye

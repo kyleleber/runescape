@@ -1,0 +1,10 @@
+uuid: e2e30fdf-50ee-4bf4-82fb-4b6244e4e5a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Xw-jErFU9HacIPVBC8irmQGcc6-ELpPi5sad3-wTpWU
+id: medium_steel_helmet
+item_id: '105'
+item_description: 'A medium sized helmet'
+label: 'Medium Steel Helmet'

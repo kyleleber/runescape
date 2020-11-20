@@ -1,0 +1,11 @@
+uuid: 90b1d211-5c27-4746-aeb8-63f6db3140d5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: G7lcKBNkvmpp-wnm8X5V3sBm1cB7cLRf5XReOE5Pkdo
+id: nazastarool_zombie
+npc_id: '613'
+npc_description: 'One of Rashaliyas Minions'
+label: 'Nazastarool Zombie'
+items: null

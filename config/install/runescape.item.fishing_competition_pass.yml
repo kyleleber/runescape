@@ -1,0 +1,10 @@
+uuid: 874447b7-208f-4203-a32a-05fffc612587
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Dw_VcYiVhsDRxD0DkoybqDesha580OZSU6EZ3IHO0pA
+id: fishing_competition_pass
+item_id: '719'
+item_description: 'Admits one to the Hemenster fishing competition'
+label: 'Fishing competition Pass'

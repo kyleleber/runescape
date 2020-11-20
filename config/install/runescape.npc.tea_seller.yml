@@ -1,0 +1,11 @@
+uuid: 4e5203ac-b591-4cdd-b840-09d41a72966c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9jR7_OnKdyRHJxf4SVmWLS-Oi7-1XmkSdIMfoBc6xOE
+id: tea_seller
+npc_id: '780'
+npc_description: 'He has delicious tea to buy'
+label: 'Tea seller'
+items: null

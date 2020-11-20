@@ -1,0 +1,10 @@
+uuid: 8516aae9-01cc-40b2-a98d-9a6b283dfcc1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aYk68fmCLoZaxxkawM22hyiKgQR1KCJ0bNicDyHfHSo
+id: magic_shortbow
+item_id: '657'
+item_description: 'Short but effective'
+label: 'Magic Shortbow'

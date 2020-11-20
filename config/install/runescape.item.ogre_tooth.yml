@@ -1,0 +1,10 @@
+uuid: bbbe4884-4e17-4d02-afc8-ec4fb264420f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kAKllEd5Bj67F7B1W1V21nunK-EvwTkAH_yU0SQ6kag
+id: ogre_tooth
+item_id: '1043'
+item_description: 'big sharp and nasty'
+label: 'Ogre tooth'

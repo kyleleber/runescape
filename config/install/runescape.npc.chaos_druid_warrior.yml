@@ -1,0 +1,11 @@
+uuid: b66c6a29-4a7a-4a37-b1fe-c94be0149fc2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 65tXdGew1lUWBsFhD4xlMZKvg4_3EXSiFSqhInaQSh0
+id: chaos_druid_warrior
+npc_id: '555'
+npc_description: 'A crazy evil druid'
+label: 'Chaos Druid warrior'
+items: null

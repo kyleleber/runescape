@@ -1,0 +1,11 @@
+uuid: a8b183fe-c26f-4b06-8b0d-32a0b546b119
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vDnQnR9mHwTVl4Gf7ETMUcMdoKR4at-Y-lykfrdA_AY
+id: gundai
+npc_id: '792'
+npc_description: 'He must get lonely out here'
+label: Gundai
+items: null

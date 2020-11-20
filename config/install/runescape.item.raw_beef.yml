@@ -1,0 +1,10 @@
+uuid: 7175b11e-2cbd-49da-97b2-255061084ad3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: meI-scbWnCndthGpT0yhnZimcYrqj-jFVSgjVoSiNUg
+id: raw_beef
+item_id: '504'
+item_description: 'I need to cook this first'
+label: 'raw beef'

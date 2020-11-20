@@ -1,0 +1,11 @@
+uuid: beab68ac-31cf-4008-a9f9-2d06e5ea4cc2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: weXWQ4njarr4R8bd2c-bsWtBE2iORE7_J9IMC3OmGO0
+id: sinister_stranger
+npc_id: '346'
+npc_description: 'not your average fisherman'
+label: 'Sinister stranger'
+items: null

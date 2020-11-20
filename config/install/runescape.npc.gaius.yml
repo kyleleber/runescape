@@ -1,0 +1,11 @@
+uuid: d9870583-5c56-4863-9472-2f6ec297149a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xg7SI6VIQbDgH0HvpErFBUWKnye-HNPD7UBDVTlO3Xs
+id: gaius
+npc_id: '228'
+npc_description: 'he sells very big swords'
+label: Gaius
+items: null

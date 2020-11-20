@@ -1,0 +1,11 @@
+uuid: 02ca2506-5d15-48bc-8de2-c3a67ebc7f0b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cH_W5UpjMnel-O0jDad-BpaV7QLJj-ef6q5yOihLoVE
+id: jiminua
+npc_id: '522'
+npc_description: 'She looks very interested in selling some of her wares.'
+label: Jiminua
+items: null

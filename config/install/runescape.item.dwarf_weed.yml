@@ -1,0 +1,10 @@
+uuid: b3557dcc-ddb7-4295-9c5f-77a99521b610
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4V8a-aT_2ZCyxgksit9K-VCoJGUtbDevjeV-tX1BFDQ
+id: dwarf_weed
+item_id: '453'
+item_description: 'A powerful herb'
+label: 'Dwarf Weed'

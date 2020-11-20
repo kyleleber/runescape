@@ -1,0 +1,11 @@
+uuid: 5912d8c7-42ae-4ddc-a4ae-c7efdb9aba02
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Nc9dE6waAM1lyrvLGQyAbgVT0gHkKKwpZNwoYiUXCGU
+id: billy_rehnison
+npc_id: '448'
+npc_description: 'The Rehnisons eldest son'
+label: 'Billy Rehnison'
+items: null

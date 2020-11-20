@@ -1,0 +1,11 @@
+uuid: 439fd912-f19a-49b7-8581-0fae0408da40
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: r1bxLbBgSHom2PP4IsjA5twvlU7FLOdeEoyqb0oHxC0
+id: master_crafter
+npc_id: '231'
+npc_description: 'The man in charge of the crafter''s guild'
+label: 'Master Crafter'
+items: null

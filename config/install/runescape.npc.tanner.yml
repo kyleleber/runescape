@@ -1,0 +1,11 @@
+uuid: 5c6034cf-8ffb-4d7d-b80a-2d2069837b79
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: D1dcqWdg6XKu7ytXuSeTYfzV_71gPfjuld2UcfOBklE
+id: tanner
+npc_id: '172'
+npc_description: 'He makes leather'
+label: Tanner
+items: null

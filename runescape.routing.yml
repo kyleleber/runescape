@@ -1,0 +1,76 @@
+# The routing.yml file defines the paths for our module.
+# Here we define the paths for our entity type's admin UI.
+
+# This is the router item for listing all entities.
+runescape.configuration:
+  path: '/admin/config/runescape'
+  defaults:
+    _controller: '\Drupal\system\Controller\SystemController::systemAdminMenuBlockPage'
+    _title: 'Runescape Configuration Settings'
+  requirements:
+    _permission: 'administer runescape settings'
+
+entity.npc.list:
+  path: '/admin/config/runescape/npc-list'
+  defaults:
+    _entity_list: npc
+    _title: 'Runescape Npcs'
+  requirements:
+    _permission: 'administer npcs'
+
+entity.item.list:
+  path: '/admin/config/runescape/item-list'
+  defaults:
+    _entity_list: item
+    _title: 'Runescape Items'
+  requirements:
+    _permission: 'administer items'
+
+# This is the router item for adding our entity.
+entity.npc.add_form:
+  path: '/admin/config/runescape/npc/add'
+  defaults:
+    _title: 'Add Npc'
+    _entity_form: npc.add
+  requirements:
+    _entity_create_access: npc
+
+entity.npc.edit_form:
+  path: '/admin/config/runescape/npc/manage/{npc}'
+  defaults:
+    _title: 'Edit npc'
+    _entity_form: npc.edit
+  requirements:
+    _entity_access: npc.update
+
+entity.npc.delete_form:
+  path: '/admin/config/runescape/npc/manage/{npc}/delete'
+  defaults:
+    _title: 'Delete Npc'
+    _entity_form: npc.delete
+  requirements:
+    _entity_access: npc.delete
+
+entity.item.add_form:
+  path: '/admin/config/runescape/item/add'
+  defaults:
+    _title: 'Add Item'
+    _entity_form: item.add
+  requirements:
+    _entity_create_access: item
+
+entity.item.edit_form:
+  path: '/admin/config/runescape/item/manage/{item}'
+  defaults:
+    _title: 'Edit Item'
+    _entity_form: item.edit
+  requirements:
+    _entity_access: item.update
+
+entity.item.delete_form:
+  path: '/admin/config/runescape/item/manage/{item}/delete'
+  defaults:
+    _title: 'Delete Item'
+    _entity_form: item.delete
+  requirements:
+    _entity_access: item.delete

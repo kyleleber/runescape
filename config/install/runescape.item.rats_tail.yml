@@ -1,0 +1,10 @@
+uuid: d526e150-accc-40ae-87b0-77e4d191f597
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PQGmhOI7zDtjaGdCjFibFRLEs-cJ7CKM1KyBk_I5cFI
+id: rats_tail
+item_id: '271'
+item_description: 'A bit of rat'
+label: 'Rats tail'

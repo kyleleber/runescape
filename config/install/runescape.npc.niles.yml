@@ -1,0 +1,11 @@
+uuid: a4c12f45-7a22-47d2-8589-a567c22bf29d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HaBmR4WEVpLhJnacRQ-cjhQSDR094aQsh7bzXp7aHSg
+id: niles
+npc_id: '227'
+npc_description: 'He runs a fish exchange store'
+label: Niles
+items: null

@@ -1,0 +1,11 @@
+uuid: a2d72c8a-d5a2-4e08-84b0-048a888fd1ff
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: A6OCEFOdzu2taGy3DGxlaJX7T840sZ6OksB2qUh_NFQ
+id: hickton
+npc_id: '289'
+npc_description: 'The owner of the archery store'
+label: Hickton
+items: null

@@ -1,0 +1,11 @@
+uuid: 543d49a3-dee9-4f07-aed6-bb00a5e53496
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mcpnDjwidkAj_ps10zLLl6067HbOM-7LCWe3ebB6S7w
+id: scavvo
+npc_id: '183'
+npc_description: 'He has lopsided eyes'
+label: Scavvo
+items: null

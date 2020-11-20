@@ -1,0 +1,10 @@
+uuid: c5c3f27c-b0af-45cb-8ba6-d4e6858f4e7c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: O_LygQXylfoZ08b6LVW_08NZeDwoBafDrxIhMHhhtJY
+id: edible_seaweed
+item_id: '1245'
+item_description: 'slightly damp seaweed'
+label: 'Edible seaweed'

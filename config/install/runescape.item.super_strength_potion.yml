@@ -1,0 +1,10 @@
+uuid: 59bf2f00-8431-4192-a5b3-ebfb60fe8f68
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Y_BqbEzsgHGjkIJlDQpnfMEvP7WGLg-KiZTBKK3hFgM
+id: super_strength_potion
+item_id: '494'
+item_description: '1 dose of strength potion'
+label: 'Super strength Potion'

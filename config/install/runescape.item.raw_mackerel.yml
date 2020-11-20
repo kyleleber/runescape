@@ -1,0 +1,10 @@
+uuid: 20007895-025d-4f3f-89fb-efca3c371d5c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: u4sUuuaT20GvaNEyP8aipCU-VKUTnysL_Jyy0ZwoyNs
+id: raw_mackerel
+item_id: '552'
+item_description: 'I should try cooking this'
+label: 'Raw Mackerel'

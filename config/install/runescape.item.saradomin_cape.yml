@@ -1,0 +1,10 @@
+uuid: 53db8e38-db8f-4ea7-a827-b3012874c521
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dMP0ff1uJ5FwXONq1brd1oR3oL7yOllZfGMLg5xiFnE
+id: saradomin_cape
+item_id: '1214'
+item_description: 'A cape from the almighty saradomin'
+label: 'Saradomin Cape'

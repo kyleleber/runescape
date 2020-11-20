@@ -1,0 +1,11 @@
+uuid: 2d8da2da-9967-4490-9b2b-c498aedc62ea
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j2MgyVvnX5L28_ulVeDwLHmD9MujFmJdj0mZUGv_rL8
+id: ranael
+npc_id: '103'
+npc_description: 'A shopkeeper of some sort'
+label: Ranael
+items: null

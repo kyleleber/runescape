@@ -1,0 +1,10 @@
+uuid: eb99048a-250b-4cdc-8852-3c90e6329366
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yrNWpIw4pdhKxkWhBykmuL4G1pijOEhfcDnKIrOBvbA
+id: steel_plate_mail_body
+item_id: '118'
+item_description: 'Provides excellent protection'
+label: 'Steel Plate Mail Body'

@@ -1,0 +1,11 @@
+uuid: d682544a-221b-4880-bfc4-6739e241850a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fnmplEsd7qqVvVp1URPrRNYE192x8EFYjSRSOlH8kiQ
+id: golrie
+npc_id: '475'
+npc_description: 'It''s a tree gnome'
+label: golrie
+items: null

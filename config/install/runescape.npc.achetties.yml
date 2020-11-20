@@ -1,0 +1,11 @@
+uuid: afb5654d-651f-4e6a-82df-b81fb525d94e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p1LENuVF7Z7ErIOGsGkEqU1xi32RZtMIntlxoKPtXjc
+id: achetties
+npc_id: '253'
+npc_description: 'One of Asgarnia''s greatest heros'
+label: Achetties
+items: null

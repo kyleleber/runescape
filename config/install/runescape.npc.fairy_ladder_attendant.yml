@@ -1,0 +1,11 @@
+uuid: c295aa35-f160-4c0c-9bf5-624adea409c0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YugERoZbAeuLTPtslMEt3wWIEnGNAzOfTqil3c843V8
+id: fairy_ladder_attendant
+npc_id: '229'
+npc_description: 'A worker in the faerie market'
+label: 'Fairy Ladder attendant'
+items: null

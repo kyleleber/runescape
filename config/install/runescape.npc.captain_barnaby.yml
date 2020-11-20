@@ -1,0 +1,11 @@
+uuid: 23fd5998-ae92-4447-9ad0-5925ff950fec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: n4aVJQ_LuvWXlAASTHaPhMX01CzwMJHI6rkZrQENnDU
+id: captain_barnaby
+npc_id: '316'
+npc_description: 'An old sailor'
+label: 'Captain Barnaby'
+items: null

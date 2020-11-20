@@ -1,0 +1,11 @@
+uuid: 1a5dabdd-ec4a-4764-bc58-55030cf30188
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PaaV3CoIRtx_UGOO6lhJEUtZV4NTcJAPbMIRP_gThY8
+id: leela
+npc_id: '122'
+npc_description: 'She comes from Al Kharid'
+label: Leela
+items: null

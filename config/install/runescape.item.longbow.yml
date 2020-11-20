@@ -1,0 +1,10 @@
+uuid: 40a5c35e-c333-4bdf-ac73-f3362cd722d1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ulEHhqHUnc-O319vcdrF9PvbnoU_1q9OCEbBIwXjV5Q
+id: longbow
+item_id: '188'
+item_description: 'A Nice sturdy bow'
+label: Longbow

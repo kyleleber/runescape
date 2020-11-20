@@ -1,0 +1,10 @@
+uuid: 9431c6c4-580f-4ea4-ad57-7898c3d42850
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DRDbfJ7Xg0ccDx4FWgB94RkOZgtv1bh5ac85P4FPPFM
+id: fish_food
+item_id: '176'
+item_description: 'Keeps your pet fish strong and healthy'
+label: 'Fish Food'

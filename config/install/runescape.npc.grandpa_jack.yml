@@ -1,0 +1,11 @@
+uuid: 57f31102-14d9-45b1-8a53-f8ce763ca7d0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jsF3CciPJeIxlK6J-rPZMr9EyHOriobCHd3Tu38IClA
+id: grandpa_jack
+npc_id: '345'
+npc_description: 'A wistful old man'
+label: 'Grandpa Jack'
+items: null

@@ -1,0 +1,10 @@
+uuid: 5acccaf6-f726-4f6c-998f-c311827876a7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9SGCrAXsqF9NLl5soMwJdNtHUUIz0xXc5-lGlaBpHOQ
+id: cut_reed_plant
+item_id: '1249'
+item_description: 'A narrow long tube - it might be useful for something'
+label: 'Cut reed plant'

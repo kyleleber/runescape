@@ -1,0 +1,11 @@
+uuid: 2e3442d1-3a23-48a5-ae12-6291046eac7e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9Rzp22a0iEERSzrlf--E7C3nOQRDdc9PFRRgc861lsE
+id: nurmof
+npc_id: '773'
+npc_description: 'He sells pickaxes'
+label: Nurmof
+items: null

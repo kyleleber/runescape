@@ -1,0 +1,10 @@
+uuid: ab4da5d2-c56a-446f-9c29-e7dbfad76505
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HCzkkgMxDKyTBPcGZxU7mcPNf143tZKnrHTEMnbAU2E
+id: black_chain_mail_body
+item_id: '431'
+item_description: 'A series of connected metal rings'
+label: 'Black Chain Mail Body'

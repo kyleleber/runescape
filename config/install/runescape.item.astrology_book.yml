@@ -1,0 +1,10 @@
+uuid: b3f63454-d43d-4fd9-8d91-97295997e261
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ko-34n10vMuNMGkToGjeoiG3scr9hau-DFjIAIorkR4
+id: astrology_book
+item_id: '1025'
+item_description: 'A book on Astrology in runescape'
+label: 'Astrology Book'

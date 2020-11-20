@@ -1,0 +1,11 @@
+uuid: 4c0fb6f5-2d8a-4e84-9d4f-66107f0dfff0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bdm-Ot9Cpsb5wwZw4FCwDVdMjl9uZTIZpNy_i_sGquQ
+id: gerrant
+npc_id: '167'
+npc_description: 'I wonder what he''s got for sale'
+label: Gerrant
+items: null

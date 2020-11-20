@@ -1,0 +1,11 @@
+uuid: f5bc1f75-fc5e-470b-827d-fde134e6bb69
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aGnOQdHsRkVltqu9pwm-2anFXeSXcxItfDzI104A0e4
+id: doctor_orbon
+npc_id: '435'
+npc_description: 'A local doctor'
+label: 'Doctor orbon'
+items: null

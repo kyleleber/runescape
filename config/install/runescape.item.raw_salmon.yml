@@ -1,0 +1,10 @@
+uuid: 72630a89-8ef7-4961-9861-173f6d768482
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V9oNicMrVFg6Mbjx6ab4V9rKZ_e3UPxYhYbpC2IGtIA
+id: raw_salmon
+item_id: '356'
+item_description: 'I should try cooking this'
+label: 'Raw Salmon'

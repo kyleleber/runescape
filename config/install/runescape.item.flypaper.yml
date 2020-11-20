@@ -1,0 +1,10 @@
+uuid: 31c3126e-2979-48ce-b08e-fe123e4a6973
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wszhinON-CK5KoDjGTr1FHKEnQSUIrwuYhjzNFFA2EU
+id: flypaper
+item_id: '1203'
+item_description: 'Sticky paper for catching flies'
+label: Flypaper

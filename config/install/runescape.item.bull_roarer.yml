@@ -1,0 +1,10 @@
+uuid: e5b7e453-9d75-4d83-8daa-3e6bda944d3e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Uxz22GhNZ-_-li2wXC6pJzVuRlillKvtn7p3su9THiI
+id: bull_roarer
+item_id: '1177'
+item_description: 'A sound producing instrument - it may attract attention'
+label: 'Bull Roarer'

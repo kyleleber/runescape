@@ -1,0 +1,10 @@
+uuid: d0e286ba-3078-468f-90fc-6c1693496974
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kAnvy4EsAD75_wDSIe5CorDy7PWpuuh6kC8WHKPQz70
+id: invoice
+item_id: '922'
+item_description: 'A note with foreman''s timber order'
+label: invoice

@@ -1,0 +1,10 @@
+uuid: f71c28b9-b057-4863-bcbd-f700bd6308d3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RUpEfrFS5QNSsrGIEVmE-Kw0XHzL25eMHCHqOl0pkMU
+id: uncut_jade
+item_id: '890'
+item_description: 'A semi precious stone'
+label: 'Uncut Jade'

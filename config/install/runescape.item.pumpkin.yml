@@ -1,0 +1,10 @@
+uuid: 41a957da-c407-4898-a53c-f44073c0b4a5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tSpiLGWuI9F6fiu2k6uAjeae6VA-j_TxkuSEigCuNAk
+id: pumpkin
+item_id: '422'
+item_description: 'Happy halloween'
+label: Pumpkin

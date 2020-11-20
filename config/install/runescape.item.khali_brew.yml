@@ -1,0 +1,10 @@
+uuid: 22345a97-4a9e-4471-a927-1af9d45b5586
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AO6BXkyK5M4aMDJLQL_Lniqc0toXKZDYV7-yrivpogY
+id: khali_brew
+item_id: '735'
+item_description: 'A bottle of khazard''s worst brew'
+label: 'khali brew'

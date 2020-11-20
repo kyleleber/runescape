@@ -1,0 +1,10 @@
+uuid: 9d4b261b-4f57-4864-a463-10dbdb1084ab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OIOCUD6wvCMC_i0x43N-eJu-76ttmUcTCX5YYGh6YNU
+id: pineapple_pizza
+item_id: '750'
+item_description: 'A tropicana pizza'
+label: 'Pineapple Pizza'

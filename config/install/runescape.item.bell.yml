@@ -1,0 +1,10 @@
+uuid: bfb34d99-a6ee-41bd-b112-feece0700d4e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bOtpJC2xwWdCY0YYreNkwpWgGKzcJZYzgxEENaWmcco
+id: bell
+item_id: '743'
+item_description: 'I wonder what happens when i ring it'
+label: bell

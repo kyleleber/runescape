@@ -1,0 +1,10 @@
+uuid: c244d385-af7b-4c50-b8df-7552255858d2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HXnRWYtHKxK4lkEWI1F4jY1q4LD0pn1zmUj_QqINRwo
+id: wrought_iron_key
+item_id: '1097'
+item_description: 'This key clears unlocks a very sturdy gate of some sort.'
+label: 'Wrought iron key'

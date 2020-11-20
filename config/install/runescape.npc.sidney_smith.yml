@@ -1,0 +1,11 @@
+uuid: a8051aed-c078-4fa9-be9a-7de905eec8c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: n13gqGTsoSqATqg0m4DBNXhOUlDeXsvnKgBwxAsjzg4
+id: sidney_smith
+npc_id: '778'
+npc_description: 'Sidney Smith - Certification clerk'
+label: 'Sidney Smith'
+items: null

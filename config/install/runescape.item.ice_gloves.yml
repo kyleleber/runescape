@@ -1,0 +1,10 @@
+uuid: 74471a75-c73b-4aa5-9406-49751aac5619
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MpQ8UXSt9W5_QQ8VpqRooD66Az-_e3Fr3TT1NF25NIE
+id: ice_gloves
+item_id: '556'
+item_description: 'These will keep my hands cold!'
+label: 'Ice Gloves'

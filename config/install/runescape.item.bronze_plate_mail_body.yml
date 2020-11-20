@@ -1,0 +1,10 @@
+uuid: 2fdbe3b8-6835-456d-aa7b-158e834c798b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PL6yCgXMWxbSlhSp-IdTX7L0n6hfL8iS-gJD1SkpcKg
+id: bronze_plate_mail_body
+item_id: '117'
+item_description: 'Provides excellent protection'
+label: 'Bronze Plate Mail Body'

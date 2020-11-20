@@ -1,0 +1,11 @@
+uuid: 4c4803e0-45d1-46df-b880-7c548fc2e5b1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QhmBz7XX47vmM9_ujg-Z3A7M2QHVP5FUtYKahEzGLtI
+id: flynn
+npc_id: '115'
+npc_description: 'The mace salesman'
+label: Flynn
+items: null

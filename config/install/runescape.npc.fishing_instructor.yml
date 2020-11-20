@@ -1,0 +1,11 @@
+uuid: b216d419-6441-4a52-851e-8b16313af374
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pptpWHq6iuLUAIJ77AwSUwdD_4rvrVgIIamh3rQVH38
+id: fishing_instructor
+npc_id: '479'
+npc_description: 'He smells of fish'
+label: 'fishing instructor'
+items: null

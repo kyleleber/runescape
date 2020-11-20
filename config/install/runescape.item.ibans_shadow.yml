@@ -1,0 +1,10 @@
+uuid: 080df75d-9e75-4f63-8b91-f03a4e521688
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Mdj4BaIr31u3BEheSz_3I2zk_nPbwYFEq4hi-06I-6A
+id: ibans_shadow
+item_id: '1007'
+item_description: 'A dark mystical liquid'
+label: 'Ibans shadow'

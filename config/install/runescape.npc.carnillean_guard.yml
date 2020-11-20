@@ -1,0 +1,11 @@
+uuid: 2679b5ad-deac-483a-afff-2198f61ca1f5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: G-Ybe0-k1ySfV2cvLDKUHi3W4GcIl4MH6OWsdfiUnlY
+id: carnillean_guard
+npc_id: '420'
+npc_description: 'It''s a carnillean family guard'
+label: 'carnillean guard'
+items: null

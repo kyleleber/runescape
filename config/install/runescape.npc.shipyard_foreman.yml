@@ -1,0 +1,11 @@
+uuid: 0d1142c8-27f8-4761-83d6-22b0760b1452
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yHolIpyfLwphksCcpx99-33xKjGDwnqR7JBlt1iCx8A
+id: shipyard_foreman
+npc_id: '561'
+npc_description: 'He looks busy'
+label: 'Shipyard foreman'
+items: null

@@ -1,0 +1,11 @@
+uuid: 0a648ff5-6078-4f60-8bdc-21cd3a33b9b2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: C2lBX-Cyb0EBslbyZASOLYykxMilINonLlMMqNFKTT4
+id: lucien
+npc_id: '364'
+npc_description: 'He walks with a limp'
+label: Lucien
+items: null

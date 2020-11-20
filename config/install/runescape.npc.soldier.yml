@@ -1,0 +1,11 @@
+uuid: c0471501-abb4-44a6-9139-3c2a3500b2f6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DU84HwFjJnWM5bLqK4tLm58GVhEb0-FV7RlQbHfCsPM
+id: soldier
+npc_id: '519'
+npc_description: 'A soldier of the town of Yanille'
+label: Soldier
+items: null

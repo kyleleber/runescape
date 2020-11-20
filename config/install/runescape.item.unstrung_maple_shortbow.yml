@@ -1,0 +1,10 @@
+uuid: 7ce3a6fd-b290-4d0a-93e4-d9cca0e0e35e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-KP_9ma_zjWQ6SqjalwznY0eRyruNfOmvo5EyXwoBxY'
+id: unstrung_maple_shortbow
+item_id: '663'
+item_description: 'I need to find a string for this'
+label: 'unstrung Maple Shortbow'

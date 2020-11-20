@@ -1,0 +1,10 @@
+uuid: 81d6c275-1234-42e2-8b86-ba969e569955
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: U6zKtTPNzaIxNELPC_ViSGlG4bzvAQmaqu8qPl8CZhc
+id: zadimus_corpse
+item_id: '962'
+item_description: 'The remains of Zadimus'
+label: 'Zadimus Corpse'

@@ -1,0 +1,11 @@
+uuid: 78361ed8-8a76-416f-bb8c-8fddb5ca8ba1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v4EnsIlmvx1_VuL_JcTrGAPTvtwM56C7ZNxOLD2WSmQ
+id: unicorn
+npc_id: '0'
+npc_description: 'It''s a unicorn'
+label: Unicorn
+items: null

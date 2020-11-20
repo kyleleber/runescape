@@ -1,0 +1,10 @@
+uuid: 0989c677-c5bb-41d0-93e1-b1eb48f41efd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z4c9fy85-y8sHHMVCSri7PQUAukdvDwzeG2IaL71BXs
+id: dark_dagger
+item_id: '1255'
+item_description: 'An unusual looking dagger made of dark shiny obsidian'
+label: 'Dark Dagger'

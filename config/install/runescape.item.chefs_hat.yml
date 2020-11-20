@@ -1,0 +1,10 @@
+uuid: 028edb96-7b31-4a86-b711-652cf8c6a3a3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Xv_nG0AJHbZDz8gbklhwl5RP7wv9QjB-Xd0sKiDRKlQ
+id: chefs_hat
+item_id: '192'
+item_description: 'What a silly hat'
+label: 'Chef''s hat'

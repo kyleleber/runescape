@@ -1,0 +1,11 @@
+uuid: fb8d1478-3ec1-445f-a00e-ab8211bd1819
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pq4gzShGK6WKS344o4Lhmeg-6kzOoZvXCI5dO_Kvnko
+id: king_black_dragon
+npc_id: '477'
+npc_description: 'The biggest meanest dragon around'
+label: 'King Black Dragon'
+items: null

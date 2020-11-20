@@ -1,0 +1,9 @@
+uuid: f5a799cc-9f49-450c-a897-4c3523f05f06
+langcode: en
+status: true
+dependencies: {  }
+id: rat_lvl_8_
+npc_id: '19'
+npc_description: 'Overgrown vermin'
+label: 'Rat (lvl 8)'
+items: ''

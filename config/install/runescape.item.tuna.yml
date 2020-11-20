@@ -1,0 +1,10 @@
+uuid: 219478cc-bfdf-441a-b93a-4f2c8f5c00ee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BnIC5BPVNn52NHYpANdILnwO8zuzxLuerjLqRokdwQ0
+id: tuna
+item_id: '367'
+item_description: 'Wow this is a big fish'
+label: Tuna

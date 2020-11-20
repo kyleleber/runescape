@@ -1,0 +1,10 @@
+uuid: 6e5ccb58-5fbc-490e-855b-6a18e207fdb0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lBe7_Lc_lEYdJx8una6iywJm_TNsID697BSKvOwhUNo
+id: gloughs_key
+item_id: '925'
+item_description: 'Glough left this at anitas'
+label: 'gloughs key'

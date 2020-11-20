@@ -1,0 +1,11 @@
+uuid: 2ac0f233-2a61-4920-a77f-e248593d7781
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 45-6VkQei-nWzfHsjHY7DnXzUmIlhPRmxlKRfTcBFeA
+id: wizard
+npc_id: '314'
+npc_description: 'A young wizard'
+label: Wizard
+items: null

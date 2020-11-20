@@ -1,0 +1,10 @@
+uuid: db006288-6042-477f-bca9-8986b2ff1c34
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8TkbEY0RH0DWzOfmQHq224iqfNkpv3gtLElUvgju0d4
+id: ceramic_remains
+item_id: '1169'
+item_description: 'some ancient pottery'
+label: 'ceramic remains'

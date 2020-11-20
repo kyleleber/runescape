@@ -1,0 +1,10 @@
+uuid: fb87a095-3f96-4d13-94a8-05bce4bdf932
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xvZkHFLR-6FY2ibMranP3mdqnwKEJ08oconrCqqYRvU
+id: oyster_pearl_bolt_tips
+item_id: '790'
+item_description: 'Can be used to improve crossbow bolts'
+label: 'Oyster pearl bolt tips'

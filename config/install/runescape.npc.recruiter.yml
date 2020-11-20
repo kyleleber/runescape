@@ -1,0 +1,11 @@
+uuid: c3980120-4267-4539-9e68-efe98525ee76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: r0WfPhzC2NYaxAtNek2xHDNn18Pq73JQWgmfWCzTQt0
+id: recruiter
+npc_id: '468'
+npc_description: 'A member of the Ardougne royal army'
+label: Recruiter
+items: null

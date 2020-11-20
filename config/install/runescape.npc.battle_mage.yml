@@ -1,0 +1,11 @@
+uuid: 0e16fe87-4d31-4533-83ea-192e116f60f7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-2PjlrDvvbldUJVmMNr1s5x7sqQ4L9s4NCcwOblsMmA'
+id: battle_mage
+npc_id: '791'
+npc_description: 'He kills in the name of Saradomin'
+label: 'Battle mage'
+items: null

@@ -1,0 +1,11 @@
+uuid: 8f0a1b67-d048-4dc9-b687-1cd4ab8ffda1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: K10ATPEJFnzQy8G3KAjScAmj-p9CkLx9c6CRmVyZE68
+id: lord_hazeel
+npc_id: '426'
+npc_description: 'He could do with some sun'
+label: 'Lord hazeel'
+items: null

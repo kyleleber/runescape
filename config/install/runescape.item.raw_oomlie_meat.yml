@@ -1,0 +1,10 @@
+uuid: dc1d3f49-d0c1-449b-b192-b82532331b59
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AdvQGDBUEiy39sqY4IzJOV6ZXWOYNvDfd2e-OEsMm10
+id: raw_oomlie_meat
+item_id: '1268'
+item_description: 'Raw meat from the Oomlie bird'
+label: 'Raw Oomlie Meat'

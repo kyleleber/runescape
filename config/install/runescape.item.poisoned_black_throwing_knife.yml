@@ -1,0 +1,10 @@
+uuid: e2cacad5-0a7d-4da8-a1c5-7b0f173bf42c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: I88XWEuwtXAU5lWA767_jQ6C5aBlYO42UyrB92IrvQU
+id: poisoned_black_throwing_knife
+item_id: '1132'
+item_description: 'A finely balanced knife with a coating of venom'
+label: 'Poisoned Black throwing knife'

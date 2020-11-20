@@ -1,0 +1,10 @@
+uuid: 6965022e-185d-4d6f-a941-03331288835a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iwXCUEEFk0U7hi4B3WYGqimXUgo6jgzgh_u0j4wlPXk
+id: desert_robe
+item_id: '1019'
+item_description: 'Cool light robe to wear in the desert'
+label: 'Desert Robe'

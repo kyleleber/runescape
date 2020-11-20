@@ -1,0 +1,10 @@
+uuid: b5618a4c-86f7-4080-92b4-52cd398058f4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sjH0hGLRHT8HQqvuDWs64bHDShdwmekfWRVViyN3Fpo
+id: uncooked_apple_pie
+item_id: '254'
+item_description: 'I need to cook this first'
+label: 'Uncooked apple pie'

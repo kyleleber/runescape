@@ -1,0 +1,11 @@
+uuid: 29217e3b-726f-4857-ad12-325cd820ccfc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-XryfxJl4xoMetC07a-OxTyY7oMzqqjj6k4hPtONlpU'
+id: donny_the_lad
+npc_id: '236'
+npc_description: 'A bandit leader'
+label: 'Donny the lad'
+items: null

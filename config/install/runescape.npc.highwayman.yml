@@ -1,0 +1,11 @@
+uuid: e7c53ff5-3d3f-4ded-a094-26778265b1e5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YbuIgsp8UTmxISLuPrvsEMFeDB76qJgCqKY2fpqj1BM
+id: highwayman
+npc_id: '89'
+npc_description: 'He holds up passers by'
+label: Highwayman
+items: null

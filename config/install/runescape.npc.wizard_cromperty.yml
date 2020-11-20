@@ -1,0 +1,11 @@
+uuid: b1079736-c067-4472-b6c4-af14147e0516
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GEqVlxr7gmFNYxZgTY7tPfIMKOWlKrwl29jG3YG9D9U
+id: wizard_cromperty
+npc_id: '333'
+npc_description: 'An old wizard'
+label: 'Wizard Cromperty'
+items: null

@@ -1,0 +1,10 @@
+uuid: 5aecbb6c-09b7-44eb-bd53-5f7fae9bd415
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: X0PemR14mDyHdaZTJvi6CViJeOS90iUdVYbaL6CMXyk
+id: whisky
+item_id: '868'
+item_description: 'A locally brewed Malt'
+label: Whisky

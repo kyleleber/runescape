@@ -1,0 +1,10 @@
+uuid: bf3f965b-ce3f-43c9-b44c-78d64b16a92e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dFzKfiML1I4diOpJykz4R8t7CRbwiltPOY_bnC3_Dmk
+id: silver
+item_id: '383'
+item_description: 'this needs refining'
+label: Silver

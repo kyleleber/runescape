@@ -1,0 +1,11 @@
+uuid: 1c0e92dc-2b92-432d-af41-678ed56a31fa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZU7nddYKq1_EW4GtroQUbtpBX6Zg_95bndIYYohIkgA
+id: wormbrain
+npc_id: '192'
+npc_description: 'Dumb even by goblin standards'
+label: Wormbrain
+items: null

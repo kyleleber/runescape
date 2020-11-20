@@ -1,0 +1,10 @@
+uuid: c45de079-f500-4807-8d95-dc87c661af03
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: krwT4zGEIvdWkXs7p2MRPsR_TzDhfboBLuDADF-aQZU
+id: firebird_feather
+item_id: '558'
+item_description: 'This is cool enough to hold now'
+label: 'Firebird Feather'

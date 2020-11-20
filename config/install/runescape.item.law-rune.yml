@@ -1,0 +1,10 @@
+uuid: 98fed49f-8619-4d89-b836-d415da4d64ea
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BrY03prdvxKlKJVAqEMbz_gA-NtGEIIID3dbu0_k0K8
+id: law-rune
+item_id: '42'
+item_description: 'Used for teleport spells'
+label: Law-Rune

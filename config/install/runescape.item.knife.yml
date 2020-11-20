@@ -1,0 +1,10 @@
+uuid: 75c55232-95ec-4610-bc17-24d0cf9f55fa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TwZSGMhaP69rwizsGfjF8qt_y3OSe4u6I3dRjKSyXP8
+id: knife
+item_id: '13'
+item_description: 'A dangerous looking knife'
+label: Knife

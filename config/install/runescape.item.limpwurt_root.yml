@@ -1,0 +1,10 @@
+uuid: edc9dff7-99fc-4590-bab3-8880c6b771c4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7HsZ6czLllp4aNcMDiPUrAsFXRXZsKU_DzbSuWNtBbw
+id: limpwurt_root
+item_id: '220'
+item_description: 'the root of a limpwurt plant'
+label: 'Limpwurt root'

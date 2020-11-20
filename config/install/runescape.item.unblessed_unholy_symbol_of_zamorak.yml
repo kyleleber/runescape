@@ -1,0 +1,10 @@
+uuid: 9e92c78d-2b2d-47d7-b954-124bdf523c31
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Yc1YPVs-jBDhG8vXyR22eIlF0-AD9An2smAcd4qkHIM
+id: unblessed_unholy_symbol_of_zamorak
+item_id: '1028'
+item_description: 'this needs blessing'
+label: 'Unblessed Unholy Symbol of Zamorak'

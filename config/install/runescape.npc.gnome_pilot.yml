@@ -1,0 +1,11 @@
+uuid: c6e80f9c-1881-44a1-8155-afb5181ee08c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZI5dPl38NdeIuiQUr6C33g0B748jJIdyGMdudHIydcg
+id: gnome_pilot
+npc_id: '572'
+npc_description: 'He can fly the glider'
+label: 'Gnome pilot'
+items: null

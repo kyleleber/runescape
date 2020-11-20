@@ -1,0 +1,11 @@
+uuid: 56f35607-9579-4bd4-a022-6c7867ea27e6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1txt2wV4aIWOBSUsXL05SxQBVK3ftu58dStuu_NZhXo
+id: othainian
+npc_id: '645'
+npc_description: 'big red and incredibly evil'
+label: Othainian
+items: null

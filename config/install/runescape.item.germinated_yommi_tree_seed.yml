@@ -1,0 +1,10 @@
+uuid: 8bdad348-8b09-40c4-8278-048efd2af658
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iJl3VAfzT-MsGYSvn7HbGRgfP0LEdf98Vo4mYFNOP8E
+id: germinated_yommi_tree_seed
+item_id: '1254'
+item_description: 'A magical seed that grows into a Yommi tree - these have been germinated.'
+label: 'Germinated Yommi tree seed'

@@ -1,0 +1,10 @@
+uuid: f22dc7b2-b428-4d4b-9215-b7c9c481e32d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Hn7DKBsYqkVD2nI2hFHpHc7YecGosey2MadrCJj0ve8
+id: burnt_cake
+item_id: '331'
+item_description: 'Argh what a mess!'
+label: 'Burnt Cake'

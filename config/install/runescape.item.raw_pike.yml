@@ -1,0 +1,10 @@
+uuid: 786eee13-6f1e-4e33-9aa5-81bb8fa9e85c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YiD053W5Wg4pXJ-hoWUN06Q-OLNHds9hmyBpDqK3b2Q
+id: raw_pike
+item_id: '363'
+item_description: 'I should try cooking this'
+label: 'Raw Pike'

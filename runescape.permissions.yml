@@ -1,0 +1,11 @@
+'administer npcs':
+  title: 'Administer npcs'
+  description: Create and edit runescape npcs.
+
+'administer items':
+  title: 'Administer items'
+  description: Create and edit runescape items.
+
+'administer runescape settings':
+  title: 'Administer runescape settings'
+  description: Manage configuration for the runescape

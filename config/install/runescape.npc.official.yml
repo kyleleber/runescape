@@ -1,0 +1,11 @@
+uuid: b0541d24-2f94-4119-aaa4-7b4714a3f2a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vptwGZ_q5tWv4UfNJnHrkb1vBb6BPv54P7XwN3S7Ck0
+id: official
+npc_id: '625'
+npc_description: 'He helps the referee'
+label: Official
+items: null

@@ -1,0 +1,10 @@
+uuid: 1c0b36ce-72b3-455d-b83c-ed5a481a1156
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SPbKXIPJcRw9Hy0iwgkWhW9onaVz6IGlp1ejk89rECY
+id: sand
+item_id: '625'
+item_description: 'one of the ingredients for making glass'
+label: sand

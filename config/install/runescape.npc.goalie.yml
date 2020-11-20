@@ -1,0 +1,11 @@
+uuid: 3148a099-81d1-4da8-a5b8-2c0728747a78
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2DYBYYECBr5PZLh06zIjZ9-T3WTPZffO2p20S55Bppg
+id: goalie
+npc_id: '596'
+npc_description: 'A gnome ball goal catcher'
+label: Goalie
+items: null

@@ -1,0 +1,10 @@
+uuid: e3330c03-16e6-4096-8b15-7d203d98ecec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ztHHf8psDCRGt4z5I7t9Lk2fVcjZK5SMTk1f1ukysDw
+id: arcenia_root
+item_id: '1284'
+item_description: 'the root of an arcenia plant'
+label: 'Arcenia root'

@@ -1,0 +1,10 @@
+uuid: 500700c0-5d16-407e-888b-937edcfb323f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YTWHvXeIbY3d13tcnEs4YdfAq3Cryo9n2BkAn64x0po
+id: steel_pickaxe
+item_id: '1259'
+item_description: 'Requires level 6 mining to use'
+label: 'Steel Pickaxe'

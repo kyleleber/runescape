@@ -1,0 +1,10 @@
+uuid: 31db3814-4f85-4f73-bfa0-18f137d5b7c9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rvcskXMoV5Ty_p0UZbVqNnf_Gbm5i3o-6fkKg52TwKA
+id: level_2_certificate
+item_id: '1143'
+item_description: 'A Certificate of education'
+label: 'Level 2 Certificate'

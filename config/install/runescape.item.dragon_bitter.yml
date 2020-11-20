@@ -1,0 +1,10 @@
+uuid: 0aa570f0-72e9-401c-a946-a11b4e77ac27
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MJLXvnq6W7oAkdm7UbThathnSm-n-iRYGhaGIbdcMP0
+id: dragon_bitter
+item_id: '829'
+item_description: 'A glass of frothy ale'
+label: 'Dragon bitter'

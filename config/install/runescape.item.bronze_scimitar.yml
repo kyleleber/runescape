@@ -1,0 +1,10 @@
+uuid: 15edf716-9e8a-46d0-963b-07e71f63c20d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OVwGL-EzAuwOexng6Jero9F0ZQbg3ub__zjPT2oBpT8
+id: bronze_scimitar
+item_id: '82'
+item_description: 'A vicious curved sword'
+label: 'Bronze Scimitar'

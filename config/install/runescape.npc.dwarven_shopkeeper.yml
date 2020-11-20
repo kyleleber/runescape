@@ -1,0 +1,11 @@
+uuid: 63b9b233-dead-486e-bb63-a295b8c3b4de
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tVKgdMfJJvsETWOv3v3I9df1bz78cRRb_c2i5PqZkBM
+id: dwarven_shopkeeper
+npc_id: '143'
+npc_description: 'I wonder if he wants to buy any of my junk'
+label: 'Dwarven shopkeeper'
+items: null

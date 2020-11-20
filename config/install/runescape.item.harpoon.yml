@@ -1,0 +1,10 @@
+uuid: 918c0bfe-9dfc-400f-9c9f-6709fc4acb57
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cH5ZiZeGafHBxDkIdglIWtdweoR1n4x07TQ6bfm5aos
+id: harpoon
+item_id: '379'
+item_description: 'Useful for catching really big fish'
+label: Harpoon

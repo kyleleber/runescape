@@ -1,0 +1,11 @@
+uuid: f2a82a89-c577-4d58-aff4-864d003f0f86
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: morDN1kjYGnvICV-6UbMxf5-e9Xm5us8MF1yVOw1caU
+id: tailor
+npc_id: '501'
+npc_description: 'Hes ready for a party'
+label: Tailor
+items: null

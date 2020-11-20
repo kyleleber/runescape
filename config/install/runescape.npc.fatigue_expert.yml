@@ -1,0 +1,11 @@
+uuid: 57781b50-5307-4961-b3bf-4f6b519f358c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bxfmnfZVH9JEHMLi40B7uk_fSdKya5WzqEiykDGcgJQ
+id: fatigue_expert
+npc_id: '774'
+npc_description: 'He looks wide awake'
+label: 'Fatigue expert'
+items: null

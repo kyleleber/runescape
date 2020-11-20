@@ -1,0 +1,10 @@
+uuid: 64f44c5b-1af9-471e-bcff-3cdba6381c28
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j_LfwqbNUvm-13ahn40ZfLqkAAqpQ526zuvLLW3zM24
+id: apron
+item_id: '191'
+item_description: 'this will help keep my clothes clean'
+label: Apron

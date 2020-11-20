@@ -1,0 +1,10 @@
+uuid: 8c991f45-f782-401d-a9c8-e7a9a22cfeb0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uuT2KSrnCXm4IeY6HgW1uDlvD53TTeL5lgvgDc4mHDU
+id: iron_dagger
+item_id: '28'
+item_description: 'Short but pointy'
+label: 'Iron dagger'

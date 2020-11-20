@@ -1,0 +1,10 @@
+uuid: a285bb2e-dfee-4652-8360-8f66d60dbede
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rBR7giYcY7RH31w2Pb1zC_XUnrH70HsSKbIceNnB4ww
+id: giant_carp
+item_id: '718'
+item_description: 'Some nicely cooked fish'
+label: 'giant Carp'

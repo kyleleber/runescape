@@ -1,0 +1,11 @@
+uuid: 3cdae10d-f67f-4984-be2c-b21b94b63821
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7GhCm5gMyGhrF9bS7S17Ihm5RAb9WKLT-oPPKI9sdd0
+id: skeleton
+npc_id: '195'
+npc_description: 'A Taller than normal skeleton'
+label: skeleton
+items: null

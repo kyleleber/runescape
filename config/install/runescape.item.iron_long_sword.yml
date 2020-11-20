@@ -1,0 +1,10 @@
+uuid: 47446c94-6a40-4e26-a4e3-746cbe86b17f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6ejsOHJpdnZXM_rfCvoAMeMXJRj9lyggrIBZ9zjAGCA
+id: iron_long_sword
+item_id: '71'
+item_description: 'A razor sharp sword'
+label: 'Iron Long Sword'

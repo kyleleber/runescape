@@ -1,0 +1,10 @@
+uuid: 96f62d14-a41c-4503-86cb-27b17c95df9f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sNLTo91Oa1bnvgJkpOIStPlOkHei9U1xvNsfkyFJL60
+id: steel_bar
+item_id: '171'
+item_description: 'it''s a bar of steel'
+label: 'steel bar'

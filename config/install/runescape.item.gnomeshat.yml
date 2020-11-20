@@ -1,0 +1,10 @@
+uuid: efe930f4-a0dd-4f28-80a4-06b7c093339c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jJdNKTGfxrMl7HPeaYIw06HFmW9pZnqfi6ZAyaNpDVc
+id: gnomeshat
+item_id: '845'
+item_description: 'A silly pointed hat'
+label: gnomeshat

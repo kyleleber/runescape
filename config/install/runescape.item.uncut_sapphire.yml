@@ -1,0 +1,10 @@
+uuid: b4625561-ae69-41b0-af74-b97a86225de1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Tj8npu-jZeQS05aKkE65ntS7U7vTZkW8A_u_O2AYhlo
+id: uncut_sapphire
+item_id: '160'
+item_description: 'this would be worth more cut'
+label: 'uncut sapphire'

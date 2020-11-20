@@ -1,0 +1,11 @@
+uuid: b94f37d2-5b58-45a2-9873-55324baf0e9f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EmgNXJ1sv1TSFMYIS9gEu_9ihVqo3LvqcRy1KAZwgnU
+id: gulluck
+npc_id: '587'
+npc_description: 'He sells weapons'
+label: Gulluck
+items: null

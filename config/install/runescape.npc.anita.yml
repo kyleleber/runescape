@@ -1,0 +1,11 @@
+uuid: af5b1d65-1b6c-4173-ba0a-22fe6df0ac12
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lhs3bgvE1EEyqGTuFRD5m6oR3ld8MnndtWzput3rezQ
+id: anita
+npc_id: '565'
+npc_description: 'Its a little tree gnome'
+label: Anita
+items: null

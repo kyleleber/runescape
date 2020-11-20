@@ -1,0 +1,11 @@
+uuid: 79f1eaa8-adb4-48c0-82c3-ea2f93a001dd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: g9-mzC0Pe-qa9p8NF-l5_-yAyd2DZ9KqHQPF2nzC-VQ
+id: shipyard_worker
+npc_id: '559'
+npc_description: 'He looks busy'
+label: 'Shipyard worker'
+items: null

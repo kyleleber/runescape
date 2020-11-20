@@ -1,0 +1,10 @@
+uuid: d3468b68-f417-4c0a-8317-1433a7b9789d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ed3SLMi9XqAgWi1CI7FK272Q1PYNkmJKUQ5MLQ4FxrQ
+id: cabbage
+item_id: '228'
+item_description: 'Yuck I don''t like cabbage'
+label: Cabbage

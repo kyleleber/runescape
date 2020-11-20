@@ -1,0 +1,10 @@
+uuid: 7764cb8c-ced9-488c-9551-c10bbc8d0f54
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8Qwsuk2FxjvEKiCIkHHLMsK0Tw1Dk-FacSwG0IiIz88
+id: poisoned_iron_throwing_dart
+item_id: '1123'
+item_description: 'A venomous throwing dart with an iron tip.'
+label: 'Poisoned Iron Throwing Dart'

@@ -1,0 +1,11 @@
+uuid: 47c8b39a-adc3-4a07-9443-9ab8d5ef1e77
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: A8elwdNq3PS4k-7QjSFAPP6Vrx62yKt9HKVrKnNyUZg
+id: doric
+npc_id: '144'
+npc_description: 'A dwarven smith'
+label: Doric
+items: null

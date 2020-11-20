@@ -1,0 +1,11 @@
+uuid: 81a88538-3ecd-451b-9380-4ea325df73e6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BKZdU3SA9Ouo0icwMsZPwkUqlBrO8ZOIAOZB2qJph8A
+id: redbeard_frank
+npc_id: '128'
+npc_description: 'A pirate'
+label: 'Redbeard Frank'
+items: null

@@ -1,0 +1,11 @@
+uuid: 17ade899-3d53-49c9-8451-5aab06e9ede5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w46uPsCX0bnRmx8mtVo7Gx4nAy0LlvcDeKV6X1cWO7U
+id: abbot_langley
+npc_id: '174'
+npc_description: 'A Peaceful monk'
+label: 'Abbot Langley'
+items: null

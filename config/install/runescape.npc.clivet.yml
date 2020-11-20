@@ -1,0 +1,11 @@
+uuid: 8d31831a-f7e4-455f-a78a-3755e4e4f475
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V3C2not_eVEMmQQ6d-akEntJhXoe46ktvIEmiWh-lQI
+id: clivet
+npc_id: '424'
+npc_description: 'A strange looking man in black'
+label: clivet
+items: null

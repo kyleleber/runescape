@@ -1,0 +1,10 @@
+uuid: 5efed8e1-0f02-4cf4-bf17-712ff0536352
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q_hTV_Z_hKNhlWLpIH9H7nMjMk-AN0TKJoHuNmcLL64
+id: unidentified_liquid
+item_id: '1232'
+item_description: 'A strong acidic formula'
+label: 'Unidentified liquid'

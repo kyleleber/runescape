@@ -1,0 +1,10 @@
+uuid: 61793f7b-60e0-4e83-839c-c92319055b9c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nQPk1y6zR5xEQFrCFOi0OG9a0hkk9wztBCbQR6vpf5Q
+id: map
+item_id: '415'
+item_description: 'A map showing the way to the Isle of Crandor'
+label: Map

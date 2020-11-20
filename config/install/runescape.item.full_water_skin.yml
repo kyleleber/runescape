@@ -1,0 +1,10 @@
+uuid: 5c26e489-ec93-4032-9dbc-dc53aafe0fd6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: y-2QKAihLJmOh_gPSbTY3J0eokpZJ79gtPILTTVeBjQ
+id: full_water_skin
+item_id: '1016'
+item_description: 'A skinful of water'
+label: 'Full Water Skin'

@@ -1,0 +1,11 @@
+uuid: ded45c7f-0cb0-4d82-b699-9e904c1f3213
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ES8ryNBmcaU8jITEi-64NrwG47v1tm1a6Te3T3qOyGY
+id: ogre_shaman
+npc_id: '673'
+npc_description: 'An intelligent form of ogre'
+label: 'Ogre Shaman'
+items: null

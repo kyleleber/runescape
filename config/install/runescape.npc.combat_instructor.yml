@@ -1,0 +1,11 @@
+uuid: 5a0ab3e9-90cf-4aa5-85d2-7000ab79539b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LmxzbJ8QoufeS1h3DiF6_5dso1OfLaEnL3OPQPQznfg
+id: combat_instructor
+npc_id: '474'
+npc_description: 'He will tell me how to fight'
+label: 'Combat instructor'
+items: null

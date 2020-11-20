@@ -1,0 +1,10 @@
+uuid: dce80cf5-a749-4ecb-9fbf-2fbc75f86241
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wtwOZyBUXoXMCu8D_qXjNGTuMD5aUNCIwu9mMDuTbTs
+id: manta_ray
+item_id: '1191'
+item_description: 'A rare catch!'
+label: 'Manta ray'

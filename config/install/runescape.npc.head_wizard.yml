@@ -1,0 +1,11 @@
+uuid: fa6f9d48-214a-4827-9906-d715e54cdae4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RBpknKEA1Sk5lCMTuaMvxwAIuLb0BDyfEnasg1GIjsY
+id: head_wizard
+npc_id: '513'
+npc_description: 'He runs the wizards guild'
+label: 'Head wizard'
+items: null

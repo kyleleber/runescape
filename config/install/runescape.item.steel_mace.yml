@@ -1,0 +1,10 @@
+uuid: 700b8dcd-a7d9-4085-b895-a70bd86e08b6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: otP0YCQJXX5zG1R3iG4DSSG8GzoPUc5Nu-7Gp0ox9dw
+id: steel_mace
+item_id: '95'
+item_description: 'A spiky mace'
+label: 'Steel Mace'

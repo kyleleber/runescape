@@ -1,0 +1,11 @@
+uuid: 6c16728a-426b-4819-bd9b-2d8142d5c8fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1t3UxbUMmVljAzf0zAE4cetsGHgaamHZsdaWMn3ZNbM
+id: goblin
+npc_id: '660'
+npc_description: 'These goblins have grown strong'
+label: Goblin
+items: null

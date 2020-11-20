@@ -1,0 +1,11 @@
+uuid: 2b40b3d9-16ce-4d52-b382-32308506d6d3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 28bVxTDxnEO4ZvQP01mPwV9PCvxf9S1yFI33s4HkGXw
+id: lollk
+npc_id: '695'
+npc_description: 'He looks scared'
+label: lollk
+items: null

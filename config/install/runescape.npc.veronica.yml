@@ -1,0 +1,11 @@
+uuid: a4dcdbd4-c578-45d6-945a-8aa51ee9e76a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HDN-We7PQao8C0UoTA6iB9vQIrcCQKT-YyRvexTltm0
+id: veronica
+npc_id: '36'
+npc_description: 'She doesn''t look too happy'
+label: Veronica
+items: null

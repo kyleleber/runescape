@@ -1,0 +1,10 @@
+uuid: 20253975-2fab-4c62-b2dd-b58ec43a93aa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: clGpYGVTqZIfz2QvVSk4MSlyTmTHIutfXLZdKHLBm9M
+id: burnt_pitta_bread
+item_id: '1110'
+item_description: 'Urgh - it''s all burnt'
+label: 'Burnt Pitta Bread'

@@ -1,0 +1,10 @@
+uuid: 15822f08-c25f-4493-878a-1786ebf57c02
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SmBWkmj0yd3SOYpPSKkzP1XkeWR1R9XzBVR5HvIZnH8
+id: bronze_chain_mail_body
+item_id: '113'
+item_description: 'A series of connected metal rings'
+label: 'Bronze Chain Mail Body'

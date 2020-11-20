@@ -1,0 +1,11 @@
+uuid: a078cd33-1dcf-4f1e-822f-70d584a8fae4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PQgE02DoBF6Ydkl9a-TG2_f2KtAy4bepbLCT1Hw90jg
+id: ned
+npc_id: '194'
+npc_description: 'An old sailor'
+label: Ned
+items: null

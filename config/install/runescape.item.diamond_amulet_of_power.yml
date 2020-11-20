@@ -1,0 +1,10 @@
+uuid: 5f3049b8-0ea4-4982-9a6e-52c1f78d3bec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 002qNzb5dEvL_csISoddv5upKOCOCt9IqPT5kbKkO9A
+id: diamond_amulet_of_power
+item_id: '317'
+item_description: 'A powerful amulet'
+label: 'Diamond Amulet of power'

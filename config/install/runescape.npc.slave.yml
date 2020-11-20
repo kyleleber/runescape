@@ -1,0 +1,11 @@
+uuid: c5961b61-6abf-4cc4-abf9-24c23ffe1df2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2_CKwssv7QCNYbyd-ZUcQ7uKBR_L-sQ6Y-1LxWo-dtc
+id: slave
+npc_id: '640'
+npc_description: 'He seems to have been here a while'
+label: slave
+items: null

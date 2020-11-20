@@ -1,0 +1,10 @@
+uuid: 3aacef80-6a24-43ab-b166-2cd9f1038140
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zoccluqK5J6FjEeNinfEJZ0_h0tuJRvPQCEsJaOivmU
+id: emerald_necklace
+item_id: '290'
+item_description: 'I wonder if this is valuable'
+label: 'Emerald necklace'

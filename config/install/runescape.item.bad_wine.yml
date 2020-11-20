@@ -1,0 +1,10 @@
+uuid: d944a3fc-3bac-4158-86c5-7bd26c7c53a7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7zVtnpcch7s-hXLY6YpZIjWnbHE_sDzkgw75gXy5m7U
+id: bad_wine
+item_id: '180'
+item_description: 'Oh dear'
+label: 'Bad wine'

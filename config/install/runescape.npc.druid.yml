@@ -1,0 +1,11 @@
+uuid: 35bbd1bb-9228-48d3-b3dd-21c0817437e0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AYUPAyLp9WhKrhqRnN5-SpiQlDTdDizZHQVRQpuRdRg
+id: druid
+npc_id: '200'
+npc_description: 'A worshipper of Guthix'
+label: Druid
+items: null

@@ -1,0 +1,10 @@
+uuid: 322b76e6-efc8-4c1f-9609-3809cf1d432f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ya4l7IGbPJ6FWjo22uxB_I4sls4HCoF9ynwkRltzmGw
+id: dragonstone_amulet
+item_id: '524'
+item_description: 'It needs a string so I can wear it'
+label: 'Dragonstone Amulet'

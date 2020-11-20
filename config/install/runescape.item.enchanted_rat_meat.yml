@@ -1,0 +1,10 @@
+uuid: d648e1b8-f260-4c11-814d-ae23e79078ee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5suZ9kWF4gSF6MPNv3NdAMhs-4BFDjsV63bNqg04Q6o
+id: enchanted_rat_meat
+item_id: '506'
+item_description: 'I don''t fancy eating this now'
+label: 'enchanted rat meat'

@@ -1,0 +1,10 @@
+uuid: d0b562eb-4b0c-4611-b888-cd33b056d6b7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Xp_gkrxw89ij5AcBxyAT5Wm5NktxbJpo16otDfNRjpU
+id: glowing_dark_dagger
+item_id: '1256'
+item_description: 'An unusual looking dagger made of dark shiny obsidian - it has an unnatural glow .'
+label: 'Glowing Dark Dagger'

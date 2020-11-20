@@ -1,0 +1,11 @@
+uuid: 8afe6aa8-9430-4e87-975e-60499a949f86
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Qkd5-yf4cVmPEAaXe4-ps8Uz29qroyLcTlgfCyA0SZ8
+id: seaman_thresnor
+npc_id: '171'
+npc_description: 'A young sailor'
+label: 'Seaman Thresnor'
+items: null

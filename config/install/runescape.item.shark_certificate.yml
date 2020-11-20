@@ -1,0 +1,10 @@
+uuid: 20ee816e-1e87-4f91-8be6-29b0d0676250
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ReMsfmcMN4QxuFeRFqBidPBEy-stqX4JyytACWCExeA
+id: shark_certificate
+item_id: '630'
+item_description: 'Each certificate exchangable at Catherby for 5 shark'
+label: 'shark certificate'

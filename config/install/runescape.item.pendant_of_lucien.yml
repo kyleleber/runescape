@@ -1,0 +1,10 @@
+uuid: ba77bac8-cd3d-4ad3-92f4-8e9fc41e5647
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KQRmCa0Xf55LDFxpfTOeOah7xU8lkj-OBbOXSKeRVYA
+id: pendant_of_lucien
+item_id: '721'
+item_description: 'Gets me through the chamber of fear'
+label: 'Pendant of Lucien'

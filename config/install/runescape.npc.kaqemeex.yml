@@ -1,0 +1,11 @@
+uuid: 261b39c2-3577-491d-aba5-e6915ac9290b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jd27bkj4nbpw3kM0MrhHzNuDm91uXfNdHdYwbUAjXZM
+id: kaqemeex
+npc_id: '204'
+npc_description: 'A wise druid'
+label: Kaqemeex
+items: null

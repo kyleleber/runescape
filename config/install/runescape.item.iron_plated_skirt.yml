@@ -1,0 +1,10 @@
+uuid: 99c6b35c-b71a-4241-9406-fdf6691469b1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bMBD7-lAK1hwrswIwYJr6J1-036eLBF0rLVrj-OI8Bw
+id: iron_plated_skirt
+item_id: '215'
+item_description: 'Designer leg protection'
+label: 'Iron Plated Skirt'

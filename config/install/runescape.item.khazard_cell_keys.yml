@@ -1,0 +1,10 @@
+uuid: fca1b785-fdf6-4b91-81df-31c8b9be18da
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: C_EPYlBpYs_s44Kvr_6axmB6d8aM2JGT9VKLn48uSss
+id: khazard_cell_keys
+item_id: '736'
+item_description: 'Keys for General Khazard''s cells'
+label: 'khazard cell keys'

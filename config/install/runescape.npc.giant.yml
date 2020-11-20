@@ -1,0 +1,11 @@
+uuid: 04065674-0544-4517-b589-ace5bf41e2ec
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: i3Aas3_gTmptf3LlduRSOSidAy1PA7CBWrgEEuQ51CI
+id: giant
+npc_id: '61'
+npc_description: 'A very large foe'
+label: Giant
+items: null

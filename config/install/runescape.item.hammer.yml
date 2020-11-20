@@ -1,0 +1,10 @@
+uuid: 50a6b661-ed05-44ad-a689-fc8dcff8c0c3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wSGoe2xCYfHvJVk2AxwNem0nWtQpXWdIG6fvehGFe1I
+id: hammer
+item_id: '168'
+item_description: 'good for hitting things!'
+label: hammer

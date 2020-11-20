@@ -1,0 +1,11 @@
+uuid: 7096f9ce-54e2-4102-8be7-5831c0997120
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RA-xRAinSpSeMWerSihOE-ypNiYyEXUXUEb7mATKx9g
+id: merlin
+npc_id: '393'
+npc_description: 'An old wizard'
+label: Merlin
+items: null

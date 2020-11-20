@@ -1,0 +1,10 @@
+uuid: 57d04b60-47d7-4910-a9aa-0fb2cdca540e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uXwjnY8tplA3gi-933P-C8v7SOCyHisToU9cV3wlqE0
+id: dramen_staff
+item_id: '509'
+item_description: 'A magical staff cut from the dramen tree'
+label: 'Dramen Staff'

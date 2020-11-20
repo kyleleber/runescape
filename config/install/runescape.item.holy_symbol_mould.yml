@@ -1,0 +1,10 @@
+uuid: e10b0bc4-2e30-4082-9818-cfcd5bc0323e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yYcpXMObCi3SNGvt3CqXq3BSf_s7HxGsPvaAN6RouAI
+id: holy_symbol_mould
+item_id: '386'
+item_description: 'Used to make Holy Symbols'
+label: 'Holy symbol mould'

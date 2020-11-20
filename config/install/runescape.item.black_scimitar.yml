@@ -1,0 +1,10 @@
+uuid: 8485b899-8b90-4b1f-8358-52629413c553
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MMmHclzDmHn7I3qCp6iVIbrE4Ifxrqb1Xqz8jyBuNOc
+id: black_scimitar
+item_id: '427'
+item_description: 'A vicious curved sword'
+label: 'Black Scimitar'

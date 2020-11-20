@@ -1,0 +1,11 @@
+uuid: 2dc0686e-baf5-40cb-a7a3-ed88afa6ca7d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RF2B_OcN5X6mMIIGzLPFXrds86kYEjFIzrKjbEXpyeU
+id: poison_spider
+npc_id: '292'
+npc_description: 'I think this spider has been genetically modified'
+label: 'Poison Spider'
+items: null

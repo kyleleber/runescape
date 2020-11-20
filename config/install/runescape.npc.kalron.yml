@@ -1,0 +1,11 @@
+uuid: 9b729f0a-7ef6-4c7a-b7eb-bf2779f60444
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8rIUlzgD85rG-Zw_Zt9EhK0WXNyDS7Rcv2tBGhoxgQc
+id: kalron
+npc_id: '402'
+npc_description: 'he look''s lost'
+label: kalron
+items: null

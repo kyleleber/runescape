@@ -1,0 +1,11 @@
+uuid: 04120add-c397-4799-98c8-a34603d9e4eb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IdlSuiCJ0G9FzrmbPD9_JCvlaeG9CvV4tPnEdoAIK_M
+id: gnome_child
+npc_id: '591'
+npc_description: 'Hes a little fellow'
+label: 'Gnome child'
+items: null

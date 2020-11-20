@@ -1,0 +1,10 @@
+uuid: d9a795b5-624d-42f5-8ef6-f84b250d2f87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Fjmk0-RCBbCK2fDwXRfNjR1XBKENTisIjuumfpGF6g0
+id: stamped_letter_of_recommendation
+item_id: '1146'
+item_description: 'A stamped scroll with a recommendation on it'
+label: 'Stamped letter of recommendation'

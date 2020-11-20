@@ -1,0 +1,11 @@
+uuid: 32dc4546-2cdf-49cb-b17d-13384f36983b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PNJVKIg2NkbksLArQ6MkfgSVy7G8DoZfrLrP4EZL-Zc
+id: rommik
+npc_id: '156'
+npc_description: 'The owner of the crafting shop'
+label: Rommik
+items: null

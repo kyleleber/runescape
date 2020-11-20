@@ -1,0 +1,10 @@
+uuid: efc583bb-01fa-417d-bae3-69e1cdb67b6b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: anE9W8teRItj_c_R_tKFcZdK9lpNyJMTk96zyqTW1gM
+id: black_battle_axe
+item_id: '429'
+item_description: 'A vicious looking axe'
+label: 'Black battle Axe'

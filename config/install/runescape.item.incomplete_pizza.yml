@@ -1,0 +1,10 @@
+uuid: 8caf87e1-3f20-4fba-9401-7ebf37dc62e4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4t5KZGYQ61FXYbOoje04ENQEql7Au20UhPAKNW_6Y2o
+id: incomplete_pizza
+item_id: '323'
+item_description: 'I need to add some cheese next'
+label: 'Incomplete Pizza'

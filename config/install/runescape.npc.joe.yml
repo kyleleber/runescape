@@ -1,0 +1,11 @@
+uuid: 135e768d-05db-47a6-b364-403d3ec42642
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lrwg3gzdZSR495ORdqk0cv9ErkH1RESbk-bdpTtLY2I
+id: joe
+npc_id: '121'
+npc_description: 'Lady Keli''s head guard'
+label: Joe
+items: null

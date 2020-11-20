@@ -1,0 +1,10 @@
+uuid: 0fd049f0-8332-4dc7-9835-6e45b174dad9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TG3Pw__Ka4oqaPcpS4JS8RYkxauWpQb7b7pB9usv3fU
+id: excalibur
+item_id: '606'
+item_description: 'This used to belong to king Arthur'
+label: Excalibur

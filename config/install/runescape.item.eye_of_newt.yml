@@ -1,0 +1,10 @@
+uuid: ff19b74e-f74b-4e39-944b-de6f4dd2f069
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: isoEv1kabu-LOsZcNE2dM6t3LJoNpyO5WYLZyiVYkO4
+id: eye_of_newt
+item_id: '270'
+item_description: 'It seems to be looking at me'
+label: 'Eye of newt'

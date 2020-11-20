@@ -1,0 +1,10 @@
+uuid: d6a427d4-7c76-4112-906b-cc1645c19e76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eJOY-4VYVOXsWoYEhcMiz08gJryHYXhHQCeS5L-afuc
+id: silver_bar
+item_id: '384'
+item_description: 'this looks valuable'
+label: 'silver bar'

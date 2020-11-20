@@ -1,0 +1,10 @@
+uuid: 7811bd5d-ff27-4e3b-a649-271a33d82635
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IWio7dUAN6p-m8LDfGfy1SOR5gOpAsbVnzG0XwXOHKo
+id: amulet_of_ghostspeak
+item_id: '24'
+item_description: 'It lets me talk to ghosts'
+label: 'Amulet of GhostSpeak'

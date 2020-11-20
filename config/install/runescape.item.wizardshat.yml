@@ -1,0 +1,10 @@
+uuid: 5d01f404-ad04-4fa1-bd36-95913e17e667
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: N5aTxSbdn4CYH4P96Q0WQAEknH9B07dw9JHNTd_LwEc
+id: wizardshat
+item_id: '199'
+item_description: 'A silly pointed hat'
+label: wizardshat

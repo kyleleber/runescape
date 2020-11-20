@@ -1,0 +1,10 @@
+uuid: bd1389ed-2e5b-4b94-b9d4-0a8c90486d00
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uWpDfPS_mU4I6rMSxnVcVcymJR8fQOQ9hjK2RsXlXqY
+id: needle
+item_id: '39'
+item_description: 'Used with a thread to make clothes'
+label: Needle

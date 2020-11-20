@@ -1,0 +1,10 @@
+uuid: a58ba276-2e91-4510-886d-072f45b2b5ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6cn75yJ-e6AvmP7-fSjHhP6ivWUMlf0anfHgPFrJJF8
+id: wig
+item_id: '245'
+item_description: 'A wig made from wool'
+label: wig

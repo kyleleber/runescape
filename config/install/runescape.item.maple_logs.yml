@@ -1,0 +1,10 @@
+uuid: 20c2a9fe-f311-439b-a591-5c89a21bfc21
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V4BnjkzYkCEq-fy0qe6njhJ16NRBbAMQUKEcASPJ0dU
+id: maple_logs
+item_id: '634'
+item_description: 'Logs cut from a maple tree'
+label: 'Maple Logs'

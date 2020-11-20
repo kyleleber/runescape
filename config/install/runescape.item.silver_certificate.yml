@@ -1,0 +1,10 @@
+uuid: ebaf13b4-dd80-4e74-a6cc-744235e37fa3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oVGvom1ZQsiSJ_jG9TV37o9iWoc6pjSmSfWJwiHu0ps
+id: silver_certificate
+item_id: '520'
+item_description: 'Each certificate exchangable at draynor market for 5 silver nuggets'
+label: 'silver certificate'

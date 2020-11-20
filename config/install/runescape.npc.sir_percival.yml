@@ -1,0 +1,11 @@
+uuid: ef70f42f-46db-42b3-b6a0-1a6ba93bf86e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tqcOyEsCEgGkxiu_z5fHxrbaPhQhPoZSGDW39LgJhC0
+id: sir_percival
+npc_id: '411'
+npc_description: 'He''s covered in pieces of straw'
+label: 'Sir Percival'
+items: null

@@ -1,0 +1,11 @@
+uuid: 8cedceaf-d519-473a-b981-0398a6edbbaa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KLESCM95pa7GrDhXL0SS4lsP47-3w6uKcB-NTNv4n3Y
+id: grey_wolf
+npc_id: '243'
+npc_description: 'A sinister looking wolf'
+label: 'Grey wolf'
+items: null

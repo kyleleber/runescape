@@ -1,0 +1,10 @@
+uuid: 993a1494-4836-4750-8079-0fa034fc05ac
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mufTvKNsDCGXGuBArpw8KlZOpJ1YVTMLbd97qBcSe9U
+id: greenmans_ale
+item_id: '830'
+item_description: 'A glass of frothy ale'
+label: 'Greenmans ale'

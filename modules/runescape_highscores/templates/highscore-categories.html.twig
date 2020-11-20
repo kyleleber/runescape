@@ -1,0 +1,14 @@
+{#
+  Displays a clickable overview of all available stats.
+#}
+{% if categories %}
+  {% set module_path = _self|split('/templates') %}
+  <table class="highscore-categories">
+    <th>Category</th>
+    {% for id,category in categories %}
+      <tr>
+        <td><img src="/{{ module_path[0] }}/assets/images/icons/{{ id }}.gif"/> <a href="?skill={{ id }}">{{ category }}</a></td>
+      </tr>
+    {% endfor %}
+  </table>
+{% endif %}

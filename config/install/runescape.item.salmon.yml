@@ -1,0 +1,10 @@
+uuid: 7c6ebad8-fc89-44bc-8b5d-86b1b1bb92a9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0rpHMpa1IIkwJSkSu7mzFGHOQ5GehDEZNgtWeo_dsZs
+id: salmon
+item_id: '357'
+item_description: 'Some nicely cooked fish'
+label: Salmon

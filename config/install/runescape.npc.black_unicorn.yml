@@ -1,0 +1,11 @@
+uuid: 6b459466-20c3-4d42-8963-768882347066
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uNMKi6pe-lY4se3cOGp7c0xrt88ZOg85K4soLfA8QCw
+id: black_unicorn
+npc_id: '296'
+npc_description: 'It''s a sort of unicorn'
+label: 'Black Unicorn'
+items: null

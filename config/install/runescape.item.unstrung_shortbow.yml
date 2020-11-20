@@ -1,0 +1,10 @@
+uuid: db505dea-7e21-43d5-9061-338d4b1f65ca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: i0cp3UVqc4TjICoPzNOomE9PBLZSRnn2YrgFD8msJ6I
+id: unstrung_shortbow
+item_id: '277'
+item_description: 'I need to find a string for this'
+label: 'unstrung shortbow'

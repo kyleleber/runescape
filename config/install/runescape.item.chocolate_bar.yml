@@ -1,0 +1,10 @@
+uuid: ff0519b2-c0fb-4de6-b22c-ed4a512937d3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Xf33MSbVadiDwI5org6ng2tH9o2BjypMtqiPBwxY4Fo
+id: chocolate_bar
+item_id: '337'
+item_description: 'It''s a bar of chocolate'
+label: 'Chocolate Bar'

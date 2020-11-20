@@ -1,0 +1,11 @@
+uuid: 28176072-f7e6-4a25-8dc2-41f09ce07b6a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bZEZ_SpVEQX_cwEjMYesQ1ccabwEjpyGdKsTD5WjZEY
+id: general_wartface
+npc_id: '151'
+npc_description: 'An ugly green creature'
+label: 'General wartface'
+items: null

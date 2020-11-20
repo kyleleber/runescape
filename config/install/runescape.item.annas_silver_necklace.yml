@@ -1,0 +1,10 @@
+uuid: 1d52b303-b456-43ac-8fd2-90b0fbb8bb87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HjKsBH5uThv9Httrh8cKGv2bgJbmFHJyQhT65ClyZFc
+id: annas_silver_necklace
+item_id: '1224'
+item_description: 'A silver necklace coated with flour'
+label: 'Annas Silver Necklace'

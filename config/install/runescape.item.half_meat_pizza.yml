@@ -1,0 +1,10 @@
+uuid: 75acacca-4b81-4215-9923-39bf3de1d792
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rsJ6Rwne-Q3MKbufBSlrG-RWkvn3rAlFosY85nmratU
+id: half_meat_pizza
+item_id: '328'
+item_description: 'Half of this pizza has been eaten'
+label: 'Half Meat Pizza'

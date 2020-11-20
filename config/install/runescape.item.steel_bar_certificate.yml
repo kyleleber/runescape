@@ -1,0 +1,10 @@
+uuid: 66c0b1db-4e39-4256-b157-b6d7d2e6d8c1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hZQK0Ou15-YbjHEABfAnXUCpG5Fcva_A3yu0lEFbkRg
+id: steel_bar_certificate
+item_id: '529'
+item_description: 'Each certificate exchangable at draynor market for 5 steel bars'
+label: 'steel bar certificate'

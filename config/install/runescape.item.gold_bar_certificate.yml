@@ -1,0 +1,10 @@
+uuid: 6e1b4b0a-e02b-4352-ad03-248eda790f21
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iLdpM8AczWbIQnvS_h2u823sbuVa7lUoUHdfI7vIJtg
+id: gold_bar_certificate
+item_id: '532'
+item_description: 'Each certificate exchangable at draynor market for 5 gold bars'
+label: 'Gold bar certificate'

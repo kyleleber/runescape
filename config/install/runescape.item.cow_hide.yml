@@ -1,0 +1,10 @@
+uuid: bacebe89-1d95-4264-acab-672cc68a32b2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: COkJH7BX6z8Thio5Cqt-LePiVWEXcq-Doj5J1VQy6PA
+id: cow_hide
+item_id: '147'
+item_description: 'I should take this to the tannery'
+label: 'cow hide'

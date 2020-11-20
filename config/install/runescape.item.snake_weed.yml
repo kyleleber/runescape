@@ -1,0 +1,10 @@
+uuid: 241a6c8d-40e6-486f-8993-561c8c8755cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HNzjV3WA7RO7_JTRX5vpAbtjpHPzGih7XSPjbcaWKYM
+id: snake_weed
+item_id: '816'
+item_description: 'A very rare jungle herb'
+label: 'Snake Weed'

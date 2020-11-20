@@ -1,0 +1,10 @@
+uuid: 9bd7fef1-fc15-4f51-b41a-a1d8ba6912fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Oz_K-99OXusOl4mVzeEC62-dU_aMxOTgfZ__AxpV55g
+id: soda_ash
+item_id: '624'
+item_description: 'one of the ingredients for making glass'
+label: 'soda ash'

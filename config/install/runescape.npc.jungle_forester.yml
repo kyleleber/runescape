@@ -1,0 +1,11 @@
+uuid: 8444af45-40c9-4adf-b6ac-da837c52fdb4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _SnsGaTivsdVNmz8-S89yU1raXfzNZKCEmiAmm3Bbzk
+id: jungle_forester
+npc_id: '765'
+npc_description: 'A woodsman who specialises in large and exotic timber'
+label: 'Jungle Forester'
+items: null

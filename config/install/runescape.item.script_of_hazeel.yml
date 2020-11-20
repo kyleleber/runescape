@@ -1,0 +1,10 @@
+uuid: 24b44bd1-25a8-4c10-a695-639cacfb0c46
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sAxHcaoKuH3RBnDbOCDpXX3tFF4KOfXwEBAgfCg9Qjo
+id: script_of_hazeel
+item_id: '747'
+item_description: 'An old scroll with strange ancient text'
+label: 'Script of Hazeel'

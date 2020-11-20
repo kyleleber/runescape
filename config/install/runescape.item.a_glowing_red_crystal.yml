@@ -1,0 +1,10 @@
+uuid: 5d669e05-e54f-4ac0-9daf-05825b9d8754
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zmMXDVVQ_Hpe1ezf6E4P00wDplOSMEBrnBdN-rFhwRE
+id: a_glowing_red_crystal
+item_id: '1231'
+item_description: 'A glowing heart shaped red crystal - great magic must be present in this item'
+label: 'A glowing red crystal'

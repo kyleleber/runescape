@@ -1,0 +1,10 @@
+uuid: 26a92144-e8dd-4621-a45a-03b1724b1330
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5RZnPl8mZJlDwImp41NjBelnJWjMh7noNoBAtUaat80
+id: lemon_slices
+item_id: '856'
+item_description: 'It''s very fresh'
+label: 'lemon slices'

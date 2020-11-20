@@ -1,0 +1,10 @@
+uuid: 903325b9-3099-47dd-8cd2-50d864256b03
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VqEG1YEaACjTD4-jdFofEQ0N4gxeHPuHg_dJj4b-RbQ
+id: king_lathas_amulet
+item_id: '826'
+item_description: 'The amulet is red'
+label: 'king lathas Amulet'

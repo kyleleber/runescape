@@ -1,0 +1,10 @@
+uuid: 9322fd4c-591f-4d4f-8d31-89ff773dd3da
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ukm4b4j8tlxnjZ8xVZdfO97G8PW1WYcGvh76iczorXA
+id: cookedmeat
+item_id: '132'
+item_description: 'Mmm this looks tasty'
+label: cookedmeat

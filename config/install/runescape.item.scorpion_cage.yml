@@ -1,0 +1,10 @@
+uuid: b9a69a1d-a8fc-4ae2-9c18-489eb498151a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sqVbhcOipyUkGRKx5JGlgDvSRHk6_RE11mJ0KrNSkEM
+id: scorpion_cage
+item_id: '689'
+item_description: 'It has 2 scorpions in it'
+label: 'scorpion cage'

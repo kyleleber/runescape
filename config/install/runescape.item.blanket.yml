@@ -1,0 +1,10 @@
+uuid: b23515d8-d29f-4537-bdaa-3ff5c293d299
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cIJAfhrfpk9_3ZX6lZ4eUG8_0ZvSkFjFSjZUjYokE_Y
+id: blanket
+item_id: '716'
+item_description: 'A child''s blanket'
+label: Blanket

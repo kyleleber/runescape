@@ -1,0 +1,10 @@
+uuid: c9ef6764-a368-4530-9335-3532a7f3b4b3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GRRjhYmYRcQENUjMNfvWi81DUm2xRbILVCN9cJyFZGk
+id: uncooked_swamp_paste
+item_id: '784'
+item_description: 'A thick tar like substance mixed with flour'
+label: 'Uncooked Swamp paste'

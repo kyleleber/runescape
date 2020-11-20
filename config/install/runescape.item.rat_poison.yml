@@ -1,0 +1,10 @@
+uuid: 87f37f50-8380-4dab-b4da-79bf91f58553
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mxsHn60UZ8vh2Jn4QQpYoTV4NPNOCEDSeCPpVRpf_0Y
+id: rat_poison
+item_id: '731'
+item_description: 'This stuff looks nasty'
+label: 'Rat Poison'

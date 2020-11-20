@@ -1,0 +1,10 @@
+uuid: e3bb1aa1-e770-4948-afc6-21b232e6811f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LampksMvm9cR47cWXM-Ucnb8f2zSV9JCSiFM35QDofI
+id: restore_prayer_potion
+item_id: '485'
+item_description: '1 dose of restore prayer potion'
+label: 'restore prayer Potion'

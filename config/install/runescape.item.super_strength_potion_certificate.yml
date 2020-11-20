@@ -1,0 +1,10 @@
+uuid: ed109f46-c9cd-41ff-aa89-330adc836613
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QIC3qYoDZ6c7XNvSGvZ2lDHjjCA2M2A4nmx48hhhTZU
+id: super_strength_potion_certificate
+item_id: '1275'
+item_description: 'Exchangable at Yanille for 5'
+label: 'Super Strength Potion Certificate'

@@ -1,0 +1,10 @@
+uuid: 0bb3de89-4115-4ca8-be3d-6a494ee5df8a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Jycc6oNO6Zbr3NZL5t3scZsl6NFapW-IjamGa2g24W0
+id: mithril_plated_skirt
+item_id: '226'
+item_description: 'Designer Leg protection'
+label: 'Mithril Plated skirt'

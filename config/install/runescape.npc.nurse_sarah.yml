@@ -1,0 +1,11 @@
+uuid: 337e48b8-fcae-4021-a128-51d2b0bec21e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: C71XRgdZCd7qHiTyj0y0PiUJrBrI169mwRqfjPLk7qo
+id: nurse_sarah
+npc_id: '500'
+npc_description: 'Shes quite a looker'
+label: 'nurse sarah'
+items: null

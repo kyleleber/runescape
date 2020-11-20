@@ -1,0 +1,10 @@
+uuid: b717cb67-8493-4472-915e-ea84d3dc4aba
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rMqE8l1SFaRbtycuBP3ibtyG7tZPXOqe5k-PMJNPanw
+id: raw_bass
+item_id: '554'
+item_description: 'I should try cooking this'
+label: 'Raw Bass'

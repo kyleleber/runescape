@@ -1,0 +1,10 @@
+uuid: b0f455ef-38ea-4e28-9fe8-b2c1b063e53b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _sZRuokfTxA_GrwXS6hr-U-wgg9w36J5p5qXq0wL4uU
+id: ugthanki_kebab
+item_id: '923'
+item_description: 'A strange smelling Kebab made from Ugthanki meat - it doesn''t look too good'
+label: 'Ugthanki Kebab'

@@ -1,0 +1,11 @@
+uuid: 147fbdd2-3e79-487a-99a4-b176fcfbc4c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5qk6WVLqwP04kO3x2ib24GqlJHSkrnjBEEsJhq6FAAY
+id: cheerleader
+npc_id: '612'
+npc_description: 'Its a little tree gnome'
+label: Cheerleader
+items: null

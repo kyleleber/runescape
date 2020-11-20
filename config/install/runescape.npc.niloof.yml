@@ -1,0 +1,11 @@
+uuid: 73de8bb1-f6ed-4317-85f7-63ed5e3a361e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ye1DZU7fFmDra4EC5zBEL_yEZ-Hvm8eIJbOwkv33Ps0
+id: niloof
+npc_id: '642'
+npc_description: 'A short angry guy'
+label: Niloof
+items: null

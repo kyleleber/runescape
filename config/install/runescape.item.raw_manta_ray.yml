@@ -1,0 +1,10 @@
+uuid: 2aa2c145-2dd3-46ab-844a-d9c583a21089
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fLs5YMPPxIKuF10jk1o4H7xFuCthA59VlDFRPk9p4gM
+id: raw_manta_ray
+item_id: '1190'
+item_description: 'A rare catch!'
+label: 'Raw Manta ray'

@@ -1,0 +1,10 @@
+uuid: 93ba1615-ed33-4cbe-b667-25e8d1af942f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Yi1tTA_sA-LgEZ6rYf_ZjnkvGU_9QRLPjZvJUJP4EWw
+id: magic_whistle
+item_id: '738'
+item_description: 'A small tin whistle'
+label: 'magic whistle'

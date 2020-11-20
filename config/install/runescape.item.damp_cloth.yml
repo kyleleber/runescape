@@ -1,0 +1,10 @@
+uuid: 50e33c62-96c3-417c-927b-c865596e0244
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f9OaixzgjvWwI1N-_kdhefkOtcbzrvfINHxW3Gi7_nw
+id: damp_cloth
+item_id: '989'
+item_description: 'It smells as if it''s been doused in alcohol'
+label: 'Damp cloth'

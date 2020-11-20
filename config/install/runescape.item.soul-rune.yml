@@ -1,0 +1,10 @@
+uuid: 4a0768d3-1f35-4617-a5ca-c188466d8b87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: J5dXK0op4BWnKhT22427B2AoEABetQqpWcvQBXgJ700
+id: soul-rune
+item_id: '825'
+item_description: 'Used for high level curse spells'
+label: Soul-Rune

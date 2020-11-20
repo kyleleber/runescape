@@ -1,0 +1,10 @@
+uuid: 0640b3ef-b721-4163-a661-3c84c9d1303b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 66KNE__g4Txuz6SQRi6usdYNEJAR0XxllrxnykBKLJU
+id: red_spiders_eggs
+item_id: '219'
+item_description: eewww
+label: 'Red spiders eggs'

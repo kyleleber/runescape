@@ -1,0 +1,10 @@
+uuid: 54f06936-d5b2-44f4-a38c-abfe8a0cd186
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qyffUTTPeia70IKoNkuVSyIkn7qicuIu8Wv2beVpcVg
+id: bark_sample
+item_id: '919'
+item_description: 'A sample from the grand tree'
+label: 'Bark sample'

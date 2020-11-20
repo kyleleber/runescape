@@ -1,0 +1,10 @@
+uuid: 1ce9c62e-07f9-4066-95eb-558befb3e502
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vA9JMw1FXyVPYl-zRr3wECeW0D6hqoi2YaCYhHD3Zr8
+id: candle
+item_id: '601'
+item_description: 'A small slowly burning candle'
+label: Candle

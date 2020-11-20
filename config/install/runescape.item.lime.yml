@@ -1,0 +1,10 @@
+uuid: bf86fc7a-74ca-4841-bd3b-6d8831fd1681
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LZCV0ueeNBxysTjl16__yTEVfbpbEES_TcSZYH9qC6k
+id: lime
+item_id: '863'
+item_description: 'It''s very fresh'
+label: lime

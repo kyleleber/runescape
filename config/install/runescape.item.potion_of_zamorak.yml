@@ -1,0 +1,10 @@
+uuid: 4e2d0366-ff7b-4faf-b414-49d230f9a66f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4B4cGDOODLrEu7mTkN5O_8torMeWWARJyvxHd_JSwwQ
+id: potion_of_zamorak
+item_id: '965'
+item_description: 'It looks scary'
+label: 'Potion of Zamorak'

@@ -1,0 +1,10 @@
+uuid: 278d33fa-4255-44d6-8aea-a2b2d46558af
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-Ch5Dp8zDz-BJQQcgh43uyb1jdNVb7DtpvD8jaQNXkQ'
+id: gnomecrunchie_dough
+item_id: '883'
+item_description: 'Dough formed into cookie shapes'
+label: 'gnomecrunchie dough'

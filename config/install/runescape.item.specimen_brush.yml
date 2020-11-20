@@ -1,0 +1,10 @@
+uuid: 1f8a8ae4-173a-4440-b3af-96547b30d915
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TN20w-wlZYlzR21ZWYGvXAPECEZAlRdBknuTMv41rpY
+id: specimen_brush
+item_id: '1115'
+item_description: 'stiff brush for cleaning specimens'
+label: 'Specimen brush'

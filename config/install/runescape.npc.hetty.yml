@@ -1,0 +1,11 @@
+uuid: f3ffc951-dac4-4eb3-a828-9cfa6eb14c5a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bs1WBEc1ecxPxwCqEonD08TZ8KApn7YdmwzCncrRQoU
+id: hetty
+npc_id: '148'
+npc_description: 'A witch'
+label: Hetty
+items: null

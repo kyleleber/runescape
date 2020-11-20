@@ -1,0 +1,10 @@
+uuid: 734abbb7-38a6-4b8f-858f-e847138d1d44
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c5Vcu8tr2tCQ8zAWwQRtqvOxDFYngqeVzniOh6dzccY
+id: grapes
+item_id: '143'
+item_description: 'Good grapes for wine making'
+label: grapes

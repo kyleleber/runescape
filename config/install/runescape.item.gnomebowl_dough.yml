@@ -1,0 +1,10 @@
+uuid: 1d4ed008-d314-482f-a04d-c24a8daaf5e7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EonoFQBBCqHC85sVMWw2Q0XKZcp2nw_tZ8VampuIiWg
+id: gnomebowl_dough
+item_id: '882'
+item_description: 'Dough formed into a bowl shape'
+label: 'gnomebowl dough'

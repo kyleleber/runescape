@@ -1,0 +1,10 @@
+uuid: 17dd3e3a-16a2-41e9-8206-35f2cd15c723
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kcPSZISooJrzUdd78_IHvpaUJ7PsrQfBn7mm3fZLhhg
+id: bronze_plated_skirt
+item_id: '214'
+item_description: 'Designer leg protection'
+label: 'Bronze Plated Skirt'

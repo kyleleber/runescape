@@ -1,0 +1,10 @@
+uuid: 9ab2b9df-2223-4f82-8bd6-90817da67db8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fTsVqRBiUkH8ZzUYeurTzgGAF8Q8ScuEx_bOZSek3m8
+id: iron_ore_certificate
+item_id: '517'
+item_description: 'Each certificate exchangable at draynor market for 5 iron ore'
+label: 'Iron ore certificate'

@@ -1,0 +1,10 @@
+uuid: 84ac9f07-9cce-4d2d-816b-239d90efe993
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KMGJiXqZEnFWIbUD27yhp6-lh_odg_iJ916gJ3pm5Mw
+id: technical_plans
+item_id: '1060'
+item_description: 'Very technical looking plans for making a thrown weapon of some sort'
+label: 'Technical Plans'

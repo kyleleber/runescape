@@ -1,0 +1,10 @@
+uuid: 2da8f733-b561-45cd-8d96-234d58c4446b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BaCZka929bItVWcNordtEkrDuueSzheGhe_e5it6e0k
+id: mithril_ore_certificate
+item_id: '519'
+item_description: 'Each certificate exchangable at draynor market for 5 mithril ore'
+label: 'Mithril ore certificate'

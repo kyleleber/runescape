@@ -1,0 +1,5 @@
+name: Runescape
+type: module
+description: 'Integrates Runescape Classic specific traits and nostalgia'
+package: gaming
+core_version_requirement: 9.x

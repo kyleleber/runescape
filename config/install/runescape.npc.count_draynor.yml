@@ -1,0 +1,11 @@
+uuid: 24c621c0-8818-42d9-8434-9d5ce7405fda
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IJA-F6NHiEEHmDBGmbHmcs0XSeK0vcolNyVgn1MjmG0
+id: count_draynor
+npc_id: '96'
+npc_description: 'A vicious vampire'
+label: 'Count Draynor'
+items: null

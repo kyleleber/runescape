@@ -1,0 +1,10 @@
+uuid: 4f7c0140-076f-46e9-b7c7-c18c78f4800b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WrKOGUMe3azbR_9WNP6wYurNslMKnEwNPh0QtrpNybQ
+id: ethenea
+item_id: '810'
+item_description: 'An expensive colourless liquid'
+label: Ethenea

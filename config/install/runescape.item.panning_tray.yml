@@ -1,0 +1,10 @@
+uuid: 390c0027-e6e8-4949-b91e-77199909bd71
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lrK71Qac3EggJbEeiMjPFHLXCMAlqB01Wg4xKY6k3ws
+id: panning_tray
+item_id: '1113'
+item_description: 'this tray contains mud'
+label: 'Panning tray'

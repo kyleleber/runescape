@@ -1,0 +1,10 @@
+uuid: ef1f4486-4881-45e5-bfec-0de935d68e7b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JxzTTjnjkqBQtQiNm3LN5J9xFpUg1wHMSnNPXTBY2e4
+id: powering_crystal1
+item_id: '1037'
+item_description: 'An intricately cut gemstone'
+label: 'Powering crystal1'

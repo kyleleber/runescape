@@ -1,0 +1,10 @@
+uuid: 5d7b2ead-5061-4997-9a18-edf2b3146a85
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RJ1Yl1NVgJeS-H3LVXwtYEajRdqC5jbHTY5rjXejWHM
+id: fruit_blast
+item_id: '937'
+item_description: 'A cool refreshing fruit mix'
+label: 'fruit blast'

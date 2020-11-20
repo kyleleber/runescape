@@ -1,0 +1,11 @@
+uuid: 12203185-fc85-4fb8-abf2-03b34a5acdfc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gY1psAEfIn-0h5MMn5r_MpoYhtYWMRxgHX6StPAISlI
+id: doomion
+npc_id: '646'
+npc_description: 'A big scary jet black demon'
+label: Doomion
+items: null

@@ -1,0 +1,10 @@
+uuid: b6055747-4057-4495-940e-16e0b5ea8f3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wMCQlbb0UO0wcXP2OmU5Ym4xU7diWPKqfYvwtFf250k
+id: a_doll_of_iban
+item_id: '1004'
+item_description: 'A strange doll made from sticks and cloth'
+label: 'A Doll of Iban'

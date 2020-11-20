@@ -1,0 +1,10 @@
+uuid: 47d678b3-88a4-4d37-9637-6c1b402a34e8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wzuLFeSd7z7eSCH40vCd2vD4liPxmtsPJVYW1eiQrw4
+id: uncooked_redberry_pie
+item_id: '256'
+item_description: 'I need to cook this first'
+label: 'Uncooked redberry pie'

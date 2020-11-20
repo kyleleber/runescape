@@ -1,0 +1,10 @@
+uuid: 20949fb4-20ee-4ba9-8f9c-942d02dd0b86
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Nf7hFfwALooAI69Fi1pkH-3sZj4mjg0UQsxiTgcLfjI
+id: ground_charcoal
+item_id: '1179'
+item_description: 'Powdered charcoal!'
+label: 'Ground charcoal'

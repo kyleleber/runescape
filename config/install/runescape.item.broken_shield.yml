@@ -1,0 +1,10 @@
+uuid: e69fbb06-2090-4edf-87c7-7ef484a49d58
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4hgKWuD5KYOxjjNk_wZ20LZdfiUrvjJbsAns3tR1yvM
+id: broken_shield
+item_id: '54'
+item_description: 'Half of the shield of Arrav'
+label: 'Broken shield'

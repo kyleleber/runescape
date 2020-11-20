@@ -1,0 +1,10 @@
+uuid: 29ce1d44-2934-4e3e-a38b-88ebdf7656be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: e7-rJmAGXOBJ5-Du-zkOCmZQN6eV23ujXrCeWqoGGrQ
+id: ogre_relic
+item_id: '1044'
+item_description: 'A grotesque symbol of the ogres'
+label: 'Ogre relic'

@@ -1,0 +1,11 @@
+uuid: 394d13fa-94b1-4123-a013-1f0bd654a119
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yvlrYEwZtxtaPVWR6eGZy_pjnEfwUHN6EDO6vpYz28w
+id: spirit_of_scorpius
+npc_id: '665'
+npc_description: 'The undead spirit of the follower of Zamorak'
+label: 'Spirit of Scorpius'
+items: null

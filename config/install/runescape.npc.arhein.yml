@@ -1,0 +1,11 @@
+uuid: dac7413a-18ba-46fa-99a8-dbb9cc28ad12
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6briELnE9mULR4eeKVosgSKLz0Opu3KqMG4Q6Nqqtyo
+id: arhein
+npc_id: '280'
+npc_description: 'A merchant'
+label: Arhein
+items: null

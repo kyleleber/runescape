@@ -1,0 +1,10 @@
+uuid: d91804e6-fa96-4de3-a44d-45e13af0ed56
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7oQYuQdC3EinzgnjTm8NgNpZxV2np89Jfpt8fPiuMA0
+id: beer
+item_id: '193'
+item_description: 'A glass of frothy ale'
+label: Beer

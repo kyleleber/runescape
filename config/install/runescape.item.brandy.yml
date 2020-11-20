@@ -1,0 +1,10 @@
+uuid: c2e2a91d-0dc0-4541-8686-f319698f25ac
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oBJQCRbTYGSyIgUS-hSiuzgOzErZwBkm5YXOcPYP0Lo
+id: brandy
+item_id: '876'
+item_description: 'A strong spirit'
+label: brandy

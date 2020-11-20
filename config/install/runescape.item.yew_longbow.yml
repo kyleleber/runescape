@@ -1,0 +1,10 @@
+uuid: 4046ee5e-d7ac-43c2-8fff-bd6155799c9f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KCqPGBot9BRP0_uVAUZ23UxVkDuRhGZWMeLGG0FG8F8
+id: yew_longbow
+item_id: '654'
+item_description: 'A Nice sturdy bow'
+label: 'Yew Longbow'

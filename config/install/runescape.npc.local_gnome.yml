@@ -1,0 +1,11 @@
+uuid: 28cd8267-bd4b-459b-8670-b84671e62ce7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4q3bY9cjzsjOp2SB5OEA813LoHN1FQeBkZl59hm5EKE
+id: local_gnome
+npc_id: '399'
+npc_description: 'It''s a young tree gnome'
+label: 'local gnome'
+items: null

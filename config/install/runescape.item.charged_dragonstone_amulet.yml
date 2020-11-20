@@ -1,0 +1,10 @@
+uuid: 4ef841a2-748b-4a2e-b11b-65e313fcfc97
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Bo939XWu8GzlsdtSdzxpgd7-6NIAUpvspRUlzORG_tE
+id: charged_dragonstone_amulet
+item_id: '597'
+item_description: 'A very powerful amulet'
+label: 'Charged Dragonstone Amulet'

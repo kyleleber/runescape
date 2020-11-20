@@ -1,0 +1,11 @@
+uuid: d3f26fd1-f1f3-4448-bf71-ea1a83bb37b4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4olw6-fc3_4sbm6RhyZY-z3IOpqHtFpE_s8FhG3TQyk
+id: blurberry
+npc_id: '534'
+npc_description: 'Its a red faced tree gnome'
+label: Blurberry
+items: null

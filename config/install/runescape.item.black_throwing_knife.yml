@@ -1,0 +1,10 @@
+uuid: bf9018c8-4724-4948-bb52-55e8269be162
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ARawSsit7Mhhx2a4_0HIbW3VNa_LoFO0gVfgw6yQdbM
+id: black_throwing_knife
+item_id: '1081'
+item_description: 'A finely balanced knife'
+label: 'Black throwing knife'

@@ -1,0 +1,10 @@
+uuid: 7d6bdb55-cb76-469d-943c-ace8c117b9cb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1JYH2aa1aimsrTSjyI2OjbFs6YkDi9hsMwgxBDxOp6w
+id: lime_chunks
+item_id: '864'
+item_description: 'Fresh chunks of lime'
+label: 'lime chunks'

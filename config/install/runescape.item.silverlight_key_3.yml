@@ -1,0 +1,10 @@
+uuid: edb8ea37-048a-4ad1-804a-b99559f91859
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q9A2tpyGEq7TeKx8jO4ewPkz56iAiHhEal-XaMHYPZw
+id: silverlight_key_3
+item_id: '51'
+item_description: 'A key I found in a drain'
+label: 'Silverlight key 3'

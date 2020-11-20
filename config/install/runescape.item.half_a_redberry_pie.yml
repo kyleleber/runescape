@@ -1,0 +1,10 @@
+uuid: 61b2c4a8-e6e3-425b-ad06-65214e60622a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cgABicsDIf8q7VE5F0lELTTHnDR2Yb7oZNI1eCAAR7c
+id: half_a_redberry_pie
+item_id: '262'
+item_description: 'Looks tasty'
+label: 'Half a Redberry pie'

@@ -1,0 +1,10 @@
+uuid: 3ce88199-04e8-4c89-84f9-21b1f3e1f8ab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IJOrpjYYW2dOGhViWOEhBjrVoMfWBis94VNl4p4ZoNE
+id: half_of_a_key_teeth
+item_id: '526'
+item_description: 'A very shiny key'
+label: 'Half of a key (Teeth)'

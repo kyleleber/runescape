@@ -1,0 +1,10 @@
+uuid: f8ed64f9-25f5-4777-97b9-ebe60ec66a47
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qoM0e8RH_ECUEt-UlsEQ96rszHzlyPBaLPq0xe4YyKs
+id: battlestaff_of_fire
+item_id: '615'
+item_description: 'A Magical staff'
+label: 'Battlestaff of fire'

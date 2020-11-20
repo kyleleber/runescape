@@ -1,0 +1,10 @@
+uuid: b77a4aeb-bdce-4cbd-bf2b-dd6c75a0fce2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CA8p8ynBu1spUoR6-EpkvhTdW9_4KL4-BojYRM9I0PU
+id: present
+item_id: '980'
+item_description: 'Click to use this on a friend'
+label: Present

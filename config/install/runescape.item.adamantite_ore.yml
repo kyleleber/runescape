@@ -1,0 +1,10 @@
+uuid: a5714b1a-f4d0-45e4-a1b9-5ee85a862df6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: s2lB_xE5bkn3quqwu4KQ4meOof149MZa1qFCEeFJLDE
+id: adamantite_ore
+item_id: '154'
+item_description: 'this needs refining'
+label: 'adamantite ore'

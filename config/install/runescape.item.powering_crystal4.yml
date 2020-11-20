@@ -1,0 +1,10 @@
+uuid: bdde74fe-4054-42d1-b504-a3120de2fabb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HKuwrZI55Q390SKdmFBel4lnDfNSYGw01OfT0dC9tgo
+id: powering_crystal4
+item_id: '1154'
+item_description: 'An intricately cut gemstone'
+label: 'Powering crystal4'

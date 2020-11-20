@@ -1,0 +1,11 @@
+uuid: ef6d95ac-8a5e-4c64-8d85-e26a0e4178c9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: u9kEm22xU-WLWJQeWkH5pASzjFIj6sSQF4OX322REpM
+id: guard_dog
+npc_id: '748'
+npc_description: 'He doesnt seem pleased to see me'
+label: 'Guard Dog'
+items: null

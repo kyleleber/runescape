@@ -1,0 +1,11 @@
+uuid: 8143b88e-a937-4fc8-8f97-59e1a4aebd05
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PcSphqBtf8BrXMyPJDX-g1Oikluvw2QiqiPSvVcDJUU
+id: san_tojalon
+npc_id: '663'
+npc_description: 'The animated spirit of San Tojalon'
+label: 'San Tojalon'
+items: null

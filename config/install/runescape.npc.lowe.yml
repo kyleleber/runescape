@@ -1,0 +1,11 @@
+uuid: aca4dc92-8378-478e-a242-523ec3c167e8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _oFYulkQVSKuuCAitqdS96Go3Mw041IHSwGlPYeWj14
+id: lowe
+npc_id: '58'
+npc_description: 'The owner of the archery store'
+label: lowe
+items: null

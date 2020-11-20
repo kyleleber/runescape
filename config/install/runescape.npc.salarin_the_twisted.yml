@@ -1,0 +1,11 @@
+uuid: c2822c8c-3397-4a57-a686-15db2bb14339
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sZ84gQW7imGdWG7mrPE3zS7wkGgRGh64a2mxKUcsE44
+id: salarin_the_twisted
+npc_id: '567'
+npc_description: 'A crazy evil druid'
+label: 'Salarin the twisted'
+items: null

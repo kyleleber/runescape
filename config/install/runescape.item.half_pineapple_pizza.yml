@@ -1,0 +1,10 @@
+uuid: dfb01df5-613e-4a71-9d59-bbf513bac20c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WBBy0hFqZQMVBdwEo9bCZl6Vvj2J-yKiYsGpURywwEU
+id: half_pineapple_pizza
+item_id: '751'
+item_description: 'Half of this pizza has been eaten'
+label: 'Half pineapple Pizza'

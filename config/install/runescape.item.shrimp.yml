@@ -1,0 +1,10 @@
+uuid: 3266d71d-8d65-4870-b265-6368bc7384f7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 94n9Qc19Qykr-HAbcSv8MBts4vGy1NhaOx1ueV_VdqE
+id: shrimp
+item_id: '350'
+item_description: 'Some nicely cooked fish'
+label: Shrimp

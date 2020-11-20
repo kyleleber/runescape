@@ -1,0 +1,10 @@
+uuid: d3ca5488-92de-4073-a66a-fa5034cec61d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-sNHBdZXfMWn3TsVwEN1FOPcGlBdaijTNWJF0bP9SQo'
+id: cooked_ugthanki_meat
+item_id: '1103'
+item_description: 'Freshly cooked Ugthanki meat'
+label: 'Cooked Ugthanki Meat'

@@ -1,0 +1,10 @@
+uuid: 49ed9fd0-934c-4533-bea9-25a7cc27ac3d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: noJNoYVWgJJgPIMBN0ltwsR2yyN-WsG-SBB2NYs88yA
+id: emerald
+item_id: '163'
+item_description: 'this looks valuable'
+label: emerald

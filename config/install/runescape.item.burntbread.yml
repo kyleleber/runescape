@@ -1,0 +1,10 @@
+uuid: 059c7ac7-6a79-4a2c-b915-f127b23e76de
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: g3cMC2GVw6clJzD6IUMLxk8kf-X0UgC_BQqjEVBTQqc
+id: burntbread
+item_id: '139'
+item_description: 'This bread is ruined!'
+label: burntbread

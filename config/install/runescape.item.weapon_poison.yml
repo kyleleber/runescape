@@ -1,0 +1,10 @@
+uuid: 4da6f31a-da98-479c-ab1b-b24c77f66e9c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: u2KHhnjYo201IClWbJbW8czthpxfwG2k233j-xoTZ8s
+id: weapon_poison
+item_id: '572'
+item_description: 'For use on daggers and arrows'
+label: 'weapon poison'

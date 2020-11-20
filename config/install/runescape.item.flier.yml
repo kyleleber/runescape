@@ -1,0 +1,10 @@
+uuid: 8394ae55-6e47-4da4-adbd-0196e3ec2007
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WcqqOTIwskrKtwDhDtEBjO8BacRus8pJtnxn1aWR-z0
+id: flier
+item_id: '201'
+item_description: 'Get your axes from Bob''s axes'
+label: flier

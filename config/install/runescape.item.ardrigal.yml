@@ -1,0 +1,10 @@
+uuid: ad49b3c3-3fa7-4f98-9f9c-eeeb99555cb4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hSv808eK4dYvjVhXtTDG3VooBmvBLNKATp-rus5vNAg
+id: ardrigal
+item_id: '818'
+item_description: 'An interesting'
+label: Ardrigal

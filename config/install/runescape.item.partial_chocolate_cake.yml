@@ -1,0 +1,10 @@
+uuid: c41df028-7243-4715-9156-ebea8f57ed60
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XpwnzcAZVCMlAx-6wAgIgbzUr-3K0-Z0gvhxjeMDC_s
+id: partial_chocolate_cake
+item_id: '334'
+item_description: 'Someone has eaten a big chunk of this cake'
+label: 'Partial Chocolate Cake'

@@ -1,0 +1,10 @@
+uuid: 2a7dc60e-4ee5-4114-9cfc-aacc0bd564b3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AFGapauXKv6JUOahOH6dWUBff2T7OUzUldORa1HuyKk
+id: flour
+item_id: '136'
+item_description: 'There is flour in this pot'
+label: flour

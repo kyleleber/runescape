@@ -1,0 +1,11 @@
+uuid: 92a60f95-b43a-4c7b-9961-dfd3c1b48275
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zi1Dyh-KOA6c7elUaIi40jKj-qGjdE8x4dQWMmtf4yQ
+id: general_khazard
+npc_id: '383'
+npc_description: 'He look''s real nasty'
+label: 'General Khazard'
+items: null

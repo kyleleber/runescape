@@ -1,0 +1,10 @@
+uuid: cd59c091-cac0-4c8f-886f-0d99b4543607
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wz6Pnu6a0CPX8S9g9nEL-CDiAx1U_CphIOVqQsvJeUk
+id: cannon_ammo_mould
+item_id: '1057'
+item_description: 'Used to make cannon ammo'
+label: 'cannon ammo mould'

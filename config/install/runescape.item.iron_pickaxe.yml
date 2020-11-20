@@ -1,0 +1,10 @@
+uuid: 62f06355-93a7-4dc1-bbe5-381cbf07d379
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: joXE45qy7Y8VhIKoKL9PURkJ2DLfmfLUY41gnDAH7mE
+id: iron_pickaxe
+item_id: '1258'
+item_description: 'Used for mining'
+label: 'Iron Pickaxe'

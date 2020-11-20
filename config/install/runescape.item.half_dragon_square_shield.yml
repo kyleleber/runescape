@@ -1,0 +1,10 @@
+uuid: e82e0af3-630e-4b25-9c3b-dddf1d09d8ae
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TINpAW0gCRGU-k4rhhBL_BXpzVTqVr2qH1bWGQlM5hM
+id: half_dragon_square_shield
+item_id: '1277'
+item_description: 'Left Half of an ancient and powerful looking Dragon Square shield.'
+label: 'Half Dragon Square Shield'

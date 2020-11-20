@@ -1,0 +1,10 @@
+uuid: fff3eb88-23ee-42d9-a1ca-5d74d41ee6bc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NhQ2h34veEncaJmFLkAI5VE6rx61zIAWKrajyGWvyg8
+id: mithril_kite_shield
+item_id: '130'
+item_description: 'A large metal shield'
+label: 'Mithril Kite Shield'

@@ -1,0 +1,10 @@
+uuid: 45baa190-be24-4f84-a10a-5ca84ed2bc5b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uWLVWQYdKGN771XS98ZtHFm0Bap9aNYHIC8dp5nKucs
+id: steel_dagger
+item_id: '63'
+item_description: 'Short but pointy'
+label: 'Steel dagger'

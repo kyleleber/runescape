@@ -1,0 +1,10 @@
+uuid: 5d74f75f-850d-4f74-baaf-4bb5047e6628
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 645F5JixbN8qJsOw9bq_MQBwiWB_TBuH4_wn2EBE46M
+id: jangerberries
+item_id: '936'
+item_description: 'They don''t look very ripe'
+label: Jangerberries

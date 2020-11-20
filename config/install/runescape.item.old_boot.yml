@@ -1,0 +1,10 @@
+uuid: 4a236b4f-6643-4749-bce3-4d9a909f9380
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FwQn5jwIu5upxO80c4COsOD3H-jSh0NkgpFYWk-8DDg
+id: old_boot
+item_id: '1155'
+item_description: 'that''s been here some time'
+label: 'Old boot'

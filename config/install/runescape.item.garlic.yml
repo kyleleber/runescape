@@ -1,0 +1,10 @@
+uuid: 4509c213-4478-4999-975d-a3ee949e84a6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1E3_L-Ulkf-4yYwfMtPAmCawnTHNT6fYpWyQj70o6pQ
+id: garlic
+item_id: '218'
+item_description: 'A clove of garlic'
+label: Garlic

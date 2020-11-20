@@ -1,0 +1,10 @@
+uuid: 16d66872-6988-4675-8f97-8efc6d78adfa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: h1IjLVdIuXrP1wZvNOIdwviV_yIfPQOQlVEVihttUWo
+id: gold_amulet
+item_id: '301'
+item_description: 'I wonder if I can get this enchanted'
+label: 'Gold Amulet'

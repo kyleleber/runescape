@@ -1,0 +1,10 @@
+uuid: 42cf2f33-2c93-40d5-996b-936d7da28bdb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: O6uAJQKVUWZtZMsGK-zNzE0nMRPYKi7cZd_j4SmcanU
+id: nightshade
+item_id: '1086'
+item_description: Deadly!
+label: nightshade

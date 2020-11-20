@@ -1,0 +1,10 @@
+uuid: f151d35e-0225-46a6-9f85-3501f522e7a5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mvPpL-YbHpGSrrGtvpfsR-FZmWCmkjKbuWLe2fZbP4Q
+id: boots
+item_id: '970'
+item_description: 'They''re soft and silky'
+label: Boots

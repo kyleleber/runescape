@@ -1,0 +1,10 @@
+uuid: 5f610a17-b8e0-431e-88f0-b3ce87e03d15
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1CrNrkSH_wiSJa9ZeE7ZhHhu6NE1L3siIYUc7781REU
+id: blue_key
+item_id: '393'
+item_description: 'A painted key'
+label: 'Blue key'

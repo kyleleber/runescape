@@ -1,0 +1,11 @@
+uuid: 7a6d4c9d-99df-4448-9f27-c1d0b994bc06
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jS-awXMg9TMKDWmqmMkQ_3o2cKDSb2Oo6uvrmMh8WLI
+id: kardia_the_witch
+npc_id: '643'
+npc_description: 'Shes got warts'
+label: 'Kardia the Witch'
+items: null

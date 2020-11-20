@@ -1,0 +1,10 @@
+uuid: 5f1ef907-a2a3-49ac-8c35-d551cdad756f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HSU6yl5Jy3zuwIIRGBl97NvRsuPpxYMpGiIoViArP0A
+id: book_on_baxtorian
+item_id: '788'
+item_description: 'A book on elven history in north runescape'
+label: 'book on baxtorian'

@@ -1,0 +1,10 @@
+uuid: 5c13047e-0fc7-4a84-9858-591d24e66ac0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3ewAomE4rSegCMVy84Be9ybWQu4i9EHNRI3Xz09UFgY
+id: coins
+item_id: '10'
+item_description: 'Lovely money!'
+label: Coins

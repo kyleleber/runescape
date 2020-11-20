@@ -1,0 +1,10 @@
+uuid: 183e4b7f-2679-4a77-94a7-4b2071d67344
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FAnxvICWZYW2nW39_tHdIzLgN72aC_VpeqiyDazEPi8
+id: raw_tuna
+item_id: '366'
+item_description: 'I should try cooking this'
+label: 'Raw Tuna'

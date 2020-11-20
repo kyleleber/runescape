@@ -1,0 +1,10 @@
+uuid: 03643dce-8646-47a4-b54b-5ea256e261d8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WW6e4-ZIy7X8DgiMiv25-2gVIPIFpWPLbndOIVBSdQA
+id: lever
+item_id: '724'
+item_description: 'This was once attached to something'
+label: Lever

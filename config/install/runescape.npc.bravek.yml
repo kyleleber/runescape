@@ -1,0 +1,11 @@
+uuid: 46afb0ac-68cc-415d-9320-a4d615e46436
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DYLQ3mmDgNRyVyBdgzR2n2C4wAHwzpFE6LKT4Bw-d_w
+id: bravek
+npc_id: '454'
+npc_description: 'The city warder of West Ardougne'
+label: Bravek
+items: null

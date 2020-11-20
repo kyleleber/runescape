@@ -1,0 +1,10 @@
+uuid: f61686a8-70b0-4601-9e78-5a853d9694ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gVgKcOlLeQeKrtD4LIBH95n_ZksFncNQxyWIun0Szqs
+id: pastry_dough
+item_id: '250'
+item_description: 'Some uncooked dough'
+label: 'pastry dough'

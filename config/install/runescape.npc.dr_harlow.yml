@@ -1,0 +1,11 @@
+uuid: 5a102aef-c9ec-4bbd-9936-a843c24afb2d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZHlYt1QsXvhDPXX9ROfd3RkKN53WFkUu9W3qzRRx0i8
+id: dr_harlow
+npc_id: '98'
+npc_description: 'His nose is very red'
+label: 'Dr Harlow'
+items: null

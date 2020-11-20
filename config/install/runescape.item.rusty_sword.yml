@@ -1,0 +1,10 @@
+uuid: 421ea092-c493-4266-bf4e-15b2f2ab920c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: go-6j6hHggmPNoTFBYuJE5QCBO5YF1iNuDkk86KABok
+id: rusty_sword
+item_id: '1159'
+item_description: 'that''s been here some time'
+label: 'Rusty sword'

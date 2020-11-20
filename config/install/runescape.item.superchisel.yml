@@ -1,0 +1,10 @@
+uuid: 714c279e-9799-4545-b9bb-29c324d9f4cc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: a8D0xVJCHb9BLCcIC8tlmwbYn-HkzXNZJpmX-ohyrOY
+id: superchisel
+item_id: '306'
+item_description: 'I wonder if I can get this enchanted'
+label: superchisel

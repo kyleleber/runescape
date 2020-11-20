@@ -1,0 +1,11 @@
+uuid: 85055de2-f9e7-4805-a390-673c24e57645
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7okm8T9a_DJAlC3-pJF5H87f736LC5gRSbco9_NlVt4
+id: happy_peasant
+npc_id: '417'
+npc_description: 'He looks well fed and full of energy'
+label: 'happy peasant'
+items: null

@@ -1,0 +1,10 @@
+uuid: 482bded6-c84b-419f-8579-3aecb4228e75
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Rt0qoSGwAI2sjEgxNBZMiMons8ztp-KaFL2Y8Op3qZc
+id: unstrung_yew_longbow
+item_id: '664'
+item_description: 'I need to find a string for this'
+label: 'unstrung Yew Longbow'

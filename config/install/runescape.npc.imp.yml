@@ -1,0 +1,11 @@
+uuid: 5405d8e0-5109-4442-8505-191a0a9c2c20
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hnPdYKelRtCTJPCfe9EWZVljOzo2KOvhSezNjMI2urg
+id: imp
+npc_id: '114'
+npc_description: 'A cheeky little imp'
+label: Imp
+items: null

@@ -1,0 +1,10 @@
+uuid: 0d4c09c5-401f-4ddf-be48-e411fa371a70
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1KHpHByxn5ov0-yRuV7aJJ4-Vp8kzgCdVmFf0bSFnPM
+id: staff_of_saradomin
+item_id: '1218'
+item_description: 'It''s a stick of the gods'
+label: 'Staff of Saradomin'

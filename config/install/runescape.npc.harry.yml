@@ -1,0 +1,11 @@
+uuid: e5685157-503b-418b-b670-a919cd24aef7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: o8LeVF3I6DFGtL4eWbk8yYYTdjqr-6uxhPvXrv_CjwY
+id: harry
+npc_id: '250'
+npc_description: 'I wonder what he''s got for sale'
+label: Harry
+items: null

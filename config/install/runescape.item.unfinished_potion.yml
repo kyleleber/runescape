@@ -1,0 +1,10 @@
+uuid: 8b080957-40f4-4b33-956b-ae6ba8b78d89
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0mLjLaXhlAUKq1To0kYlFIQumXac43i2f6ApP30l3OU
+id: unfinished_potion
+item_id: '1074'
+item_description: 'I need another ingredient to finish this potion'
+label: 'Unfinished potion'

@@ -1,0 +1,10 @@
+uuid: 702aa6f3-e6a3-489c-9328-94bee6fc1465
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JWSZOwCwjfc9u3UidTEJKTlZQEbErLQTGff89Z4PARo
+id: tile
+item_id: '411'
+item_description: 'This doesn''t look very useful'
+label: Tile

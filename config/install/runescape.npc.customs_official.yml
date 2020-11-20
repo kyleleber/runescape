@@ -1,0 +1,11 @@
+uuid: ef1b20fe-9d9a-4f95-80e2-c10ba2f26557
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Vns1AaOBC5Ds2iXSI2Nl8GupXVMwAYgRWJXZ65bMSg8
+id: customs_official
+npc_id: '317'
+npc_description: 'She''s here to stop smugglers'
+label: 'Customs Official'
+items: null

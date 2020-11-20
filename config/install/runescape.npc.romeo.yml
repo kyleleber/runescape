@@ -1,0 +1,11 @@
+uuid: f9b08468-0f80-479c-ac30-284095217500
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1zXGqeSt-vUUVj8-CsDGGi7a5jb5TRfGrkYMpNlY5iw
+id: romeo
+npc_id: '30'
+npc_description: 'He looks mildly confused'
+label: Romeo
+items: null

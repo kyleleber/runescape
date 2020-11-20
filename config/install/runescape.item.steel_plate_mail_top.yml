@@ -1,0 +1,10 @@
+uuid: 27a9195e-733d-4993-9a6f-42720d89a31e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: toO4-FkdTw1Lufhz4QwFHRVsAh5QaNkz9osfP9E4J2w
+id: steel_plate_mail_top
+item_id: '309'
+item_description: 'Armour designed for females'
+label: 'Steel Plate Mail top'

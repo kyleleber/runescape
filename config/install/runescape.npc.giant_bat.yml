@@ -1,0 +1,11 @@
+uuid: 10480f4c-b8dd-45e5-b0e5-d9065846d405
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lxaoifL1PdJUTtRjYDZrwS1qAflQ15z4uUS2T0s-kKM
+id: giant_bat
+npc_id: '43'
+npc_description: 'An angry flying rodent'
+label: 'Giant bat'
+items: null

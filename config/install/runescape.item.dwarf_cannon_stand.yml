@@ -1,0 +1,10 @@
+uuid: cd91aca9-efd5-4cc5-9ad7-58e4cfaf93f1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cIWI_Mq0qta4iXz992V9TWqyBUwZT7xMkR38f5tnDUA
+id: dwarf_cannon_stand
+item_id: '1185'
+item_description: bang
+label: 'Dwarf cannon stand'

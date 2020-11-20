@@ -1,0 +1,10 @@
+uuid: bdf0c1fb-3e2e-4ebe-bfae-b4c326641091
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 09_ZvQx9hZui_Pw7tMq_KPMS1gBtMq3GVpn7RMVH9Wg
+id: holy_symbol_of_saradomin
+item_id: '385'
+item_description: 'This improves my prayer'
+label: 'Holy Symbol of saradomin'

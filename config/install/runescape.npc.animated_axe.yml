@@ -1,0 +1,11 @@
+uuid: 730eb128-be26-471a-b690-3a96733c8f08
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CpgXG86dKHxDGALsRmkKWyo8lg6BtCsBN-akncblSd4
+id: animated_axe
+npc_id: '295'
+npc_description: 'a magic axe with a mind of it''s own'
+label: 'Animated axe'
+items: null

@@ -1,0 +1,10 @@
+uuid: e228d4ad-6ace-4bf5-8d19-3f65d3d0d6b7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hy8l8ztazQpf_0cLr8LieGU9IE4MOuhU9vWb3qOK-us
+id: worm_hole
+item_id: '952'
+item_description: 'actually smells quite good'
+label: 'worm hole'

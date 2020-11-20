@@ -1,0 +1,11 @@
+uuid: 4e884ec9-38d5-4afd-9da5-48076e3d1382
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jULU33OVug808tc6QdTJmOfhnYr8V_N4GZmt2u4IDn0
+id: kortan
+npc_id: '337'
+npc_description: 'He helps run the adventurers store'
+label: Kortan
+items: null

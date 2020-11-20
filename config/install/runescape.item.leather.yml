@@ -1,0 +1,10 @@
+uuid: 8664500f-db21-48d9-9a46-7db3b118b432
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rPr8S5b5TlkvcPlrnZhGXaDfpbSexXAZN8tznny94gw
+id: leather
+item_id: '148'
+item_description: 'It''s a piece of leather'
+label: leather

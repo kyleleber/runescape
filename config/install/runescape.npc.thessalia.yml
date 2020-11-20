@@ -1,0 +1,11 @@
+uuid: afa27da9-9a43-4312-ad17-9bc4cceada65
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XbHGQqho70LJ_QNixRS8GPROUEbXZhm10bSnBwbi8L4
+id: thessalia
+npc_id: '59'
+npc_description: 'A young shop assistant'
+label: Thessalia
+items: null

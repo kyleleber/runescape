@@ -1,0 +1,10 @@
+uuid: 9cd9ca48-de7c-40ff-9b96-fb2073039dbf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f48QYb1iWfIFAVhGj-ZbHf2q1EzRO7IPf9i812dqr7E
+id: holy_force_spell
+item_id: '1257'
+item_description: 'A powerful incantation - it affects spirits of the underworld'
+label: 'Holy Force Spell'

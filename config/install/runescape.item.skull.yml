@@ -1,0 +1,10 @@
+uuid: 788c1eab-9399-43ec-92f5-b2f5087a6094
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LMiwT_f_IyAAnpL0uBmzgH_wHZzS3XyHPLtSg1RYEuM
+id: skull
+item_id: '412'
+item_description: 'A spooky looking skull'
+label: skull

@@ -1,0 +1,11 @@
+uuid: d2efc159-33ea-4caa-885c-e0c7dcaf109b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dmjzrCd_VG1FuPFfZuzmhJ2CqhDbINYmfizBk_eyYgk
+id: lundail
+npc_id: '793'
+npc_description: 'He sells rune stones'
+label: Lundail
+items: null

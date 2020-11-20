@@ -1,0 +1,10 @@
+uuid: d2a8f751-b005-40f4-be63-2e46e46b6f87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Za-WDEq9L_ovcUqLqrD5UVRfX3jP9OP5V_wBtU1VczY
+id: cake
+item_id: '330'
+item_description: 'A plain sponge cake'
+label: Cake

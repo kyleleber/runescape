@@ -1,0 +1,10 @@
+uuid: d36ed425-277b-4c0e-a2ad-9fc45fce18eb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CtcbOgn4Exnlw2D0F4Xuhzhuu7olpAjIiL0yO9jF1m0
+id: raw_shrimp
+item_id: '349'
+item_description: 'I should try cooking this'
+label: 'Raw Shrimp'

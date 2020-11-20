@@ -1,0 +1,10 @@
+uuid: f7a696c0-6536-4758-a832-7e0ee74aff09
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kWBNenaJiITDdPalcH6cWi5nzREhxJluqloYdOMD3l0
+id: maple_longbow
+item_id: '652'
+item_description: 'A Nice sturdy bow'
+label: 'Maple Longbow'

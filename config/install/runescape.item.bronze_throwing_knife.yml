@@ -1,0 +1,10 @@
+uuid: 4d8062c6-67eb-4097-8df1-4dae3ec6293c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pICYBRUhIsFEisnk0rFXn5VNI4BaOlK3UJJmmyzJ_iw
+id: bronze_throwing_knife
+item_id: '1076'
+item_description: 'A finely balanced knife'
+label: 'Bronze throwing knife'

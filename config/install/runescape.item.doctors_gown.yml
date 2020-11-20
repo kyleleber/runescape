@@ -1,0 +1,10 @@
+uuid: 638844fe-6750-4d42-9771-bfd2bf783a48
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: W1Qd5OD2-4YggcYXVT2ULFvMm_RWnHJL7AXX13Eonpw
+id: doctors_gown
+item_id: '802'
+item_description: 'I do feel clever wearing this'
+label: 'Doctors gown'

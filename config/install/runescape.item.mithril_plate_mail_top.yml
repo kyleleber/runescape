@@ -1,0 +1,10 @@
+uuid: 7edb0eeb-a9df-4e13-8454-9f181d4836c5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w0qrPCp8EKf-MEWoZlcC_KP76dtlgaFgtLVJ58EvS5I
+id: mithril_plate_mail_top
+item_id: '310'
+item_description: 'Armour designed for females'
+label: 'Mithril Plate Mail top'

@@ -1,0 +1,11 @@
+uuid: 2ac1ff89-eda4-4b72-bf8f-7d30dbae64fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9izK-EIfL1tFZGGrSiNLfjpVESuwclzNYQwg2_ZiIEs
+id: davon
+npc_id: '278'
+npc_description: 'An amulet trader'
+label: Davon
+items: null

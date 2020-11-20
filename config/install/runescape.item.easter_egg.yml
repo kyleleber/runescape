@@ -1,0 +1,10 @@
+uuid: 822e9beb-6714-4a74-8d75-fc2c3f111ff6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Qn-U1af60AyZ4YrNEuTBH86rw06mCkFhZPNDNWscvP4
+id: easter_egg
+item_id: '677'
+item_description: 'Happy Easter'
+label: 'Easter egg'

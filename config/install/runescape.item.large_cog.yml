@@ -1,0 +1,10 @@
+uuid: 03964fe4-241f-4902-8f04-ff1a506058db
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: r_Q3llRK3iegRbqTlkV2atr909rzZnvf_4W311m1fr8
+id: large_cog
+item_id: '730'
+item_description: 'A large old cog'
+label: 'Large cog'

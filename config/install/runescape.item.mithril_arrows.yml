@@ -1,0 +1,10 @@
+uuid: e124a228-7fa4-4505-a42b-31f117f4a59c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NAu1JZodTYLoz8Qts9Dy3zMVSxrZws984VZ16RF85CY
+id: mithril_arrows
+item_id: '642'
+item_description: 'Arrows with mithril heads'
+label: 'Mithril Arrows'

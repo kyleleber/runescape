@@ -1,0 +1,11 @@
+uuid: 963adae0-e936-40f6-b8c1-fe1032bafb95
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JUdN96DIFv_y52H-xUSnTAb9x4kPPkfPK7mWsSOPODE
+id: farmer_brumty
+npc_id: '434'
+npc_description: 'He looks after livestock in this area'
+label: 'Farmer brumty'
+items: null

@@ -1,0 +1,11 @@
+uuid: 2f3be256-c19f-4a05-b36d-7b8f76cfd3c2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jej_vocFrrbNPSXenR5Me72eeskeT4QMpPNHhjeGQdo
+id: jungle_spider
+npc_id: '521'
+npc_description: 'A venomous deadly spider'
+label: 'Jungle Spider'
+items: null

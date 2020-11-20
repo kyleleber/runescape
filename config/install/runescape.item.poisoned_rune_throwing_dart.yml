@@ -1,0 +1,10 @@
+uuid: 17cd65e1-cba4-40f6-bea9-dc8728d8698d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vy3wOJIsN5nxp0P7mn-mSIQuPVZ77d96byXy-r-8SVA
+id: poisoned_rune_throwing_dart
+item_id: '1127'
+item_description: 'A deadly venomous dart with a runite tip.'
+label: 'Poisoned Rune Throwing Dart'

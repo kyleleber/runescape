@@ -1,0 +1,10 @@
+uuid: 9427b778-4c83-45f4-87dc-4b87b3caa578
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MrGhlzzLrsgV7xH886WcRBSq4Hk8AiyjQGRCAVBXqHc
+id: guthix_cape
+item_id: '1215'
+item_description: 'A cape from the almighty guthix'
+label: 'Guthix Cape'

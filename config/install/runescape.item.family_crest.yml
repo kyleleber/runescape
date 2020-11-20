@@ -1,0 +1,10 @@
+uuid: c2160892-b3e4-4d31-8bef-ba15a305466f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kbYepncZGCKhirM03I_EoKvkJA4BUEAXztHwswhpaO8
+id: family_crest
+item_id: '694'
+item_description: 'The crest of a varrocian noble family'
+label: 'Family crest'

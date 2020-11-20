@@ -1,0 +1,10 @@
+uuid: ed9d11e2-fe8b-4eaf-95e5-a4dec8a97f2a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RO3q0MFXTblXjSczy0_TfDsnyhPNSJJLdB5DkCJafTU
+id: chisel
+item_id: '167'
+item_description: 'good for detailed crafting'
+label: chisel

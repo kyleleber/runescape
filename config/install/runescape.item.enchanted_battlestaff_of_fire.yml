@@ -1,0 +1,10 @@
+uuid: 44a61c0d-5ace-4442-be21-b371a091db1c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: m33aPJlIV28xbf5JWmhemzUCslDbgULfIPoH-hPv9C0
+id: enchanted_battlestaff_of_fire
+item_id: '682'
+item_description: 'A Magical staff'
+label: 'Enchanted Battlestaff of fire'

@@ -1,0 +1,10 @@
+uuid: 692a86e2-1364-44dd-9021-5afa55862086
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aGEVxtsesPDn38dd5zr_9qlhzX0QgTh1-m4m12XOkPY
+id: adamantite_plate_mail_top
+item_id: '311'
+item_description: 'Armour designed for females'
+label: 'Adamantite Plate Mail top'

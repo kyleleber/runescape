@@ -1,0 +1,11 @@
+uuid: 2118d3f8-987e-4add-968f-63456e8712f3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xyF6tWqPM9IUfsIPEMLqZOOY8Wp5nCloTXcBPLt9Hh8
+id: iban_disciple
+npc_id: '658'
+npc_description: 'An evil follower of Iban'
+label: 'Iban disciple'
+items: null

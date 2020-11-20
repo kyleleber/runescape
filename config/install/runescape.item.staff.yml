@@ -1,0 +1,10 @@
+uuid: 7eded1ee-fbfa-4d16-a261-1bb79dbb5258
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-NT3GfWp4NOOjKlF2LRhNVsXqOdB4E2FbpJUhEc35IY'
+id: staff
+item_id: '100'
+item_description: 'It''s a slightly magical stick'
+label: staff

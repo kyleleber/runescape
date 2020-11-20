@@ -1,0 +1,10 @@
+uuid: b61635c3-9ad7-4748-ad50-186d0e044eca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Wvv7TmAYQS8Ltxr2BVxNQ_ip9psY0PkLehCeBe7iQpM
+id: golden_bowl
+item_id: '1188'
+item_description: 'A specially made bowl constructed out of pure gold'
+label: 'Golden Bowl'

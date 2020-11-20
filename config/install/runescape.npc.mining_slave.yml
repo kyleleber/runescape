@@ -1,0 +1,11 @@
+uuid: 4491602d-2d1a-4391-9149-9f9201744a89
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3jZ4piykcvEXv5j-2vgKctcUiYNkSmjqnTXFYd9dGPY
+id: mining_slave
+npc_id: '671'
+npc_description: 'A chained slave forced to mine rocks.'
+label: 'Mining Slave'
+items: null

@@ -1,0 +1,10 @@
+uuid: d5f1a167-ec6c-4981-a8e5-6329756b2ce7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4_7ZOSuK1J-ozF0_8dQdRpNfYEBh283-P-WzvWLZqCU
+id: rune_throwing_knife
+item_id: '1080'
+item_description: 'A finely balanced knife'
+label: 'Rune throwing knife'

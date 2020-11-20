@@ -1,0 +1,10 @@
+uuid: cceed98f-23e1-4a3f-9472-3c60dcc4ca2d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oQ9QRT-Efu5Qf_9cJt7hA8RrLJTiFGbLUxyCy5I979Q
+id: mithril_bar
+item_id: '173'
+item_description: 'it''s a bar of mithril'
+label: 'mithril bar'

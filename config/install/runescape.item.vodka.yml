@@ -1,0 +1,10 @@
+uuid: a29ded9b-130a-49e5-8e3e-05d7bf481b9b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0kbmNpXtkuFrcp84o3Sk7-4p3wHVT-ZKy1TRuecP6ic
+id: vodka
+item_id: '869'
+item_description: 'A strong spirit'
+label: vodka

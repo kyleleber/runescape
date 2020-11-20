@@ -1,0 +1,11 @@
+uuid: 279719fc-fe82-48aa-8e15-d0bd6002fc69
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2FtlYOReLbzBCzIVQKGBBdLH_8TNwJyIOumOov-1hdM
+id: shantay_pass_guard
+npc_id: '719'
+npc_description: 'He seems to be guarding the Shantay Pass'
+label: 'Shantay Pass Guard'
+items: null

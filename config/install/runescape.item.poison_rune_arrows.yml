@@ -1,0 +1,10 @@
+uuid: 7d160abe-33cc-4a85-bbb5-2cc0c02ff695
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4Dt435vqmji_WHayHcjhiF4Epwwa4vD50Jy0NF4ek-E
+id: poison_rune_arrows
+item_id: '647'
+item_description: 'Venomous looking arrows'
+label: 'Poison Rune Arrows'

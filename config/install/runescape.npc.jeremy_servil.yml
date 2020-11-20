@@ -1,0 +1,11 @@
+uuid: 421da141-c7a7-4ab8-aab8-3f8e3165b197
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ffTs7gBpR7a7Hzi9ioORwkvTILftsHMg2DoiuxjVnQw
+id: jeremy_servil
+npc_id: '377'
+npc_description: 'A young squire'
+label: 'Jeremy Servil'
+items: null

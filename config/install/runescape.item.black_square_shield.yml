@@ -1,0 +1,10 @@
+uuid: c316b804-38d3-4ecc-9e31-f87cbdd119dd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nOUYKTpmUzzO8g55gt7DG6je5yVAj3QEu5ljxFW-FZ8
+id: black_square_shield
+item_id: '432'
+item_description: 'A medium metal shield'
+label: 'Black Square Shield'

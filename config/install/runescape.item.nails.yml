@@ -1,0 +1,10 @@
+uuid: 8b0d769f-adab-4e42-bc86-7e67ee9996d6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uqSwUtWjirLumyDXVLiIOuwQhyzOi_dbZeem-pkLqWI
+id: nails
+item_id: '419'
+item_description: 'Nails made from steel'
+label: Nails

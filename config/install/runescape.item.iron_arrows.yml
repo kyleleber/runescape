@@ -1,0 +1,10 @@
+uuid: 2471e580-e3fd-46d3-b88d-6fac2aa73bf2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6Zk-Jix2vZtk2ia3eoYh2tOKbcbZB3cruszhawC0gT8
+id: iron_arrows
+item_id: '638'
+item_description: 'Arrows with iron heads'
+label: 'Iron Arrows'

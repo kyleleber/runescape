@@ -1,0 +1,10 @@
+uuid: d4178c45-e0df-4538-a33b-65596b4179e6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kWd9VsXsdxPAxktAgH3n1kK_p_jlAH8k8H1LMkAPmZc
+id: bowl_of_water
+item_id: '342'
+item_description: 'It''s a bowl of water'
+label: 'Bowl of water'

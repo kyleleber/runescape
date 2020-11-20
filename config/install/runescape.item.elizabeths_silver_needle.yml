@@ -1,0 +1,10 @@
+uuid: d23c9030-b7de-4898-93fe-1050bba6369e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w-x6CbyjbTiSkjz3H49D0pUyOSKAocbDGW-6VBzX5P0
+id: elizabeths_silver_needle
+item_id: '1228'
+item_description: 'An ornamental silver needle coated with flour'
+label: 'Elizabeths Silver Needle'

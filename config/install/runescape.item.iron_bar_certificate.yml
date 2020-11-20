@@ -1,0 +1,10 @@
+uuid: ae9d4fed-fc00-414a-9785-86517a19cb2d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zHDlOOPO8xNQga-ht_DM_UySSuTR-c4fjgqQ2Qgs5mk
+id: iron_bar_certificate
+item_id: '528'
+item_description: 'Each certificate exchangable at draynor market for 5 iron bars'
+label: 'Iron bar certificate'

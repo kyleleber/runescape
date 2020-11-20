@@ -1,0 +1,10 @@
+uuid: d4327cad-7a01-4f86-8fff-7a13fc235aac
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: co6dji8yWx4fQ9NLg6r9rbeAP3aorUrRJnBK9PfBoys
+id: steel_plate_mail_legs
+item_id: '121'
+item_description: 'These look pretty heavy'
+label: 'Steel Plate Mail Legs'

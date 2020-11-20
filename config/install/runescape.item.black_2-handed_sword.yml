@@ -1,0 +1,10 @@
+uuid: 07b93cbc-273b-41b3-afc6-502f67faf40a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f_dvfXZelBxSWQ9HIJdhx5BTMMeYBdZukjKETK0uXmo
+id: black_2-handed_sword
+item_id: '426'
+item_description: 'A very large sword'
+label: 'Black 2-handed Sword'

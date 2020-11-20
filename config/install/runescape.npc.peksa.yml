@@ -1,0 +1,11 @@
+uuid: 4b4d4764-5485-492b-806b-d6052949ab82
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: znJTt1-QJWaBV4EaR6_RNjCcnO0W_rgp4Eh0zRgK7P0
+id: peksa
+npc_id: '75'
+npc_description: 'A helmet salesman'
+label: Peksa
+items: null

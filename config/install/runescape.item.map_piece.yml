@@ -1,0 +1,10 @@
+uuid: 6904e2df-c2da-4c32-b666-4208758fb2fc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Axa0WnBgDAJpCh9G7rchnESgREJRHUY7-Wrjjp5P1Yg
+id: map_piece
+item_id: '418'
+item_description: 'I need some more of the map for this to be useful'
+label: 'Map Piece'

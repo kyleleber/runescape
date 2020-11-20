@@ -1,0 +1,10 @@
+uuid: 55783607-d62d-4f8f-bf8e-1e1d3f850e62
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WC_c4uMgTNn0dRA8-0_VMHBS7ocFdVpmjsnWOxapdps
+id: bronze_arrows
+item_id: '11'
+item_description: 'Arrows with bronze heads'
+label: 'Bronze Arrows'

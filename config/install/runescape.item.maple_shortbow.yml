@@ -1,0 +1,10 @@
+uuid: 606a4657-bd51-46d9-aea7-83b9381a4943
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CWTg7zT5NRGc4aMd7lmfZXaEw8IqqV3b8ToTTa0lBu4
+id: maple_shortbow
+item_id: '653'
+item_description: 'Short but effective'
+label: 'Maple Shortbow'

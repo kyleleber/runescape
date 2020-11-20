@@ -1,0 +1,11 @@
+uuid: 20b7709e-855d-4597-b2cf-bf5b716c7ee5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gOJRhSntVhD_WTr7sKYy4KDDBC6UUyuIH1Ck-34GGaw
+id: sir_prysin
+npc_id: '16'
+npc_description: 'One of the king''s knights'
+label: 'Sir Prysin'
+items: null

@@ -1,0 +1,10 @@
+uuid: a3bc7a03-2ab0-4e6e-a153-c63862829134
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9OxcoAW8D-HQs-LdHGH4kKAOlXwPyWJaMB3TeIHklRc
+id: dry_sticks
+item_id: '777'
+item_description: 'Some dry wooden sticks'
+label: 'Dry sticks'

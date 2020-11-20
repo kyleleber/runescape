@@ -1,0 +1,10 @@
+uuid: ce8ebc70-8ad5-4065-85d4-7daf3dcc430e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WJ1audXPiGPUZvFCu7KycVR0rOCU64JFoEu3eN0oNSI
+id: brass_necklace
+item_id: '186'
+item_description: 'I''d prefer a gold one'
+label: 'Brass necklace'

@@ -1,0 +1,11 @@
+uuid: a7dd0a07-0387-4a5f-9259-7e26f2b6742e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4VQ36wvEOffQPHdB6XH0pk3Fg7m8GlugsTaBAnvLl7U
+id: professor
+npc_id: '662'
+npc_description: 'The owner of the observatory'
+label: Professor
+items: null

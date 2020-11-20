@@ -1,0 +1,10 @@
+uuid: b80bff7a-e5bd-4e57-9ec0-35f4ead49d61
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _9W71St2Y6Nbc9FoWS7NxfoUha0l6ohYeZyogbcnvW4
+id: raw_shark
+item_id: '545'
+item_description: 'I should try cooking this'
+label: 'Raw Shark'

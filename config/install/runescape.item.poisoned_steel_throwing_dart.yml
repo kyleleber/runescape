@@ -1,0 +1,10 @@
+uuid: 7f218b20-47fa-466c-8929-aceb3c9d2083
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NEMv02NKj7-kUd6bprdM-qT96eRxAJeoS1ERsUgMjnA
+id: poisoned_steel_throwing_dart
+item_id: '1124'
+item_description: 'A venomous throwing dart with a steel tip.'
+label: 'Poisoned Steel Throwing Dart'

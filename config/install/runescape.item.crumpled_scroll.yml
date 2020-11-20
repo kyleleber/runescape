@@ -1,0 +1,10 @@
+uuid: 0adef230-422f-48d9-ae5b-5c1e4428c247
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eRYNecFb4AiHihdEts57CDDG3Ejos1OUKHs-L-e-CXk
+id: crumpled_scroll
+item_id: '960'
+item_description: 'An ancient crumpled scroll'
+label: 'Crumpled Scroll'

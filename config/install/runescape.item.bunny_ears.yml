@@ -1,0 +1,10 @@
+uuid: a47a8c6d-ddf6-43a0-a497-a83b178da45b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 22beKXoEe-Q55FLY1WIQyBMaygIlSyCke25vLEh0Vas
+id: bunny_ears
+item_id: '1156'
+item_description: 'Get another from the clothes shop if you die'
+label: 'Bunny ears'

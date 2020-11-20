@@ -1,0 +1,10 @@
+uuid: aa96da76-94f3-4ff2-896e-ed5cac8342a3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 666msXpm5RWiBBcKxKzZqnu0j-p4tpKlloFlj9WgR5I
+id: damp_sticks
+item_id: '776'
+item_description: 'Some damp wooden sticks'
+label: 'Damp sticks'

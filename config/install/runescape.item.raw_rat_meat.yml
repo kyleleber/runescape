@@ -1,0 +1,10 @@
+uuid: ee5c82d7-7ac7-467c-91e0-d60d6a53b9c7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3eLgtG-vlZtu42KCSYcqxhqNz2zXENiGgcyYIrvQZbQ
+id: raw_rat_meat
+item_id: '503'
+item_description: 'I need to cook this first'
+label: 'raw rat meat'

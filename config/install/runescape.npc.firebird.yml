@@ -1,0 +1,11 @@
+uuid: e6dfd040-7892-4a1b-8f5c-53555ca4bb13
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GmtBigEn0rNuUJSrCsGCl9K4yz_fhGqbElugslWRxGo
+id: firebird
+npc_id: '252'
+npc_description: 'Probably not a chicken'
+label: Firebird
+items: null

@@ -1,0 +1,11 @@
+uuid: cbf06667-d5ae-4734-afb0-1289b52d4b8c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BO3eonsK_mEBSQmzfD-kBJF20hSRdCBeE82_R12q57U
+id: stanford_the_gardener
+npc_id: '746'
+npc_description: 'Its the family Gardener'
+label: 'Stanford The Gardener'
+items: null

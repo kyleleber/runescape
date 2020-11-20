@@ -1,0 +1,10 @@
+uuid: 07b1c6fb-d0a5-47fb-b6d9-fd67ed5325dc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KQQx23qhMhgHGl7UHPMhYOgR8f4zMLtYiH4qm7fYwNU
+id: franks_silver_pot
+item_id: '1229'
+item_description: 'A small silver pot coated with flour'
+label: 'Franks Silver Pot'

@@ -1,0 +1,11 @@
+uuid: d6421bfe-1b1d-4d1a-b706-34f4d76c6093
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: R_HOWIqNmK4tKECtkCfRtmY5dOHqncFRgUhXe27m0Vk
+id: head_thief
+npc_id: '352'
+npc_description: 'A dastardly blanket thief'
+label: 'Head Thief'
+items: null

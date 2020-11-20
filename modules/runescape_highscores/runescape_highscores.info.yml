@@ -1,0 +1,7 @@
+name: Runescape Account Highscores
+type: module
+description: 'Allows private server in-game accounts to be viewed as a highscores list. Based on OpenRSC source.'
+package: gaming
+core_version_requirement: 9.x
+dependencies:
+  - runescape_server_integration

@@ -1,0 +1,10 @@
+uuid: 46f81fcc-7905-4400-abae-32ee6f837cb3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EwwM3WoNsvJ7gVar0UW8L6JdBzwOyKcxLKh6Qnrwuy0
+id: adamantite_throwing_dart
+item_id: '1069'
+item_description: 'A deadly throwing dart with an adamantite tip.'
+label: 'Adamantite Throwing Dart'

@@ -1,0 +1,10 @@
+uuid: cfe74c7d-f61d-45af-87d8-5728116f765c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6Ux7qOen3qoZNHghh0ExCdkJjVePgfJrmnswfJzeg6s
+id: silverlight
+item_id: '52'
+item_description: 'A magic sword'
+label: Silverlight

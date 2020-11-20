@@ -1,0 +1,11 @@
+uuid: 5d221024-b8c0-4020-a1db-618ee709cdf8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FcKLaeVmkk_K24jErEjL2zzBjEwL_t5YdM0FQzwrc7Q
+id: 2nd_plague_sheep
+npc_id: '431'
+npc_description: 'The sheep has the plague'
+label: '2nd plague sheep'
+items: null

@@ -1,0 +1,11 @@
+uuid: 5ce161f6-aa0a-4af6-9417-a52a4d7c1505
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: G0XGdrGBRg6oER6o1ZnPvOq8u4K6VFIcd_tXzycvulg
+id: rock_of_ages
+npc_id: '705'
+npc_description: 'A huge boulder'
+label: 'Rock of ages'
+items: null

@@ -1,0 +1,14 @@
+runescape.menu:
+  title: Manage Runescape Configuration
+  route_name: runescape.configuration
+  parent: system.admin_config
+
+runescape.npcs.menu:
+  title: View npc list
+  route_name: entity.npc.list
+  parent: runescape.menu
+
+runescape.items.menu:
+  title: View item list
+  route_name: entity.item.list
+  parent: runescape.menu

@@ -1,0 +1,10 @@
+uuid: 0dcd6cc5-e12a-484f-900e-23088c1e6da1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0tKBgKerc4zbsBuhkp4JRKLEZRnzei4hlAiO5OQmCcY
+id: unholy_symbol_mould
+item_id: '1026'
+item_description: 'use this with silver in a furnace'
+label: 'Unholy Symbol mould'

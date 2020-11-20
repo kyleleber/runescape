@@ -1,0 +1,11 @@
+uuid: 4f965e3d-e038-4028-a657-8b700961d5e7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jC9h48OyKp2B0drGnxmQDSjJidrDlgHR0fllF_aPTgg
+id: shilop
+npc_id: '715'
+npc_description: 'A young boisterous looking lad'
+label: Shilop
+items: null

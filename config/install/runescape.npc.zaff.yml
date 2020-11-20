@@ -1,0 +1,11 @@
+uuid: 54427a9a-5e9f-4718-895b-b48f465144cd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: H4Ufmm6u6AY99awSZrYBTKyXn8hCEWeH6sMKwWU1YdM
+id: zaff
+npc_id: '69'
+npc_description: 'He trades in staffs'
+label: Zaff
+items: null

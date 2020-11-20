@@ -1,0 +1,11 @@
+uuid: 9ad55bb9-21e5-41ab-aafe-1618b1c24def
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EgAtlFpBH49IYe_AForcm181phz7zUpBXVW_xigg0L4
+id: thief
+npc_id: '351'
+npc_description: 'A dastardly blanket thief'
+label: Thief
+items: null

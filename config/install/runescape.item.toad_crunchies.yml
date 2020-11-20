@@ -1,0 +1,10 @@
+uuid: 9caa40a2-d248-4800-a3a2-ca1daaf8ae9b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yv1OQ6u9cKIDCP0oELQMlH252kGAfgIFhrUhQY0pJOQ
+id: toad_crunchies
+item_id: '956'
+item_description: 'actually smells quite good'
+label: 'Toad crunchies'

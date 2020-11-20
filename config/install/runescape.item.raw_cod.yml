@@ -1,0 +1,10 @@
+uuid: ebe5fb4a-1030-4d3f-b10b-78541a20d241
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EQZTP8ZYsrbfUr5vneTySP00w2TX6ptoxwhagEPPGDo
+id: raw_cod
+item_id: '550'
+item_description: 'I should try cooking this'
+label: 'Raw cod'

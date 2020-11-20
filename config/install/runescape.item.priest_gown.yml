@@ -1,0 +1,10 @@
+uuid: 354b3a88-1953-4019-aada-43d2c4ba9a68
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BZ4_kU2Jx_vMTmyzJl8QZhPWS2O2ObqGC895k406-hY
+id: priest_gown
+item_id: '808'
+item_description: 'I feel closer to saradomin in this'
+label: 'Priest gown'

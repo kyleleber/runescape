@@ -1,0 +1,10 @@
+uuid: 77efddfd-e771-4131-ad2c-4efb7d974bb4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CDYvpfJtK1N1SXO3IaqxCP4RPNlBYKDRXYd620MgoQQ
+id: rotten_apples
+item_id: '801'
+item_description: Yuck!
+label: 'Rotten apples'

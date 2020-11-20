@@ -1,0 +1,11 @@
+uuid: f01f0177-3962-4434-a3d0-4491bf5267fa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZQprQkCJhkroNp1GqazU6G-v9sGhaBu1zc6osEGZXwc
+id: wyson_the_gardener
+npc_id: '116'
+npc_description: 'An old gardener'
+label: 'Wyson the gardener'
+items: null

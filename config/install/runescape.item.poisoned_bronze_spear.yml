@@ -1,0 +1,10 @@
+uuid: c83d4bae-22cd-4936-9e32-385170b3a410
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pumgQ1y02wlfk0o80i7mGciWRUnaYT_o7WtRbu5wKjA
+id: poisoned_bronze_spear
+item_id: '1135'
+item_description: 'A bronze tipped spear with added venom'
+label: 'Poisoned Bronze Spear'

@@ -1,0 +1,11 @@
+uuid: a89f5110-4b0e-4b70-94a9-9f53c8c4f300
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mO7MbRsX_8SEBAERKFx44zypQM3Jyu-p8OwefH_4ClE
+id: chamber_guardian
+npc_id: '784'
+npc_description: 'He hasnt seen much sun latley'
+label: 'chamber guardian'
+items: null

@@ -1,0 +1,10 @@
+uuid: b7dbbed2-a3d1-4276-b889-2582f253fd6a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 35U6W-XiwVIdq2UbXJSqZMTnbMv1w6jYYpdWDpDiK0M
+id: wizard_blizzard
+item_id: '939'
+item_description: 'Looks like a strange mix'
+label: 'wizard blizzard'

@@ -1,0 +1,10 @@
+uuid: ca3794de-27dd-4944-b7f4-95e416dfb62c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wszAcvAXduWFNVCyn7wYp_Br_pFVnXriD14GVX1Im_M
+id: iron_short_sword
+item_id: '1'
+item_description: 'A razor sharp sword'
+label: 'Iron Short Sword'

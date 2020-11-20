@@ -1,0 +1,63 @@
+<?php
+
+use Drupal\Core\Entity\Display\EntityViewDisplayInterface;
+use Drupal\Core\Site\Settings;
+use Drupal\user\UserInterface;
+
+/**
+ * Implements hook_theme().
+ */
+function runescape_account_management_theme() {
+  return [
+    'account_cards' => [
+      'render element' => 'elements',
+      'template' => 'account-cards',
+      'variables' => [
+        'items' => [],
+      ],
+    ],
+    'npc_kills' => [
+      'render element' => 'elements',
+      'template' => 'npc-kills',
+      'variables' => [
+        'kills' => [],
+      ],
+    ],
+    'npc_kill' => [
+      'render element' => 'elements',
+      'template' => 'npc-kill',
+      'variables' => [
+        'id' => NULL,
+        'name' => NULL,
+        'kill_count' => NULL,
+        'items' => [],
+      ],
+    ]
+  ];
+}
+
+/**
+ * Implements hook_entity_extra_field_info().
+ */
+function runescape_account_management_entity_extra_field_info() {
+  $fields['user']['user']['display']['account_management'] = [
+    'label' => t('Account Management'),
+    'description' => t("User module 'account management' view element."),
+    'weight' => 5,
+  ];
+
+  return $fields;
+}
+
+/**
+ * Implements hook_ENTITY_TYPE_view() for user entities.
+ */
+function runescape_account_management_user_view(array &$build, UserInterface $account, EntityViewDisplayInterface $display) {
+  if ($display->getComponent('account_management')) {
+    $build['account_management'] = [
+      \Drupal::formBuilder()->getForm(
+        'Drupal\runescape_account_management\Form\AccountManagement'
+      ),
+    ];
+  }
+}

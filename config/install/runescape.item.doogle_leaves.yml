@@ -1,0 +1,10 @@
+uuid: 4dbe9bc6-9bcc-4baf-a22f-7bd7095c03d1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ewhONL0olr57gVLk2Fb_f16GfMBhL2LgKqr9XYESigg
+id: doogle_leaves
+item_id: '1100'
+item_description: 'Small sweet smelling leaves'
+label: 'Doogle leaves'

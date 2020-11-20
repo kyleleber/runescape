@@ -1,0 +1,10 @@
+uuid: 6356b2a9-ae60-4136-8dba-54ddce5abc01
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZsLu7-kU6wQ8MeuiRijKvJaKOUahRz78JgNiFciqoVo
+id: bluedye
+item_id: '272'
+item_description: 'A little bottle of dye'
+label: Bluedye

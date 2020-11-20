@@ -1,0 +1,11 @@
+uuid: 046d5804-7f24-431c-8f1d-b1aa213b6ba8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3PpDkS927jjXRNe7j6ZlSZkJxCDIkI6aLL82GO-OnOw
+id: bandit
+npc_id: '234'
+npc_description: 'A wilderness outlaw'
+label: Bandit
+items: null

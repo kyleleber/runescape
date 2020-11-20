@@ -1,0 +1,10 @@
+uuid: 5643b5f9-085a-4f9d-8875-138f0799049d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tc6raTpNU4aBXWr04zhtkrzAmBMp0Wo1gammEKZ3jBs
+id: dragon_bone_certificate
+item_id: '1270'
+item_description: 'Each certificate exchangable at Yanille for 5 Dragon Bones'
+label: 'Dragon Bone Certificate'

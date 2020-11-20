@@ -1,0 +1,10 @@
+uuid: 3ee6723b-8918-4510-961a-fed32d676218
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Bucp4B_Lqn5wn6rb9_GIU6aWA15RhjY-w7LqEJVXBWI
+id: black_plate_mail_legs
+item_id: '248'
+item_description: 'These look pretty heavy'
+label: 'Black Plate Mail Legs'

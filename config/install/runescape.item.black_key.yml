@@ -1,0 +1,10 @@
+uuid: 95cd22ef-c532-4e1e-9c6b-c73fa87dd97d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j1Rw2OneUNCVnm9fumVs4sNeSUKzeqUiAuR53rp1qyw
+id: black_key
+item_id: '395'
+item_description: 'A painted key'
+label: 'black key'

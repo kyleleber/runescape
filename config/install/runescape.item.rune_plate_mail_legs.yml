@@ -1,0 +1,10 @@
+uuid: 2c98084b-4898-4c92-b97d-898a95afe1b0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HyxDx2uv54Khc3wrvmVBhillP309GrxG1kiIlZDeyC4
+id: rune_plate_mail_legs
+item_id: '402'
+item_description: 'These look pretty heavy'
+label: 'Rune Plate Mail Legs'

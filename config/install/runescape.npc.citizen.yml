@@ -1,0 +1,11 @@
+uuid: 4b8acab7-f3cf-4a0e-ac8f-cbbf56530d36
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Hik-0E_zsQAKC9NbqsCX7CDysRPfMeUq9Lw_iKMJEvE
+id: citizen
+npc_id: '442'
+npc_description: 'He look''s disillusioned'
+label: Citizen
+items: null

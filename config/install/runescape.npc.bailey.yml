@@ -1,0 +1,11 @@
+uuid: 4720e5d6-abb4-4de8-9b91-82ec339bb9c0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: brXDR2nKiAcgBkAREhKsDllOEZDhp2JjonQMp9hLC_I
+id: bailey
+npc_id: '460'
+npc_description: 'the fishing platform cook'
+label: bailey
+items: null

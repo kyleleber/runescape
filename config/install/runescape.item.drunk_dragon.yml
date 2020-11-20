@@ -1,0 +1,10 @@
+uuid: a9dcde98-b48e-42aa-a6a5-448114bb383e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QDNLwi_lBsauHKNS3CPJJfK520L447MdF3yycZ-bppg
+id: drunk_dragon
+item_id: '943'
+item_description: 'A warm creamy alcoholic beverage'
+label: 'Drunk dragon'

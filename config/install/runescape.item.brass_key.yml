@@ -1,0 +1,10 @@
+uuid: 285dd408-3da5-48e9-8697-f5632eee4e8b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nvNKtOR3Uy2_q0cyPBiXrkj6kTZNPIV8vDlUUm3at2o
+id: brass_key
+item_id: '99'
+item_description: 'I wonder what this is the key to'
+label: 'Brass key'

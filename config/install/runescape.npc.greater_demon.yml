@@ -1,0 +1,11 @@
+uuid: 711bea69-7ea9-4cb6-afaa-8e96bd0f7a7b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c_QyaJqkcNqtZHsS4vedSuzwL8yx3vv5M49I9QB97b4
+id: greater_demon
+npc_id: '184'
+npc_description: 'big red and incredibly evil'
+label: 'Greater Demon'
+items: null

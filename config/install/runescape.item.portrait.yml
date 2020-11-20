@@ -1,0 +1,10 @@
+uuid: 4070af77-9323-4672-a51d-33107b63b3ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YF9dg6DYIXb5vPLZQKLF7alsBXUPksLPFO3kGvwn-M0
+id: portrait
+item_id: '264'
+item_description: 'It''s a picture of a knight'
+label: Portrait

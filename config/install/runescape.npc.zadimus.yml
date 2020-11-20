@@ -1,0 +1,11 @@
+uuid: 69f1d99e-05a9-4a24-a752-54bad6b1a56f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DOof3xcp_GCfAlrVgrBX_avXKdb_zlpmvwsxPJeCkJo
+id: zadimus
+npc_id: '589'
+npc_description: 'Ghostly Visage of the dead Zadimus'
+label: Zadimus
+items: null

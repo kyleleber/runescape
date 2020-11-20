@@ -1,0 +1,10 @@
+uuid: 47fd0e63-6a1f-422f-a982-6123826a0ec4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mD3c9h1RmXFHB90bvDp7B3s02nVLI51qndyWhaEnBFI
+id: diamond
+item_id: '161'
+item_description: 'this looks valuable'
+label: diamond

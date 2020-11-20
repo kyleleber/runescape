@@ -1,0 +1,10 @@
+uuid: 19fa2a84-24cf-4487-b14c-ce9107230d96
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QxD_ejLTJjdtVPsnnZkVejEXANxwmYfLe2pv6t5L3UE
+id: anchovie_pizza
+item_id: '327'
+item_description: 'A Pizza with Anchovies'
+label: 'Anchovie Pizza'

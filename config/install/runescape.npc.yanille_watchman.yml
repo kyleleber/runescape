@@ -1,0 +1,11 @@
+uuid: 17666b9e-28ad-43b0-9a88-5d441678fe36
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VDaDUiXILnqyGQDazjff1NCmq_fJpuXD4ZWGEjXm8QE
+id: yanille_watchman
+npc_id: '685'
+npc_description: 'A captured guard of Yanille'
+label: 'Yanille Watchman'
+items: null

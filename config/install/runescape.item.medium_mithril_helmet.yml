@@ -1,0 +1,10 @@
+uuid: ce5a2ea2-8473-4030-b3ac-e26f961babab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: k2j6ypamUS_HCFYTPZMafMmru_rZTN0w4NLgAClIKnA
+id: medium_mithril_helmet
+item_id: '106'
+item_description: 'A medium sized helmet'
+label: 'Medium Mithril Helmet'

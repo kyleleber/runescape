@@ -1,0 +1,10 @@
+uuid: 6ca35bc7-b322-4534-86f6-f1a941ade419
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gbedFjkhDZ_XRdPVU7VOumBAl68rlO-lauQXtl9Fhus
+id: black_plate_mail_top
+item_id: '313'
+item_description: 'Armour designed for females'
+label: 'Black Plate Mail top'

@@ -1,0 +1,10 @@
+uuid: bf7e4bd4-1fcc-4dd7-a6e4-dc03d1f0fe51
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bq1th1Wk3abkSu5lRhg7bv4NilukadhdQtsRTooHcvY
+id: chocolate_slice
+item_id: '336'
+item_description: 'A slice of chocolate cake'
+label: 'Chocolate Slice'

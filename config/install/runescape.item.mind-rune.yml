@@ -1,0 +1,10 @@
+uuid: 086993eb-0e3c-4ec4-934f-b026ce372122
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qeaUdB4TeBrItmmQsQmEzteJn0m5XBaeNZTjhCdbdbs
+id: mind-rune
+item_id: '35'
+item_description: 'Used for low level missile spells'
+label: Mind-Rune

@@ -1,0 +1,10 @@
+uuid: 74749c70-6426-433c-aeaa-05770bda9f2a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9M420QpnjKTl73TEQj76rKpqKOQeUC6E6kXrf9pf5Wc
+id: sapphire_necklace
+item_id: '289'
+item_description: 'I wonder if this is valuable'
+label: 'Sapphire necklace'

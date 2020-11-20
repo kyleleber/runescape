@@ -1,0 +1,10 @@
+uuid: 2f995079-fccf-4dc4-9c01-acdaf5d5060c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JQ_zDKFa05dS2be1ta6Z-pi9KR0sZiAnqchvmd7R-wA
+id: wax_bucket
+item_id: '605'
+item_description: 'It''s a wooden bucket'
+label: 'wax Bucket'

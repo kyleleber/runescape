@@ -1,0 +1,11 @@
+uuid: f28f9ffb-20ac-4910-b805-5869b69dd0f0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XUtcOb-ARkI3Vmbuto3_GQIzYovgpueIahArcpUMNpc
+id: hellhound
+npc_id: '294'
+npc_description: 'Hello nice doggy'
+label: Hellhound
+items: null

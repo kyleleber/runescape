@@ -1,0 +1,11 @@
+uuid: dfb507b8-5c5e-4f00-9e14-d2bf899bd8f5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IL8Y4brGNTfWJkkNwf72iCv9aGhxiCR1KUXOsYZvkDs
+id: femi
+npc_id: '564'
+npc_description: 'Its a little tree gnome'
+label: Femi
+items: null

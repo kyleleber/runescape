@@ -1,0 +1,10 @@
+uuid: a20d9d2c-4640-4773-8171-790e3ee79be5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: O7xCETEo1I2rCmPSnMrbf6a0QVXAm7M-LvGSA1jsRws
+id: ring_mould
+item_id: '293'
+item_description: 'Used to make gold rings'
+label: 'ring mould'

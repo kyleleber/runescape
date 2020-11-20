@@ -1,0 +1,11 @@
+uuid: 7b849634-3598-4ded-931c-3104dffa24b0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BmCV_ui0uW_74DJcW9XwcTwHvbemrjKhmHlRLLp0WbQ
+id: cooking_instructor
+npc_id: '478'
+npc_description: 'Talk to him to learn about runescape food'
+label: 'cooking instructor'
+items: null

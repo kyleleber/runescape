@@ -1,0 +1,10 @@
+uuid: cc7bd5c4-98b5-4cf6-a53e-36603cdcbd8f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KG2di1lr2vYvubTYOOKKjaoB3FUxo5jogfnqQPvW1ps
+id: red_key
+item_id: '390'
+item_description: 'A painted key'
+label: 'Red key'

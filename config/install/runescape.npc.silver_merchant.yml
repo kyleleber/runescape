@@ -1,0 +1,11 @@
+uuid: ab81fe97-1043-4010-808d-fd2cf318c163
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j4aJh3XqvHVNIqgIjpYtlMuuxwvTWNg2zozlZmvbuiY
+id: silver_merchant
+npc_id: '328'
+npc_description: 'He deals in silver'
+label: 'silver merchant'
+items: null

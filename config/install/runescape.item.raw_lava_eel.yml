@@ -1,0 +1,10 @@
+uuid: 2044bc50-d7f1-47e1-927b-706f2423e5ee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MKV4HB3Zoq-V0yMXnB_8enyzJmpySQ5_4TykDVwAApA
+id: raw_lava_eel
+item_id: '591'
+item_description: 'A very strange eel'
+label: 'Raw lava eel'

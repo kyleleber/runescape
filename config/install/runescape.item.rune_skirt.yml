@@ -1,0 +1,10 @@
+uuid: f99e9d61-b3cc-4e8a-b127-a188b1309bbd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PKACGlbexDGKUfpwALD64hYu_ySBZAGVJi0x5dtWDEA
+id: rune_skirt
+item_id: '406'
+item_description: 'Designer leg protection'
+label: 'Rune skirt'

@@ -1,0 +1,10 @@
+uuid: 69e29995-e9d1-44db-a704-2e25e177205e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: T-WENDvnioJOUtU3zuHKW5hWW7gJCx84NOVJv3xEjLY
+id: super_defense_potion_certificate
+item_id: '1274'
+item_description: 'Exchangable at Yanille for 5'
+label: 'Super Defense Potion Certificate'

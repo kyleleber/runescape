@@ -1,0 +1,11 @@
+uuid: b684ac17-2ad5-4013-8260-42c70741ab87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hrvjbz6ORu2eIX8KMk7Nv8-LFFLa2qrU8Rt7sHY78xk
+id: pirate
+npc_id: '264'
+npc_description: 'A vicious pirate'
+label: Pirate
+items: null

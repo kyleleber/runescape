@@ -1,0 +1,10 @@
+uuid: 7cdafd4b-02c5-4f8d-9ef2-94be0a823109
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _hvQcNCvJQ7IqHqSe-LRBlW2hfbqK7zdkKFkniiv7Fc
+id: mithril_short_sword
+item_id: '68'
+item_description: 'A razor sharp sword'
+label: 'Mithril Short Sword'

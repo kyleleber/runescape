@@ -1,0 +1,10 @@
+uuid: 6efb3a12-b8ca-412a-9d95-f3521e4023a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: t5PRoZTum89MpWBDvOd90gJUdglOc_s5R8A1JRtY4ls
+id: willow_logs
+item_id: '633'
+item_description: 'Logs cut from a willow tree'
+label: 'Willow Logs'

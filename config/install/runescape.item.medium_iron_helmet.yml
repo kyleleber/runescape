@@ -1,0 +1,10 @@
+uuid: 5dba30c2-48b2-41a5-a92c-ba79a762ee79
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wy3y-71h698rZBqNhkncjw7QvWoJhPHPRVJTkno8Z6o
+id: medium_iron_helmet
+item_id: '5'
+item_description: 'A medium sized helmet'
+label: 'Medium Iron Helmet'

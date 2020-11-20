@@ -1,0 +1,11 @@
+uuid: 419e9b21-8454-44c2-83e3-5c81c587ed21
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8F6dYsxibpc4R-uMoWAcHiDmMzareC6OxoziadWEkYE
+id: make_over_mage
+npc_id: '339'
+npc_description: 'He can change how I look'
+label: 'Make over mage'
+items: null

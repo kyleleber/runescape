@@ -1,0 +1,11 @@
+uuid: c80830ae-20a1-47e4-bd26-f03d6d1588da
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IsU0Yr8x0nPXafA9zo-0oPgBOcEYiLHPvak9hIf82YI
+id: man
+npc_id: '750'
+npc_description: 'A thirsty looking man'
+label: Man
+items: null

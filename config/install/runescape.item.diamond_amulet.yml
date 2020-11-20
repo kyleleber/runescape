@@ -1,0 +1,10 @@
+uuid: 064fd5f5-547a-483a-a672-44fc4c5e0bf2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zFTKymebHY4H6NcxvuKTNO071m7uaIRdMxDfNdmfSfU
+id: diamond_amulet
+item_id: '305'
+item_description: 'I wonder if I can get this enchanted'
+label: 'Diamond Amulet'

@@ -1,0 +1,10 @@
+uuid: e21565df-0161-4ece-b1dc-fe55f4247220
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tc_-sJbXpKa8e9D9L3S41LdEN89Kt8YJpaq_69YfShk
+id: raw_oomlie_meat_parcel
+item_id: '1280'
+item_description: 'Oomlie meat in a palm leaf pouch - just needs to be cooked.'
+label: 'Raw Oomlie Meat Parcel'

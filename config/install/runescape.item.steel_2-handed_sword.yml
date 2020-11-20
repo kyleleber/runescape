@@ -1,0 +1,10 @@
+uuid: 1203582d-c1e4-480c-b3ad-e1e8da1bb9a9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dupSnCqwtXQW7afuluV9-uEUqnXdeNPGKU_nwYEgLcg
+id: steel_2-handed_sword
+item_id: '78'
+item_description: 'A very large sword'
+label: 'Steel 2-handed Sword'

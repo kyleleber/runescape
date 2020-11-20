@@ -1,0 +1,10 @@
+uuid: 20141133-a92c-4b39-b318-92f19141d1da
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BCjsfRcRZ7ZXOd_AOY70LmFs0KBZL5UEzKsDLN80-FA
+id: sito_foil
+item_id: '820'
+item_description: 'An rare species of jungle herb'
+label: 'Sito Foil'

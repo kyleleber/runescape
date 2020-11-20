@@ -1,0 +1,11 @@
+uuid: e066ead4-6773-4119-bc99-d4143aee856a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PMV-dWkzI1IsyinX0BWwfvtObMAuB6L-O38cxGigWts
+id: father_lawrence
+npc_id: '32'
+npc_description: 'A kindly looking priest'
+label: 'Father Lawrence'
+items: null

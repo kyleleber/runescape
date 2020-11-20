@@ -1,0 +1,10 @@
+uuid: 59bfc5ec-814e-413a-b6ba-1bd81d92e22f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rxKkWNh6bljSXWxAxrk_vpu-6BQi5MFy43pkyHuYEfo
+id: poisoned_rune_throwing_knife
+item_id: '1134'
+item_description: 'A finely balanced knife with a coating of venom'
+label: 'Poisoned Rune throwing knife'

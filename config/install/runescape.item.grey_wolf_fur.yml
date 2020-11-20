@@ -1,0 +1,10 @@
+uuid: a1f6140f-9a6c-4178-b1e6-13b3b4ebd467
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uOOh_fRD1zgw-T-dAXl2mjEPmf_KH7iW9FY6rDmia-c
+id: grey_wolf_fur
+item_id: '541'
+item_description: 'This would make warm clothing'
+label: 'Grey wolf fur'

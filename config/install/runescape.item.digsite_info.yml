@@ -1,0 +1,10 @@
+uuid: eeac365e-a4f3-4284-96c3-6747b84c15b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lqjfbJbZjcBhIJVNQNQH5zUK7TFEPNk9NMhQqv2lrBQ
+id: digsite_info
+item_id: '1121'
+item_description: 'IAN ONLY'
+label: 'Digsite info'

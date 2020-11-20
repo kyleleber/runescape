@@ -1,0 +1,10 @@
+uuid: d110f2f9-3d64-4441-b50f-cce7642bfc6b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eXViUDERqQuWcCHTi4JGvuR1BS9Bi6bP_B2yZ-73zf8
+id: holy_table_napkin
+item_id: '742'
+item_description: 'a cloth given to me by sir Galahad'
+label: 'Holy table napkin'

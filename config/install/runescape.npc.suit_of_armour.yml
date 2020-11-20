@@ -1,0 +1,11 @@
+uuid: 81e277f6-80bc-4271-b36b-7f8e2dbbf456
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uxYAeYypFWk1_nt3TX_PH-V2sZVX_fqYG7gEC91FnrQ
+id: suit_of_armour
+npc_id: '206'
+npc_description: 'A dusty old suit of armour'
+label: 'Suit of armour'
+items: null

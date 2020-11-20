@@ -1,0 +1,10 @@
+uuid: 635e6b40-a43c-4942-9772-b5074e9d170f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: L6VcFSpUCFApJAZd68qsa0WNfZhzLy4fZZkbBMDtHso
+id: daconia_rock
+item_id: '931'
+item_description: 'A magicaly crafted stone'
+label: 'Daconia rock'

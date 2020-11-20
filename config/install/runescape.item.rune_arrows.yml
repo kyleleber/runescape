@@ -1,0 +1,10 @@
+uuid: 571b5269-c5c4-4252-b02f-604effe4be52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Wil5DLFyJdueX15gh4nH0inGHdfZ16EVsrL-5FTrOnU
+id: rune_arrows
+item_id: '646'
+item_description: 'Arrows with rune heads'
+label: 'Rune Arrows'

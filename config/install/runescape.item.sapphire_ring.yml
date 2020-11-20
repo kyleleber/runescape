@@ -1,0 +1,10 @@
+uuid: 89faf17d-714b-4e09-b8e6-c2916ef2c549
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kR0o_GJWM5VCedpUkH7XmAPpDqz9F37z6XPWkfYtQAY
+id: sapphire_ring
+item_id: '284'
+item_description: 'A valuable ring'
+label: 'Sapphire ring'

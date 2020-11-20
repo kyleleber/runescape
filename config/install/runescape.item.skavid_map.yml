@@ -1,0 +1,10 @@
+uuid: 9752cb4c-3832-4c55-87da-2bc24ed1b4b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qYszYD8PuhTAIkDWS9n58tkwXGpQuW3RrbZbTX_KtMs
+id: skavid_map
+item_id: '1045'
+item_description: 'A map of cave locations'
+label: 'Skavid map'

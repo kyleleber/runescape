@@ -1,0 +1,11 @@
+uuid: 7df66acb-a5ef-4d5b-828b-08ea699c9228
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Trb3IfH8BPKcbWUjM-MaThTo9nEz9D_KtLpe9kZnipI
+id: giant_spider
+npc_id: '74'
+npc_description: 'I think this spider has been genetically modified'
+label: 'Giant Spider'
+items: null

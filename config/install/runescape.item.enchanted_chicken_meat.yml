@@ -1,0 +1,10 @@
+uuid: c1bcd95a-62dc-480c-945a-3d46332fa54b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: J4JS6iZDlpwhGBsSee8ltcv--93v6nBZg86L7mVk9dk
+id: enchanted_chicken_meat
+item_id: '508'
+item_description: 'I don''t fancy eating this now'
+label: 'enchanted chicken meat'

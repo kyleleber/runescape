@@ -1,0 +1,11 @@
+uuid: 684a4e0f-09b8-442d-b101-8c8eb938fd1f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cBkmlOxWufS8JXuH2gsuBg7x0gciqaXJ8LmOEt5Tp0U
+id: sigbert_the_adventurer
+npc_id: '573'
+npc_description: 'A Warrior'
+label: 'Sigbert the Adventurer'
+items: null

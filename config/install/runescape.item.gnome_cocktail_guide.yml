@@ -1,0 +1,10 @@
+uuid: 225b55e1-83b4-4dcc-abd0-6d05a3b4be9c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: p17tw4rq0GEgMOPeX4gTgj1TWyZJZjFWx54a7DTG-UM
+id: gnome_cocktail_guide
+item_id: '851'
+item_description: 'A book on tree gnome cocktails'
+label: 'gnome cocktail guide'

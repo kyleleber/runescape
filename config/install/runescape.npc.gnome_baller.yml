@@ -1,0 +1,11 @@
+uuid: c72b6ba5-949c-4fce-9352-a16a884416fb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SVvw6OefmNUXM93uje5EIZC4bze312otCdz5hJ8RQKI
+id: gnome_baller
+npc_id: '610'
+npc_description: 'Hes on your team'
+label: 'Gnome Baller'
+items: null

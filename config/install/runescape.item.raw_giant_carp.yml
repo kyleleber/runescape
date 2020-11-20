@@ -1,0 +1,10 @@
+uuid: 79c8f60f-f1b7-4dc0-8ad1-f05480e7cb56
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bqMAEmyDUjnFSaFMh49YJv8zZecrPHZFrUBziz_RtyE
+id: raw_giant_carp
+item_id: '717'
+item_description: 'I should try cooking this'
+label: 'Raw giant carp'

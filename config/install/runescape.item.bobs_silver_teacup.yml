@@ -1,0 +1,10 @@
+uuid: d48b449c-8039-4538-b003-6d24e06d9494
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8kKdog0exY-QH5wtZULqSppL_tw8KrGSvHZmsVNmhHU
+id: bobs_silver_teacup
+item_id: '1225'
+item_description: 'A silver tea cup coated with flour'
+label: 'Bobs Silver Teacup'

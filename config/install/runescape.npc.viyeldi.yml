@@ -1,0 +1,11 @@
+uuid: 01768433-a0ea-49b1-b078-b559263ace68
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AnfixPzehhBR2D51n0EE2anHheEtuAkML5VvRrGSG2A
+id: viyeldi
+npc_id: '772'
+npc_description: 'The spirit of a dead sorcerer'
+label: Viyeldi
+items: null

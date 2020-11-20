@@ -1,0 +1,10 @@
+uuid: d175c408-b707-4540-a7bf-963919326d26
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oecFVKApT_EUAvBieQpEcUFzmodKJfsch-CHWc5fqFg
+id: adamantite_plate_mail_legs
+item_id: '123'
+item_description: 'These look pretty heavy'
+label: 'Adamantite Plate Mail Legs'

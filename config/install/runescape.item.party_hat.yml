@@ -1,0 +1,10 @@
+uuid: c991bdb5-3658-4af3-8402-9dbbbf192441
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qCSiiD2LTJ06ymXt8sPEHbsqqjlbBmghINQZ0fHYPTg
+id: party_hat
+item_id: '581'
+item_description: Party!!!
+label: 'Party Hat'

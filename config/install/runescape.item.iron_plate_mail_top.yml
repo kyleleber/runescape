@@ -1,0 +1,10 @@
+uuid: 63730aca-5ffc-4edc-ad75-0ba3efef38bc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QR735IYJbgtUzPZgO3g8b2CNO4EXKS92fqQS-c3cyOY
+id: iron_plate_mail_top
+item_id: '312'
+item_description: 'Armour designed for females'
+label: 'Iron Plate Mail top'

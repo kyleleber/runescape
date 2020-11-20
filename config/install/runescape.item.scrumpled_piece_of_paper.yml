@@ -1,0 +1,10 @@
+uuid: 6da7ebab-aec9-43f8-96f3-a63713b1d545
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: k5_C2Uo8ij-ruOvgBhYJ8bR-U3y4_4fZMRP4FYMNUwg
+id: scrumpled_piece_of_paper
+item_id: '1120'
+item_description: 'A piece of paper with barely legible writing - looks like a recipe!'
+label: 'Scrumpled piece of paper'

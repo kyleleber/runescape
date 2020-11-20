@@ -1,0 +1,11 @@
+uuid: cec2a279-697b-4daf-8560-74e0d228fd98
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: P6wvn2Gx1e_FDleODjcr4blobNRkKjA2xgBVtNu0pc0
+id: boatman
+npc_id: '497'
+npc_description: 'An old sailor'
+label: boatman
+items: null

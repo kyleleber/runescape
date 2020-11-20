@@ -1,0 +1,11 @@
+uuid: eed542cd-f889-4c36-a93b-d95110c2aa35
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Cl-1f_jNU9tKpsThVTp1DUn9tD7uGcI0C1fY_tHrAOE
+id: blessed_vermen
+npc_id: '630'
+npc_description: 'A undead servent of iban'
+label: 'Blessed Vermen'
+items: null

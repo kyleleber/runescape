@@ -1,0 +1,10 @@
+uuid: ea91a3c5-30bb-4ea4-81b1-14ae21cfe6fc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uhOxESw44BVmh9N4ZzASGY-_KToEufCUSDhaMt4zTAU
+id: spice
+item_id: '707'
+item_description: 'Put it in uncooked stew to make curry'
+label: spice

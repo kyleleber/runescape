@@ -1,0 +1,11 @@
+uuid: 7733ce4d-98d8-4bd5-9ba8-4a072281f2bd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sAUuXA-jMw9MBKgnDut-A3bwMadptfDp-W6HpObpmMk
+id: banker
+npc_id: '268'
+npc_description: 'He can look after my money'
+label: Banker
+items: null

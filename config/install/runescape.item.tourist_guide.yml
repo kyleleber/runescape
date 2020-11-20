@@ -1,0 +1,10 @@
+uuid: 062ac055-42cf-45f7-8074-57c53766655b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2K-6QCjRULuyyxvpBwd_LAo7l1fDI-dKhNHlLPcVLxI
+id: tourist_guide
+item_id: '706'
+item_description: 'Your definitive guide to Ardougne'
+label: 'tourist guide'

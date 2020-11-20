@@ -1,0 +1,10 @@
+uuid: 4e471631-f0a6-4822-82e9-e503ae96bb45
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0cqFY0d4B34_tPpTlHL29ViMI_e26-vjkPaJ_Mqzlvs
+id: beer_glass
+item_id: '620'
+item_description: 'I need to fill this with beer'
+label: 'Beer glass'

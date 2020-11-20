@@ -1,0 +1,11 @@
+uuid: d69bda92-41cf-47d6-84aa-a06e39bae772
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KH_U3CYLVLxZ8I6OT0hv3jxdxEU6lyxYnm0xo5wfgQE
+id: yanni
+npc_id: '624'
+npc_description: 'Yanni Salika - He buys and sells antiques.'
+label: Yanni
+items: null

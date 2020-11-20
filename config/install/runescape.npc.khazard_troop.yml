@@ -1,0 +1,11 @@
+uuid: 99542f9a-b144-4a15-93bc-7afa69742191
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4uH0FrgSoj7-h9tSeDMEO4BaGJ5hOmu7kFvr8zlIeik
+id: khazard_troop
+npc_id: '407'
+npc_description: 'It''s one of General Khazard''s warrior''s'
+label: 'Khazard troop'
+items: null

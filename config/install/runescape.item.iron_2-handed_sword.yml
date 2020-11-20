@@ -1,0 +1,10 @@
+uuid: bfe625fb-e626-4e0c-a581-3222996b8189
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hiArB8kba4mSunmPJSTUB1HKDc5rqEqDDlkZYoioLpQ
+id: iron_2-handed_sword
+item_id: '77'
+item_description: 'A very large sword'
+label: 'Iron 2-handed Sword'

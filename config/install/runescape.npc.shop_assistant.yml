@@ -1,0 +1,11 @@
+uuid: 6bca7526-0892-4684-bcf3-852cd5d7715c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: flRq7zeTVS5xJNqP4zxckn5w6uNFMJrYxAE-g7zRPtU
+id: shop_assistant
+npc_id: '186'
+npc_description: 'Maybe he''d like to buy some of my junk'
+label: 'Shop Assistant'
+items: null

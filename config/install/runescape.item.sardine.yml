@@ -1,0 +1,10 @@
+uuid: 59b72133-7862-45ce-b3dc-ff017cbba4ed
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fvfJNFcON5Q_39IQiE6xL6F7mbJhwEKCSTEiDF61YsQ
+id: sardine
+item_id: '355'
+item_description: 'Some nicely cooked fish'
+label: Sardine

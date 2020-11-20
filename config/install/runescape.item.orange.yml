@@ -1,0 +1,10 @@
+uuid: 4d46482d-2a1f-4074-a011-40ce1d61352b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fqIu87mwXQJvY_u80-mQOqtwfIdyF8ozfUVc1VbDsBM
+id: orange
+item_id: '857'
+item_description: 'It''s very fresh'
+label: orange

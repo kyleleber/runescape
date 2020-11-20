@@ -1,0 +1,10 @@
+uuid: df5de245-39ad-4a8e-904a-f9829ca94dc5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Q9miU7waVjA4tnBX_Xfgcs0GMJ25f0iUluIkyHO6GtI
+id: desert_shirt
+item_id: '1020'
+item_description: 'A light cool shirt to wear in the desert'
+label: 'Desert Shirt'

@@ -1,0 +1,11 @@
+uuid: d8bbf001-c756-453f-8a43-94f2ac030ea1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: N4ZE1gPy6vXyeT0uavOBuirMLOpTFyGS1hqyGi27icI
+id: customs_officer
+npc_id: '163'
+npc_description: 'She is here to stop smugglers'
+label: 'Customs Officer'
+items: null

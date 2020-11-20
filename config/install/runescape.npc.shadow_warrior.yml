@@ -1,0 +1,11 @@
+uuid: 002e333e-f882-417b-8df6-4994a096d7a6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ta6zvVm8sqza2xPlMWT7vRTNFp4Jt_2jrg9Jbn4nxUw
+id: shadow_warrior
+npc_id: '787'
+npc_description: 'A sinsistar shadowy figure'
+label: 'Shadow Warrior'
+items: null

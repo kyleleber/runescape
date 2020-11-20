@@ -1,0 +1,11 @@
+uuid: 815e1415-fff7-4bed-8a0e-5eaf287ede78
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FVdSWHZzfF7KRDOTfD4xmWwOoVE1ERf5iKydlfLylAM
+id: jerico
+npc_id: '486'
+npc_description: 'He looks friendly enough'
+label: Jerico
+items: null

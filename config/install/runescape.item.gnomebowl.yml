@@ -1,0 +1,10 @@
+uuid: c1d2d902-d9d2-4fa1-80dd-3ad8310b7f96
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V5yAIl380SynEJ2cVIvKIZw3y2ztWM_FWPNhLY1ViQw
+id: gnomebowl
+item_id: '888'
+item_description: 'It''s burnt to a sinder'
+label: gnomebowl

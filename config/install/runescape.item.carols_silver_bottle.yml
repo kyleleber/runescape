@@ -1,0 +1,10 @@
+uuid: 7ab25a3f-4aa2-4d87-8244-d780cd5e9a22
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 601lznBuy71_ysI2zVHdfszVfIU2E1kDOIay-2OM0TM
+id: carols_silver_bottle
+item_id: '1226'
+item_description: 'A little silver bottle coated with flour'
+label: 'Carols Silver Bottle'

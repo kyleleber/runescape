@@ -1,0 +1,10 @@
+uuid: cf9d17d3-17a2-403f-a538-e979211cc97f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9Hh95PFLldC8aET2LZRCi6TV2o1qc9hitYNjg11d9XA
+id: orb_of_protection
+item_id: '740'
+item_description: 'a strange glowing green orb'
+label: 'orb of protection'

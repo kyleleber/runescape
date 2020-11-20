@@ -1,0 +1,7 @@
+{% set module_path = _self|split('/templates') %}
+{{ attach_library('runescape_map_tracking/runescape_map') }}
+<div class="runescape-map" id="runescape-map">
+  <div class="runescape-map-internal" id="runescape-map-internal">
+    <img class="map" src="/{{ module_path[0] }}/assets/images/worldmap.png"/>
+  </div>
+</div>

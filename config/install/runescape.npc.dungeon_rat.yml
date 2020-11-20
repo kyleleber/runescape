@@ -1,0 +1,11 @@
+uuid: 5036b904-5101-4c5b-a50d-cb3e96f868b7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YFoL70M3UAtBMZaeReKZIJAomjKg8MIaMJrN-zuL4Mg
+id: dungeon_rat
+npc_id: '367'
+npc_description: 'Overgrown vermin'
+label: 'Dungeon Rat'
+items: null

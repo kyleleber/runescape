@@ -1,0 +1,11 @@
+uuid: e1c7cae0-bc5f-4a6d-a434-83f4874e4671
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CqHGk2AHxPkHlLVP361dsrvxA9oXBGchObJdXaY6Q1E
+id: monk_of_entrana
+npc_id: '215'
+npc_description: 'A Peaceful monk'
+label: 'Monk of entrana'
+items: null

@@ -1,0 +1,10 @@
+uuid: 28ec12b3-69b5-4f29-9673-4326c4282227
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dwKavIZliEzJqhk6tygmIweUI1cGCNCwLhtm2EYtWoQ
+id: front_door_key
+item_id: '538'
+item_description: 'A house key'
+label: 'Front door key'

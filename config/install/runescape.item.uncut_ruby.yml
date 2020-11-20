@@ -1,0 +1,10 @@
+uuid: 2396ea31-1c11-4da5-820f-c9eeb43f2359
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NaaCEr-WvER_z5BaH3xDabZrYYNQ5OjkwT7MgXxDHqk
+id: uncut_ruby
+item_id: '158'
+item_description: 'this would be worth more cut'
+label: 'uncut ruby'

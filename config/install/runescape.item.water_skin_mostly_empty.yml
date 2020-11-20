@@ -1,0 +1,10 @@
+uuid: 26ef0e50-acc3-44c5-8110-4b41d68841fc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: E30KvzTvW6nM2-BmDLPgufgPP45IJmqJkAPywlbjJ3I
+id: water_skin_mostly_empty
+item_id: '1083'
+item_description: 'A half empty skin of water'
+label: 'Water Skin mostly empty'

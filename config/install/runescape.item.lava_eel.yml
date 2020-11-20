@@ -1,0 +1,10 @@
+uuid: 03fab303-d2f0-472e-bc35-797250b504f4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NdOPMM8ET9u0r8GIC5PlS2qU8XAe_XxxVGvOk45oycU
+id: lava_eel
+item_id: '590'
+item_description: 'Strange it looks cooler now it''s been cooked'
+label: 'lava eel'

@@ -1,0 +1,11 @@
+uuid: 09fca11c-f35c-4de0-9a21-4b9ce39cc32d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: i6k5dve-zvV-v-F3DREaEdDi39fHhi8Mq4Q4bO7I7yI
+id: fairy_lunderwin
+npc_id: '219'
+npc_description: 'A fairy merchant'
+label: 'Fairy Lunderwin'
+items: null

@@ -1,0 +1,10 @@
+uuid: 77e9d453-6339-48d6-9ca3-e2a19b4d8937
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eP1EwKGvPPEUbSRJjX2coquW2FX9RW0P5e0yhkIbN00
+id: bedobin_copy_key
+item_id: '1059'
+item_description: 'A copy of a key for the captains of the mining camps chest'
+label: 'Bedobin Copy Key'

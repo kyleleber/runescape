@@ -1,0 +1,10 @@
+uuid: 3f2e4354-ff33-4795-942c-b121ab9cbc81
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GWuWIU-qtk84CAPCkJQQyYG9oph0sT_uNeseyzlJ-Ac
+id: rune_short_sword
+item_id: '397'
+item_description: 'A razor sharp sword'
+label: 'Rune short sword'

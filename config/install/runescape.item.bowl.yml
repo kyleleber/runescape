@@ -1,0 +1,10 @@
+uuid: 3b1c0773-c5cb-4ca5-ab4d-929f1760d3d5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: muSDzhRLE7BDI2wwYituXBbhrYJFSIk6nNr2okiUltw
+id: bowl
+item_id: '341'
+item_description: 'Useful for mixing things'
+label: Bowl

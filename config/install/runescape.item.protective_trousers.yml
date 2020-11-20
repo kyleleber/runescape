@@ -1,0 +1,10 @@
+uuid: b77da5c6-5ccd-4cf9-ac4a-ea266e797480
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0f09D1ZBwffsRPqUm8rxAI7beZLTg5nbeyW3vyilkVc
+id: protective_trousers
+item_id: '761'
+item_description: 'A thick pair of leather trousers'
+label: 'Protective trousers'

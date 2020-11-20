@@ -1,0 +1,11 @@
+uuid: d4479493-9c1c-4e57-943a-6b3760f07674
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: feRLIBe7FL2CkZc395Bwdc0_U5zAaVQpYgLrkLrcqqU
+id: grubor
+npc_id: '255'
+npc_description: 'A rough looking thief'
+label: Grubor
+items: null

@@ -1,0 +1,10 @@
+uuid: 60b4c38b-93d9-493f-9633-bffaed174271
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _5864m9KBdcrGyyuEg1g4YG-oyIdg5YnITCBCv-y-H8
+id: adamantite_square_shield
+item_id: '127'
+item_description: 'A medium metal shield'
+label: 'Adamantite Square Shield'

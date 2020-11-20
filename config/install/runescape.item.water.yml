@@ -1,0 +1,10 @@
+uuid: 424f1a0d-4e12-40db-b89f-e866357e1fab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BiykZX33rxw1sbClt5llUKk2FqijV1Xs9XaJbgczhPQ
+id: water
+item_id: '141'
+item_description: 'It''s full of water'
+label: water

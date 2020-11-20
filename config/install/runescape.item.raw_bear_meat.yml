@@ -1,0 +1,10 @@
+uuid: 282bc957-ea7c-4734-9cb3-5317f7ebf165
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-VmlJ-PoJCkmBmiihFiWXW8r_rwJrrxDpBxbDK2A9nY'
+id: raw_bear_meat
+item_id: '502'
+item_description: 'I need to cook this first'
+label: 'raw bear meat'

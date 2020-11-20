@@ -1,0 +1,11 @@
+uuid: f77c7f98-617e-40ee-b1d3-14bb0ee18dc1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DhfZpSwrhjaT9ygJhD319J63p9sUhqgRZyqoCewwg34
+id: poison_salesman
+npc_id: '763'
+npc_description: 'Peter Potter - Poison Purveyor'
+label: 'Poison Salesman'
+items: null

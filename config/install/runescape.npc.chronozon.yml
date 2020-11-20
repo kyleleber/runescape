@@ -1,0 +1,11 @@
+uuid: 9ff212c9-069d-44f9-95a7-8e55b0d9a18b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kgVZwB-nbf9M2YyCaNfAVv4Mkespp_f6IM2TsYP91js
+id: chronozon
+npc_id: '315'
+npc_description: 'Chronozon the blood demon'
+label: Chronozon
+items: null

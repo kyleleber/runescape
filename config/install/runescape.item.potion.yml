@@ -1,0 +1,10 @@
+uuid: a0a0ddd3-5430-47c6-a3e5-3db942515cdb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Wr8LaktUYJQrbC8FZLLzAvwhJMNBHZ0uLT2ymnJHdK0
+id: potion
+item_id: '58'
+item_description: 'this is meant to be good for spots'
+label: potion

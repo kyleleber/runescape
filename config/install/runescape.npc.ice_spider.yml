@@ -1,0 +1,11 @@
+uuid: a2e3236a-4486-4ae4-8320-34b3ee3c926c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OoownQRIPsj9IRupQFp6JQTZ4LYyhl1cKps7nnDqkQ0
+id: ice_spider
+npc_id: '263'
+npc_description: 'I think this spider has been genetically modified'
+label: 'Ice spider'
+items: null

@@ -1,0 +1,10 @@
+uuid: 79f72877-4435-466d-8563-e58fd34acee3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WK3NeraWKUvYpAnQtX-u8sa7tKu3QIi2YRq1gfTea6g
+id: burnt_pizza
+item_id: '322'
+item_description: 'Oh dear!'
+label: 'Burnt Pizza'

@@ -1,0 +1,11 @@
+uuid: 6b22e51c-4725-4dde-acb8-19d54e9b4f17
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0UixyaqpGbuNV_yyBoymgqzwAKZKA_ogzQhl-2sve6s
+id: glough
+npc_id: '566'
+npc_description: 'An rough looking gnome'
+label: Glough
+items: null

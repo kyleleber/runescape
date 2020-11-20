@@ -1,0 +1,10 @@
+uuid: 6f8d6528-99eb-4fa0-9bc4-db4144e9c61c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 82He46Hui_TZJrRt3V7J3JzMbZQdCEjFxYeLGzHrHOo
+id: rogues_purse
+item_id: '824'
+item_description: 'A rare species of jungle herb'
+label: 'Rogues Purse'

@@ -1,0 +1,10 @@
+uuid: 801515b2-7f8c-4ac3-ac6f-9c8a7f286274
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eRon35q9p-lsJxKGnKqcHkeCxcV_58LougWBC5BjP88
+id: adamantite_kite_shield
+item_id: '131'
+item_description: 'A large metal shield'
+label: 'Adamantite Kite Shield'

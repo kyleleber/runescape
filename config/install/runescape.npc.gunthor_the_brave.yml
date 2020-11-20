@@ -1,0 +1,11 @@
+uuid: 3efb5853-920a-4312-84e7-d9b53c372459
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zikfmxRHT26HU1K6RGffnY0OT4SezaBm5ojSATQHNyk
+id: gunthor_the_brave
+npc_id: '78'
+npc_description: 'The barbarians fearless leader'
+label: 'Gunthor the Brave'
+items: null

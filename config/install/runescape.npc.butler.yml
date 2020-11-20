@@ -1,0 +1,11 @@
+uuid: 2e95b7ac-8018-4cc6-affb-b43f1b195b95
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zlWz8YGoViHiEBbayuXqha5YjseoJTTsm2x4ANelnTE
+id: butler
+npc_id: '419'
+npc_description: 'It''s the carnillean family butler'
+label: butler
+items: null

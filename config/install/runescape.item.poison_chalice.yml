@@ -1,0 +1,10 @@
+uuid: f75862f8-c39b-4bd9-a5e6-2df3ad572412
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oSX78agL0zzSreD_uf1mvwzwiRSSy2_nkDrHDyjdUaI
+id: poison_chalice
+item_id: '737'
+item_description: 'A strange looking drink'
+label: 'Poison chalice'

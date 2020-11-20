@@ -1,0 +1,10 @@
+uuid: daf357a3-797f-4827-a905-62398ce4fdad
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ucnTcJdbgG59IPuCKWIx-XBQVRdKTSmLEdPFHAdbfEg
+id: seasoned_sardine
+item_id: '1094'
+item_description: 'They don''t smell any better'
+label: 'Seasoned Sardine'

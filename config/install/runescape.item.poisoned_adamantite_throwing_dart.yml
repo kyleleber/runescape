@@ -1,0 +1,10 @@
+uuid: cc8ef57c-013e-4577-be32-33552e839a7c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GfSTPUFbs32h41rYxnxNjsyU_okQL7z2nZhJZ6KLuO8
+id: poisoned_adamantite_throwing_dart
+item_id: '1126'
+item_description: 'A venomous throwing dart with an adamantite tip.'
+label: 'Poisoned Adamantite Throwing Dart'

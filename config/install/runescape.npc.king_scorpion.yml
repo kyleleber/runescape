@@ -1,0 +1,11 @@
+uuid: 17fec5e3-acd1-4d89-8477-bbf5b73e05e3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vWBfqkP2_byopFTswNlG-2OhqJiza66sk4kHi1Gi6kM
+id: king_scorpion
+npc_id: '136'
+npc_description: 'Wow scorpions shouldn''t grow that big'
+label: 'King Scorpion'
+items: null

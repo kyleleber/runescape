@@ -1,0 +1,11 @@
+uuid: c0d4437d-4d95-490d-8cd0-209ebffd1820
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: K1EsmUWs0FaxE43zlub6ntF8bJeLOt7Js4I9_h74-K8
+id: dimintheis
+npc_id: '309'
+npc_description: 'A well dressed nobleman'
+label: Dimintheis
+items: null

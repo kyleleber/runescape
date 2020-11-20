@@ -1,0 +1,10 @@
+uuid: 9ecfa8df-4797-4a2c-aba0-dc043bd95f30
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SzZ0gMUNCANe1st8FsWN89UaSTI8qT86leeeQ5JkNIE
+id: willow_logs_certificate
+item_id: '713'
+item_description: 'Each certificate exchangable at Ardougne for 5 willow logs'
+label: 'willow logs certificate'

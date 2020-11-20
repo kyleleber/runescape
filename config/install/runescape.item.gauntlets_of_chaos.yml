@@ -1,0 +1,10 @@
+uuid: ecaa507d-41bf-474e-8f91-c96f0e18a3e9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jLcLPNzJXD0_6_yjwV29ocGJz03PwiStFZ-2o7FCGvQ
+id: gauntlets_of_chaos
+item_id: '701'
+item_description: 'improves bolt spells'
+label: 'gauntlets of chaos'

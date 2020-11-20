@@ -1,0 +1,10 @@
+uuid: e2fe77b6-9698-4052-93db-b43a0a4ce0a6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kAQz_NW5McVV9aNBIlFE3qhNmm6GJ0XcxjHgR0QcFZM
+id: onion_and_tomato_mixture
+item_id: '1108'
+item_description: 'A mixture of onions and tomatoes in a bowl'
+label: 'Onion and Tomato Mixture'

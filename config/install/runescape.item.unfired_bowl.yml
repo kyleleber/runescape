@@ -1,0 +1,10 @@
+uuid: c1b80c88-dc75-4d9c-bdab-074ea2dc47aa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TfPrJbGI8VASvYULPZoiCejAggzNEn4RRYIVDuJGQ8k
+id: unfired_bowl
+item_id: '340'
+item_description: 'I need to put this in a pottery oven'
+label: 'Unfired bowl'

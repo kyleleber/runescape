@@ -1,0 +1,10 @@
+uuid: 524d7217-be16-45bb-8158-9bb4e779d7f5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w8aHmYc3xO9GMoG_XMbUkhJBqKVhe4nC3wseGFOsly0
+id: gold_bar
+item_id: '691'
+item_description: 'this looks valuable'
+label: 'gold bar'

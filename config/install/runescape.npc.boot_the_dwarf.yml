@@ -1,0 +1,11 @@
+uuid: dba3cac9-dd46-4bd4-8998-9c36a4df14fb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JhEoCPmYKYPekGkDQ-UQxRdJySWxZyjdvYzTASr-7G0
+id: boot_the_dwarf
+npc_id: '313'
+npc_description: 'A short angry guy'
+label: 'Boot the Dwarf'
+items: null

@@ -1,0 +1,10 @@
+uuid: 85b69c27-35bd-42fc-9fec-be47c3fc58f4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ek02Pu5Jfjlr_ac5YdjJGfSz2HfMPx8ORdGCEQrNsNo
+id: gnome_robe
+item_id: '840'
+item_description: 'A high fashion robe'
+label: 'gnome robe'

@@ -1,0 +1,10 @@
+uuid: 0dbf6b26-b166-44e1-9356-ccd2106eb416
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V7STFIrDI3H4WYXBFnUuvG-Lbmg_NAREA_hwmahz0JA
+id: rune_dagger
+item_id: '396'
+item_description: 'Short but pointy'
+label: 'rune dagger'

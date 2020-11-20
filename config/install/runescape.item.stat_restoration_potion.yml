@@ -1,0 +1,10 @@
+uuid: 77480648-632c-463f-90d6-540121122d30
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: a6q0dBD5q-fhfQ7SaMotl40KFtwo8SRYAn4jpTKTvpw
+id: stat_restoration_potion
+item_id: '479'
+item_description: '1 dose of stat restoration potion'
+label: 'stat restoration Potion'

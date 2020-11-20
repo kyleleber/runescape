@@ -1,0 +1,10 @@
+uuid: b544401c-8f4d-4f0a-9f0a-d543ca218263
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LFcPsFlLRHZwkCF1vj0ouwjAcixvUsqrUhuukMpzipc
+id: dwarf_cannon_barrels
+item_id: '1186'
+item_description: bang
+label: 'Dwarf cannon barrels'

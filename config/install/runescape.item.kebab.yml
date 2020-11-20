@@ -1,0 +1,10 @@
+uuid: 146189cb-8d0a-4368-9420-faef1dae4da3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: y-vtm4i5os-Wffkj3QMjTIS5b-o_XTKtC-_BrTFOcnY
+id: kebab
+item_id: '210'
+item_description: 'A meaty Kebab'
+label: Kebab

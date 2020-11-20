@@ -1,0 +1,10 @@
+uuid: 3b94a4da-4991-499d-9a73-34ee3beeb91c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HqpZN2REEonfIr8glkxoIh0diAyqyAJ1yG-5opcIBHg
+id: lobster_pot
+item_id: '375'
+item_description: 'Useful for catching lobsters'
+label: 'Lobster Pot'

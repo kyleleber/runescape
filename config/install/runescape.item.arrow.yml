@@ -1,0 +1,10 @@
+uuid: d1d3c753-a86f-44c4-8f74-9ffb43d11af1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VM-W6pD81TWR9rcWe2xDJFSXNMJp6jkFmmg3X0jKwsE
+id: arrow
+item_id: '984'
+item_description: 'linen wrapped around an arrow head'
+label: Arrow

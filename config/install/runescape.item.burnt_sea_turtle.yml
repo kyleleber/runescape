@@ -1,0 +1,10 @@
+uuid: bf1d9741-94ff-45ba-9184-65d7dbe05067
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZKEMDpQP4FPz0o1bIyQMNH6bZuqkdJRS1Z5fHlF8lxI
+id: burnt_sea_turtle
+item_id: '1248'
+item_description: oops!
+label: 'Burnt Sea turtle'

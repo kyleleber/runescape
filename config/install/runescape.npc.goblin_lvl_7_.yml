@@ -1,0 +1,9 @@
+uuid: aa567d32-0fa8-4b1d-8ba9-5789b7c31523
+langcode: en
+status: true
+dependencies: {  }
+id: goblin_lvl_7_
+npc_id: '62'
+npc_description: 'An ugly green creature'
+label: 'Goblin (lvl 7)'
+items: ''

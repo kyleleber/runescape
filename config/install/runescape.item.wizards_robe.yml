@@ -1,0 +1,10 @@
+uuid: abcca420-f1d9-401b-82c7-0ccd24123448
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FeHAmE81gDkJeNYiwsrlz0p0wC_d7OU3WtHJPmSB1ZU
+id: wizards_robe
+item_id: '184'
+item_description: 'I can do magic better in this'
+label: 'Wizards robe'

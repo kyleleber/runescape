@@ -1,0 +1,11 @@
+uuid: 5a984a0a-605a-44c2-898f-8b896305a5fd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YSZd6TGvyP02PxCMrunU1CqXz1TvERGcKm1UvD4rKdU
+id: sir_radimus_erkle
+npc_id: '785'
+npc_description: 'A huge muscular man in charge of the Legends Guild'
+label: 'Sir Radimus Erkle'
+items: null

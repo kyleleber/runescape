@@ -1,0 +1,11 @@
+uuid: 9bc6d74d-88d7-4ea0-bb1e-7fbf4a13c8b6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Rvl2kxjT1ni3CqvDaS7YbVz5FWXrk2UG6FIwoYFpf0E
+id: white_knight
+npc_id: '102'
+npc_description: 'A chivalrous knight'
+label: 'White Knight'
+items: null

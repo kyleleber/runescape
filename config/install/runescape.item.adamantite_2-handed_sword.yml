@@ -1,0 +1,10 @@
+uuid: 4ee78c65-e863-4b02-914a-f39cee874927
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d9uqA0zeymQSMrcWUhC1L0whoZ-07NRjxgEo2rVQjO0
+id: adamantite_2-handed_sword
+item_id: '80'
+item_description: 'A very large sword'
+label: 'Adamantite 2-handed Sword'

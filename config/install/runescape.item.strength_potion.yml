@@ -1,0 +1,10 @@
+uuid: 962d1a68-a500-41b4-af59-0de93d04fb56
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zoq9JRfv4qy84AvwvAcCfpF5tqrGMsbM3B_tKgoYA54
+id: strength_potion
+item_id: '224'
+item_description: '1 dose of strength potion'
+label: 'Strength Potion'

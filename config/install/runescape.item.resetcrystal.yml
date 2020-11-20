@@ -1,0 +1,10 @@
+uuid: d22b8074-6cad-44d2-ac09-26c1adbb0711
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6C86sq-5W-x3df_NtYDA3GqeGK-YmwRXXVB1JQLLtnI
+id: resetcrystal
+item_id: '978'
+item_description: 'Helps reset things in game'
+label: ResetCrystal

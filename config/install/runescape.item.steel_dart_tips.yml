@@ -1,0 +1,10 @@
+uuid: ba7206f0-d7c8-4d05-9e46-0b5c220167df
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EYK5mrqk16wIvQNCXuXZ5w0IcT6JSb0AicIv6XXivZc
+id: steel_dart_tips
+item_id: '1064'
+item_description: 'Dangerous looking dart tips - need feathers for flight'
+label: 'Steel dart tips'

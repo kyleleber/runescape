@@ -1,0 +1,10 @@
+uuid: 824eddda-1ce4-4af3-9b7c-e3a6503e0e17
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cQW0kYaRbDT4tAzNDtVSj2hoMpMn3R811WngqLYoAvM
+id: sulphuric_broline
+item_id: '811'
+item_description: 'it''s highly poisonous'
+label: 'Sulphuric Broline'

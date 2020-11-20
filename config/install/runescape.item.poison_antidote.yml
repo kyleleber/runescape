@@ -1,0 +1,10 @@
+uuid: 9c0e119e-4a20-4491-8db8-8689cec4db51
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CEtOqcJGsdonER_MPZ8lhgqeE7_-EYSl1yLz4jGqjps
+id: poison_antidote
+item_id: '571'
+item_description: '1 dose of anti poison potion'
+label: 'Poison antidote'

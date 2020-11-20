@@ -1,0 +1,10 @@
+uuid: 0808ddb7-0c3b-4a1b-9586-4545fd91bf6e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XZy1ICHe38w6YkqU93vQ653FTN8KU-7LLzQPv_t5dO4
+id: diamond_necklace
+item_id: '292'
+item_description: 'I wonder if this is valuable'
+label: 'Diamond necklace'

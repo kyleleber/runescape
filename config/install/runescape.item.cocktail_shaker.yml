@@ -1,0 +1,10 @@
+uuid: fd43ec97-4595-4569-b84a-3a026c5e0f0f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NYIZ0pvFv_iUHeJrloUJKT8uIXvYFjodEuQ0sCxXPN8
+id: cocktail_shaker
+item_id: '834'
+item_description: 'For mixing cocktails'
+label: 'cocktail shaker'

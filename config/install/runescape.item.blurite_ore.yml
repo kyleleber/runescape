@@ -1,0 +1,10 @@
+uuid: 970194d4-5545-4d8f-bc4c-2f2d239689b2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DRQNW1V3dqoPguOYN9s8zkNBCqmaWxowyvVEPONo4oI
+id: blurite_ore
+item_id: '266'
+item_description: 'What Strange stuff'
+label: 'blurite ore'

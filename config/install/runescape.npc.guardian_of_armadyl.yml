@@ -1,0 +1,11 @@
+uuid: 0458a8e1-2fed-4c84-a84c-5f58417eb3bc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cZx5gkKgRt5OgvtqoqRgqSkQXnRxnp13BsK7FmzBluQ
+id: guardian_of_armadyl
+npc_id: '363'
+npc_description: 'A worshipper of Armadyl'
+label: 'guardian of Armadyl'
+items: null

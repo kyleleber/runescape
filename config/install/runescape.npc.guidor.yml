@@ -1,0 +1,11 @@
+uuid: 9c0cafab-b150-4855-bbd4-1acf6a602220
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LzdjrMewPXbX37K3QHypqpzm5rXCn38rHgdA32neZrE
+id: guidor
+npc_id: '508'
+npc_description: 'Hes not that ill'
+label: Guidor
+items: null

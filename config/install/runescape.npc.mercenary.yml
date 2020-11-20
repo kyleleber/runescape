@@ -1,0 +1,11 @@
+uuid: b8850c3f-fbf8-4608-8ff8-e4637e9b4005
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: l1aOSr_i0gYQ9sVBuT4MOVYbr2PPlmdHeY1gHAARhJ8
+id: mercenary
+npc_id: '692'
+npc_description: 'He seems to be guarding this area'
+label: Mercenary
+items: null

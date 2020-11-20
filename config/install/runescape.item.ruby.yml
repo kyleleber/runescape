@@ -1,0 +1,10 @@
+uuid: 39090d70-cb5f-454e-b9a5-32b346337109
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d60Sgc19iMcnPKPUhQPLS4Lbcvr8PREQpJqWUzRXgs8
+id: ruby
+item_id: '162'
+item_description: 'this looks valuable'
+label: ruby

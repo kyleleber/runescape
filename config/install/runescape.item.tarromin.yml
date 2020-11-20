@@ -1,0 +1,10 @@
+uuid: 882a4e9f-4af1-4f8f-ad9f-2ad25d5ee250
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sXHx9x1nl2sSyp_qd_ntrsW-48Um4-sJwyjtpayKgnQ
+id: tarromin
+item_id: '446'
+item_description: 'A useful herb'
+label: Tarromin

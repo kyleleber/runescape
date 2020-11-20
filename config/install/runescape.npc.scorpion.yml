@@ -1,0 +1,11 @@
+uuid: 54236300-6b81-41c0-8539-c572248820dc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: F2gOkj6IDLWmGZ0i1Fydb8avsgMAyKE1pB5aeeATDMA
+id: scorpion
+npc_id: '666'
+npc_description: 'There are nasty scorpions around this grave'
+label: Scorpion
+items: null

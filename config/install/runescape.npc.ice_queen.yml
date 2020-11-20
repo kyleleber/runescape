@@ -1,0 +1,11 @@
+uuid: e7b8cf98-7e5b-49b9-beca-e92b71158719
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AI7P2O0ZXXyJvTzBrZJR6QAtie08CCb65hwRyZoKXk4
+id: ice_queen
+npc_id: '254'
+npc_description: 'The leader of the ice warriors'
+label: 'Ice queen'
+items: null

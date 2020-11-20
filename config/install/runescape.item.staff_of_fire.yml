@@ -1,0 +1,10 @@
+uuid: 6d657e4b-ce86-47cd-a076-dc653fa74b53
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QnBsb_-WfSGQMAOet1xCtjiYQnGP5VL67SbOQ2AkRPs
+id: staff_of_fire
+item_id: '197'
+item_description: 'A Magical staff'
+label: 'Staff of fire'

@@ -1,0 +1,10 @@
+uuid: 992b98a3-ab25-4370-99f9-083761565b3a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lxS05crNpusWG_9avOUakeG5t7BRXs63mOl6h5grXTo
+id: adamantite_dagger
+item_id: '65'
+item_description: 'Short but pointy'
+label: 'Adamantite dagger'

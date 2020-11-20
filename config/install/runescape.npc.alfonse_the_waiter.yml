@@ -1,0 +1,11 @@
+uuid: 7be16a4e-d381-4a8f-9d23-9520925bce56
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JoJ5OnXmugGb_f--MSxjC_erQJzMqzPakXThyFX_C04
+id: alfonse_the_waiter
+npc_id: '260'
+npc_description: 'He should get a clean apron'
+label: 'Alfonse the waiter'
+items: null

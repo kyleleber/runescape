@@ -1,0 +1,10 @@
+uuid: ab872e89-b389-4cb3-a873-f25dd729b147
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: orU2fmH4Tujqof7rHYbYMjdudaxTTCOVPERSS67rRCo
+id: black_mace
+item_id: '430'
+item_description: 'A spikey mace'
+label: 'Black Mace'

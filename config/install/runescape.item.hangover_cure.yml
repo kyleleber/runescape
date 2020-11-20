@@ -1,0 +1,10 @@
+uuid: 4f0fdc7a-7116-4fc1-9fbc-e71d3cd5e31c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uw-LgHuLx6KIes1be86sPcT9JTTuq7B2_N-_hGzYtTk
+id: hangover_cure
+item_id: '771'
+item_description: 'It doesn''t look very tasty'
+label: 'Hangover cure'

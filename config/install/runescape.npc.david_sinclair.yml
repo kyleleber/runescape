@@ -1,0 +1,11 @@
+uuid: e36a7277-3150-4838-889a-4d5ab92fa46d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2aywG-qB7rAkduyYoonyAZ65JxAkUUhUB5Ilr5L06_U
+id: david_sinclair
+npc_id: '754'
+npc_description: 'The fourth child of the late Lord Sinclair'
+label: 'David Sinclair'
+items: null

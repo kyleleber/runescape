@@ -1,0 +1,10 @@
+uuid: bcbb1965-7870-44d4-b1b3-c119d5144e45
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1fpWKJ7BCXCriG81U2FnMda8pZRei2CnmC4Gv8vmO7Y
+id: kittens
+item_id: '1095'
+item_description: purrr
+label: Kittens

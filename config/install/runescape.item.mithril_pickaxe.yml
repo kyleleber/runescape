@@ -1,0 +1,10 @@
+uuid: 59602727-95e5-4691-9afb-99be29cf64ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: R7lggCB-xezOV_4RIbOeWlf8V7IEGCZYDAhlnUcN_vI
+id: mithril_pickaxe
+item_id: '1260'
+item_description: 'Requires level 21 mining to use'
+label: 'Mithril Pickaxe'

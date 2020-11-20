@@ -1,0 +1,10 @@
+uuid: f971d8d2-21a4-49f6-80c4-1c0a1c83d5fe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rYpY-bNpGUoLFsT1Rbd-pDR8rremGIZbsFidHG0c_FA
+id: bat_bones
+item_id: '604'
+item_description: 'Ew it''s a pile of bones'
+label: 'Bat bones'

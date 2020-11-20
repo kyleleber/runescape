@@ -1,0 +1,10 @@
+uuid: 4fbad8a3-285f-4fd6-a0c6-6ac95c73f4f9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eWOnC1OviDex7tvW1VMQa1Nflekrht-QBVkFiMZl5TM
+id: shortbow
+item_id: '189'
+item_description: 'Short but effective'
+label: Shortbow

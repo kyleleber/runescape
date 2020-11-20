@@ -1,0 +1,10 @@
+uuid: 754c8d79-0fda-40cf-a973-a9780fc12907
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8pSNLFD2A-0A-omRyluY1qNdhwhmtiK0LlClkAu6rpU
+id: spell_scroll
+item_id: '1181'
+item_description: 'A magical scroll'
+label: 'Spell scroll'

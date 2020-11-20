@@ -1,0 +1,10 @@
+uuid: 08e17560-8172-44e8-b5be-8c65d4e88e6f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CA_IVBTMkJxpAjmBvOSE_ks6L0p6Bw42VYpOStLFcLE
+id: adamantite_battle_axe
+item_id: '92'
+item_description: 'A vicious looking axe'
+label: 'Adamantite battle Axe'

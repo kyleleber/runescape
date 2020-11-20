@@ -1,0 +1,11 @@
+uuid: 4720dd9a-a4c0-46ec-af68-72f58973c02f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jIckZWE4qxAKt7WsjjyZ0AOPDr2Gpd8LAklZqEd3BIs
+id: juliet
+npc_id: '31'
+npc_description: 'She looks a little stressed'
+label: Juliet
+items: null

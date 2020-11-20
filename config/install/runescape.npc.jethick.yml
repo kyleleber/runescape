@@ -1,0 +1,11 @@
+uuid: 4913541a-1885-41d8-beb3-04cf6a52e811
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FLEy1HvYfnirlJH-t4rFjFLSnv70xjb2A2-f7voZFqw
+id: jethick
+npc_id: '443'
+npc_description: 'A cynical old man'
+label: Jethick
+items: null

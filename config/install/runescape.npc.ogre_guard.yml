@@ -1,0 +1,11 @@
+uuid: 935b02ff-f80e-4ecd-bb4c-7b7e6c4bb77e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dC_Gna1zXYF_bsvPR14LhcrIrD09Ip1uNqPEX5xZeUg
+id: ogre_guard
+npc_id: '697'
+npc_description: 'These ogres protect the city'
+label: 'Ogre guard'
+items: null

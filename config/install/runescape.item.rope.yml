@@ -1,0 +1,10 @@
+uuid: 43792815-a60a-4b19-8ea7-4a881eb10fd3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: q5jIjpnApAU8qqj8OsWOiebpYPqIF8TZqqRf-o8FQMk
+id: rope
+item_id: '237'
+item_description: 'A Coil of rope'
+label: Rope

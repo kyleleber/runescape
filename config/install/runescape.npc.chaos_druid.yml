@@ -1,0 +1,11 @@
+uuid: a7f043c5-a1c1-441b-9537-2481db62e3ed
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7SayF4diimueuhTqu6Idl6w3XqRycVVQ47JFZC3quDo
+id: chaos_druid
+npc_id: '270'
+npc_description: 'A crazy evil druid'
+label: 'Chaos Druid'
+items: null

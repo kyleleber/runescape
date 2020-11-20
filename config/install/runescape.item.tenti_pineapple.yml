@@ -1,0 +1,10 @@
+uuid: 0767812d-970c-493b-912a-fdcfe8a924df
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ri2gk6E63DRfaq4UOgQ9rQ5vBJ6kVVnnmJgR_LLbM4g
+id: tenti_pineapple
+item_id: '1058'
+item_description: 'The most delicious in the whole of Kharid'
+label: 'Tenti Pineapple'

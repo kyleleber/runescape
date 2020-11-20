@@ -1,0 +1,10 @@
+uuid: f2527c4e-89a9-4d1f-9dbf-41068531114e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TE0cYZrJGSPGD2PkUqk11ljw7iFaiow18kYMk2S57k4
+id: bronze_battle_axe
+item_id: '205'
+item_description: 'A vicious looking axe'
+label: 'bronze battle Axe'

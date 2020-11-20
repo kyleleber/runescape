@@ -1,0 +1,11 @@
+uuid: 151926a3-0b39-4830-969b-1e2c803a50be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: POeMTBQM6p1ff1n0JGaQT3a0ekvVsWFm_nlI8yqzcq8
+id: kanel
+npc_id: '783'
+npc_description: 'Gertrudes youngests twin brother'
+label: Kanel
+items: null

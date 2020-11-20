@@ -1,0 +1,11 @@
+uuid: 2854dc41-1863-4c71-9cc7-91823c49dc77
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8ZiDMZiphl4V8pynBatnYlFswOl_U-x-IN6IbRk042o
+id: monk
+npc_id: '93'
+npc_description: 'A Peaceful monk'
+label: Monk
+items: null

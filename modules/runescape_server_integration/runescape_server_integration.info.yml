@@ -1,0 +1,7 @@
+name: Runescape Server Integration
+type: module
+description: 'Integrates a Runescape Classic server into the website.'
+package: gaming
+core_version_requirement: 9.x
+dependencies:
+  - runescape

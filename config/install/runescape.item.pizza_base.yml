@@ -1,0 +1,10 @@
+uuid: 0fefd7b7-28c0-4074-b62e-bc14f449ac24
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QSAzo0a9ZhoRRqJ4Gg3vYhfBdQhEdCZ5TdebXneaDUE
+id: pizza_base
+item_id: '321'
+item_description: 'I need to add some tomato next'
+label: 'Pizza Base'

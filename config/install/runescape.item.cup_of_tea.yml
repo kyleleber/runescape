@@ -1,0 +1,10 @@
+uuid: c3c733cb-e3db-4100-91b4-5003558143b2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6cT_1z1UAqwCK8eiEKfioqC7BlfnWvdtUWfOwcxerTY
+id: cup_of_tea
+item_id: '739'
+item_description: 'A nice cup of tea'
+label: 'Cup of tea'

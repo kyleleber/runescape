@@ -1,0 +1,11 @@
+uuid: 22d93b26-8f2f-429b-9280-4c87314a6f4a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: E3SaAe2I0QXewu9Mf6kLL0BNbe26F6b6Y_TZbPPdZS8
+id: morgan
+npc_id: '97'
+npc_description: 'A frigtened villager'
+label: Morgan
+items: null

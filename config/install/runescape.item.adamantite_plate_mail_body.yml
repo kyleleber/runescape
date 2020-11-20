@@ -1,0 +1,10 @@
+uuid: 908a160b-1215-4ff7-a9f4-aa47f3a289db
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: brWNs-VDkl3eiPp2iPWdSLXR0ZT6jEKzpslv7V4KG8I
+id: adamantite_plate_mail_body
+item_id: '120'
+item_description: 'Provides excellent protection'
+label: 'Adamantite Plate Mail Body'

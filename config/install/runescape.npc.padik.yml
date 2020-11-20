@@ -1,0 +1,11 @@
+uuid: 9a7b60d0-21de-4804-b8d2-76e6fa79ae37
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9CC_Qzvc68ElWYoKSUVKj-_ppOSa-vejmDxFemHSNyk
+id: padik
+npc_id: '370'
+npc_description: 'He runs a fish exchange store'
+label: Padik
+items: null

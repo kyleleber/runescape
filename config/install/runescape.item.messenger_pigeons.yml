@@ -1,0 +1,10 @@
+uuid: 59145be8-3ab2-4ea0-9e76-694c218de252
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WXHfuXQPqcX8EwtA_ErHPORvEB0yq7Hvrv-ZazdK8y0
+id: messenger_pigeons
+item_id: '799'
+item_description: 'some very plump birds'
+label: 'Messenger pigeons'

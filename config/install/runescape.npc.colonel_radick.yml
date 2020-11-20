@@ -1,0 +1,11 @@
+uuid: e1e93ee6-ed08-4e64-a9be-0d699592c99c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TX3dF2pPVwuiwfjRQINJmGpcGltplPpzVnqfmPCddtE
+id: colonel_radick
+npc_id: '518'
+npc_description: 'A soldier of the town of Yanille'
+label: 'Colonel Radick'
+items: null

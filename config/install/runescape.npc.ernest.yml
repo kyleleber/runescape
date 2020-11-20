@@ -1,0 +1,11 @@
+uuid: fbe00abf-e93e-4c9a-a4e6-70045deca20c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Uz_91xtK2etYdZj8JGpLIjGYwrypBeLU9295G35BzLc
+id: ernest
+npc_id: '92'
+npc_description: 'A former chicken'
+label: Ernest
+items: null

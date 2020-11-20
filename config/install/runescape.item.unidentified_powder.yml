@@ -1,0 +1,10 @@
+uuid: 3f01d3a5-c459-49bd-9cfd-3f93cec45667
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: di3ssuHVvXXdiPURogIH_EBYzZdvJ0NHSZ57MyD-VJQ
+id: unidentified_powder
+item_id: '1171'
+item_description: 'who knows what this is for?'
+label: 'Unidentified powder'

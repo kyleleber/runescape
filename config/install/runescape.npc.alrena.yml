@@ -1,0 +1,11 @@
+uuid: 0520d77b-fa99-4da7-be52-46581625ccb2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9_xwYazoFEeCdei-SKxPdxH6jnh0LDdOtXZcqbJpDyw
+id: alrena
+npc_id: '450'
+npc_description: 'She look''s concerned'
+label: Alrena
+items: null

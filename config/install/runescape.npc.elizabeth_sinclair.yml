@@ -1,0 +1,11 @@
+uuid: 95f0353f-d8e0-47b9-b8be-37d1f8437e42
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FRCewV-lmbc98QuSfPcpr7bA5AoLPHS4z554aofON3U
+id: elizabeth_sinclair
+npc_id: '755'
+npc_description: 'The fifth child of the late Lord Sinclair'
+label: 'Elizabeth Sinclair'
+items: null

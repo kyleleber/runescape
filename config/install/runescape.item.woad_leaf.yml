@@ -1,0 +1,10 @@
+uuid: a7a0a4fd-6992-4cc6-86c9-dbd82537180f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bEmTjcoz7Gg0NMZlYu2h7nP2XCg-gUPYhkVgLZjR2js
+id: woad_leaf
+item_id: '281'
+item_description: 'slightly bluish leaves'
+label: 'Woad Leaf'

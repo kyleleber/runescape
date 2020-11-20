@@ -1,0 +1,10 @@
+uuid: f4bd3132-6bff-4bad-a7c4-6e83b46e45a4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sg5LfxOYzb5QTo_pfxlq2NvEhWJy4d0Typn5_agR_Mk
+id: poisoned_bronze_dagger
+item_id: '560'
+item_description: 'Short but pointy'
+label: 'Poisoned bronze dagger'

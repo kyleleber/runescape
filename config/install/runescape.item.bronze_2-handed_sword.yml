@@ -1,0 +1,10 @@
+uuid: 1ad6ecfa-7758-4611-87e0-8c49137b8fbe
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0nhXhZKNdVsOlAcmHDveJ1fQZG8bqGxmgEvH0lx0DVM
+id: bronze_2-handed_sword
+item_id: '76'
+item_description: 'A very large sword'
+label: 'Bronze 2-handed Sword'

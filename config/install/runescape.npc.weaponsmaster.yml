@@ -1,0 +1,11 @@
+uuid: f3fdfc78-2c92-441d-94b7-0230b5af9ae5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EPwGbN089sGyGOtdYP4CDzkw1dJe8ss8W7z98gZE3iM
+id: weaponsmaster
+npc_id: '37'
+npc_description: 'The phoenix gang quartermaster'
+label: Weaponsmaster
+items: null

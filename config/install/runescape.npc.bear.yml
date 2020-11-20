@@ -1,0 +1,11 @@
+uuid: dec92c68-f570-408d-a18e-4fc90ca7f25d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mZE1msOa_PFzDifnGF9c4v3ldXcE5Vx5LNNb91JMHwM
+id: bear
+npc_id: '188'
+npc_description: 'Eek! A bear!'
+label: Bear
+items: null

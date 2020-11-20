@@ -1,0 +1,10 @@
+uuid: 649fb426-d70f-47dd-89e0-092dfb94362d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RjmLpVbz_UDIjSjb_hrKzor8_di-tsE4HcfX-EBhEbI
+id: address_label
+item_id: '704'
+item_description: 'To lord Handelmort- Handelmort mansion'
+label: 'Address Label'

@@ -1,0 +1,11 @@
+uuid: f6e5dd70-9a48-4520-81a8-e76599ce54f8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tTjphLyz2Rt1aQCI0ZaP8rv4FVNAcGTMygmsIAPPi7c
+id: head_mourner
+npc_id: '469'
+npc_description: 'In charge of people with silly outfits'
+label: 'Head mourner'
+items: null

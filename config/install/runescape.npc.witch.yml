@@ -1,0 +1,11 @@
+uuid: c67f99a5-06b6-4e43-b8dc-28b05b07874e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qLPz4t1eALWEpYttws2QiZh0iX90Vdfokriv9jdvAG8
+id: witch
+npc_id: '107'
+npc_description: 'She''s got warts'
+label: Witch
+items: null

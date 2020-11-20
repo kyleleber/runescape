@@ -1,0 +1,11 @@
+uuid: 1a2b6014-0db0-4453-9df9-99e41e96dcd8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Fhw5Iu3vD5-icDOBZpWgCdDlJaUegoEXO_NLi8j21XU
+id: councillor_halgrive
+npc_id: '436'
+npc_description: 'A town counceller'
+label: 'Councillor Halgrive'
+items: null

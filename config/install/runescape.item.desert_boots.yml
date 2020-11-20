@@ -1,0 +1,10 @@
+uuid: b85949e4-c869-4117-ab6d-9478ff40d3a8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: H6P1R8tS_Q_-3OnKmtjuyOqJ3Gx7dWePpH5CQpoaIN0
+id: desert_boots
+item_id: '990'
+item_description: 'Boots made specially for the desert'
+label: 'Desert Boots'

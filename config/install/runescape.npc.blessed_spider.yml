@@ -1,0 +1,11 @@
+uuid: f4391958-a6e4-461d-923c-9bb5c76c49c4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-odDjMRCt9eVhmhUwLzV9GaKdyMS0qonAxcsljc4vfE'
+id: blessed_spider
+npc_id: '631'
+npc_description: 'One of ibans eight legged friends'
+label: 'Blessed Spider'
+items: null

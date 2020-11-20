@@ -1,0 +1,11 @@
+uuid: 32744ac6-9026-4b7e-a261-f0f3eec89977
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: taW3exy0KfzwW_Us4abx6l1bVXWY4W8bms9Pbo2MGjk
+id: nazastarool_ghost
+npc_id: '615'
+npc_description: 'One of Rashaliyas Minions'
+label: 'Nazastarool Ghost'
+items: null

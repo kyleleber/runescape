@@ -1,0 +1,10 @@
+uuid: a169b9f1-059c-4ce0-9105-e3eb4c889b3e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bEdaRaxSEqDloEZVjEAbVkvIAbQpz6EH5uaB5aU51Kw
+id: onion
+item_id: '241'
+item_description: 'A strong smelling onion'
+label: Onion

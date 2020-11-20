@@ -1,0 +1,10 @@
+uuid: f754756e-cbf4-4f9f-be48-3380dcca9c3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3rRNVB25isD4QiDji_uH5mkOC00j4SdMgJ4b8VN_cNE
+id: half_anchovie_pizza
+item_id: '329'
+item_description: 'Half of this pizza has been eaten'
+label: 'Half Anchovie Pizza'

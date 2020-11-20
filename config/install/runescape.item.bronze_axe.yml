@@ -1,0 +1,10 @@
+uuid: dd9600c4-d054-474a-b892-527ae8406452
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SyQULwkzFXEBCtfJ-946Inu1wSwkMto82RpcOeorM8Q
+id: bronze_axe
+item_id: '87'
+item_description: 'A woodcutters axe'
+label: 'bronze Axe'

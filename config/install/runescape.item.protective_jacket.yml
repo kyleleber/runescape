@@ -1,0 +1,10 @@
+uuid: 6614e1cd-41d4-46c2-a48d-98d32929012a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f-D_Luyp-rfx_VIf8aWsYGkBbK-fdPAB9iQx7gWd5Gw
+id: protective_jacket
+item_id: '760'
+item_description: 'A thick heavy leather top'
+label: 'Protective jacket'

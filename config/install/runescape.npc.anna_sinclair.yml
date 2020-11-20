@@ -1,0 +1,11 @@
+uuid: 26754104-cb43-4c1a-bb29-cc72e3ba79be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 252okGFGpOfq2_UuwZsShefei7htVEeted0wNSmG8no
+id: anna_sinclair
+npc_id: '751'
+npc_description: 'The first child of the late Lord Sinclair'
+label: 'Anna Sinclair'
+items: null

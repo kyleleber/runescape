@@ -1,0 +1,10 @@
+uuid: 8f9b66b1-07f5-43fa-b371-1ae60f5d5cfb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UVG0dUARUp-xFenZukl5mHdtdP0EMXHpCpmEGTCqNXU
+id: railing
+item_id: '1042'
+item_description: 'A metal railing replacement'
+label: Railing

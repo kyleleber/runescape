@@ -1,0 +1,10 @@
+uuid: 0eb24183-7812-4e24-ac1d-8c43d960cdd1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ky8herzvMjHw4vG7a9PbBSRLlhPjQHPBtJEtoe3Id0Q
+id: sapphire
+item_id: '164'
+item_description: 'this looks valuable'
+label: sapphire

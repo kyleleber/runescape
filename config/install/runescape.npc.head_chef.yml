@@ -1,0 +1,11 @@
+uuid: 0e6d7daa-17d4-4669-b2e5-09dc877a5fdc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zp6R5MCL-Me3OWIfIItM5kBejW24Dn99x1zj6kpbfjQ
+id: head_chef
+npc_id: '133'
+npc_description: 'He looks after the chef''s guild'
+label: 'Head chef'
+items: null

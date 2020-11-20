@@ -1,0 +1,10 @@
+uuid: a377af93-daec-4b7a-8174-aaac5279a3eb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XXMW3cOokZvTifMPHJacXlPPqTzdUyESBFqwQ-qqxjM
+id: seaslug
+item_id: '769'
+item_description: 'a rather nasty looking crustacean'
+label: Seaslug

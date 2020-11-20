@@ -1,0 +1,11 @@
+uuid: dcdcc7fd-4f10-43a8-9293-25c273ea8122
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XFjdsgo8F5IPGoZMu_0032CxYSL21Tj2O1-aGeTpEQM
+id: monk_of_zamorak
+npc_id: '293'
+npc_description: 'An evil cleric'
+label: 'Monk of Zamorak (lvl 47)'
+items: ''

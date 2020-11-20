@@ -1,0 +1,10 @@
+uuid: 84a04a99-4fa9-4e9b-9a6b-27181e884c45
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dQzYUfDFpvme06-mZ7gwXWzcVDZDW7-BdfLPGCb0JUs
+id: body-rune
+item_id: '36'
+item_description: 'Used for curse spells'
+label: Body-Rune

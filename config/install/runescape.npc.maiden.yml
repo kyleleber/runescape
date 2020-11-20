@@ -1,0 +1,11 @@
+uuid: 5bf89038-c627-453c-a4bb-2456defa67ca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: bHngOstjHQqK3-3WrRB-ZUal15cY-WvPwrPy5jn5lss
+id: maiden
+npc_id: '413'
+npc_description: 'She has a far away look in her eyes'
+label: maiden
+items: null

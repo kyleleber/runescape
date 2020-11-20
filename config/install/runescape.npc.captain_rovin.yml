@@ -1,0 +1,11 @@
+uuid: f1967d49-a2fc-4aaf-8588-38bd860134be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XfISFQZaKsJhCRsZxx7H6mTdxeQeRqwnQNC8BV0LfTc
+id: captain_rovin
+npc_id: '18'
+npc_description: 'The head of the palace guard'
+label: 'Captain Rovin'
+items: null

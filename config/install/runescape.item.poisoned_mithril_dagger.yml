@@ -1,0 +1,10 @@
+uuid: 5d9c6ce7-739c-4633-b192-81a446a4db20
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: K2JjUQtzMjmbu7m0bspoR0iM7qwPxJewFKEKIVC3h_0
+id: poisoned_mithril_dagger
+item_id: '562'
+item_description: 'Short but pointy'
+label: 'Poisoned Mithril dagger'

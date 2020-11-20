@@ -1,0 +1,11 @@
+uuid: 5d051073-8013-466e-be3d-f8acd264c9fd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cDnjS9xkClPgyPcDJSbp072JHrJb4Kq8HG-tkJ_kKRk
+id: pack_leader
+npc_id: '249'
+npc_description: 'A vicious mountain wolf'
+label: 'Pack leader'
+items: null

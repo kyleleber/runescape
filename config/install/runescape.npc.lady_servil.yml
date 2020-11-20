@@ -1,0 +1,11 @@
+uuid: f2b46327-7030-423d-bdd8-41618d1626ad
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hmXhlaB17Yy31TFgyR6k9l36csyCErj0QoabnAV37Jc
+id: lady_servil
+npc_id: '372'
+npc_description: 'She look''s wealthy'
+label: 'Lady servil'
+items: null

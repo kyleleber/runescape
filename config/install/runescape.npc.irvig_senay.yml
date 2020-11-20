@@ -1,0 +1,11 @@
+uuid: 97d88e4e-5726-468c-86c6-2b3c41c75196
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SizKsGYy_5EGeSbIREywbF9JjB1cG2KCF8lX4ABffNA
+id: irvig_senay
+npc_id: '761'
+npc_description: 'The animated spirit of Irvig Senay'
+label: 'Irvig Senay'
+items: null

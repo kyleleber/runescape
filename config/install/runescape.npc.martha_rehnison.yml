@@ -1,0 +1,11 @@
+uuid: e24f154a-00f3-438e-93fb-8adb69bb4bbf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7oxoaT9EKU6ntsQJABly1ZneEnQI6_13DK7LeulHntI
+id: martha_rehnison
+npc_id: '447'
+npc_description: 'A fairly poor looking woman'
+label: 'Martha Rehnison'
+items: null

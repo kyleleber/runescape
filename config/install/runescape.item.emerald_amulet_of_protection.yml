@@ -1,0 +1,10 @@
+uuid: f2ef4a03-d9c8-4d90-8760-f33d7ca1239c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: LNmtdm7yBvLJIypSUVV8z3R2UqBfIuBl1ss0pQtjqoc
+id: emerald_amulet_of_protection
+item_id: '315'
+item_description: 'It improves my defense'
+label: 'Emerald Amulet of protection'

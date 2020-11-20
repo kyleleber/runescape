@@ -1,0 +1,10 @@
+uuid: 1a0e8727-e91b-4ed9-a182-92c752182dcb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 59UHA-IlQIAp-05X3gg6TB4gWW7DzHgaFu6oEcTh4LA
+id: gasmask
+item_id: '766'
+item_description: 'Stops me breathing nasty stuff'
+label: Gasmask

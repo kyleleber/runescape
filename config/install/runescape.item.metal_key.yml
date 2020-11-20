@@ -1,0 +1,10 @@
+uuid: aa25e7fb-5819-4cab-80ba-82620e983d3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6mmjFiQ8S7BMzzd7sLZG1GIO2lXy29Hfao5TzUOEXcE
+id: metal_key
+item_id: '1021'
+item_description: 'A large metalic key.'
+label: 'Metal Key'

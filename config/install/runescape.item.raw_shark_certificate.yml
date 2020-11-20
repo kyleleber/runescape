@@ -1,0 +1,10 @@
+uuid: bc1945d4-c6dd-4be4-aed2-61f47f46028b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JGLiV6sCfyeHmPbwP3JqwFICQcP3prwu_OkhzyprEsY
+id: raw_shark_certificate
+item_id: '631'
+item_description: 'Each certificate exchangable at Catherby for 5 raw shark'
+label: 'Raw shark certificate'

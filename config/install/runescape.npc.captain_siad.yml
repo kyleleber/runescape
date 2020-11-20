@@ -1,0 +1,11 @@
+uuid: 935eecd4-0edd-4806-ac58-70a9f21259c1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yjVnesttlH7M6qWa88DjDi_zA-iSHELmLQPJvqjYwLI
+id: captain_siad
+npc_id: '702'
+npc_description: 'Hes in control of the whole mining camp.'
+label: 'Captain Siad'
+items: null

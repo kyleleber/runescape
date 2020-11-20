@@ -1,0 +1,10 @@
+uuid: a8b77b6d-6844-48db-9224-3a0571ea8492
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PEYDtu8xn7A0WrVXDmoSqjAKGbY-VkgDYW_XnnloyxY
+id: machette
+item_id: '1172'
+item_description: 'A purpose built tool for cutting through thick jungle.'
+label: Machette

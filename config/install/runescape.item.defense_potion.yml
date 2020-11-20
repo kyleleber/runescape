@@ -1,0 +1,10 @@
+uuid: 1a22d9d0-2675-4529-a104-b4c81b3bdc52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tAD9gb7ob15UBqPVljB2u8d6IKjDkbFntqIQ_7kSEE8
+id: defense_potion
+item_id: '482'
+item_description: '1 dose of defense potion'
+label: 'defense Potion'

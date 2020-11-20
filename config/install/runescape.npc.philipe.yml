@@ -1,0 +1,11 @@
+uuid: cd3a9e12-23ce-4fd7-bb28-41cce1d39039
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Q5OiV2mJwxk4Fw9yPfqahh0IifmPJ6lmhM3qveQ_vWs
+id: philipe
+npc_id: '423'
+npc_description: 'It''s a young well dressed boy'
+label: philipe
+items: null

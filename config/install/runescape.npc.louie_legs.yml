@@ -1,0 +1,11 @@
+uuid: 62612e05-813d-4b32-81ca-bedcfed784db
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QNJ5q-ERYVFryhiIqEKFIu03BcIFaDf0sT0tKewoCo0
+id: louie_legs
+npc_id: '85'
+npc_description: 'He might want to sell something'
+label: 'Louie Legs'
+items: null

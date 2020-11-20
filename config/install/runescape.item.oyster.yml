@@ -1,0 +1,10 @@
+uuid: 788dbcbe-bd51-4003-89fb-543b6567d51b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eiPYU5ixtdusne0nWYKMQ7di8sTO2tztgaNfCNn226Q
+id: oyster
+item_id: '793'
+item_description: 'It''s a rare oyster'
+label: oyster

@@ -1,0 +1,11 @@
+uuid: e4a21204-90b9-498e-8156-1bde079a4e26
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: diGBTW3F64IZylUHw0tCEtC2JblNO66XH_QOU-hBTi8
+id: brother_galahad
+npc_id: '403'
+npc_description: 'A Peaceful monk'
+label: 'brother Galahad'
+items: null

@@ -1,0 +1,11 @@
+uuid: 9ddae93c-a43e-45d7-b4f4-a7ffa97edeba
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JahrwBt3JFDA566cxAXTB3Oyrc_hL_1EFjEhmhZsxq8
+id: captain_tobias
+npc_id: '166'
+npc_description: 'An old sailor'
+label: 'Captain Tobias'
+items: null

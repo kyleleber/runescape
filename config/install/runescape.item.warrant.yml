@@ -1,0 +1,10 @@
+uuid: 9258c0b5-9b48-4216-96e3-a9b15f0ed8e3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: La-jOhkBOGjLgLJsYrrJm8VbM7shqnKxMJQsakLILXQ
+id: warrant
+item_id: '775'
+item_description: 'A search warrant for a house in Ardougne'
+label: warrant

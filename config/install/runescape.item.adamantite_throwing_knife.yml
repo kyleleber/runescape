@@ -1,0 +1,10 @@
+uuid: 68b243e5-9457-441e-86c6-cdfec5c9c44e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tczFStXQW89rusY_pCyDhUXgKsnslA_2M3UTN7GQxbQ
+id: adamantite_throwing_knife
+item_id: '1079'
+item_description: 'A finely balanced knife'
+label: 'Adamantite throwing knife'

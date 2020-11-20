@@ -1,0 +1,11 @@
+uuid: 44df7160-fb6b-4fd8-8ed2-04a1592d50e3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YQO38_nBMdqTsCJ_N3des4oKdncacX8l3Ppo6ZNNC3A
+id: fred_the_farmer
+npc_id: '77'
+npc_description: 'An old farmer'
+label: 'Fred the farmer'
+items: null

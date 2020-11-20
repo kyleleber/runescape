@@ -1,0 +1,11 @@
+uuid: db5b1276-1a45-4207-834c-3af54c07144d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EoLpyLFDL_CMLnAcZRRz69SLNHZ0sqlmtd3Ki_Ne2B4
+id: milli_rehnison
+npc_id: '449'
+npc_description: 'She doesn''t seem very happy'
+label: 'Milli Rehnison'
+items: null

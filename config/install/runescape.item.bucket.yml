@@ -1,0 +1,10 @@
+uuid: fbab3224-b498-4499-aa20-1b767986e142
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HexFfQu49cedGL26f7aRC80HethzekIfmnKQ4ILMqtI
+id: bucket
+item_id: '21'
+item_description: 'It''s a wooden bucket'
+label: Bucket

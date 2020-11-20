@@ -1,0 +1,10 @@
+uuid: 3a385502-fb01-42e8-bf19-bf5ef178124b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: j2lWGg1OLGpgHVA1SSDHT_LYmB0SkQAy9-Vc8Zd2wA8
+id: rune_pickaxe
+item_id: '1262'
+item_description: 'Requires level 41 mining to use'
+label: 'Rune Pickaxe'

@@ -1,0 +1,10 @@
+uuid: e9f03ede-8194-4018-949e-85c8e96a6732
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HF26vV4v9CFfjMJhK7MjkIfPw40n3bGmK4aGhnhnDNg
+id: iron_plate_mail_legs
+item_id: '9'
+item_description: 'These look pretty heavy'
+label: 'Iron Plate Mail Legs'

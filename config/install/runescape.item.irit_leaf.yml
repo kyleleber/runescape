@@ -1,0 +1,10 @@
+uuid: 750864bf-8e17-4c93-af21-e4e125a0458a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4D1ROZ9CYS_ZPorRZ3CY8co6_qGfj9oxK64dyHswcoM
+id: irit_leaf
+item_id: '449'
+item_description: 'A useful herb'
+label: 'Irit Leaf'

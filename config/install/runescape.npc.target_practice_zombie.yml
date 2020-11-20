@@ -1,0 +1,11 @@
+uuid: dd628616-1b29-495a-8193-718108cd881e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CxYYNsLRnr729AxncBD_TK1sabaIdEFn39iisK-iliQ
+id: target_practice_zombie
+npc_id: '516'
+npc_description: 'The living dead'
+label: 'target practice zombie'
+items: null

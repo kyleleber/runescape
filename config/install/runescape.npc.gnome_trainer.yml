@@ -1,0 +1,11 @@
+uuid: 6c561f79-a932-4f11-9f64-a8e93147d706
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: amHLD4bngpuog1b8w6iTeYmOk6s2sz1kKIQ2NT3uv0s
+id: gnome_trainer
+npc_id: '579'
+npc_description: 'He can advise on training'
+label: 'Gnome Trainer'
+items: null

@@ -1,0 +1,11 @@
+uuid: 5530d442-34b6-4564-90d0-87385ef01016
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: afz6RHX0jsT1dCij0BuwG2OW9Pm2n9HHMSjcHIj9H6U
+id: black_knight_titan
+npc_id: '401'
+npc_description: 'He is blocking the way'
+label: 'Black Knight titan'
+items: null

@@ -1,0 +1,10 @@
+uuid: 91749145-5b4b-4644-9dc0-1d78f2400db3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wAw2cGjjGLXGeX0W2MsvvlVfKJZ-4oZmnFJ4dR-PDxg
+id: khazard_chainmail
+item_id: '734'
+item_description: 'A series of connected metal rings'
+label: 'khazard chainmail'

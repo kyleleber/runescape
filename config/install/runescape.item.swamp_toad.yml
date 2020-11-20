@@ -1,0 +1,10 @@
+uuid: 6e9e2194-eefd-41af-9f61-df477933e458
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: l_EzLywqOrwntMQGcrolKRlGsQ-cKNkB_rdjLzSUyDc
+id: swamp_toad
+item_id: '895'
+item_description: 'Slippery little blighters'
+label: 'Swamp Toad'

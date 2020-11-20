@@ -1,0 +1,10 @@
+uuid: d527d7d2-9646-418d-a9e9-360cfcfc2645
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ze5UuAIzpCwdq4rpeMmFojF_kUOKxkREkSzVq0jNQzk
+id: lens_mould
+item_id: '1017'
+item_description: 'A peculiar mould in the shape of a disc'
+label: 'Lens mould'

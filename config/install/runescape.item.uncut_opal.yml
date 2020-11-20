@@ -1,0 +1,10 @@
+uuid: c3ad1ecd-e991-49ab-90f2-fca31270c213
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: B8wPJhSTP4FdGKdWqVKNzzt5J1YsA5mGvP6uOclFXHo
+id: uncut_opal
+item_id: '891'
+item_description: 'A semi precious stone'
+label: 'Uncut Opal'

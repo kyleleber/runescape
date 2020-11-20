@@ -1,0 +1,10 @@
+uuid: 92cc4b0b-9b17-4f61-a1ce-d2914418a3ce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HvsIJyE4bJPovLUgH3s9HmLkfO8CnFyfuum1r4RDEkM
+id: glassblowing_pipe
+item_id: '621'
+item_description: 'Use on molten glass to make things'
+label: 'glassblowing pipe'

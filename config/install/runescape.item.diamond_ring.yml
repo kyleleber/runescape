@@ -1,0 +1,10 @@
+uuid: d581650a-9ab8-420a-872b-d80cf84bd741
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QWVGKaCpHaCoC6A1aFXtKo5ADnPZV4QQeoTNzWX6Amc
+id: diamond_ring
+item_id: '287'
+item_description: 'A valuable ring'
+label: 'Diamond ring'

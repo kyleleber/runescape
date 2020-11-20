@@ -1,0 +1,11 @@
+uuid: f15d31c3-81a3-416c-8c0a-6aab43ae1b57
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1f60oOetb9U4oACR2h_6woYEaF0bURiTxKpK5Y0jFNE
+id: holthion
+npc_id: '647'
+npc_description: 'big red and incredibly evil'
+label: Holthion
+items: null

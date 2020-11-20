@@ -1,0 +1,11 @@
+uuid: 7e3f41d8-d358-4ce5-acbe-dd2c25b7d4b6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: F9R2SFvAePPr4DrTruOiCaBb-Xncjygqqbr_6C6TSf8
+id: hassan
+npc_id: '119'
+npc_description: 'the Chancellor to the emir'
+label: Hassan
+items: null

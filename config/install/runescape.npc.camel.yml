@@ -1,0 +1,11 @@
+uuid: d081bbfc-adb1-43fe-bfc3-881d59d500f3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: blYvrwKyXwzEArMabiiWQmck0pgKZcxOl5tFCFYClE4
+id: camel
+npc_id: '13'
+npc_description: 'Oh its a camel'
+label: Camel
+items: null

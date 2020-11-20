@@ -1,0 +1,10 @@
+uuid: 304e9ea5-7e86-4700-9ae5-cf0bbe69b64a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vqpYj9aHSV7RN3hxEd9vT4ifPLrUFQwBbPPe-V_trmc
+id: message
+item_id: '56'
+item_description: 'A message from Juliet to Romeo'
+label: message

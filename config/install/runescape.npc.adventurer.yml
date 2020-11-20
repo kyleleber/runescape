@@ -1,0 +1,11 @@
+uuid: b77a55d3-7e33-41b7-95e6-2203c3eff199
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kjEMzEOHcoccHE_RuEJC_N286xKGp4ixigc8LpEymaY
+id: adventurer
+npc_id: '210'
+npc_description: 'An archer'
+label: Adventurer
+items: null

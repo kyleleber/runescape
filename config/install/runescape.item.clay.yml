@@ -1,0 +1,10 @@
+uuid: 6f942e0e-4561-4fe6-b2f1-7df2b3e3a016
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HpWLn-c7YCbRl3RwwmSQPYPlEqvaGrOiQqTYpZCPN2E
+id: clay
+item_id: '149'
+item_description: 'Some hard dry clay'
+label: clay

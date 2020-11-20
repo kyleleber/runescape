@@ -1,0 +1,11 @@
+uuid: e84189bc-749f-4015-b372-830d470fc112
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: H94fkRB7W0F8HBrMkYAkETfVXTaKgNIubx6ziZ4QH7E
+id: gerald
+npc_id: '481'
+npc_description: 'An old fisherman'
+label: gerald
+items: null

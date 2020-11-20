@@ -1,0 +1,10 @@
+uuid: 4137e1c1-c557-4dc0-b417-2fce1a3bf778
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d3mAbshLm2W-ndrwp5f4oSbDJ0RiFn_1_z6ZnUevFSM
+id: attack_potion
+item_id: '476'
+item_description: '1 dose of attack potion'
+label: 'attack Potion'

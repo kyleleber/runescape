@@ -1,0 +1,10 @@
+uuid: 26fc2d24-b3b0-40d5-9369-b9ba1c6578c9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qC6tjxla9rGXt38ZSZioY6k3u2MegbETHwDljkFl-rs
+id: black_candle
+item_id: '602'
+item_description: 'A spooky candle'
+label: 'black Candle'

@@ -1,0 +1,11 @@
+uuid: 37c11bab-0586-433d-aad6-4b7ea6c25679
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Il8v28FVSSu9yiEc-_INh-Y_Kvqw3jyCzHy48y9FqrM
+id: delrith
+npc_id: '35'
+npc_description: 'A freshly summoned demon'
+label: Delrith
+items: null

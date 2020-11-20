@@ -1,0 +1,11 @@
+uuid: 32b16c69-6694-4291-87fd-0009cae73319
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9HXHHNQy2pgfG6xhWu-59jaknX_2ZxU74Sks6udppa0
+id: gunnjorn
+npc_id: '588'
+npc_description: 'Not civilised looking'
+label: Gunnjorn
+items: null

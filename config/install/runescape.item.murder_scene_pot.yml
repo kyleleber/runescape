@@ -1,0 +1,10 @@
+uuid: 447e4851-c602-45eb-93c5-3f424c7ad4a8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ntHeTOS9UiddPbRA-dNwq1gMAMS6o0EfmuvZCNjo24k
+id: murder_scene_pot
+item_id: '1204'
+item_description: 'The pot has a sickly smell of poison mixed with wine'
+label: 'Murder Scene Pot'

@@ -1,0 +1,11 @@
+uuid: a34bdfed-33ce-48a8-a211-8ac76db25ae4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9gGfV_GvbBdSMwTT0I3eL0JcxbxaAyElKb8C-VpOUps
+id: referee
+npc_id: '601'
+npc_description: 'He controls the game'
+label: Referee
+items: null

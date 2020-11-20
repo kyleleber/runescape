@@ -1,0 +1,11 @@
+services:
+  runescape.item_manager:
+    class: Drupal\runescape\ItemManager
+    arguments:
+      - '@entity_type.manager'
+  runescape.npc_manager:
+    class: Drupal\runescape\NpcManager
+    arguments:
+      - '@entity_type.manager'
+  runescape.manager:
+    class: Drupal\runescape\RunescapeManager

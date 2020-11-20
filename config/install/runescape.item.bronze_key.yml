@@ -1,0 +1,10 @@
+uuid: 25fa9188-bd8a-45a1-a826-02aa5788e577
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IOlpLId93DNluz25j3p7Xwg7tkxEB7p7FNUxm5Dd1WU
+id: bronze_key
+item_id: '803'
+item_description: 'A heavy key'
+label: 'Bronze key'

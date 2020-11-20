@@ -1,0 +1,10 @@
+uuid: bd9567e2-3630-4f92-9f58-23a3b6e4d326
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KQkyAvQNdolxIW2JEBG24_n2-z_kpWdf2_XO87jBdn0
+id: willow_shortbow
+item_id: '651'
+item_description: 'Short but effective'
+label: 'Willow Shortbow'

@@ -1,0 +1,10 @@
+uuid: 8b485b63-610e-41a1-844d-85e60fd40ec6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EENf2liFJ4lV1KyUtE9kGtnX8J2M3azIO5eB2te0cmQ
+id: sapphire_amulet_of_magic
+item_id: '314'
+item_description: 'It improves my magic'
+label: 'Sapphire Amulet of magic'

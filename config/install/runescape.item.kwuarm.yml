@@ -1,0 +1,10 @@
+uuid: 391f10ff-5dd1-4f03-8636-b4bebf38e14e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dn0hkOFdHV_hwWbwN_y_N9Tp9AQhvEy0Z6RUpPtpYKU
+id: kwuarm
+item_id: '451'
+item_description: 'A powerful herb'
+label: Kwuarm

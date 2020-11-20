@@ -1,0 +1,10 @@
+uuid: a4f0de45-f60c-4ada-837a-fe4d0cf2ffee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gyuXrqW5J6UdJzB1lSHdYEnXZNCvEVne2Se06Ze7ozI
+id: instruction_manual
+item_id: '1073'
+item_description: 'An old note book'
+label: 'Instruction manual'

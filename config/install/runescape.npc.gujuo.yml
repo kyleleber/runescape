@@ -1,0 +1,11 @@
+uuid: 41d25586-9b2a-4b1b-91ad-8589647342b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZJmapNQ6FKy7Bd8XRCnucoUV4c_EmYAR8FXrEJwB3Mw
+id: gujuo
+npc_id: '764'
+npc_description: 'A tall charismatic looking jungle native - he approaches with confidence'
+label: Gujuo
+items: null

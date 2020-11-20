@@ -1,0 +1,10 @@
+uuid: 24cf1558-cfb0-4f71-b335-98fbb682d753
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IWOaUXzFozgr7Tym9l82N0nDk31v00CTUNbXcfWWy1g
+id: fur
+item_id: '146'
+item_description: 'This would make warm clothing'
+label: fur

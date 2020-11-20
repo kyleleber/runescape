@@ -1,0 +1,10 @@
+uuid: 0ac35dbc-8a19-41f7-8f47-7449e9f43bf8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wvsuFSfhu7VD6QDYbCbZsq5MUNZgJbvlMXx7GzpyMwg
+id: stolen_gold
+item_id: '1040'
+item_description: 'I wish I could spend it'
+label: 'Stolen gold'

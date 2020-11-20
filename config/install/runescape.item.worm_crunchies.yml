@@ -1,0 +1,10 @@
+uuid: f1b7fe9a-8514-4d5b-af48-dd4116bc3699
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3wLyRCqCzENl_UkshTWFwQF5sHV8LqOH-FXnvMWTzys
+id: worm_crunchies
+item_id: '955'
+item_description: 'actually smells quite good'
+label: 'Worm crunchies'

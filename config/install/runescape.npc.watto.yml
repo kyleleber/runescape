@@ -1,0 +1,11 @@
+uuid: 251cdb3b-60a8-49a7-8618-a532160ec1a4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XqMDtO0EEcJMfQgc4TrKFswYeRzpPfN_XQkCsIiiG_Y
+id: watto
+npc_id: '467'
+npc_description: 'He doesn''t seem to mind his lack of legs'
+label: Watto
+items: null

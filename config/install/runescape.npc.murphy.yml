@@ -1,0 +1,11 @@
+uuid: 58a5ebb7-b55b-4589-81e4-014ab205313b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cG_q_s4Tz3yyjgAVszIs8clSNKj8ziHL3vtzKdqMcf4
+id: murphy
+npc_id: '739'
+npc_description: 'The man in charge of the fishing trawler'
+label: Murphy
+items: null

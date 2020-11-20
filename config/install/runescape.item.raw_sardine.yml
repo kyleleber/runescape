@@ -1,0 +1,10 @@
+uuid: e8a4f3d1-f60d-4db4-ac25-de357fc12d52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7SWc19SMQVvZD4N87ljjazJf-urhpCtlwdKG9w82tgc
+id: raw_sardine
+item_id: '354'
+item_description: 'I should try cooking this'
+label: 'Raw Sardine'

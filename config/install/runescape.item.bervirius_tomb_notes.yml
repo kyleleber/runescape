@@ -1,0 +1,10 @@
+uuid: 72d342ce-ac41-4556-a470-792af15ce71b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5JKV_5rV_N3i0bNDoq19pvRygcjA9yR5vJ3cnDMbb2A
+id: bervirius_tomb_notes
+item_id: '961'
+item_description: 'Notes taken from the tomb of Bervirius'
+label: 'Bervirius Tomb Notes'

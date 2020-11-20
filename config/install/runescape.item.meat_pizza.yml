@@ -1,0 +1,10 @@
+uuid: 73d5f1f8-0758-4052-af8a-4d1f0b08a3d2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gBM0XcbIIngC757FSb5FHfzeru1k0hDRmTG2o5vKN9A
+id: meat_pizza
+item_id: '326'
+item_description: 'A pizza with bits of meat on it'
+label: 'Meat Pizza'

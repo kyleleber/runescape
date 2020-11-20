@@ -1,0 +1,10 @@
+uuid: cf411a64-6710-49e9-88dd-861c7f5ca650
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: czvAOM45Gt0nc5ytK2fClY7T3Vy_1pCBfu1YjkHpHuI
+id: old_journal
+item_id: '1005'
+item_description: 'I wonder who wrote this!'
+label: 'Old Journal'

@@ -1,0 +1,10 @@
+uuid: b6bbf975-97d4-4872-bbd8-6e57d2b0fa3b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pymOz3Xn4v4ek9eHC_h8K_S4_9-FDKFFbUlWq1vTQrQ
+id: adamantite_arrows
+item_id: '644'
+item_description: 'Arrows with adamantite heads'
+label: 'Adamantite Arrows'

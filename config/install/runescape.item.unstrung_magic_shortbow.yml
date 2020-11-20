@@ -1,0 +1,10 @@
+uuid: a955aff5-bb9d-4413-9e98-49fd0b466d75
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: i7WPImyvxGo8dWeR9WjkYS_nlk-JoB1-WJCxBhFgeM4
+id: unstrung_magic_shortbow
+item_id: '667'
+item_description: 'I need to find a string for this'
+label: 'unstrung Magic Shortbow'

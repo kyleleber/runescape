@@ -1,0 +1,10 @@
+uuid: fa0f2d4c-59ad-40f4-98ef-ed5feb9bfaa2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ykJtbDf9ukWkEbargHAlVBvK1KUrVt5hz7UeZdEoLIM
+id: shark
+item_id: '546'
+item_description: 'I''d better be careful eating this!'
+label: Shark

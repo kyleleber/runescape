@@ -1,0 +1,10 @@
+uuid: f49342c5-0345-46df-8861-2a63958f28d0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NkoJOCh7HJ-LR0hl8JN7Gcc1GhaxNjF8BGp3grZMvaA
+id: totem_pole
+item_id: '1183'
+item_description: 'A well crafted totem pole'
+label: 'Totem Pole'

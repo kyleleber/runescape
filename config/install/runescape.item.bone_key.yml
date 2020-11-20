@@ -1,0 +1,10 @@
+uuid: 08b0f3d1-b49c-4ac0-b260-f6f0f368d467
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: b6KEStKd-X9WpEffnjmyZZu_dfFPZpmZFOzGCmBW2zo
+id: bone_key
+item_id: '835'
+item_description: 'A key delicately carved key made from a single piece of bone'
+label: 'Bone Key'

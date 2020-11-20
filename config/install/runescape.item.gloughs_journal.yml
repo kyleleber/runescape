@@ -1,0 +1,10 @@
+uuid: 751823b1-0734-463b-9c24-ca0f2c613986
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-JOKWG6hjVLjnFruBffbZsZG0rBHuMIe2FLKOcDKToM'
+id: gloughs_journal
+item_id: '921'
+item_description: 'Gloughs private notes'
+label: 'gloughs journal'

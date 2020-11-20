@@ -1,0 +1,10 @@
+uuid: 351c435c-330c-42a7-b8f4-dd093058b213
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: d8YI60zyEkVfF-NVMKMdwLkuYuG_b4OSuUqf0rAXbKM
+id: bloody_axe_of_zamorak
+item_id: '754'
+item_description: 'A vicious looking axe'
+label: 'bloody axe of zamorak'

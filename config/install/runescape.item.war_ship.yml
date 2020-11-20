@@ -1,0 +1,10 @@
+uuid: 40486b0c-687c-49d1-a47e-f4074fafdbd0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dOXKkwE7lhKHR5BXk6srvALJ6wPBK6t0SMAGH64iI4s
+id: war_ship
+item_id: '920'
+item_description: 'A model of a karamja warship'
+label: 'War ship'

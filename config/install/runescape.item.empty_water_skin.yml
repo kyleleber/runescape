@@ -1,0 +1,10 @@
+uuid: 32f7bac4-6072-460f-985d-617822887270
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9881HW_9DlSAcUctQg1gzp-4a5z1p_Obxiu_vCTAMds
+id: empty_water_skin
+item_id: '1085'
+item_description: 'A completely empty waterskin'
+label: 'Empty Water Skin'

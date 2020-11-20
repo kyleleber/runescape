@@ -1,0 +1,10 @@
+uuid: 93a66830-d8d5-48ae-9441-e764f6a5362f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jjjIiVMjuC4GSmBlWfFKz3_U7EvU5vOIght8YHoSaZ0
+id: diced_orange
+item_id: '859'
+item_description: 'Fresh chunks of orange'
+label: 'Diced orange'

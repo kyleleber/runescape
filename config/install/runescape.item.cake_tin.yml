@@ -1,0 +1,10 @@
+uuid: 98a44569-2119-4cb8-9ffb-73df3e137122
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UlrcnwpdSNCNFt4TDVdrFXaRQRcX9uauYRPiyIpmL2g
+id: cake_tin
+item_id: '338'
+item_description: 'Useful for baking cakes'
+label: 'Cake Tin'

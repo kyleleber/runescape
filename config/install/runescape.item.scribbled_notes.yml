@@ -1,0 +1,10 @@
+uuid: c98fd20e-4144-44c7-af0e-aa6ecb10f591
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yXt2BXXEOKtBAEJ4G6VP3k2k1hFRYS2AbeF0d3297vQ
+id: scribbled_notes
+item_id: '1241'
+item_description: 'It looks like a page ripped from a book'
+label: 'Scribbled notes'

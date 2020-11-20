@@ -1,0 +1,10 @@
+uuid: b90b3c46-b2b0-40e5-aaf3-5b39c3595830
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sxq92sOLDk5Ei5MxS86CqQMZ7Gw1AgKsFfzDYT9dhWw
+id: rune_throwing_dart
+item_id: '1070'
+item_description: 'A deadly throwing dart with a runite tip.'
+label: 'Rune Throwing Dart'

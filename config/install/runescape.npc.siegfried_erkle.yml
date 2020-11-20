@@ -1,0 +1,11 @@
+uuid: 016a3211-cbce-4487-9cbc-b83dadd23f3e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EeYInDrx7eKVYtIIVHUxjCEV-Gg3mQJpWBPEVeQwshg
+id: siegfried_erkle
+npc_id: '779'
+npc_description: 'An eccentric shop keeper - related to the Grand Vizier of the Legends Guild'
+label: 'Siegfried Erkle'
+items: null

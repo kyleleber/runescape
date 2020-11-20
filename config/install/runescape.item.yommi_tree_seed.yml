@@ -1,0 +1,10 @@
+uuid: f6e889a7-1796-4bcd-911b-f712a097f8b8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6X6UUTpnvPV2A0Dw9Yzc1AyMOpaplPLRugYPEkvk18g
+id: yommi_tree_seed
+item_id: '1182'
+item_description: 'A magical seed that grows into a Yommi tree - these need to be germinated'
+label: 'Yommi tree seed'

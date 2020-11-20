@@ -1,0 +1,10 @@
+uuid: f35b5a73-7338-433a-906b-865732e74abf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iROLJevrnzh0oT9j5NSd3ydYhQdY1JyumRhkfGigHQY
+id: certificate
+item_id: '61'
+item_description: 'I can use this to claim a reward from the king'
+label: Certificate

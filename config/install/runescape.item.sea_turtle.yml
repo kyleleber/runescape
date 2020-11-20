@@ -1,0 +1,10 @@
+uuid: d12acb9d-542b-4755-8ec7-8e6efde9e367
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aNDJWGvCJu9apGYcSoMXL7NoJ_6Ibp3H70RBcjXgv6I
+id: sea_turtle
+item_id: '1193'
+item_description: Tasty!
+label: 'Sea turtle'

@@ -1,0 +1,10 @@
+uuid: 8231b95f-29a5-4cd5-b594-01d38c2e2326
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oA8duz1od6xxyXuVAVk0Atcu7Zb_7Fs5BBCjjo7hpKM
+id: unstrung_longbow
+item_id: '276'
+item_description: 'I need to find a string for this'
+label: 'unstrung Longbow'

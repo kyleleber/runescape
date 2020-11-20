@@ -1,0 +1,11 @@
+uuid: a9c1fe23-5ad9-4d39-a78f-6fa5b7038a46
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 73Nkgn1Xr0ZTE8-XNKiITeqL9kDGliLZLPKUtw8bk9I
+id: justin_servil
+npc_id: '378'
+npc_description: 'Jeremy servil''s father'
+label: 'Justin Servil'
+items: null

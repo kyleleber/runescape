@@ -1,0 +1,10 @@
+uuid: 756953c2-0b00-49ca-98bc-b1fc497668a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 52qP_bvdiaEIly6QMof78Y_F55A1JyueTsI21epHTJ8
+id: snakes_weed_solution
+item_id: '1251'
+item_description: 'Snakes weed in water - part of a potion'
+label: 'Snakes Weed Solution'

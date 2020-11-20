@@ -1,0 +1,10 @@
+uuid: 0b93a046-53be-466a-a07c-c83439b567f5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Y9ksuP2bLyFEWJsKOwQ4jW00vKmkavjoFaM5pmlkYt0
+id: mithril_battle_axe
+item_id: '91'
+item_description: 'A vicious looking axe'
+label: 'Mithril battle Axe'

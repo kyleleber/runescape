@@ -1,0 +1,10 @@
+uuid: c2b534e6-0da7-4e33-8107-7cb29f8db443
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: NH_XEs_uH4rXn3IYV22PJWv60baGiY83oTYVAgJNlzQ
+id: necklace_mould
+item_id: '295'
+item_description: 'Used to make gold necklaces'
+label: 'Necklace mould'

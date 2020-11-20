@@ -1,0 +1,11 @@
+uuid: 6d677720-4d6f-4108-9593-030555216b22
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UZvINJnlVm3jFBADPWK_mSL8ae9J5L9ud2Z4WT_1lfM
+id: ana
+npc_id: '554'
+npc_description: 'This lady doesnt look as if she belongs here.'
+label: Ana
+items: null

@@ -1,0 +1,25 @@
+{#
+  Displays all player account's level, xp, and rank for an individual stat.
+  Also displays the overall high scores.
+#}
+{% if results %}
+  <table>
+    <legend>{{ skill|capitalize }} Highscores</legend>
+    <th>Rank</th>
+    <th>Username</th>
+    <th>Level</th>
+    <th>XP</th>
+    {% for id,result in results %}
+      <tr>
+        <td>#{{ id+1 }}</td>
+        <td>
+          <a href="?user={{ result.username }}">{{ result.username }}</a>
+        </td>
+        <td>{{ result.skill_lvl }}</td>
+        <td>{{ result.skill_xp }}</td>
+      </tr>
+
+    {% endfor %}
+  </table>
+
+{% endif %}

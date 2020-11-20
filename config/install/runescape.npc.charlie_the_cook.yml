@@ -1,0 +1,11 @@
+uuid: 51b85c23-312b-4ab7-b7d0-c0b2380a39b1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QwAcweTioY2LLZ2iu1eVNrK7Rhi9dS9MCrI-t0i7NB0
+id: charlie_the_cook
+npc_id: '261'
+npc_description: 'Head cook of the Shrimp and parrot'
+label: 'Charlie the cook'
+items: null

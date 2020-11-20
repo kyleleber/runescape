@@ -1,0 +1,11 @@
+uuid: 39e9f806-9acc-4572-993b-d64cf46e8cb3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ydHieAJBHVF0pd8JUIQDNChdGnJQU6exMunlGfIkz3Y
+id: frenita
+npc_id: '530'
+npc_description: 'runs a cookery shop'
+label: Frenita
+items: null

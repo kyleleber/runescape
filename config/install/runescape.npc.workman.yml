@@ -1,0 +1,11 @@
+uuid: 873fb449-655d-4989-a927-43307ce397b5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 84J2hCy8JQm9BalH_2GEe5GFNsJIW6c-ZcFDsd46rW0
+id: workman
+npc_id: '738'
+npc_description: 'This person is working in the mine'
+label: Workman
+items: null

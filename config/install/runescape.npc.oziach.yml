@@ -1,0 +1,11 @@
+uuid: 3b6a915d-fe77-4057-b4a0-075790d64a9c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: m5KGQb5As1w5ULTMAEaVkRdpuGWINyrZr_2Q7f-nFr8
+id: oziach
+npc_id: '187'
+npc_description: 'A strange little man'
+label: Oziach
+items: null

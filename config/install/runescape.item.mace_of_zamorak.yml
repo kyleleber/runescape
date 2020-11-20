@@ -1,0 +1,10 @@
+uuid: 702c6888-1d50-4b01-b062-5462190ce800
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GPyhqfEz8eMn5E04uGO3yvHLSM1vJU1iw--Qv86SBXE
+id: mace_of_zamorak
+item_id: '307'
+item_description: 'This mace gives me the creeps'
+label: 'Mace of Zamorak'

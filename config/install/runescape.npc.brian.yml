@@ -1,0 +1,11 @@
+uuid: a6437a61-3b4e-4870-b460-1fb837fb3b9a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZeD4e_JimO0OlegVEAgoNAlG0M8lkLh_6tEF2tE9Ct0
+id: brian
+npc_id: '131'
+npc_description: 'An axe seller'
+label: Brian
+items: null

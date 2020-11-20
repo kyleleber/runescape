@@ -1,0 +1,10 @@
+uuid: 541706b7-2511-4668-b03c-552a877ffc3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9ujkOBDO_c2xZ7JoTyzmq0hllkGTmPFcE0VEglHQQTk
+id: enchanted_vial
+item_id: '1240'
+item_description: 'This enchanted vial is empty - but is ready for magical liquids.'
+label: 'Enchanted Vial'

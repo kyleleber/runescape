@@ -1,0 +1,11 @@
+uuid: b42748be-5859-4af7-bcea-406465a5b134
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rsZXKiDMxwAaB1WPddRanfsFyvqqWHEY3f-eQ4wTDjk
+id: souless
+npc_id: '655'
+npc_description: 'A servent to zamorak'
+label: Souless
+items: null

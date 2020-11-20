@@ -1,0 +1,11 @@
+uuid: cf29328c-d160-45c0-868f-a4024a89fa95
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: z4YqHMtIU_qXgnho0peN_aAt_UcuAGXZ3Ef0cikoGyo
+id: hazelmere
+npc_id: '546'
+npc_description: 'An ancient looking gnome'
+label: Hazelmere
+items: null

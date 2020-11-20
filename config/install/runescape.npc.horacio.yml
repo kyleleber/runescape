@@ -1,0 +1,11 @@
+uuid: cc168814-14a1-4fab-bff8-071aeaf51d87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yCTXEWR_LcAe39fMmtSN8CD2Xuz8bOQp4V0DCSBLBS0
+id: horacio
+npc_id: '335'
+npc_description: 'An old gardener'
+label: Horacio
+items: null

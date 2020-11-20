@@ -1,0 +1,10 @@
+uuid: 9bd3ada3-d730-41c7-92b6-3fb245cb3174
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tDsqb8CJ82PNEdtaQiA5aAmF5cueIdQNQYziBI_wow8
+id: murderers_fingerprint
+item_id: '1206'
+item_description: 'An impression of the murderers fingerprint'
+label: 'Murderers fingerprint'

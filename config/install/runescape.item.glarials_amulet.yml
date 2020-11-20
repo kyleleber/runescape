@@ -1,0 +1,10 @@
+uuid: 4a4ea422-af10-4041-ae9a-89053772e4b3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xMi1EHbbi3bZPslVKVk_IuvoPfKB5isYOIImle0K6jw
+id: glarials_amulet
+item_id: '782'
+item_description: 'A bright green gem set in a necklace'
+label: 'Glarials amulet'

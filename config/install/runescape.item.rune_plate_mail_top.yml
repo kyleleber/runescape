@@ -1,0 +1,10 @@
+uuid: 99e08339-647e-4e69-ab6b-453e5efcfc76
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 06DUmjhLHuJtk9YuEXdX_r8ioqs0iXn9b5Qd5EUXZ78
+id: rune_plate_mail_top
+item_id: '407'
+item_description: 'Armour designed for females'
+label: 'Rune Plate Mail top'

@@ -1,0 +1,10 @@
+uuid: 5deb66db-a657-4745-baea-7ff72707c445
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CeZJqrz6k27ABk6fNDnDLFHYImBLfiRiejsYBjUEAkE
+id: khazard_helmet
+item_id: '733'
+item_description: 'A medium sized helmet'
+label: 'khazard Helmet'

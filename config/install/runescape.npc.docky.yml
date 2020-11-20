@@ -1,0 +1,11 @@
+uuid: 6135b501-c3a3-4ad2-b8f5-6b0377cd415d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: mzuWNQvsICSxEFoQnMfS5zwuZmFbWzGAtUwYE51hQTA
+id: docky
+npc_id: '390'
+npc_description: 'An old sailor'
+label: Docky
+items: null

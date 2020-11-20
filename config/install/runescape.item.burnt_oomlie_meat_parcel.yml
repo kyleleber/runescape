@@ -1,0 +1,10 @@
+uuid: ca318a61-68de-4bf4-8a8b-39454ff47360
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9avWIsi9x418rcJaHqZCoSVrQ0qqfVJ_z4GTDUTBS_k
+id: burnt_oomlie_meat_parcel
+item_id: '1281'
+item_description: 'Oomlie meat in a palm leaf pouch - it''s burnt.'
+label: 'Burnt Oomlie Meat parcel'

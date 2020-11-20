@@ -1,0 +1,11 @@
+uuid: dabfb27c-e2b5-4bff-8ed3-ddb0908ded12
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9AZasQWfgUr9av-4AzF34_W6BpHFCEAsVozdfVs8j5U
+id: speedy_keith
+npc_id: '238'
+npc_description: 'A bandit leader'
+label: 'Speedy Keith'
+items: null

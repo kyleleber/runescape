@@ -1,0 +1,11 @@
+uuid: a9375309-5c97-4e5f-8069-98fd679d2fb6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Vg46nKQcbpaCO4zTZ1T6xMFAwcXC7dcdRjtEv1H7K4w
+id: ceril
+npc_id: '418'
+npc_description: 'It''s Sir ceril carnillean a local noblemen'
+label: ceril
+items: null

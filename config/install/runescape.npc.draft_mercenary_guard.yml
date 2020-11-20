@@ -1,0 +1,11 @@
+uuid: bb0f4e50-bca8-40b2-b1e2-4e7e3b64b0f3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qlpUHZai0tap0zwkK5nvlkw3Msxw3kcjNHRYerxQlsI
+id: draft_mercenary_guard
+npc_id: '710'
+npc_description: 'Hes quickly drafted in to deal with trouble makers'
+label: 'Draft Mercenary Guard'
+items: null

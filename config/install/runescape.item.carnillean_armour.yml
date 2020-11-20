@@ -1,0 +1,10 @@
+uuid: b2420f97-eb63-43a0-a7d9-0a1cd5d0750d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xv0ubrMDDIqXbfpjhEVFFn7qjWIlvRN1sVTe761YYe0
+id: carnillean_armour
+item_id: '755'
+item_description: 'the carnillean family armour'
+label: 'carnillean armour'

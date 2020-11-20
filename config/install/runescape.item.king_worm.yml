@@ -1,0 +1,10 @@
+uuid: 1b3a5676-0b44-4135-978f-52977673946e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: b7xvJizxV35E3M69S7uSEkf80-zC1AKLO2-yFbCJ0cI
+id: king_worm
+item_id: '897'
+item_description: 'Gnome delicacy apparently'
+label: 'King worm'

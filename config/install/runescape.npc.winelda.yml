@@ -1,0 +1,11 @@
+uuid: f8e32217-fb0b-4e7c-bdf1-49d89e14aa72
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: dcft5-z11AbQHoLGo_mcBUc32LySHJFeqxNy_ET__gg
+id: winelda
+npc_id: '365'
+npc_description: 'A witch'
+label: winelda
+items: null

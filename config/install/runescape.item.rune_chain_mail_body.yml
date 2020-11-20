@@ -1,0 +1,10 @@
+uuid: f2d67262-9c92-4be7-a8d3-98dbbe1fdaf1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-BoyqNYXxdTP0fPKQp4oAeLDd0J6ecPitrIuw1a9kR0'
+id: rune_chain_mail_body
+item_id: '400'
+item_description: 'A series of connected metal rings'
+label: 'Rune Chain Mail Body'

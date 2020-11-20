@@ -1,0 +1,10 @@
+uuid: 5d67a995-0f27-4397-8184-340e05021d12
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TjsecOU_uQqXAWNNa6FndgFO2SdGr9JO2MQ8gBAMh9I
+id: pestle_and_mortar
+item_id: '468'
+item_description: 'I can grind things for potions in this'
+label: 'Pestle and mortar'

@@ -1,0 +1,10 @@
+uuid: a51731ab-4bf2-4696-a6b8-9d47cb532df8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FfkKinO4za8cNSkZ5CDJ0oqrTmkNLdywJeKAxF8tbro
+id: explosive_compound
+item_id: '1176'
+item_description: 'A dark mystical powder'
+label: 'Explosive compound'

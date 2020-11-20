@@ -1,0 +1,10 @@
+uuid: d9d28e9d-1ea8-43ca-9800-ecc69dba324e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ezTaigBYlraC8bmMwP_9RY81qalziwqs_NVK40ajlrk
+id: orange_slices
+item_id: '858'
+item_description: 'It''s very fresh'
+label: 'orange slices'

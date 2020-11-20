@@ -1,0 +1,10 @@
+uuid: a1ea5965-e1b7-4c0c-8a8d-edc5ef741ee6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YzJ9uikM20BBVDNIOysx_0JQuVo6F1pfCL2sbsmuc3Y
+id: bronze_dagger
+item_id: '62'
+item_description: 'Short but pointy'
+label: 'bronze dagger'

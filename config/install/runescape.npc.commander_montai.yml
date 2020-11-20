@@ -1,0 +1,11 @@
+uuid: 30d8043d-a8df-4bc1-9aa9-3cec10a55182
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0PiqLJHkVtSynXNiHnPRvrP_mzbsBW9ZpgBP-q3U6e4
+id: commander_montai
+npc_id: '408'
+npc_description: 'It''s a tree gnome'
+label: 'commander montai'
+items: null

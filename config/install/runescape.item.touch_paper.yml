@@ -1,0 +1,10 @@
+uuid: 815f730e-295c-4e83-af63-c66f855f3b6d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9G2ldnyg5TvtNJpy7OxU197nRVtDR4XdW4zRqmj7GDc
+id: touch_paper
+item_id: '813'
+item_description: 'For scientific testing'
+label: 'Touch paper'

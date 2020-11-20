@@ -1,0 +1,11 @@
+uuid: 29a05b54-8960-4ee8-9b81-2d5af63d560b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ynrhe7JE8vUBojXmxCa-ZxwamEdXHOLuY3Oe8coeVbI
+id: bedabin_nomad_guard
+npc_id: '703'
+npc_description: 'A Bedabin nomad guard - hes protecting something important'
+label: 'Bedabin Nomad Guard'
+items: null

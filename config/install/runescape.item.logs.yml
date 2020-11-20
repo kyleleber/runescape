@@ -1,0 +1,10 @@
+uuid: a9b98361-9c00-4ff4-abfa-5ff7f4a54097
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KwfULxw3nYo3x9EilglSa6wMQCmvB6lqW9-Bc2S5nXQ
+id: logs
+item_id: '14'
+item_description: 'A number of wooden logs'
+label: Logs

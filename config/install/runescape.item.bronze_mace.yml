@@ -1,0 +1,10 @@
+uuid: efe9e0f1-db75-40ed-b902-c992d8587a25
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: o6m23eUzk7npW8HeZnvRYtL6or062rQKEZ9D5rsq2Kk
+id: bronze_mace
+item_id: '94'
+item_description: 'A spiky mace'
+label: 'Bronze Mace'

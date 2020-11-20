@@ -1,0 +1,11 @@
+uuid: 579a021d-9690-4583-8536-b00b62aa91b0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IA6bpoVh2RnCFtu3uWHBVuAehMWbj8f-1x-9wW4_I6o
+id: khazard_bartender
+npc_id: '382'
+npc_description: 'A tough looking barman'
+label: 'Khazard Bartender'
+items: null

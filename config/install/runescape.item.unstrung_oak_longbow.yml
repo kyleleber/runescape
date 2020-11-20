@@ -1,0 +1,10 @@
+uuid: b1cf3471-e162-468a-b3d4-485e0a291762
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: r1XeIQh8awZ8a4HDOtF56KzPaq9AxH8_FjLF2TR-cIc
+id: unstrung_oak_longbow
+item_id: '658'
+item_description: 'I need to find a string for this'
+label: 'unstrung Oak Longbow'

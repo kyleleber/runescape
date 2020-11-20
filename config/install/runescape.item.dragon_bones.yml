@@ -1,0 +1,10 @@
+uuid: 1433917c-596b-4551-a575-0862933de838
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kxup7M4NJfeBQTKc_oa7M78v8tUzmFbB2LoW9frT964
+id: dragon_bones
+item_id: '814'
+item_description: 'Ew it''s a pile of bones'
+label: 'Dragon Bones'

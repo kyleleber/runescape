@@ -1,0 +1,10 @@
+uuid: bb32ee19-c3e2-4ba3-9b26-1f065d140996
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WZdwS9zjlgH6tb0KBzLfRENdTGNj3DK4aPEkNd2Rcqs
+id: magnet
+item_id: '540'
+item_description: 'A very attractive magnet'
+label: magnet

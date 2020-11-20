@@ -1,0 +1,10 @@
+uuid: 2a8d486a-af9a-4b8f-a40f-1f9908f0aae0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9tqRkFwP-ef7gAUCMHpl98rDRwDNDbRP3-i2gVXRUig
+id: silk
+item_id: '200'
+item_description: 'It''s a sheet of silk'
+label: silk

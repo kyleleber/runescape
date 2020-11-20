@@ -1,0 +1,11 @@
+uuid: 3e8dd893-db46-44e1-be7a-4de93374643f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9dXopWw4ETgD6vsenISzxPV9c3rIOhTQdMbhWi3zECU
+id: donovan_the_handyman
+npc_id: '741'
+npc_description: 'Its the family odd jobs man'
+label: 'Donovan the Handyman'
+items: null

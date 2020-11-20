@@ -1,0 +1,10 @@
+uuid: 6e87c20f-c4fc-494a-943a-9b22f1f2207f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V0O2zfTbUN2q38nLki0F4MUNPG5BpwE9cImOzPSJ_ng
+id: bones
+item_id: '20'
+item_description: 'Ew it''s a pile of bones'
+label: Bones

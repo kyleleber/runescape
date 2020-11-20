@@ -1,0 +1,10 @@
+uuid: c89cc156-f4b3-4835-9a05-3147f9b54835
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 19sbHica2S2ARDTgEHJHoALoIt4a9qxNFED0xWxDV74
+id: scythe
+item_id: '1289'
+item_description: 'Get another from the clothes shop if you die'
+label: Scythe

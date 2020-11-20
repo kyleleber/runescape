@@ -1,0 +1,10 @@
+uuid: 4adbec65-92f0-4b5b-a39a-1270eb919941
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WuDo1xNvekqflRLP6bn4C1uuBYr0KCRrPXoV3983jQ8
+id: battlestaff
+item_id: '614'
+item_description: 'It''s a slightly magical stick'
+label: Battlestaff

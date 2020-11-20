@@ -1,0 +1,10 @@
+uuid: 8024589d-723d-4aaa-82d6-dc553b89a718
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jmq9b6YmL-vuH6QlvvjginKfcWxeSaSQvwfR2cLG4Nc
+id: oyster_pearls
+item_id: '792'
+item_description: 'I could work wonders with these and a chisel'
+label: 'oyster pearls'

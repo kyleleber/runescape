@@ -1,0 +1,11 @@
+uuid: 5dd0f154-0c7c-4ddb-b55a-268a3b3a3245
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vBXzNtOr6O04GMZiDxczbPMtkzMy8OgTBizT05XUh9Y
+id: ice_giant
+npc_id: '135'
+npc_description: 'He''s got icicles in his beard'
+label: 'Ice Giant'
+items: null

@@ -1,0 +1,10 @@
+uuid: 67da10d1-cdcc-4ae8-9336-985528653c1e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4t6YSz2dIvVT8x6qa0gnDlZtTI8BCwLMIpkUTIO1u6w
+id: anchovies
+item_id: '352'
+item_description: 'Some nicely cooked fish'
+label: Anchovies

@@ -1,0 +1,11 @@
+uuid: c2791ccc-59ec-4556-95fe-662984262936
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: SeJdh3cz8leWAu4TK01Q03vkeo1RmbTpNmBxncnU5Mc
+id: escaping_mining_slave
+npc_id: '737'
+npc_description: 'An emancipated slave with cool Desert Clothes.'
+label: 'Escaping Mining Slave'
+items: null

@@ -1,0 +1,11 @@
+uuid: 0ab3183a-ea0a-4a58-927b-9cf25235bcdc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rob7EZpSIrG2RCKsYo7OyCD98XDXllqw-uei-h5M29s
+id: alomone
+npc_id: '427'
+npc_description: 'A musculer looking man in black'
+label: alomone
+items: null

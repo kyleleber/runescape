@@ -1,0 +1,11 @@
+uuid: 49dd75e1-6b1d-4445-ac9f-754b3ead5920
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: r66I9kaRrX-OGrV3YiqMEKrIewD2nbC8yy2aB842SmU
+id: 3rd_plague_sheep
+npc_id: '432'
+npc_description: 'The sheep has the plague'
+label: '3rd plague sheep'
+items: null

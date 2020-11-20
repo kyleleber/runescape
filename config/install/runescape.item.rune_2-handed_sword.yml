@@ -1,0 +1,10 @@
+uuid: 83baed1c-61c6-41f8-8d53-b63bb4ed6814
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3ZsszBkX1MjHSM1YxHA1qnZX5Ls6wsB-E2CwpdNSDG0
+id: rune_2-handed_sword
+item_id: '81'
+item_description: 'A very large sword'
+label: 'rune 2-handed Sword'

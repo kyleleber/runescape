@@ -1,0 +1,10 @@
+uuid: 26d7c482-8387-4b54-a08b-0107768c71f9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QetJJEE1IZzwxEAEMdzQWOdcDcbzSpdU8HrhYN5a3Lg
+id: glarials_urn
+item_id: '805'
+item_description: 'An urn containing glarials ashes'
+label: 'Glarials urn'

@@ -1,0 +1,10 @@
+uuid: 9cedd87f-fe64-4817-8897-98dcef6a5ab6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RVc0z4gDCKHj8YFMFVtmtBxsXxzMfvnmd6NWCIJny8E
+id: ammonium_nitrate
+item_id: '1160'
+item_description: 'An acrid chemical'
+label: 'Ammonium Nitrate'

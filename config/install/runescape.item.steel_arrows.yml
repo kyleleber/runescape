@@ -1,0 +1,10 @@
+uuid: 6e28514a-4053-4110-9658-79e9fcbca75a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XyP7cwDGQaXHTI9mQufD9-373_zQV9vlkymyUvMtaCc
+id: steel_arrows
+item_id: '640'
+item_description: 'Arrows with steel heads'
+label: 'Steel Arrows'

@@ -1,0 +1,11 @@
+uuid: 94ddbd80-46de-4673-a97e-daf74015f4be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0yocIKMb7yjggxBdcrWzfpJeY9NDDka4nv6He9Iw6oc
+id: prince_ali
+npc_id: '126'
+npc_description: 'That is an effective disguise'
+label: 'Prince Ali'
+items: null

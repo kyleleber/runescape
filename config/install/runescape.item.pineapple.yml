@@ -1,0 +1,10 @@
+uuid: 7c09d8e5-059f-475b-bacd-16b0c594d0f2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IC0sJZHML-9OYLfJ_4Awmb8N1iYCij4R9vYA1W1gbl0
+id: pineapple
+item_id: '748'
+item_description: 'It can be cut up with a knife'
+label: Pineapple

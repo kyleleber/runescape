@@ -1,0 +1,10 @@
+uuid: 61e98be4-9094-4d04-8e0c-1365691d7117
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: TAc6CiHnAJnBoExOc-L38RpzYP9Ct6F-1FgH-vSTeYE
+id: eye_patch
+item_id: '1237'
+item_description: 'It makes me look very piratical'
+label: 'eye patch'

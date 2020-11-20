@@ -1,0 +1,10 @@
+uuid: b47e20f6-472c-4192-bb4f-86cd639f7771
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hPywnIWmI51RC9uxfc9PKHznnl7dZfrsGgqxG-DmXNA
+id: enchanted_battlestaff_of_water
+item_id: '683'
+item_description: 'A Magical staff'
+label: 'Enchanted Battlestaff of water'

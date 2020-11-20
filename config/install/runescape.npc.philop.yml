@@ -1,0 +1,11 @@
+uuid: afd466da-4d8c-4008-ad61-54f73235416e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oFRyXh11WWgZqBcZSfBcRGLKRu1MIdiRMWA6aYxlcb0
+id: philop
+npc_id: '782'
+npc_description: 'Gertrudes youngest'
+label: Philop
+items: null

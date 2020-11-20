@@ -1,0 +1,10 @@
+uuid: 18be92e1-13b7-491f-91e6-1d1579c9d6cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WCssgeunUVWGg2ne2SnpO10HMHgluL7pErzyzP6akZk
+id: carols_fingerprint
+item_id: '1209'
+item_description: 'An impression of Carols fingerprint'
+label: 'Carols fingerprint'

@@ -1,0 +1,11 @@
+uuid: 20415662-0123-4a31-acfd-fc963f72bc87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: t2SpbhJXxmq1IOsmzf3e1scRhAX-uofjKcarTW7RpVg
+id: blue_dragon
+npc_id: '202'
+npc_description: 'A mother dragon'
+label: 'Blue Dragon'
+items: null

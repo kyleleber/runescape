@@ -1,0 +1,11 @@
+uuid: 9ed1c022-7032-4def-bc68-a8c4f08acd3e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rOSsXwGtVIgaAk9rV1UTjU-aA80QVgU3V1iuY1QbgcM
+id: nezikchened
+npc_id: '769'
+npc_description: 'An ancient powerful Demon of the Underworld...'
+label: Nezikchened
+items: null

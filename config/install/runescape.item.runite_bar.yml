@@ -1,0 +1,10 @@
+uuid: 7c86ea3d-94cc-45e0-94e4-3c4f420dbd55
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 40mhcUBaA5VvscY4qeUYDc4IT8-wpTSAs-V_vr50iK8
+id: runite_bar
+item_id: '408'
+item_description: 'it''s a bar of runite'
+label: 'Runite bar'

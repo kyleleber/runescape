@@ -1,0 +1,11 @@
+uuid: aa34bfba-d9ab-425e-a5be-75c09d701161
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 70cd_qsElJEopKrbMis40S4QcfyHT7NPUnvi4-uQYAY
+id: khazard_warlord
+npc_id: '410'
+npc_description: 'He look''s real nasty'
+label: 'khazard warlord'
+items: null

@@ -1,0 +1,10 @@
+uuid: c8d4cef1-b8ca-4a50-8815-492de27c98c7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YkC4sXC049JMaNFf_7ISXCtY_8EKrbLoB4MP2KGpDBA
+id: pineapple_punch
+item_id: '940'
+item_description: 'A fresh healthy fruit mix'
+label: 'pineapple punch'

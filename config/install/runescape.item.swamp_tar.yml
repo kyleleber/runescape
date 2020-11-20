@@ -1,0 +1,10 @@
+uuid: fbfcb206-ac3e-488a-9ebf-9ee9458089c3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QNBurLyARX-QNAwGa_IP2QWtmR40_F3W71XjGiaOi4c
+id: swamp_tar
+item_id: '783'
+item_description: 'A foul smelling thick tar like substance'
+label: 'Swamp tar'

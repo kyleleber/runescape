@@ -1,0 +1,10 @@
+uuid: 0b9ac94b-33ce-452b-b53b-58a107883d52
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: taH0Io5GwSJrDoFP3IZ2JDv6RBdl0CbkYpvTZFRlOkI
+id: mithril_throwing_dart
+item_id: '1068'
+item_description: 'A deadly throwing dart with a mithril tip.'
+label: 'Mithril Throwing Dart'

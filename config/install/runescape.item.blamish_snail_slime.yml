@@ -1,0 +1,10 @@
+uuid: f5dda57f-5496-47a9-91fc-e3177d5bfcbc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YJDhCttRTeVHPsi_unCFf-BgoFXLxrTnTBQRR9bQX3E
+id: blamish_snail_slime
+item_id: '587'
+item_description: Yuck
+label: 'Blamish snail slime'

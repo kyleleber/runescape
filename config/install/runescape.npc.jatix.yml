@@ -1,0 +1,11 @@
+uuid: da5afdc8-e753-407d-b717-79e4b8f4e8e7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: U8_5l541FIOfR3swHObPY6de5Mbusrf7E0rqarEqeqc
+id: jatix
+npc_id: '230'
+npc_description: 'A hard working druid'
+label: Jatix
+items: null

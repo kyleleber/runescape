@@ -1,0 +1,10 @@
+uuid: 0d4010ca-bf42-482f-ad8a-e9364bd930f2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PYit0Lx3Nz1LXT3ZMH1CDAiA90XzPi_EmjYZnMDQV50
+id: mithril_mace
+item_id: '96'
+item_description: 'A spiky mace'
+label: 'Mithril Mace'

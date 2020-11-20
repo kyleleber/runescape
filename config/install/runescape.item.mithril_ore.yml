@@ -1,0 +1,10 @@
+uuid: 40de519c-b3bc-45f4-a9cb-84a64db8d288
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vyA8zbzNqTPvB5SGk06qaq9JyPVNA8NDOkFCb1m3_8E
+id: mithril_ore
+item_id: '153'
+item_description: 'this needs refining'
+label: 'mithril ore'

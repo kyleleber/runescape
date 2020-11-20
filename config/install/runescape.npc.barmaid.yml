@@ -1,0 +1,11 @@
+uuid: 001cb42f-3510-4db6-bcce-030f1ac94abf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tZ8u1y8dNhS-k9s8cFEdH7KTptV_YzxkjJeLYX_lZ1M
+id: barmaid
+npc_id: '142'
+npc_description: 'a pretty barmaid'
+label: Barmaid
+items: null

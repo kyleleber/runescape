@@ -1,0 +1,10 @@
+uuid: dcb823ca-e006-4591-919d-43d4b604d7be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HnZcJCDmjA20xLCBN7d9yebV75yTViEzGQS9kz2vImA
+id: oak_longbow
+item_id: '648'
+item_description: 'A Nice sturdy bow'
+label: 'Oak Longbow'

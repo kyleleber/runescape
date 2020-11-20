@@ -1,0 +1,11 @@
+uuid: 4ae13dbc-7f7f-4f5a-8cc4-70d13c5173e7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 5aJu3Ko8lUjTHpbpzPUmXn7LK6A6y2Bc74qYvQZJhRQ
+id: heckel_funch
+npc_id: '535'
+npc_description: 'Its another jolly tree gnome'
+label: 'Heckel funch'
+items: null

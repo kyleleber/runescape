@@ -1,0 +1,10 @@
+uuid: 2075273e-d3ec-4de7-9b8d-077fff237bdf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FBrOM_0B2DrCoXf6HqnaeDwD9WFRI7pOFFh8twC3WUA
+id: burnt_swordfish
+item_id: '371'
+item_description: Oops!
+label: 'Burnt Swordfish'

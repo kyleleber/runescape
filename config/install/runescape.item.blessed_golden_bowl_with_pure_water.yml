@@ -1,0 +1,10 @@
+uuid: c1983913-420e-43d8-8c1a-21b6ddb5292c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wIYuzlYIXqcuNgP0CiXWwW_S77QJeFEiQN8-dBtGkU8
+id: blessed_golden_bowl_with_pure_water
+item_id: '1267'
+item_description: 'A golden bowl filled with pure water - it looks magical somehow'
+label: 'Blessed Golden Bowl with Pure Water'

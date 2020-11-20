@@ -1,0 +1,11 @@
+uuid: 2c2fd47f-5184-4fe1-982b-5bac4b542630
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8h2KtX2nXjnUyiYnz7lXKKDxjlw1cjiF_TpBL1ag0ik
+id: red_dragon
+npc_id: '201'
+npc_description: 'A big powerful dragon'
+label: 'Red Dragon'
+items: null

@@ -1,0 +1,11 @@
+uuid: 7b063246-71b0-4819-91cb-7b7c407dee42
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4KPYzM7olG7JDPUjfUOuJxEOAd9g87O3Hubx8jQH_Wg
+id: chef
+npc_id: '310'
+npc_description: 'A busy looking chef'
+label: chef
+items: null

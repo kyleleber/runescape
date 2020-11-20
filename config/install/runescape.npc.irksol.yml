@@ -1,0 +1,11 @@
+uuid: d8f6a722-d1da-47ad-8df8-f06a89d9a199
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _OoIsocVcsfbGYiTc1_3_cDJ0u1InTtl1Ymab7wK9k0
+id: irksol
+npc_id: '218'
+npc_description: 'Is he invisible or just a set of floating clothes?'
+label: Irksol
+items: null

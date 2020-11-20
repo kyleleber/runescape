@@ -1,0 +1,10 @@
+uuid: 3c20977e-d94d-47c8-a05e-a6e21e291aa9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _6B5qGmZiy5gD9tadDLrJdOO5srxP_I9U8yWZQIMfuE
+id: asgarnian_ale
+item_id: '267'
+item_description: 'A glass of frothy ale'
+label: 'Asgarnian Ale'

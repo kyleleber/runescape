@@ -1,0 +1,11 @@
+uuid: 594cde05-62e8-494c-bd5e-59322b1d2ca7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 70cnkllHpyUZ0gQBfE5GUMCB1pW74hBypzcEAVwudJQ
+id: darkwizard
+npc_id: '60'
+npc_description: 'He works evil magic'
+label: Darkwizard
+items: null

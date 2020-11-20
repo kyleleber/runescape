@@ -1,0 +1,10 @@
+uuid: 9e4bb369-6267-4c5a-b4d3-dcc3355c6381
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7zF1FeC6F7ThhqK4bKZKkXT5LgSE8-QVjQbsqoHbA9s
+id: amulet_of_accuracy
+item_id: '235'
+item_description: 'It increases my aim'
+label: 'Amulet of accuracy'

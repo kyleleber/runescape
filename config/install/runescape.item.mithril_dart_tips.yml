@@ -1,0 +1,10 @@
+uuid: 3f3d5786-61aa-4a53-a561-b7b186415c42
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1KGtdt4ULvJTQSxchkrrsjRJuUQpxmLrrcHyzsT6fd4
+id: mithril_dart_tips
+item_id: '1065'
+item_description: 'Dangerous looking dart tips - need feathers for flight'
+label: 'Mithril dart tips'

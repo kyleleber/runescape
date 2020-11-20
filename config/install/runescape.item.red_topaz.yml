@@ -1,0 +1,10 @@
+uuid: de125ac2-9e93-49c0-899f-58e9f45e62cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lPQarPF3xDdeB9wSHCTF4uzeJqJgkzAnTIpjEMK0XXc
+id: red_topaz
+item_id: '892'
+item_description: 'A semi precious stone'
+label: 'Red Topaz'

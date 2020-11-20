@@ -1,0 +1,10 @@
+uuid: 00ad23bb-9335-40fe-8699-fdf4165103f0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uFtJLbcQ0oh-3ypjnwK8L-5Q6UnkvP2QI8oVG5HK3aQ
+id: poison
+item_id: '177'
+item_description: 'This stuff looks nasty'
+label: Poison

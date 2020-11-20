@@ -1,0 +1,11 @@
+uuid: dbe0fafe-008a-4277-a1b2-d152e3521c18
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: frEbfVQYA6qQPRwQn9rzyexD5vakDtm8sJp0BuzXTkU
+id: shopkeeper
+npc_id: '391'
+npc_description: 'Maybe he''d like to buy some of my junk'
+label: Shopkeeper
+items: null

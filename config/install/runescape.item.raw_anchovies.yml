@@ -1,0 +1,10 @@
+uuid: 9e071354-4929-426e-815f-ebfe97344a4d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UO7-54vIZQLTJWGD907Ps-M8sdgeo96AueH_j9zeltQ
+id: raw_anchovies
+item_id: '351'
+item_description: 'I should try cooking this'
+label: 'Raw Anchovies'

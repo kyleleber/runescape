@@ -1,0 +1,10 @@
+uuid: c1e68b14-b7c0-4808-bdc8-60c473003120
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ygvRkvQHydQXZM-mkoclHZpx0y6GI7OKTNKpkYSVg4A
+id: dragonstone_necklace
+item_id: '544'
+item_description: 'I wonder if this is valuable'
+label: 'Dragonstone necklace'

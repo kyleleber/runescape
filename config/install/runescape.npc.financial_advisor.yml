@@ -1,0 +1,11 @@
+uuid: 40300d3d-2bba-47f1-adcf-67a1f52a9fb9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: YDfO95QIKTWM0H3SWxt4MQmij79P-uk9lEAOlGkumVI
+id: financial_advisor
+npc_id: '480'
+npc_description: 'He knows about money'
+label: 'financial advisor'
+items: null

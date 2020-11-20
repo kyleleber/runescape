@@ -1,0 +1,11 @@
+uuid: 1204799b-2585-4c3f-8117-825bf58072a2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fPikCsPUXph5C7ki5RCEzz_zcIkHLrpr5iQhPwj5cWM
+id: sir_lancelot
+npc_id: '273'
+npc_description: 'A knight of the round table'
+label: 'Sir Lancelot'
+items: null

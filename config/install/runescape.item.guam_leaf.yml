@@ -1,0 +1,10 @@
+uuid: fdbc726a-e79e-417e-9f05-e988171a4170
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uET2JvQw7P_KD-MjnEUYkqRYfp6oCQ4826AtpZz1zlI
+id: guam_leaf
+item_id: '444'
+item_description: 'A herb used in attack potion making'
+label: 'Guam leaf'

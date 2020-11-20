@@ -1,0 +1,11 @@
+uuid: 27ecab5f-5e2c-434d-9c2c-448ebb347c8f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2Eqh4r4g947cqYzwIpOxrhX8E9-y1ILcePdrHMU7ZeA
+id: priest
+npc_id: '9'
+npc_description: 'A priest of Saradomin'
+label: Priest
+items: null

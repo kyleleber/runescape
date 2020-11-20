@@ -1,0 +1,11 @@
+uuid: b459c239-047f-46c8-807c-cc7a604a4b62
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: prl-8b2zEOYBT8xUpA_9JGaG_7u6mDTvkuX5_iRZKKE
+id: bedabin_nomad
+npc_id: '701'
+npc_description: 'A Bedabin nomad - they live in the harshest extremes in the desert'
+label: 'Bedabin Nomad'
+items: null

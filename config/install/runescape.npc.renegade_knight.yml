@@ -1,0 +1,11 @@
+uuid: c6a332d4-8339-44c9-8872-8e07f7893f64
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lYas7WdDj__QaATvnvbdIYKMgEnoKFEjvxeK0FWFDP4
+id: renegade_knight
+npc_id: '277'
+npc_description: 'He isn''t very friendly'
+label: 'Renegade knight'
+items: null

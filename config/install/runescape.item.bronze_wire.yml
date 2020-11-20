@@ -1,0 +1,10 @@
+uuid: 593c6100-b7c4-43c2-998d-fde2209d4ee0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6UFgZ7q9rzIipqMLKo70bQI3MHSUpU6jAYrJv-mH2Ow
+id: bronze_wire
+item_id: '979'
+item_description: 'Useful for crafting items'
+label: 'Bronze Wire'

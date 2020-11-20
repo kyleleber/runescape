@@ -1,0 +1,11 @@
+uuid: ecd8f2f7-a542-43e1-afa0-c2aca23ffe7d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 81h1hx37mNz5gYmLymWD6JqwxibiVCM44mOLqoZ_6lg
+id: white_wolf_sentry
+npc_id: '239'
+npc_description: 'A vicious mountain wolf'
+label: 'White wolf sentry'
+items: null

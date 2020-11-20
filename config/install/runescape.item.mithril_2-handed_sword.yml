@@ -1,0 +1,10 @@
+uuid: 7caf8134-259a-47fd-aaa8-365d7d080cf8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-eiETlZpmGhy4yglv8ploP1H9HyObDU2Rn6h_M56dZQ'
+id: mithril_2-handed_sword
+item_id: '79'
+item_description: 'A very large sword'
+label: 'Mithril 2-handed Sword'

@@ -1,0 +1,10 @@
+uuid: 22ce237b-a4db-445c-a92f-012da0bfe4b3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: M4CqjdFwg3gi-_JKgKFmzNjzaLNtooA8mSL79IHt8ys
+id: poison_iron_arrows
+item_id: '639'
+item_description: 'Venomous looking arrows'
+label: 'Poison Iron Arrows'

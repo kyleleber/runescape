@@ -1,0 +1,11 @@
+uuid: 94259cbe-1be6-409d-89b6-5124de5200aa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-KH2sQrSSIKwcnfSuSRuUOkDgU31WfR4qD7rjRt3XSs'
+id: rogue
+npc_id: '342'
+npc_description: 'He needs a shave'
+label: Rogue
+items: null

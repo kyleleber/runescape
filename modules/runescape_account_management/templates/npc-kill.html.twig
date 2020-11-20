@@ -1,0 +1,28 @@
+{#
+  Displays npc kill data for the given NPC
+#}
+<td>{{ id }}</td>
+<td>{{ name }}</td>
+<td>{{ kill_count }}</td>
+<td>
+  {% if items %}
+
+  <table>
+    <th>Item ID</th>
+    <th>Item</th>
+    <th>Drop Amount</th>
+    <th>Drop Quantity</th>
+    {% for item in items %}
+      <tr>
+        <td>{{ item.itemID }}</td>
+        <td>{{ item.name }}</td>
+        <td>{{ item.dropAmount }}</td>
+        <td>{{ item.dropQuantity }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+  {% else %}
+    <strong>This NPC either drops no notable items, or you have not received any drops yet.</strong>
+  {% endif %}
+</td>
+

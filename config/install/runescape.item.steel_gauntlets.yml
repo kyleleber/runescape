@@ -1,0 +1,10 @@
+uuid: 5280f836-9c30-456c-8cfc-9d33f14e1a3a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lPJcT_nmgCdaxK3n9tiJqmT1zRM0X4edKHAebjjjIoI
+id: steel_gauntlets
+item_id: '698'
+item_description: 'Very handy armour'
+label: 'Steel gauntlets'

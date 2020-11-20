@@ -1,0 +1,11 @@
+uuid: e6fae970-8329-4a33-ab8e-23594fc3f317
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Y9mT6pi1cfCC7cQBQxB2mR34C4hseonxkQQt67_39XM
+id: zenesha
+npc_id: '331'
+npc_description: 'A shopkeeper of some sort'
+label: Zenesha
+items: null

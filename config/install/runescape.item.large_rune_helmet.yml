@@ -1,0 +1,10 @@
+uuid: 7fea13b5-a405-481a-9607-19a6700adb08
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0dx2ctJLq5SE5ogOXStFvFcth_lZFOp615hnnlCvJCs
+id: large_rune_helmet
+item_id: '112'
+item_description: 'A full face helmet'
+label: 'Large Rune Helmet'

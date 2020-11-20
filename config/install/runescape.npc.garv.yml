@@ -1,0 +1,11 @@
+uuid: 25497c47-59c9-4839-8feb-c4e95859417d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZK6t-wZ0Rv1Nsebi2LqwoZuH6N9zDzd_VqU2odJFoZo
+id: garv
+npc_id: '257'
+npc_description: 'A diligent guard'
+label: Garv
+items: null

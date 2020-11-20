@@ -1,0 +1,11 @@
+uuid: 1df718f9-a9d5-4d8f-98cf-e04f9a632f25
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v3L9Bjq_1BQccnBbb9UByM_sFBqRbcwZPQapkIhpTLY
+id: tribesman
+npc_id: '421'
+npc_description: 'A primative warrior'
+label: Tribesman
+items: null

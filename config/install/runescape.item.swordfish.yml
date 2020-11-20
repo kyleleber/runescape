@@ -1,0 +1,10 @@
+uuid: 04f60cd8-27d6-4221-a76e-dcea82898d3f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: poyDb2ChjHe9ScNlpSvEuey_a5e2-1Mu-rt3Ed-eOi0
+id: swordfish
+item_id: '370'
+item_description: 'I''d better be careful eating this!'
+label: Swordfish

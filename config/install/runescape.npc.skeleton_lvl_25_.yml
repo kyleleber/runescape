@@ -1,0 +1,9 @@
+uuid: 32cd2a10-9d47-49c3-bf51-095410a28148
+langcode: en
+status: true
+dependencies: {  }
+id: skeleton_lvl_25_
+npc_id: '46'
+npc_description: 'It rattles as it walks'
+label: 'Skeleton (lvl 25)'
+items: ''

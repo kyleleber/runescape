@@ -1,0 +1,10 @@
+uuid: 07ed110a-5002-4640-a404-a274875ad71b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6WYwk4SIrIPZC5DBc0N87iIRIhEWyG0nNIoB1x7pl9c
+id: raw_herring
+item_id: '361'
+item_description: 'I should try cooking this'
+label: 'Raw Herring'

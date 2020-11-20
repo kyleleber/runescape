@@ -1,0 +1,11 @@
+uuid: f4559c8e-e03a-49f5-9921-cc95eefebf73
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vmdVT_1ri142KrqyMQJCAsu5ukN4EEEvEbkzwRp4M0g
+id: mercenary_captain
+npc_id: '669'
+npc_description: 'Hes in control of the local guards.'
+label: 'Mercenary Captain'
+items: null

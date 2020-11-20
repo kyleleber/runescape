@@ -1,0 +1,10 @@
+uuid: 7cd2b95a-e55d-4c0d-bc23-670306490d00
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CAgekrcOIBG0aD1drFMQhc7_OLJ8TEwa7osXbihp2Jk
+id: steel_arrow_heads
+item_id: '671'
+item_description: 'Not much use without the rest of the arrow!'
+label: 'steel arrow heads'

@@ -1,0 +1,11 @@
+uuid: 7ecdc015-1141-4d6d-afdb-ac9c50836738
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cyOQGk9OT7DSFAV611vZitJEsepPBf8HEbtWW0JtDsc
+id: aggie
+npc_id: '125'
+npc_description: 'A witch'
+label: Aggie
+items: null

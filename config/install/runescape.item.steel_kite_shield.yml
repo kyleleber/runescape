@@ -1,0 +1,10 @@
+uuid: af5add23-410b-4d61-9388-2354c0a41087
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jJ6ZSCgc9g5boMTCUEqhehhKiVbaaZ5R_5mySnlpe5k
+id: steel_kite_shield
+item_id: '129'
+item_description: 'A large metal shield'
+label: 'Steel Kite Shield'

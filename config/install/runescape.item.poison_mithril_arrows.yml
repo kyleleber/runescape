@@ -1,0 +1,10 @@
+uuid: 07f82e8f-e896-4113-b91c-f5d3d3d7c1dc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-AOnXA85GtfSueKBZH5ik9msPZMgXEYVZOEZT0vgGdU'
+id: poison_mithril_arrows
+item_id: '643'
+item_description: 'Venomous looking arrows'
+label: 'Poison Mithril Arrows'

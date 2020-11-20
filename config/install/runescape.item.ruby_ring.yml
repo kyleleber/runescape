@@ -1,0 +1,10 @@
+uuid: 0dc4781b-008f-4b1f-92ad-25ad2edf08eb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UaMXQXe0eLbS-7cJJvVfPvdMaoR1xm7-cSUma3tXH3o
+id: ruby_ring
+item_id: '692'
+item_description: 'A valuable ring'
+label: 'Ruby ring'

@@ -1,0 +1,10 @@
+uuid: cc230342-f23f-4e38-8d2d-dd1fa2346cef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vlvmHzvDv6QoReBiu6FFbVLsHMZPAiSbwMLfwzGe7fE
+id: shiny_key
+item_id: '732'
+item_description: 'Quite a small key'
+label: 'shiny Key'

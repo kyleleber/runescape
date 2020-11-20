@@ -1,0 +1,11 @@
+uuid: e466bef5-f0f1-49f9-8b9a-435ce4e0cf98
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cb-XfZxo_MXQU2SoE9joYX_ElTmyOwAChP44Oot9mWk
+id: rpdt_employee
+npc_id: '334'
+npc_description: 'A delivery man'
+label: 'RPDT employee'
+items: null

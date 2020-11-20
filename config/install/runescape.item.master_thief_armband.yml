@@ -1,0 +1,10 @@
+uuid: 977ddd0a-1c8f-4fa5-b5fa-4b6a55fa2838
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: cdPWeyciXLkuLYLR49nHYFpSJvJSwWifSRs4_MgNfpA
+id: master_thief_armband
+item_id: '586'
+item_description: 'This denotes a great act of thievery'
+label: 'Master thief armband'

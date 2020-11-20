@@ -1,0 +1,10 @@
+uuid: 568da729-a699-482f-8938-e4a895b14f47
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZMPR_qWGv1tI5Mn9-bQX3waYDKR3j6bgYLD5mYVoRuU
+id: pike
+item_id: '364'
+item_description: 'Some nicely cooked fish'
+label: Pike

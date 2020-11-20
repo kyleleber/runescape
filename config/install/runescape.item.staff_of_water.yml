@@ -1,0 +1,10 @@
+uuid: 983165aa-8cf0-4516-ad83-c980ee36b460
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uG57VLBtvljt_7akYiJOJa7G8OxJ3Q33ms8LahMdhaw
+id: staff_of_water
+item_id: '102'
+item_description: 'A Magical staff'
+label: 'Staff of water'

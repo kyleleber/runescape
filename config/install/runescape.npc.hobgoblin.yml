@@ -1,0 +1,11 @@
+uuid: 7e6ece22-f5d6-4499-a681-3dd43b0bf921
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: B3vxstGjEaQ-rMMud5B7E0iRn6NmcnVo6-F0PC6mQq4
+id: hobgoblin
+npc_id: '311'
+npc_description: 'An ugly green creature'
+label: Hobgoblin
+items: null

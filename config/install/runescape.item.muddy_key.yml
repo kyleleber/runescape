@@ -1,0 +1,10 @@
+uuid: d3a6dc8a-1752-4193-9ccd-275bd6b0c813
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: b5FArd4rmPgwgeEJIjT0kBWy-l58oJivOWyFD-XTOHg
+id: muddy_key
+item_id: '414'
+item_description: 'It looks like a key to a chest'
+label: 'Muddy key'

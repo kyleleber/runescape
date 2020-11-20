@@ -1,0 +1,11 @@
+uuid: bfcfc97c-c44c-4bf7-9ed8-f4e53c617875
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WmvB1f2RWpFt153nq7a6zUIxeF0gG72GUlyd1suNXmQ
+id: drucas
+npc_id: '543'
+npc_description: engraver
+label: Drucas
+items: null

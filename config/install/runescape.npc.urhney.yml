@@ -1,0 +1,11 @@
+uuid: 852c4cac-adcf-436d-ba72-17f10983b01c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OBPcSI4wEnuVElPDzyY-sauy6ETNuMo3w1iQ2DXLvBI
+id: urhney
+npc_id: '10'
+npc_description: 'He looks a little grumpy'
+label: Urhney
+items: null

@@ -1,0 +1,10 @@
+uuid: 5be9d090-0181-41a7-ad73-5d88395579d5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KYyE0WzynzczMdYrSNTA2yBN4reY3yjv4lKWk3WFWCs
+id: avantoe
+item_id: '450'
+item_description: 'A useful herb'
+label: Avantoe

@@ -1,0 +1,10 @@
+uuid: d608a858-10db-4718-8944-da472087a231
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2V8ATWnRWDEqJB55PKLHKTe7oFtxdqBRn1qhpq6S84I
+id: staff_of_earth
+item_id: '103'
+item_description: 'A Magical staff'
+label: 'Staff of earth'

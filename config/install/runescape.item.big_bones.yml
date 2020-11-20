@@ -1,0 +1,10 @@
+uuid: 3641a597-290f-483a-80c7-e97cd98f4e0a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wwOv9UFlFu8Meg6vFA9CN5DCiFHShIoOaLW-F6t_Sao
+id: big_bones
+item_id: '413'
+item_description: 'Ew it''s a pile of bones'
+label: 'Big Bones'

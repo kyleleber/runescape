@@ -1,0 +1,10 @@
+uuid: 48e5fcbb-9cf8-4f13-8825-696fed350e62
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ROHu39LDJIDKYyQAoulLskDL2TT3w2NYGzYzRy3Ofiw
+id: cure_poison_potion
+item_id: '568'
+item_description: '1 dose of cure poison potion'
+label: 'Cure poison Potion'

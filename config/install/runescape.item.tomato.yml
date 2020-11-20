@@ -1,0 +1,10 @@
+uuid: 8e8bb300-a4ee-4587-aa0f-b386de8adac0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: v-p7jsyM7dk1jG2QM558oALTLDhfRR4NWgYkwr_IjBc
+id: tomato
+item_id: '320'
+item_description: 'This would make good ketchup'
+label: Tomato

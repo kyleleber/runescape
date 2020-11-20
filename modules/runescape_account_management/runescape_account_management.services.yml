@@ -1,0 +1,11 @@
+services:
+  runescape_account_management.manager:
+    class: Drupal\runescape_account_management\AccountManager
+    arguments:
+      - '@runescape.manager'
+      - '@runescape_server_integration.manager'
+
+  runescape_account_management.migration_manager:
+    class: Drupal\runescape_account_management\AccountMigrationManager
+    arguments:
+      - '@runescape.manager'

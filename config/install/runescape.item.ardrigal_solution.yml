@@ -1,0 +1,10 @@
+uuid: a4a27672-40af-4da6-b3be-7268d8e740a1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6NAgHjAsNwp3qap-jzB00Xfyi6WO3fxuKSSStHvCfn4
+id: ardrigal_solution
+item_id: '1252'
+item_description: 'Ardrigal herb in water - part of a potion'
+label: 'Ardrigal Solution'

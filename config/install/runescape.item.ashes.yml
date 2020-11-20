@@ -1,0 +1,10 @@
+uuid: 6a0342e7-af81-4886-8d07-9d26501b9b2e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QQafI7pRuw_YmgE3MQEI5rEELgZSyshCRo0W1wz-HW0
+id: ashes
+item_id: '181'
+item_description: 'A heap of ashes'
+label: Ashes

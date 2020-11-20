@@ -1,0 +1,10 @@
+uuid: 2dcd264d-30e4-4193-b5a3-2aa154fa6a81
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ruxnDTtYI-pmWHdjukoV7cY1beYoM2fNczTYMILEJb4
+id: blood-rune
+item_id: '619'
+item_description: 'Used for high level missile spells'
+label: Blood-Rune

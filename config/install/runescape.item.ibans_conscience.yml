@@ -1,0 +1,10 @@
+uuid: a11692df-0054-4c91-87e9-e45ba3e4d972
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: __u-SSt5gMrTNUzRI7LxfTT25BR5omjHsXa98SPTnDY
+id: ibans_conscience
+item_id: '1008'
+item_description: 'The remains of a dove that died long ago'
+label: 'Ibans conscience'

@@ -1,0 +1,10 @@
+uuid: 08972cc1-5d3f-40ad-8f36-50d0f88edf41
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: L6xrE-7as6xO8ZiuhdO_H5lwNN4iMz47G7IVt0u5b4I
+id: jug
+item_id: '140'
+item_description: 'This jug is empty'
+label: jug

@@ -1,0 +1,10 @@
+uuid: ca400226-6fb0-4b01-81f6-eef515922efc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7qfQkMie7OFqhg08kJboajt9mK6ZtJASE5-G_TJHOAo
+id: unstrung_magic_longbow
+item_id: '666'
+item_description: 'I need to find a string for this'
+label: 'unstrung Magic Longbow'

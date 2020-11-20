@@ -1,0 +1,10 @@
+uuid: a779b7a1-2d83-45ca-873a-79257951e840
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gwSiaTXi6KidZ40DCmbm-Zrtz8T11K3fVkrbUexIiZA
+id: cod
+item_id: '551'
+item_description: 'Some nicely cooked fish'
+label: Cod

@@ -1,0 +1,11 @@
+uuid: 1eb78d85-f128-4135-88c3-e917c120de6c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AYQZvkpqIAvTGKtdMRReX1EBUlQPStOefVgXIy0MH_A
+id: dommik
+npc_id: '173'
+npc_description: 'The owner of the crafting shop'
+label: Dommik
+items: null

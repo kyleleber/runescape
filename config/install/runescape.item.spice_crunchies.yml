@@ -1,0 +1,10 @@
+uuid: e68982a7-e045-458b-b459-d534919c79e6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pZp0941ic6w6lQcpMos0BiGE0PJoGlwfaFNtMz9En9Q
+id: spice_crunchies
+item_id: '957'
+item_description: 'yum ... smells good'
+label: 'Spice crunchies'

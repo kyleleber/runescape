@@ -1,0 +1,11 @@
+uuid: a826247d-154f-4b4c-a09f-c90b04170a26
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: t_CqPTR9lBa9-6gQgXnyd9q4CENeR7W-M6Y3wuXpVKc
+id: gem_merchant
+npc_id: '330'
+npc_description: 'He sells gems'
+label: 'gem merchant'
+items: null

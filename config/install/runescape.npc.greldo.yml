@@ -1,0 +1,11 @@
+uuid: 863ca9ec-efdb-4465-af8d-795924a1585e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EuK_yJddsOY4hUYL6KctpYGz14sp9YbY7ucSbQZItVM
+id: greldo
+npc_id: '109'
+npc_description: 'A small green warty creature'
+label: Greldo
+items: null

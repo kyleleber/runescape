@@ -1,0 +1,11 @@
+uuid: 3ca2429b-7336-470f-bf44-928c7524d241
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8yrDdnnawuIBnIbaeo0TU4Lpd0bt3zMjmfTaVfbN2J8
+id: zombie
+npc_id: '359'
+npc_description: 'The living dead'
+label: zombie
+items: null

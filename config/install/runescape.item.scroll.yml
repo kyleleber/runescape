@@ -1,0 +1,10 @@
+uuid: f7cf7cda-ef25-4420-871d-f7815f7be605
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JVnLVjW7tBdytDK-SYpdy6ajFv18v2gbBn_Uz3m1Lok
+id: scroll
+item_id: '1173'
+item_description: 'A letter written by the expert'
+label: Scroll

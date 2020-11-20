@@ -1,0 +1,11 @@
+uuid: 2c8c5b28-dd6a-4740-9d93-9fb20e6a0a8b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ujBN98b99eIU_pfPJVKUI0XzrfhH0zFseqOnlR-k68E
+id: thug
+npc_id: '251'
+npc_description: 'He likes hitting things'
+label: Thug
+items: null

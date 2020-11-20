@@ -1,0 +1,10 @@
+uuid: f87d043c-a7e2-412d-b444-67df3eb8f188
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6vPcUG-gQrU7r2oWot1NdY5WB_vfahWb-w3sf7-ViLY
+id: water_orb
+item_id: '613'
+item_description: 'A magic glowing orb'
+label: 'Water orb'

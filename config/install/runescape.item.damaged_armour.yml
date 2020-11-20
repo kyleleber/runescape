@@ -1,0 +1,10 @@
+uuid: c8c364f1-c663-4d63-a29e-37a306a1f9b5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3ICoBuNWRZDRLXqGB1sFrW_x1C9uUxDB3BG8M_2lR9I
+id: damaged_armour
+item_id: '1158'
+item_description: 'that''s been here some time'
+label: 'Damaged armour'

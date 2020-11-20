@@ -1,0 +1,10 @@
+uuid: 4419c621-52c3-496a-85b4-580423d3aeb3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fO_aC5lNjFCB9E-jkSofYaem1HSphPXFEoy5etuYnfo
+id: grog
+item_id: '598'
+item_description: 'A murky glass of some sort of drink'
+label: Grog

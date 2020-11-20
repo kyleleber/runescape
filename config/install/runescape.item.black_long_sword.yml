@@ -1,0 +1,10 @@
+uuid: 884227a1-a5f0-4022-b0f7-2930b95640f8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7ltaIBsHPKW0j-dS-N6vJvqRgxZghXkfArJlG1CbLiM
+id: black_long_sword
+item_id: '425'
+item_description: 'A razor sharp sword'
+label: 'Black Long Sword'

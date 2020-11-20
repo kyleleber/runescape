@@ -1,0 +1,10 @@
+uuid: 430019f8-d6a8-4973-a75d-871c1ee23fdd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8FMlMbTRKUv7G_ygLWJN2jj6HK1ZbhsasiPBAS-2O3U
+id: bone_shard
+item_id: '974'
+item_description: 'A slender piece of bone'
+label: 'Bone Shard'

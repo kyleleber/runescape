@@ -1,0 +1,10 @@
+uuid: 54dae3e7-53e7-4d43-9bd1-9bec81f76494
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: w_zkwavdZOH1FC4iB-9_u3LCiIfF3hEwGj9JTRnjZpY
+id: raw_chicken
+item_id: '133'
+item_description: 'I need to cook this first'
+label: 'raw chicken'

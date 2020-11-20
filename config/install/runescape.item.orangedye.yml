@@ -1,0 +1,10 @@
+uuid: 1779858e-9498-49be-bd4f-f2ed79e55659
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: uqZ5HLMEGmLII9hwgvIYZ5VfgznWnvZZ56r7ffIiihI
+id: orangedye
+item_id: '282'
+item_description: 'A little bottle of dye'
+label: Orangedye

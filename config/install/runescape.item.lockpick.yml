@@ -1,0 +1,10 @@
+uuid: c294c89c-fd15-4880-846a-8668a7311cce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 2bI8wSithZj_W1nDUJlBObZU5Oi3XAfxK0B6NxiaSAk
+id: lockpick
+item_id: '714'
+item_description: 'It makes picking some locks easier'
+label: lockpick

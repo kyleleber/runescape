@@ -1,0 +1,10 @@
+uuid: 07d096bf-63b8-4116-a348-ca8c65d91b88
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: naFoP7lIEi0iogxOBSBNQt-1TkN6nS1adwI9f4CGYaI
+id: uncooked_pizza
+item_id: '324'
+item_description: 'This needs cooking'
+label: 'Uncooked Pizza'

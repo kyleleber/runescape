@@ -1,0 +1,10 @@
+uuid: 2041e923-c3db-47ea-a003-1642cc6c3319
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZWqirgl-W7lIJhYATod2Fff8t7N2d_3T7hOZOZfkJBU
+id: emerald_ring
+item_id: '285'
+item_description: 'A valuable ring'
+label: 'Emerald ring'

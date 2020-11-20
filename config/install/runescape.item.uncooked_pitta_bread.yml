@@ -1,0 +1,10 @@
+uuid: e6ab184b-e35c-4bcf-8663-8e9ecd611d15
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8x_1RORo-aLvoC7scqoMRxRdAMntID0QoPPJbFFrV1Y
+id: uncooked_pitta_bread
+item_id: '1104'
+item_description: 'I need to cook this.'
+label: 'Uncooked Pitta Bread'

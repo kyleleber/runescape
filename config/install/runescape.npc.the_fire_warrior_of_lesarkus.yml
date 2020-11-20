@@ -1,0 +1,11 @@
+uuid: 8e834794-a6f4-491d-b519-6c6a4d9f59ce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DbnKn0sY3kvRhN9tGO1Fodm-hAD2ia-KpMO2ir2N_2Q
+id: the_fire_warrior_of_lesarkus
+npc_id: '361'
+npc_description: 'A strange red humanoid'
+label: 'The Fire warrior of lesarkus'
+items: null

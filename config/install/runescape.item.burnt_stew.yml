@@ -1,0 +1,10 @@
+uuid: 4f321dbb-f9eb-4747-85fa-7524397b6d92
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: i5hxVydfO-YdgfBp_9X9XefaXzxJ2wkaHWjYYNJpM-A
+id: burnt_stew
+item_id: '347'
+item_description: 'Eew it''s horribly burnt'
+label: 'Burnt Stew'

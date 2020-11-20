@@ -1,0 +1,10 @@
+uuid: 0527f9c8-7fe5-4cc1-9011-ed6c9ddfaf0b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: f47qS41V0vMUDoA9kgO4TzGXJpEbgKqt3P30VbjxAxI
+id: tribal_totem
+item_id: '705'
+item_description: 'It represents some sort of tribal god'
+label: 'Tribal totem'

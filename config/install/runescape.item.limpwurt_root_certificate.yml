@@ -1,0 +1,10 @@
+uuid: e6cc5156-58b0-44ed-915f-e238a4f2f96e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eD9ZPLutyOLjn5Sb2MjCMUL27fA1Nn6k2bRR5AZNHcQ
+id: limpwurt_root_certificate
+item_id: '1271'
+item_description: 'Each certificate exchangable at Yanille for 5 Limpwort roots'
+label: 'Limpwurt Root Certificate'

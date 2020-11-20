@@ -1,0 +1,11 @@
+uuid: a9190404-41d1-451b-9c1a-5db272ea6325
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XHfmVffapb6U97aDYRfvK4tcmlX3wHQsH6lPwjqit6s
+id: ogre_merchant
+npc_id: '686'
+npc_description: 'He sells ogre-inspired items'
+label: 'Ogre merchant'
+items: null

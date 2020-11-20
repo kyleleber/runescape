@@ -1,0 +1,10 @@
+uuid: a35aa169-a04f-4410-858f-7a45a27a488d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: EdzcmbZ4oqrkQwF7q5z2la6Mo0vmcjy85ruioRlQTkw
+id: sword_pommel
+item_id: '973'
+item_description: 'An ivory sword pommel'
+label: 'Sword Pommel'

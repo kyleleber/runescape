@@ -1,0 +1,11 @@
+uuid: eda059dc-8b9b-4353-8c13-d6ad22011340
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: T783f7YQA59pH09lzpHI8_A6ipaY_SYu9mT3HuGYgMg
+id: king_arthur
+npc_id: '275'
+npc_description: 'A wise old king'
+label: 'King Arthur'
+items: null

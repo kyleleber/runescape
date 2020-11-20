@@ -1,0 +1,10 @@
+uuid: 8c1540db-9eca-4c63-97c4-3627cd6e4300
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7QQqqhyX0qT1I6eHE5sZtXZM3-N7sNVwhKWPUcKpqsQ
+id: potato
+item_id: '348'
+item_description: 'Can be used to make stew'
+label: Potato

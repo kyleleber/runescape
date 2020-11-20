@@ -1,0 +1,10 @@
+uuid: aad4afdc-a505-4fd1-bd31-f7826c933e1c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: POAXo_h8F-6HvKly3GRFa8sI-NjGupa7zJOtE4-BBGo
+id: robe_of_zamorak
+item_id: '703'
+item_description: 'A robe worn by worshippers of Zamorak'
+label: 'robe of Zamorak'

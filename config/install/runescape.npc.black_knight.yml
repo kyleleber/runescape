@@ -1,0 +1,11 @@
+uuid: 2ad313bc-3cfc-4f81-8a86-8adabb0a4eb5
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Jc8Ivnm0aru7W9poWdirqMZselpd2COTzfheErsXk7A
+id: black_knight
+npc_id: '189'
+npc_description: 'An armoured follower of Zamorak'
+label: 'Black Knight'
+items: null

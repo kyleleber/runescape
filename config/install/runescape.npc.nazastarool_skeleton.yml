@@ -1,0 +1,11 @@
+uuid: 822743de-41d9-41b3-9b25-40c96635e161
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ac35T7VTd7djmFy1QZ4O6-dHMWKUSV5jzvZMp40JZx4
+id: nazastarool_skeleton
+npc_id: '614'
+npc_description: 'One of Rashaliyas Minions'
+label: 'Nazastarool Skeleton'
+items: null

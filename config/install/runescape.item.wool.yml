@@ -1,0 +1,10 @@
+uuid: 14d9f6df-c163-4204-adce-671108c522be
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FalmO-gPtCRurIBMf7J5dADZeG-GFOY7ttYe5OTHDaQ
+id: wool
+item_id: '145'
+item_description: 'I think this came from a sheep'
+label: wool

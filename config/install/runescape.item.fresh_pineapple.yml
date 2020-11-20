@@ -1,0 +1,10 @@
+uuid: 9953879a-ce0a-4915-810c-25f987d407a8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 6fG51Tmh9y3wp0rE4NgP2XzSjA1xpNunAB_ciEqOgHE
+id: fresh_pineapple
+item_id: '861'
+item_description: 'It can be cut up with a knife'
+label: 'Fresh Pineapple'

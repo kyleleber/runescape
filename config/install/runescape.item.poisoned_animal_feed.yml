@@ -1,0 +1,10 @@
+uuid: b5e2058c-f36e-4c13-be44-4584be83562b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qi3OJ_-OKyObex-ZeiOBGx1LxkTqDB04AlK547gIctc
+id: poisoned_animal_feed
+item_id: '759'
+item_description: 'This looks nasty'
+label: 'Poisoned animal feed'

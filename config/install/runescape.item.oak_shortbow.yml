@@ -1,0 +1,10 @@
+uuid: 7e871b46-6cfa-4e51-9e86-d26bbd849ddd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: H8Q3xSFusYXOgqI1OmyuO41IdY5_Xs2GU3cnuhlFtn0
+id: oak_shortbow
+item_id: '649'
+item_description: 'Short but effective'
+label: 'Oak Shortbow'

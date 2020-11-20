@@ -1,0 +1,29 @@
+.runescape-map {
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  overflow: auto;
+}
+.runescape-map-internal {
+  position: relative;
+  width: 3506px;
+  height: 4083px;
+}
+.runescape-map-internal .avatar {
+  position: absolute;
+  color: red;
+  font-size: 14px;
+  margin-right: -8px;
+  margin-top: -10px;
+  width: 24px;
+  height: auto;
+}
+.runescape-map-internal .map {
+  width: 100%;
+  height: 100%;
+}
+
+.runescape-map-internal #target:hover {
+  cursor: pointer;
+}
+

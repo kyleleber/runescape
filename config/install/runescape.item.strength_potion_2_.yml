@@ -1,0 +1,8 @@
+uuid: 6268d550-48a8-466f-beb2-34c9bbe9e9c3
+langcode: en
+status: true
+dependencies: {  }
+id: strength_potion_2_
+item_id: '223'
+item_description: '2 doses of strength potion'
+label: 'Strength Potion (2)'

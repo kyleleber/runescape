@@ -1,0 +1,10 @@
+uuid: 12acf4c1-9f7c-42ba-a275-a2a19228e9af
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Uw7K-uVque77aGXNATqbhSQCR4zaY0HpNOLXKJxrDdg
+id: poison_steel_arrows
+item_id: '641'
+item_description: 'Venomous looking arrows'
+label: 'Poison Steel Arrows'

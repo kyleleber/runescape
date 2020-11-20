@@ -1,0 +1,10 @@
+uuid: 6f78e626-c8ea-4c1c-b535-ff4d641ba8ae
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VUqq5YShM17AeY5-qrCi_Entos-z46e_vLJVf7PHG-k
+id: enchanted_bear_meat
+item_id: '505'
+item_description: 'I don''t fancy eating this now'
+label: 'enchanted bear meat'

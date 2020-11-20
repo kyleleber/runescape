@@ -1,0 +1,11 @@
+uuid: 0fccec51-0473-476b-ac21-3303e216630c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: b-uKM0BES-9ybkX1bl-ohPQrqRVTSx6Ja_fkBHFu1gE
+id: sir_gawain
+npc_id: '274'
+npc_description: 'A knight of the round table'
+label: 'Sir Gawain'
+items: null

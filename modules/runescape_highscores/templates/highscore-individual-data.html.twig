@@ -1,0 +1,23 @@
+{#
+  Displays an individual's experience, level, and rank for each stat.
+#}
+{% if results %}
+  {% set module_path = _self|split('/templates') %}
+  <table>
+    <legend>Personal highscores for {{ results.username }}</legend>
+    <th>Rank</th>
+    <th>Total XP</th>
+    <th>Level</th>
+    <th>Stat</th>
+    {% for id,result in results.skills %}
+      <tr>
+        <td>-insert rank-</td>
+        <td>{{ result.xp }}</td>
+        <td>{{ result.lvl }}</td>
+        <td><img src="/{{ module_path[0] }}/assets/images/icons/{{ id }}.gif"/></td>
+      </tr>
+
+    {% endfor %}
+  </table>
+
+{% endif %}

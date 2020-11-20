@@ -1,0 +1,11 @@
+uuid: 4bed1d36-af99-4fd1-b6d6-e60077bc9d3c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fcJLFn8Tye6PhwSoNfIkwgBRlONaSBjlr6nqVPNC4u8
+id: henryeta
+npc_id: '422'
+npc_description: 'It''s a wealthy looking woman'
+label: henryeta
+items: null

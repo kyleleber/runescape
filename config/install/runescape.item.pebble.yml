@@ -1,0 +1,10 @@
+uuid: 61739184-5dec-4b2b-8bfd-6b5d34f6ffb4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8emYNRmVOPAgO0NQEFEJNhZ9Xyb53k_y37qEHvrRwSE
+id: pebble
+item_id: '930'
+item_description: 'The pebble has an inscription'
+label: Pebble

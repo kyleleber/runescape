@@ -1,0 +1,10 @@
+uuid: 3903f975-f51e-4dc5-b61e-8c22f596f7b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4NWrn5iQ4kPZIe4TYzW2pmAZ27MPgq509b07ZAg5APU
+id: prototype_throwing_dart
+item_id: '1014'
+item_description: 'A proto type of a deadly throwing dart.'
+label: 'Prototype Throwing Dart'

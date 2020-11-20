@@ -1,0 +1,10 @@
+uuid: ea312fee-4255-4445-8f9c-12a534e2f73b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CqF3mdDT_ryQJE6xJoZ38Pj0B4XG6Qe9At7U5jlFqDo
+id: pineapple_ring
+item_id: '749'
+item_description: 'Exotic fruit'
+label: 'Pineapple ring'

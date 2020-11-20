@@ -1,0 +1,10 @@
+uuid: 2feaf2da-6274-438a-91f8-ce6652e1dacd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0CcUBmB2xMaziFcxUTvEg-5dqb-Q5R2MCQyOcA_4MR8
+id: gloughs_notes
+item_id: '926'
+item_description: 'Scribbled notes and diagrams'
+label: 'gloughs notes'

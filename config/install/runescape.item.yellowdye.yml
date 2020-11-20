@@ -1,0 +1,10 @@
+uuid: 6f142341-1766-4f7f-8668-316335d6b1ee
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: x6IcPvVDangef2G8Xx_us8oIfTHY_gMJKWsWdyf0ldg
+id: yellowdye
+item_id: '239'
+item_description: 'A little bottle of dye'
+label: Yellowdye

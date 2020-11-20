@@ -1,0 +1,10 @@
+uuid: 7f418d0e-9d9b-4afe-a071-dc79aef68068
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3Dy7xttDoZFcO1ZhkcVB14bW3eHY97d4rHZ7DaxlDRw
+id: gnome_spice
+item_id: '898'
+item_description: 'Aluft Giannes secret reciepe'
+label: 'Gnome spice'

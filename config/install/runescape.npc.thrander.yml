@@ -1,0 +1,11 @@
+uuid: 71f16a31-964e-47ff-8c3a-276244c0b2b4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nR6Yq7zxFuwRo6RcLYL8yE5x5dgB1kXlycrIFc-EWns
+id: thrander
+npc_id: '160'
+npc_description: 'A smith of some sort'
+label: Thrander
+items: null

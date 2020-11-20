@@ -1,0 +1,10 @@
+uuid: 11075422-5124-4306-992d-61fe27a003d0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 54KlCcIdbTCRIjxxCQ5yy_s8Cr5rp46B2ISGGJM8Vsg
+id: unstrung_oak_shortbow
+item_id: '659'
+item_description: 'I need to find a string for this'
+label: 'unstrung Oak Shortbow'

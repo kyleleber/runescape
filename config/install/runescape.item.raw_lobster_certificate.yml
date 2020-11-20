@@ -1,0 +1,10 @@
+uuid: 47bb8502-7933-48fe-b7fc-75d6019ff3d0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: rmVncO1EA8m9cl9uwEfypVS3uu76NQDYqxxm_B69lz0
+id: raw_lobster_certificate
+item_id: '534'
+item_description: 'Each certificate exchangable at draynor market for 5 raw lobsters'
+label: 'Raw lobster certificate'

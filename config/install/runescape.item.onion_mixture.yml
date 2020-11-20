@@ -1,0 +1,10 @@
+uuid: 16e1dd39-6d0e-40bd-b049-8d2afb8a0378
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7Uj9kjYjsKSdp9dGPKyh8RjXoNey7LrqMdVpbuup52Y
+id: onion_mixture
+item_id: '1107'
+item_description: 'A mixture of onions in a bowl'
+label: 'Onion Mixture'

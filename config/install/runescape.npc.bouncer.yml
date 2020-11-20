@@ -1,0 +1,11 @@
+uuid: ade1aa33-e696-433e-99c3-e0753142afc2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: g84iVOYDnUuASgpFbxoWNEvi4Zy0nAR-2ip0b0qjNbw
+id: bouncer
+npc_id: '388'
+npc_description: 'Hello nice doggy'
+label: Bouncer
+items: null

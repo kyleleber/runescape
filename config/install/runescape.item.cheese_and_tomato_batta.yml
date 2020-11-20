@@ -1,0 +1,10 @@
+uuid: 40e48404-f2bc-40cb-b452-2d9f475beb1a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Z8AfFhUtWFHC1CgpTqnDeUGE2lsXATEXk8ZvDqx4lIE
+id: cheese_and_tomato_batta
+item_id: '944'
+item_description: 'Smells really good'
+label: 'cheese and tomato batta'

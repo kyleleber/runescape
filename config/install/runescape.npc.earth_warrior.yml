@@ -1,0 +1,11 @@
+uuid: 4bfcf0ee-8d41-42a3-a6ab-4dfbc786a2a2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sACLeCehcRT-MRVyBGD8QrWdTFcChGEqFePh2gQqRBw
+id: earth_warrior
+npc_id: '584'
+npc_description: 'A strange inhuman warrior'
+label: 'Earth warrior'
+items: null

@@ -1,0 +1,11 @@
+uuid: 812e1148-3c00-42ce-bdf4-6e649ca62aaf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nnPxwDpCiYfnAXKin9bn40LzHTXBKwOnQTRCJaixgGo
+id: ogre
+npc_id: '706'
+npc_description: 'A large dim looking humanoid'
+label: Ogre
+items: null

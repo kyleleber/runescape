@@ -1,0 +1,10 @@
+uuid: 9894c356-fb28-4f16-a9d8-206b698d5039
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: CaVEca4mLP5eGVwpn2a-Pv12Zt9XC5PMKf-Lcf-CyGU
+id: mark_of_hazeel
+item_id: '753'
+item_description: 'A large metal amulet'
+label: 'Mark of Hazeel'

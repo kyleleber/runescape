@@ -1,0 +1,10 @@
+uuid: a3a6e87b-97ab-4bea-a624-6545a482dc8a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eCK6pDsOnL-uy1ZWzuBAA2WadVu0NYF7p9Gz2iGfXFQ
+id: rune_kite_shield
+item_id: '404'
+item_description: 'A large metal shield'
+label: 'Rune Kite Shield'

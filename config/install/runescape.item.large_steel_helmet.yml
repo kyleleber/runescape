@@ -1,0 +1,10 @@
+uuid: f6354358-6c77-4493-9a7f-acc451775a05
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 64fjnK4OrYWG1cuNwpwhwCY0ZOUi5t7hDKi_FCKe3g0
+id: large_steel_helmet
+item_id: '109'
+item_description: 'A full face helmet'
+label: 'Large Steel Helmet'

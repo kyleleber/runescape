@@ -1,0 +1,11 @@
+uuid: dd1b32b4-ee7e-46e0-804e-5063bbb66fe0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qyLqB0G6IkO-sPoBDx6fc0lJNLeUlDlttm1LOFwtbyM
+id: fisher_king
+npc_id: '412'
+npc_description: 'an old king'
+label: 'Fisher king'
+items: null

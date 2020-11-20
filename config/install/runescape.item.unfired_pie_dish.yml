@@ -1,0 +1,10 @@
+uuid: 3a98a5d6-96b0-4fc0-89fc-117e3a7ddc05
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fVopXYE0a2qiVCUC2v5uRdE-USqKlpdueVGU0A0N9c0
+id: unfired_pie_dish
+item_id: '278'
+item_description: 'I need to put this in a pottery oven'
+label: 'Unfired Pie dish'

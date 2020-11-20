@@ -1,0 +1,10 @@
+uuid: 73f5b5e6-0bf3-4641-a815-a3782aed78c6
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KM2KvhH_0b4y0Z6kDvMwbY2gar6-Tf36AQYnV_7uDRc
+id: poisoned_adamantite_dagger
+item_id: '564'
+item_description: 'Short but pointy'
+label: 'Poisoned Adamantite dagger'

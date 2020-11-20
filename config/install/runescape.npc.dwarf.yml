@@ -1,0 +1,11 @@
+uuid: cc74fc23-2a1f-4e3d-885b-5cb85771bfce
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: U-3k_qmDRZolmL3aKhDnjAmX_YqwzeFPSaZ0vjK3lN8
+id: dwarf
+npc_id: '699'
+npc_description: 'A short angry guy'
+label: Dwarf
+items: null

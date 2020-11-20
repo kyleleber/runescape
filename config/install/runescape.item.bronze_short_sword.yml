@@ -1,0 +1,10 @@
+uuid: 76835130-c2e9-4bbc-8e35-4252ccfe0d88
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vBxyFBRO3bwQjMTFIbgjanwqWEMBXQ6i-GmHjQnctg4
+id: bronze_short_sword
+item_id: '66'
+item_description: 'A razor sharp sword'
+label: 'Bronze Short Sword'

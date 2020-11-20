@@ -1,0 +1,10 @@
+uuid: 965018db-e7ed-4528-88fb-1327d25e9010
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AwQcDoaZ5fmXCygcHktl3Mb9NYFljQSg0Q1JSPOT8Kc
+id: mithril_plate_mail_legs
+item_id: '122'
+item_description: 'These look pretty heavy'
+label: 'Mithril Plate Mail Legs'

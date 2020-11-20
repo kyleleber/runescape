@@ -1,0 +1,10 @@
+uuid: 133a751f-cdf2-43e6-a44a-f555ecef7fe9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _Hy6Bk8w_zlqz0TivfUG_vo0g6DGmXUjJSHct6BKZf0
+id: papyrus
+item_id: '982'
+item_description: 'Used for making notes'
+label: Papyrus

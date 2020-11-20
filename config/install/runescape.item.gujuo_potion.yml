@@ -1,0 +1,10 @@
+uuid: 89821974-dfa9-49ed-964e-93c5415d96b0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MVAQmBejoquAERfNnN9lFodqea3Y9dTMAiL2dQWDbQY
+id: gujuo_potion
+item_id: '1253'
+item_description: 'A potion to help against fear of the supernatural'
+label: 'Gujuo Potion'

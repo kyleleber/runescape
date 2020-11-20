@@ -1,0 +1,10 @@
+uuid: 9c614e78-18c6-438c-af15-9060d503a72c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0bmVwx6PCCnkdNK6Do8QqGTvlYDkbXozESl20CZSDdo
+id: staff_of_zamorak
+item_id: '1216'
+item_description: 'It''s a stick of the gods'
+label: 'Staff of zamorak'

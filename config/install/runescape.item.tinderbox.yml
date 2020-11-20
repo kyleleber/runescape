@@ -1,0 +1,10 @@
+uuid: 35823d32-cce6-4d7b-89f9-c4419c20944d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BVtZLiB4hwSL8YNVTzJiz_f_LySnhSLi3N3nyTK_ZXk
+id: tinderbox
+item_id: '166'
+item_description: 'useful for lighting a fire'
+label: tinderbox

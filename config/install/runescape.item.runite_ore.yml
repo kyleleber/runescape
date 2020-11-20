@@ -1,0 +1,10 @@
+uuid: 33e31227-919b-49f9-bde0-33c2bb256a0b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: wlw2KxrpMRePgplsiVsrEJRnh4Y6xUsV-nrI6BM13wc
+id: runite_ore
+item_id: '409'
+item_description: 'this needs refining'
+label: 'runite ore'

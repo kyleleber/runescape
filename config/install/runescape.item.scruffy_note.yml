@@ -1,0 +1,10 @@
+uuid: 9c1494d9-bdbd-4e58-81a8-2b62494d0bb8
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BT-YB3qhQUaZ1CYQSrLXxiPPAWUaMTUIITQhjeciufM
+id: scruffy_note
+item_id: '781'
+item_description: 'It seems to say hongorer lure'
+label: 'Scruffy note'

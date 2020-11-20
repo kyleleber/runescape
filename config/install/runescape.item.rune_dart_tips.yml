@@ -1,0 +1,10 @@
+uuid: 4dfd8ffc-f757-4d85-b504-bdab1f4cddca
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: N2s5WwJcAC3lYe5Xqp1piTiDZX1cb0n5u2kG-r0qFSk
+id: rune_dart_tips
+item_id: '1067'
+item_description: 'Dangerous looking dart tips - need feathers for flight'
+label: 'Rune dart tips'

@@ -1,0 +1,11 @@
+uuid: 5c12ceb9-0c17-40ea-86db-972c0a4c9665
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ml51KqYMw8kWi-b_BD2JFRz9K85xJVaLEw-altBcdVI
+id: mugger
+npc_id: '21'
+npc_description: 'He jumps out and attacks people'
+label: mugger
+items: null

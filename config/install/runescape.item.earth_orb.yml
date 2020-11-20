@@ -1,0 +1,10 @@
+uuid: c092a557-97f1-4a2e-8748-37e2990287fd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jv3Nf5yJJ2sWImyVv2nSLt41NcyekzMOzMlmD9ELFB0
+id: earth_orb
+item_id: '627'
+item_description: 'A magic glowing orb'
+label: 'earth orb'

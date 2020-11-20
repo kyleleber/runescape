@@ -1,0 +1,11 @@
+uuid: a4516d7f-e359-4138-b507-1e85c3b547b9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 80zXgxSm7mUYhO9lpPUihqb2z_lU20VrRx9Hqb6m5WM
+id: ogre_citizen
+npc_id: '704'
+npc_description: 'A denizen of GuTanoth'
+label: 'Ogre citizen'
+items: null

@@ -1,0 +1,10 @@
+uuid: 4f7f28c0-d4f9-42d3-a27f-93ed59348159
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 51K9FlYlkXVDYAMMo14eyKae8BCOPh9zj3ujw3GeA7w
+id: orb_of_light
+item_id: '994'
+item_description: 'The orb gives you a safe peaceful feeling'
+label: 'Orb of light'

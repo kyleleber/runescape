@@ -1,0 +1,11 @@
+uuid: f586d4a2-28bc-4ad8-9f00-ff57dc8623c2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: iaOu2TxYu8vsHsQE0uXQUuRomKM9yACJywCQNbsg6qI
+id: caroline
+npc_id: '455'
+npc_description: 'A well dressed middle aged lady'
+label: Caroline
+items: null

@@ -1,0 +1,10 @@
+uuid: 2490ab03-6f59-4630-8e46-8ace5bb3affd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0-hpKIzVCCivOO2QUfLH1rWzdwkJmgowlka8WluNEc8
+id: coal_certificate
+item_id: '518'
+item_description: 'Each certificate exchangable at draynor market for 5 coal'
+label: 'Coal certificate'

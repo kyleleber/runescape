@@ -1,0 +1,10 @@
+uuid: 37b5560c-90f1-4ae4-bef9-b70143b2c155
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nAb6qUHTJmptmEk6eIWjuGWWKQ24N_8hdXxNKNl0uRA
+id: swamp_paste
+item_id: '785'
+item_description: 'A tar like substance mixed with flour and warmed'
+label: 'Swamp paste'

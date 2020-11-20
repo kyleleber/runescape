@@ -1,0 +1,11 @@
+uuid: 2de224d1-cd42-4f9e-a6f2-850cbd755737
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9bSN-TEbvyU2DbJfQTwo_ei_TBiGhIIwtfCXfew_iQI
+id: al_shabim
+npc_id: '700'
+npc_description: 'The leader of a nomadic Bedabin desert people - sometimes referred to as the Tentis'
+label: 'Al Shabim'
+items: null

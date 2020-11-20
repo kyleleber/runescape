@@ -1,0 +1,10 @@
+uuid: d8ff5777-edfd-46ae-a0ef-8fe981254e5f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IL7YYJee5hXvS_hlyYusMZcx9AOdL_7Cpoe23FgPCl4
+id: soft_clay
+item_id: '243'
+item_description: 'Clay that''s ready to be used'
+label: 'Soft Clay'

@@ -1,0 +1,11 @@
+uuid: 0bd28e32-eaba-4dde-bfc9-844b699c5d0a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: QVhGoBLFsqH2Ckidk1SXAYcCU5ftmVjCnTitjpv4yTo
+id: quest_advisor
+npc_id: '489'
+npc_description: 'I wonder what advise he has to impart'
+label: 'Quest advisor'
+items: null

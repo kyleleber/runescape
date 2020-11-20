@@ -1,0 +1,10 @@
+uuid: 7001bb86-d251-4da6-897d-786c9be4a879
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oV63lBNsjfWbd92Ent-R0yOtM5NNggEWKJNq3SyZS6o
+id: uncooked_cake
+item_id: '339'
+item_description: 'Now all I need to do is cook it'
+label: 'Uncooked cake'

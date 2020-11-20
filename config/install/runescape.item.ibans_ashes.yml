@@ -1,0 +1,10 @@
+uuid: f7024b1b-4481-4417-8114-8f76f97643a1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XuLQis2dwpfDAWXx0EO5Ccfx8SF0Lerh7TbkaZlBZTE
+id: ibans_ashes
+item_id: '1002'
+item_description: 'A heap of ashes'
+label: 'Ibans Ashes'

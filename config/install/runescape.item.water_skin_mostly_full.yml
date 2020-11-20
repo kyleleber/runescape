@@ -1,0 +1,10 @@
+uuid: 1735a9ea-5cf7-4729-8eac-46b7171db17d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: lUbSZRa_A89gfxP8ClBU9KXsay5Tn3lsvaXG32MACZM
+id: water_skin_mostly_full
+item_id: '1082'
+item_description: 'A half full skin of water'
+label: 'Water Skin mostly full'

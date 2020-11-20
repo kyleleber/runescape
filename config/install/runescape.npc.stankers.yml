@@ -1,0 +1,11 @@
+uuid: 53b06801-740e-45f7-bfcc-bab9d4c8db07
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: b-h4A7dNdst-BEYZrvmwDjPkyH9QdeiBIfi_LtSpDbM
+id: stankers
+npc_id: '389'
+npc_description: 'A cheerful looking fellow'
+label: Stankers
+items: null

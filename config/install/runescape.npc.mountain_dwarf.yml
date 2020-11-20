@@ -1,0 +1,11 @@
+uuid: 03946349-5b11-400b-8fa4-f2123d423cbf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IkYW3MDMnK_Hp8H1ti2xkmoORuqrqUNAiaC9XR2t-Ow
+id: mountain_dwarf
+npc_id: '356'
+npc_description: 'A short angry guy'
+label: 'Mountain Dwarf'
+items: null

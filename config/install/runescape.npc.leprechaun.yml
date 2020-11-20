@@ -1,0 +1,11 @@
+uuid: 4d0b361d-65e3-48a9-8127-05849e6cb70c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xdU5f0WOjj0JvgoMT6N5ne3ZqQNc8izIAeqDMn0sUHk
+id: leprechaun
+npc_id: '211'
+npc_description: 'A funny little man who lives in a tree'
+label: Leprechaun
+items: null

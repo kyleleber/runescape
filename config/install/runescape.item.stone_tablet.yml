@@ -1,0 +1,10 @@
+uuid: 4c55ba8e-8ba4-4569-b258-6d2cf83f8bfa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 39-ZCt48oFNNDHvwyHL39kWTsiK4CFOLdTc37aDTzHs
+id: stone_tablet
+item_id: '1174'
+item_description: 'some ancient script is engraved on here'
+label: 'stone tablet'

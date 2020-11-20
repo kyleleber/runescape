@@ -1,0 +1,10 @@
+uuid: 4fcbe042-4678-4b71-95bc-02cfaab7d95b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _nCo-nImz4SN1OA_KDemzjss__7ZSyA6NSv_W9prs4k
+id: gnome_top
+item_id: '850'
+item_description: 'rometti - the only name in gnome fashion!'
+label: 'gnome top'

@@ -1,0 +1,11 @@
+uuid: 3c01dfee-456a-4f95-8e88-08d1344d41a7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OKDTfSHBan7hQYvGmZV_DZ9Dv0q-J531vDGFPQe1HZY
+id: guard
+npc_id: '749'
+npc_description: '***EMPTY PLEASE USE OR REPLACE***'
+label: Guard
+items: null

@@ -1,0 +1,10 @@
+uuid: cb799fe7-ff7b-4975-bb94-fd9fc90a0692
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MqovTXymg1eLTjGnRWiIaWPKUdW7xy93zORTu-jzVuc
+id: dwarf_cannon_base
+item_id: '1184'
+item_description: bang
+label: 'Dwarf cannon base'

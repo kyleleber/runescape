@@ -1,0 +1,10 @@
+uuid: cb2b4934-a06c-4add-97d6-25d61889606b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1T6aDoPkg6YtlfrCMnEPAhjozEMbzpKoUZvd7zhHBZY
+id: pineapple_chunks
+item_id: '862'
+item_description: 'Fresh chunks of pineapple'
+label: 'Pineapple chunks'

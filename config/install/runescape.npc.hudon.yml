@@ -1,0 +1,11 @@
+uuid: ba475d53-7f9b-47cd-9e62-150eb94c797b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oNr5U2Od3p98W9O9_n8K5UIHHgr7d20fb-8oSVKdZqA
+id: hudon
+npc_id: '471'
+npc_description: 'A young boisterous looking lad'
+label: hudon
+items: null

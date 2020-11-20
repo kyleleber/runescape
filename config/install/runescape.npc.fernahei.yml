@@ -1,0 +1,11 @@
+uuid: 98b86653-5163-4235-9848-ed5805900bcd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pFX52fEjRqHF4ziZe2SSWpeBlNdoyGZ0gQ55Lq3YB5A
+id: fernahei
+npc_id: '616'
+npc_description: 'An enthusiastic fishing shop owner'
+label: Fernahei
+items: null

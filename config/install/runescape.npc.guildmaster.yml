@@ -1,0 +1,11 @@
+uuid: c43b7a2c-79bf-4cef-b24c-ee3d8efde4e9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KFAY_NV2yxwJeEiqu_1qVooq6Gn77qRYBWu1a5VgwiA
+id: guildmaster
+npc_id: '111'
+npc_description: 'He''s in charge of this place'
+label: Guildmaster
+items: null

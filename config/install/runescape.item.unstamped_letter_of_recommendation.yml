@@ -1,0 +1,10 @@
+uuid: f2517335-61e8-4821-a99f-6037f53cbe15
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ZNkY29uMpb6cfCcFv0Wn0FgMNx_MG-qJN5wwlDDVfio
+id: unstamped_letter_of_recommendation
+item_id: '1147'
+item_description: 'I hereby recommend this student to undertake the Varrock City earth sciences exams'
+label: 'Unstamped letter of recommendation'

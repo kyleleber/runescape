@@ -1,0 +1,11 @@
+uuid: 662e34da-fac9-417e-84f8-b7c21e2b0566
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 1Xm8dc8FRrd3JcdHWYeZhnRvlhGaZdAz7KZ6b1TvOlA
+id: louisa_the_cook
+npc_id: '744'
+npc_description: 'Its the family cook'
+label: 'Louisa The Cook'
+items: null

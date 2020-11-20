@@ -1,0 +1,10 @@
+uuid: 30691344-1426-4274-8b4f-e7e45f5723f1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eAe-mV0YuqJnfN0YUi9k_s6gWrtryhPEuDrSs5WpFd4
+id: bronze_kite_shield
+item_id: '128'
+item_description: 'A large metal shield'
+label: 'Bronze Kite Shield'

@@ -1,0 +1,9 @@
+uuid: e52ce838-e40d-4a40-b427-0062e19d7eef
+langcode: en
+status: true
+dependencies: {  }
+id: monk_of_zamorak_lvl_19_
+npc_id: '140'
+npc_description: 'An evil cleric'
+label: 'Monk of Zamorak (lvl 19)'
+items: ''

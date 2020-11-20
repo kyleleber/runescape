@@ -1,0 +1,10 @@
+uuid: 44588128-98a8-4c81-a40f-8b0333a778ad
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MDwjuG4HdiNErI44FVEA3_Al-UZUkGRxrWMgjLDknRI
+id: bronze_square_shield
+item_id: '124'
+item_description: 'A medium metal shield'
+label: 'Bronze Square Shield'

@@ -1,0 +1,10 @@
+uuid: 304a30fe-95c1-4659-84f6-eae8e1465f1e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pCFu2tHrwWLUugX26cAhJF47GYQmsU93A0Ll1CtO-wQ
+id: multi_cannon_ball
+item_id: '1041'
+item_description: 'A heavy metal spiked ball'
+label: 'multi cannon ball'

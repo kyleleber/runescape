@@ -1,0 +1,11 @@
+uuid: d3932252-f8a4-48f5-ab9e-2af1a65daf33
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jTiKC_YC3VPkMmQ1BFMRMG7pNJko2YwnL6EAAZoshVE
+id: aemad
+npc_id: '336'
+npc_description: 'He helps run the adventurers store'
+label: Aemad
+items: null

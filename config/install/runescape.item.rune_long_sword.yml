@@ -1,0 +1,10 @@
+uuid: e92171de-7e08-468b-bd56-6f0276aca216
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: JgRnqgI7Tq9WJyk1i_wwPeKqPhDfu5U0XmoMtHJ6eVg
+id: rune_long_sword
+item_id: '75'
+item_description: 'A razor sharp sword'
+label: 'Rune long sword'

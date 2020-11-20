@@ -1,0 +1,10 @@
+uuid: 98f2998e-3269-4af1-98cc-a11cf19b308f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Ig079AxoGf79_F0tYPMS68wmW_21AoAQ5xp4tG2qHWA
+id: ball_of_wool
+item_id: '207'
+item_description: 'Spun from sheeps wool'
+label: 'Ball of wool'

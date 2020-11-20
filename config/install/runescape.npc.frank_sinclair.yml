@@ -1,0 +1,11 @@
+uuid: ad8ed3c8-ff4c-492f-91b8-aa24c97c5df0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: e0tavnFwaTeCZgTjOCR4fhV20z_YqoxRho2Y9A5-cDE
+id: frank_sinclair
+npc_id: '756'
+npc_description: 'The sixth child of the late Lord Sinclair'
+label: 'Frank Sinclair'
+items: null

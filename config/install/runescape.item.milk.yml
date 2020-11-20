@@ -1,0 +1,10 @@
+uuid: 9b03de0e-0af9-4f67-b03b-fe5120f93c94
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: qgTVoRpCvM6iBZ_2SKKtEXdT1wwikd5LWyhZ-t3s2Xw
+id: milk
+item_id: '22'
+item_description: 'It''s a bucket of milk'
+label: Milk

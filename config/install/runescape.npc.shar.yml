@@ -1,0 +1,11 @@
+uuid: 87ca97bd-b2cc-4e4d-8ea5-2a86216d97f1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: M-PVGBoLwM1bd7K--kEgwR_6-7yXCq8UPwwg8hdYtnw
+id: shar
+npc_id: '548'
+npc_description: 'Concerned about the economy'
+label: Shar
+items: null

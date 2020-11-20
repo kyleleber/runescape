@@ -1,0 +1,11 @@
+uuid: b4bfe2dc-0bc9-4d8a-9e4c-008cbcae9e40
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7GfmS7VjDhAP-dFiPimqFN4nmx5C0HE2I08vYzky4Us
+id: sanfew
+npc_id: '205'
+npc_description: 'An old druid'
+label: Sanfew
+items: null

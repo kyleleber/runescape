@@ -1,0 +1,11 @@
+uuid: a6c34c8a-00ec-4a6b-8584-81283ddd4281
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8dEQL_ibhVhVjIigFGLQyOkdkl9o4YmXYTz88geoOi8
+id: ugthanki
+npc_id: '653'
+npc_description: 'A dangerous type of spitting camel that can temporarily blind an opponent.'
+label: Ugthanki
+items: null

@@ -1,0 +1,10 @@
+uuid: 5c67be37-296e-4456-a6ac-b442ccca5992
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fxWzw5yoxdRbSxnjLSvifoMiDDYDwjK6I1vKfFtisbI
+id: picture
+item_id: '767'
+item_description: 'A picture of a lady called Elena'
+label: picture

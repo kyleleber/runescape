@@ -1,0 +1,11 @@
+uuid: a1e93510-c663-46f1-8876-477f57511d87
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _1OIb27Ayd9PdW_vSfqQxcgVNhX2MiJrClFWuKkXOMg
+id: sir_amik_varze
+npc_id: '110'
+npc_description: 'The leader of the white knights'
+label: 'Sir Amik Varze'
+items: null

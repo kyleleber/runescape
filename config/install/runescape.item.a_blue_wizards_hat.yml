@@ -1,0 +1,10 @@
+uuid: b91f102c-de0b-4cb7-bdd8-4c6666b9148d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: AOqESVo7Zhrscb7lkPb7w849_WTsJ1VJ8WkRY8pwUVY
+id: a_blue_wizards_hat
+item_id: '1264'
+item_description: 'An ancient wizards hat.'
+label: 'A blue wizards hat'

@@ -1,0 +1,10 @@
+uuid: 2414d5b8-15d4-43d0-976e-c1411807938c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Zs-foAwBKPkGGvIoJumEwHeLel0r7jxWYIuRr6u7QOk
+id: gnome_emerald_amulet_of_protection
+item_id: '744'
+item_description: 'It improves my defense'
+label: 'Gnome Emerald Amulet of protection'

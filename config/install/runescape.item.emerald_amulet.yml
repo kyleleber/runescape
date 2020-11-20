@@ -1,0 +1,10 @@
+uuid: 2d33f79c-ebf0-4479-a7e1-cc45ae31eeeb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PVVkk0pCdaaBJ1ppFH5LdxvRs6hRGBF4SG3ix7QreR4
+id: emerald_amulet
+item_id: '303'
+item_description: 'I wonder if I can get this enchanted'
+label: 'Emerald Amulet'

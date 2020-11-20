@@ -1,0 +1,10 @@
+uuid: e3113294-871b-48ce-b9db-11ce4cdf9963
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 8a7ud0JcPwqIaeuNkzdyttGQHY_rYnIiIcRJLFWemOg
+id: curry
+item_id: '709'
+item_description: 'It''s a spicey hot curry'
+label: curry

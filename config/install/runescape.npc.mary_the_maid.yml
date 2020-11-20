@@ -1,0 +1,11 @@
+uuid: 52bdac7d-6ce8-4cf4-83b3-651010746c7c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: gZVIs_OAacNuIYITB4FTGQ3E1XHFX2bxDGm7kWPde_8
+id: mary_the_maid
+npc_id: '745'
+npc_description: 'The family maid'
+label: 'Mary The Maid'
+items: null

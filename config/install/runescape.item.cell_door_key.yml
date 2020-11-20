@@ -1,0 +1,10 @@
+uuid: fd0cba43-8a30-4a55-854b-61e9d156ea7b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: FhkMv0gyNiUc3imJ__zFIsM5EenqXqjfRiNJIIQ2CSQ
+id: cell_door_key
+item_id: '1098'
+item_description: 'A roughly hewn key'
+label: 'Cell Door Key'

@@ -1,0 +1,10 @@
+uuid: c331b7c8-1575-418d-8bcf-4adb99cee1b7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PJ4ajcuH6ruoIiNzGnnIRHVRUiQfQywxr40oLL6yw-A
+id: jail_keys
+item_id: '595'
+item_description: 'Keys to the black knight jail'
+label: 'Jail keys'

@@ -1,0 +1,10 @@
+uuid: 135a913a-d477-4337-891a-77b1a9c4a624
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: eStDy_ffHfjnC0l4QoqeEwUZwW_iNTcfVOcl4-v4G08
+id: info_document
+item_id: '1072'
+item_description: 'read to access variable choices'
+label: 'info document'

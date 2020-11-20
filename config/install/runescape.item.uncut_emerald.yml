@@ -1,0 +1,10 @@
+uuid: ee1adb75-4552-41b5-b4aa-808df32ac993
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: S0X6rJJ85MBq8WxjRxeeV0F-vNPVtkp3JKWEdhUyZSI
+id: uncut_emerald
+item_id: '159'
+item_description: 'this would be worth more cut'
+label: 'uncut emerald'

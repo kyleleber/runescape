@@ -1,0 +1,11 @@
+uuid: e122d7ba-a97a-4318-be63-bc96396f5fa0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 9as1x3DFjBYo9_O3DehZTtGRrfdz6kX4GUivK75ILCk
+id: barbarian_guard
+npc_id: '305'
+npc_description: 'Not very civilised'
+label: 'Barbarian guard'
+items: null

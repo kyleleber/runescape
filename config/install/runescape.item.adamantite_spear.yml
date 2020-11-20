@@ -1,0 +1,10 @@
+uuid: 49871b85-c1c3-49c5-a7e9-2c61834fe332
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: PCIqZDuDZ9oeiMOpqFCamfjX3ORmOqTWC3nNRTQUpLI
+id: adamantite_spear
+item_id: '1091'
+item_description: 'An adamantite tipped spear'
+label: 'Adamantite Spear'

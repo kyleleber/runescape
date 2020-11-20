@@ -1,0 +1,10 @@
+uuid: 673a1ab3-1006-40fe-9314-f9df49f83292
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: MY-oijy6hs0ZNGEsNgzVvPPTzt5-K_2IjeGyF8qOCRw
+id: burnt_manta_ray
+item_id: '1247'
+item_description: oops!
+label: 'Burnt Manta ray'

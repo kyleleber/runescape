@@ -1,0 +1,11 @@
+uuid: a4fc4233-f000-4ab1-9e67-68cd9c3289cc
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: E9Q3ygUTO5YAN-IGb_hwEJ1yivVoYzACTCTYtI5fPC4
+id: candlemaker
+npc_id: '282'
+npc_description: 'He makes and sells candles'
+label: Candlemaker
+items: null

@@ -1,0 +1,10 @@
+uuid: 61de57ce-2d21-4998-8f89-0b4187b3b645
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: zhrn4F3fU-oVxdN6f4qhB2bmuW-g5BrhL6A5T7vNS4o
+id: mithril_chain_mail_body
+item_id: '115'
+item_description: 'A series of connected metal rings'
+label: 'Mithril Chain Mail Body'

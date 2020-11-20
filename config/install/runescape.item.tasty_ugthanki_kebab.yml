@@ -1,0 +1,10 @@
+uuid: 99dd7b27-cdbd-4997-97e7-1083cd6716a9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Mv9KPHm5m8Bee9Z1XsOq2nvNiCvokwpDaE2WvQmtDi4
+id: tasty_ugthanki_kebab
+item_id: '1102'
+item_description: 'A fresh Kebab made from Ugthanki meat'
+label: 'Tasty Ugthanki Kebab'

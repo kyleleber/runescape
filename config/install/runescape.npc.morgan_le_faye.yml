@@ -1,0 +1,11 @@
+uuid: bf12cf7c-39ae-473d-adc9-988c5a953f5e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: OwQuLRciNa1By9S6yCu-hxv89IabmbVdF7LfNh2w9OQ
+id: morgan_le_faye
+npc_id: '281'
+npc_description: 'An evil sorceress'
+label: 'Morgan le faye'
+items: null

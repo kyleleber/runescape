@@ -1,0 +1,10 @@
+uuid: ff2524f6-ef32-4ce2-b7bf-d5ecc6eacb94
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: B4IC3s7_uN9IYn7s8prvh8BVO35G0zIwwOOCNpgfhcA
+id: poisoned_iron_dagger
+item_id: '559'
+item_description: 'Short but pointy'
+label: 'Poisoned Iron dagger'

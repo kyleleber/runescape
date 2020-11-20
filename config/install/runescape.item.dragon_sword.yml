@@ -1,0 +1,10 @@
+uuid: 9f44b486-8261-4985-8969-3a0d568731c4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: V8wy4WFUAjdQijGRIOL9sAI1uEVEIE-up5-Eu878uvE
+id: dragon_sword
+item_id: '593'
+item_description: 'A Razor sharp sword'
+label: 'Dragon sword'

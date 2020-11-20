@@ -1,0 +1,10 @@
+uuid: 155ba3e1-7e00-4e06-9fff-b5b750ae5242
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vVIMBoVXi8hV1clSr-h62DC8NWku_zyM7q5lj9MyV0s
+id: unidentified_fingerprint
+item_id: '1223'
+item_description: 'An impression of the murderers fingerprint'
+label: 'Unidentified fingerprint'

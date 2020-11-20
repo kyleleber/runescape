@@ -1,0 +1,10 @@
+uuid: ec6383cf-d40b-423c-a190-8521d6617bf1
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: yPbaO_1CM6rJXR5t713IrJQfrtQ9MBOe559SanRkYTA
+id: chocolate_bomb
+item_id: '950'
+item_description: 'Looks great'
+label: 'Chocolate bomb'

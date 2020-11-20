@@ -1,0 +1,10 @@
+uuid: 645aee26-5580-414a-8c6d-eda17f4b4b01
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vicEQRMzWQI9q015Oe8jEOpCLhaZbwe3d6UoCvoFb_I
+id: a_silver_dagger
+item_id: '1230'
+item_description: 'Dagger Found at crime scene coated with flour'
+label: 'A Silver Dagger'

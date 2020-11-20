@@ -1,0 +1,11 @@
+uuid: 25440d73-e3bf-463a-9328-747021f9089a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: kW9_VZNN1QPfweJHwkK3oq5jbZSMCvIz-42cJ2laygc
+id: gnome_guard
+npc_id: '582'
+npc_description: 'A tree gnome guard'
+label: 'Gnome guard'
+items: null

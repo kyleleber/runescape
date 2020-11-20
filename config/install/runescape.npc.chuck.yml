@@ -1,0 +1,11 @@
+uuid: 5504dd4f-86f8-4c69-b8e4-e0f1d16446c0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: tEQcZkEQraYFjQR0u0bTmfsxGWUq5JLP62TE5Ow4yPc
+id: chuck
+npc_id: '341'
+npc_description: 'A wood merchant'
+label: chuck
+items: null

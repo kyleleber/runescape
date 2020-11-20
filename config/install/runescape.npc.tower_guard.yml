@@ -1,0 +1,11 @@
+uuid: 42771696-e592-4d3a-9ee5-e0d89681c443
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c8TBt5zWQwmT9gsoCdK0w7IzxFfUcNorp-wI2clMbBM
+id: tower_guard
+npc_id: '575'
+npc_description: 'He stops people going up the tower'
+label: 'Tower guard'
+items: null

@@ -1,0 +1,10 @@
+uuid: 860e9e5f-0bac-4ea5-b900-e6fa721a8bae
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Au4gZaPjS6MszR9GfiAMPFk_oiL2oWevwlqh2dlSQDA
+id: bird_feed
+item_id: '800'
+item_description: 'A selection of mixed seeds'
+label: 'Bird feed'

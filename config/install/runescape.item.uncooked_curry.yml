@@ -1,0 +1,10 @@
+uuid: 8a7cfa3d-0b2a-45fa-8955-deaa0fac9453
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: pbGl2nYVWdh42ZEgF07V6cRzp9TPW8q3IeAtnjFfgPM
+id: uncooked_curry
+item_id: '708'
+item_description: 'I need to cook this'
+label: 'Uncooked curry'

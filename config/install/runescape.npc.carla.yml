@@ -1,0 +1,11 @@
+uuid: e0f73e4d-1b49-4d69-96ee-caa67216a150
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 0-Sdu5u14cDt8p5SsDe7BGosI758zT7CfgDyuWUcMYE
+id: carla
+npc_id: '453'
+npc_description: 'She look''s upset'
+label: Carla
+items: null

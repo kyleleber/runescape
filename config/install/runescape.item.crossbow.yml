@@ -1,0 +1,10 @@
+uuid: 2902d782-9205-442d-bfef-116407041460
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: O9VD06hUq6BVnrW8xqTg_NratWTqvOoqbmk38BcmJ7o
+id: crossbow
+item_id: '60'
+item_description: 'This fires crossbow bolts'
+label: Crossbow

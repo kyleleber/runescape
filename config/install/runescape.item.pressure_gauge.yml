@@ -1,0 +1,10 @@
+uuid: 05238db4-b5d2-4bca-a789-abd11a16d764
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DCx81oNiH3hrwr46ZPwvNCqn5wqYFQbIKXJGzAEdvGs
+id: pressure_gauge
+item_id: '175'
+item_description: 'It looks like part of a machine'
+label: 'Pressure gauge'

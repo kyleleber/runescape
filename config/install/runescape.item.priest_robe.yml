@@ -1,0 +1,10 @@
+uuid: e454590e-5371-4b92-8333-4d0be4c673a0
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: WEBpPL1CePYlIniRJzH5WVBgsCPf2SOx67RwPVSGLug
+id: priest_robe
+item_id: '807'
+item_description: 'I feel closer to saradomin in this'
+label: 'Priest robe'

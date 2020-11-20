@@ -1,0 +1,11 @@
+uuid: a5e44d7c-143b-4a5f-945f-3384b0c86eb7
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: aH2gA4kUvv1utgu9SSaZgIMFVCmh7F69pe1XIU65dRE
+id: wayne
+npc_id: '141'
+npc_description: 'An armourer'
+label: Wayne
+items: null

@@ -1,0 +1,10 @@
+uuid: 17644ac1-53b7-4793-a2c7-d40bdb78c7ef
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3vzM_Mg85gEJkVyi5yCsJkVxDx_TWuPLdSCthTzqR08
+id: magenta_key
+item_id: '394'
+item_description: 'A painted key'
+label: 'Magenta key'

@@ -1,0 +1,10 @@
+uuid: 1d87878d-77f8-4cc6-b0e0-3c4243a4f648
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: UdQPe0ZNbpVyZJ1dHzdMdOUq65Po0jhNGJ6sQkxoYvU
+id: adamantite_plated_skirt
+item_id: '227'
+item_description: 'Designer leg protection'
+label: 'Adamantite Plated skirt'

@@ -1,0 +1,10 @@
+uuid: 91d79085-f3b2-4aa3-8860-3c4687d11773
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: IOtcOo9rzZISPx66WdFBaT8vAuX5YX5UBtBnHY1NlUs
+id: air_orb
+item_id: '626'
+item_description: 'A magic glowing orb'
+label: 'air orb'

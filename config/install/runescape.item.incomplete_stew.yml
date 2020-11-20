@@ -1,0 +1,10 @@
+uuid: 67f495b7-4c62-4760-8872-af465215b1c4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VsSoiBiCNgLn6q6Ftt4NNwgg0puqgF7XtEXWcwIVxWY
+id: incomplete_stew
+item_id: '344'
+item_description: 'I need to add some potato too'
+label: 'Incomplete stew'

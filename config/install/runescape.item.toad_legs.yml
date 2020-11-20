@@ -1,0 +1,10 @@
+uuid: 1ab1abc9-6be0-4016-870b-d5c6f0e76290
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: _Z9QxFTb-zP9HCmosjiy8tpZMNCp9FW7GWp_gSw6Wj0
+id: toad_legs
+item_id: '896'
+item_description: 'Gnome delicacy apparently'
+label: 'Toad legs'

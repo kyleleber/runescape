@@ -1,0 +1,11 @@
+uuid: 0b330c3e-38b5-4408-9f48-86f94ed958c4
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DGAv3mHaW7szxNj0ugzyegfhmllnVnWHGiK-izNc1Qc
+id: luthas
+npc_id: '164'
+npc_description: 'The owner of the banana plantation'
+label: Luthas
+items: null

@@ -1,0 +1,10 @@
+uuid: 7cd3ba26-a410-4967-b14c-04f424a82cfb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4o-mLAeCcihkOhT3wf2AxsAS9mTdVHEqh-rLo5OMstk
+id: holy_grail
+item_id: '746'
+item_description: 'A holy and powerful artifact'
+label: 'Holy grail'

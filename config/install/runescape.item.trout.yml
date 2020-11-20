@@ -1,0 +1,10 @@
+uuid: c4972270-4c25-48b9-af9d-e9bebd8b333d
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VEfFg18Mqbxf0J2Xo0JtSfaG33FZub-aB4NWkfBNzsg
+id: trout
+item_id: '359'
+item_description: 'Some nicely cooked fish'
+label: Trout

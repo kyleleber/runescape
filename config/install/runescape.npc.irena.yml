@@ -1,0 +1,11 @@
+uuid: 73817b0b-765d-44aa-97e0-fb5d3aed14c3
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7QNxaGA8TLNEuN310zbk-v97xLM9ClISfe5d_vHQjKQ
+id: irena
+npc_id: '538'
+npc_description: human
+label: Irena
+items: null

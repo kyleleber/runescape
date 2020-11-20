@@ -1,0 +1,10 @@
+uuid: 6b5c2627-3551-4c53-be93-0a1386848e8c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4ARWeBOtXKGheMs6eSw-C0KwhDIXxBgBaX9CX_c2NW4
+id: plagued_sheep_remains
+item_id: '764'
+item_description: 'These sheep remains are infected'
+label: 'Plagued sheep remains'

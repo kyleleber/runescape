@@ -1,0 +1,10 @@
+uuid: 62c0eb9b-1843-4ba5-95f9-057e7d342273
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: VDZzpXWQNB9mokRIWyu9vRLdPyfTlX2PYFft4EoK7Wk
+id: half_a_meat_pie
+item_id: '261'
+item_description: 'Mighty and meaty'
+label: 'Half a meat pie'

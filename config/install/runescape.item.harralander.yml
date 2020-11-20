@@ -1,0 +1,10 @@
+uuid: db527351-f047-43f7-a6d8-2be5829e446c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: KVT0su5padN5M2sAGgx6B4lZ8Q8Hq155gBrYdjNUsCA
+id: harralander
+item_id: '447'
+item_description: 'A useful herb'
+label: Harralander

@@ -1,0 +1,11 @@
+uuid: 67516b8d-9fc3-442c-9147-01c7e4caf819
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DqsJOC3Lsjx8oUkC0aA6iiNryk6I7TB_rkKJnp6r8k8
+id: fisherman
+npc_id: '414'
+npc_description: 'an old fisherman'
+label: Fisherman
+items: null

@@ -1,0 +1,10 @@
+uuid: 2d3f77ea-c0a6-420d-b5c7-233022a45b9a
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XtJwWAusImuUCOwm-j0L5eEWpzXP5YqtU2g1WYvkbKk
+id: mithril_long_sword
+item_id: '73'
+item_description: 'A razor sharp sword'
+label: 'Mithril Long Sword'

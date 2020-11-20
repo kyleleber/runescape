@@ -1,0 +1,10 @@
+uuid: d1e79d96-3029-480d-813f-a4eeae8b5f1e
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: S3NGDG6TDEuyejsdW4RKCleTSBAwm2c4Fi56V4OQ_DU
+id: chocolate_dust
+item_id: '772'
+item_description: 'I prefer it in a bar shape'
+label: 'Chocolate dust'

@@ -1,0 +1,10 @@
+uuid: 67dc6e02-39bc-4f45-b441-579fa6aef53f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: fRUj9ufKcQ2AzTZSbEqe91hT48nVsXVAdHOPiJO7LRo
+id: rocks
+item_id: '986'
+item_description: 'A few Large rocks'
+label: Rocks

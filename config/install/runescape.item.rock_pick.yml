@@ -1,0 +1,10 @@
+uuid: 1e849521-aa27-4e8b-83f2-92af85877e01
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3Jbn9RYegp1jIwRvYl8UMlVHxCmhprGLlsDyQD0vnn0
+id: rock_pick
+item_id: '1114'
+item_description: 'a sharp pick for cracking rocks'
+label: 'Rock pick'

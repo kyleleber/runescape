@@ -1,0 +1,10 @@
+uuid: a5b3546a-4918-42e2-8430-f5e49d007168
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Tn7aUww136eAw0cTymzp8W0259WY3A2ScK2zI5xuh4s
+id: rune_square_shield
+item_id: '403'
+item_description: 'A medium metal shield'
+label: 'Rune Square Shield'

@@ -1,0 +1,11 @@
+uuid: f1e24001-5281-41bb-80d2-cab5e1b5ae60
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: ODCa_VV2GNprEZixv4hsQAj1KvC3fLZuzkgzXvjdUsk
+id: velrak_the_explorer
+npc_id: '272'
+npc_description: 'he looks cold and hungry'
+label: 'Velrak the explorer'
+items: null

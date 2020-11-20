@@ -1,0 +1,11 @@
+uuid: c011c7cd-7885-4c59-b250-a485e946cfd9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 053owMrGI_2s4fWqYcCH3lowhY76rlVOngoFAHlPJVs
+id: city_guard
+npc_id: '691'
+npc_description: 'high ranking ogre guards'
+label: 'City Guard'
+items: null

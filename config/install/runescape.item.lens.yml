@@ -1,0 +1,10 @@
+uuid: 35552389-2da5-44bc-97ff-640ed18fb6f2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XhZykA7F8NIXSZM9uUtLgEnACvDNeIYwPVAX0OXvei4
+id: lens
+item_id: '1018'
+item_description: 'A perfectly formed glass disc'
+label: Lens

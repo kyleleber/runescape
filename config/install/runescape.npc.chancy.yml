@@ -1,0 +1,11 @@
+uuid: b7672c44-8d22-4573-9ed7-2f8e0a3e6bfa
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: nG3tO5Xs8uZNf46x979PSaGpZF-C7DUWpHR_0d5CNQU
+id: chancy
+npc_id: '509'
+npc_description: 'Hes ready for a bet'
+label: Chancy
+items: null

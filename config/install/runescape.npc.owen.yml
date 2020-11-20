@@ -1,0 +1,11 @@
+uuid: d84f114e-f7c5-4674-8f25-b1877bd7421b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HSB3Hvg6o-kJVBbCXosssVytXg176Zg9a9Ij5kee5j4
+id: owen
+npc_id: '299'
+npc_description: 'He runs a fish exchange store'
+label: Owen
+items: null

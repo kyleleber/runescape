@@ -1,0 +1,10 @@
+uuid: 2bc9efcd-047a-4051-9b57-d9840e01b59f
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: DXRnPOp8i0KDSxNmAYcjUr5tgnjfcN3_r32SV2rBF-g
+id: a_red_crystal
+item_id: '1222'
+item_description: 'A heart shaped red crystal'
+label: 'A red crystal'

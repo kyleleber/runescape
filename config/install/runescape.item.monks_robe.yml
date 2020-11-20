@@ -1,0 +1,10 @@
+uuid: 8e91fb73-3020-4fb1-a17d-1b479d74ce0b
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 3MjkzX6-uOO6qJgSBjbs-02B-Yhy82RfMYKNrryhwns
+id: monks_robe
+item_id: '389'
+item_description: 'Keeps a monk''s legs nice and warm'
+label: 'Monks robe'

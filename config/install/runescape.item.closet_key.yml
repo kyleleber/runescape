@@ -1,0 +1,10 @@
+uuid: ee5c4d97-1bbf-4ca9-8484-bcf923e72c46
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: xgTlYhmaakhEeGgVwchEih_q0cO6686MvuX6FeHmTOo
+id: closet_key
+item_id: '212'
+item_description: 'A slightly smelly key'
+label: 'Closet Key'

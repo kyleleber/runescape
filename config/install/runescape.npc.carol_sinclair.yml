@@ -1,0 +1,11 @@
+uuid: 4a1906d4-3d9f-4385-a920-2d4f368c0ceb
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7ShPXqmUjJ6smEBU7s69IwcdVCUPbvM3g7IBXoYaQR8
+id: carol_sinclair
+npc_id: '753'
+npc_description: 'The third child of the late Lord Sinclair'
+label: 'Carol Sinclair'
+items: null

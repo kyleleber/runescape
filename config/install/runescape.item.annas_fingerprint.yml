@@ -1,0 +1,10 @@
+uuid: 8d7dd4b5-3d43-4dae-9a63-15e115e1cfc2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: GJ7oY_vGRcq2Dcy36VaY8dgir7MyhYkv_GeEW9s3pwY
+id: annas_fingerprint
+item_id: '1207'
+item_description: 'An impression of Annas fingerprint'
+label: 'Annas fingerprint'

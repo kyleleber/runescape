@@ -1,0 +1,11 @@
+uuid: 070f2d1e-a2dc-42d4-8aa1-c7a78ad0daf9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: '-Y9Bnfowx6iIn0Y_8R8MCMaFz1KmQI4yIINoFJs5FxI'
+id: gypsy
+npc_id: '14'
+npc_description: 'An old gypsy lady'
+label: Gypsy
+items: null

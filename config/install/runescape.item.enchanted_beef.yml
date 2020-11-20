@@ -1,0 +1,10 @@
+uuid: 3f606096-6ccf-4b85-8ebd-2a642d718ddf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: hG3GIXkWvTuxjrZDTXP7CHP42dyMAEzbnhkvHr8iKmE
+id: enchanted_beef
+item_id: '507'
+item_description: 'I don''t fancy eating this now'
+label: 'enchanted beef'

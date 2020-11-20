@@ -1,0 +1,11 @@
+uuid: 7b00db48-b9da-4a0a-ad99-feed05057637
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: BW2pSPgGJ1KmJKQvYV5ca6pvIGPJ724_5mTnoR7W830
+id: 4th_plague_sheep
+npc_id: '433'
+npc_description: 'The sheep has the plague'
+label: '4th plague sheep'
+items: null

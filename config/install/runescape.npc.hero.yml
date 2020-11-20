@@ -1,0 +1,11 @@
+uuid: c8b00feb-5ee2-46eb-a2ff-3c829b520d58
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: XvW1cSHEl_FnqGpkWwJvdH0SG8V-FJAgA1eD0_1LjpA
+id: hero
+npc_id: '324'
+npc_description: 'A Hero of Ardougne'
+label: Hero
+items: null

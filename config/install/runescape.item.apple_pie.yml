@@ -1,0 +1,10 @@
+uuid: 2d66c807-482f-4bb5-bdc0-edfa11fcbbd2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: oDmPqTlono5dmxarhIVx7Ga78n6shlu2h6BYiFZXJZc
+id: apple_pie
+item_id: '257'
+item_description: 'Mmm Apple pie'
+label: 'apple pie'

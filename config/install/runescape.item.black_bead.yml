@@ -1,0 +1,10 @@
+uuid: b6668a45-698b-46e1-ad49-9b11acc9b718
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: RFIPgLoL_MRa27c9okzn5GRKj5_I4eYx9utpM0pFex0
+id: black_bead
+item_id: '233'
+item_description: 'A small round black bead'
+label: 'Black Bead'

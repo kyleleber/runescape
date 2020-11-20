@@ -1,0 +1,10 @@
+uuid: e5579bf7-d790-4306-b1c8-3269e0ec07a2
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: HiA8ay7SWhFE-KA8-NKTVEDyr44XFHlDRlaraCvkgSs
+id: seaweed
+item_id: '622'
+item_description: 'slightly damp seaweed'
+label: seaweed
