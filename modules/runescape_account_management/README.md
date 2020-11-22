@@ -21,10 +21,13 @@ This module has no other module dependencies.
 INSTALLATION
 ------------
 Follow the standard installation of any Drupal module.
+Upon installation of module, you will need to import the mysql file `add_forum_account.sql`
+found in the game_database_addons directory in this module. This will add the column to the database
+that is needed to link a forum account to an in-game account.
 
 CONFIGURATION
 -------------
-No manual configuration is necessary for enabling this module. 
+No manual configuration is necessary for enabling this module.
 
 TROUBLESHOOTING
 ---------------
