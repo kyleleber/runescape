@@ -4,6 +4,7 @@ services:
     arguments:
       - '@runescape.manager'
       - '@runescape_server_integration.manager'
+      - '@messenger'
 
   runescape_account_management.migration_manager:
     class: Drupal\runescape_account_management\AccountMigrationManager

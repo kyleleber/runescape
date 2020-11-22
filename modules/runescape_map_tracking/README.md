@@ -25,7 +25,8 @@ Follow the standard installation of any Drupal module.
 
 CONFIGURATION
 -------------
-No manual configuration is necessary for enabling this module. 
+This module provides a block plugin (map_tracking) that can be placed via block ui,
+layout builder, or any other methods for placing blocks.
 
 TROUBLESHOOTING
 ---------------

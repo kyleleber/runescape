@@ -40,6 +40,13 @@ class Account extends ControllerBase {
   protected $itemManager;
 
   /**
+   * The account manager service.
+   *
+   * @var \Drupal\runescape_account_management\AccountManagerInterface
+   */
+  protected $accountManager;
+
+  /**
    * Method that is used when the route is accessed.
    *
    * @return array
@@ -65,6 +72,7 @@ class Account extends ControllerBase {
     $instance->routeMatch = $container->get('current_route_match');
     $instance->npcManager = $container->get('runescape.npc_manager');
     $instance->itemManager = $container->get('runescape.item_manager');
+    $instance->accountManager = $container->get('runescape_account_management.manager');
 
     return $instance;
   }
@@ -78,40 +86,38 @@ class Account extends ControllerBase {
   private function buildNpcKills() {
     $current_user = $this->currentUser()->id();
     $player_id = $this->routeMatch->getParameter('account_id');
-    $query = $this->serverIntegrationManager->getExternalDatabaseConnection()->select('npckills');
-    $query->join('players',NULL,'npckills.playerID = players.id');
-    $query->condition('players.forum_account', $current_user);
-    $query->condition('players.id', $player_id);
-    $query->fields('npckills', ['npcID','killCount']);
-    $npc_kills = $query->execute()->fetchAll(PDO::FETCH_ASSOC);
+    $npc_kills = $this->accountManager->getAccountData($current_user, $player_id)['npc_kills'];
     $kills = [];
 
+
     foreach ($npc_kills as $id => $kill) {
-      if ($npc_configuration = $this->npcManager->loadByProperties(['npc_id' => $kill['npcID']])) {
+
+      if ($npc_configuration = $this->npcManager->loadByProperties(['npc_id' => $kill->npcID])) {
         $npc_name = array_shift($npc_configuration)->label();
       }
-      $drops = $this->getDropItems($player_id,$kill['npcID']);
-      foreach ($drops as $id => $drop) {
+      $drops = $kill->drops;
+
+      foreach ($drops as $drop_id => $drop) {
+
         if ($item = $this->itemManager->loadByProperties(['item_id' => $drop['itemID']])) {
-          $drops[$id]['name'] = array_shift($item)->label();
+
+          $drops[$drop_id]['name'] = array_shift($item)->label();
         }
         else {
-          $drops[$id]['name'] = $this->t('Undefined: A site administrator has been notified');
+          $drops[$drop_id]['name'] = $this->t('Undefined: A site administrator has been notified.');
         }
       }
-
       $kills[] = [
-        '#theme' => 'npc_kill',
-        '#name' => $npc_name,
-        '#id' => $kill['npcID'],
-        '#kill_count' => $kill['killCount'],
-        '#items' => $drops,
+        'name' => $npc_name ?? $this->t('Undefined: A site administrator has been notified.'),
+        'id' => $kill->npcID,
+        'kill_count' => $kill->killCount,
+        'items' => $drops,
       ];
     }
 
     return [
       '#type' => 'details',
-      '#title' => $this->t('NPC Statistics'),
+      '#title' => $this->t('NPC Tracking'),
       '#open' => TRUE,
       'npc_kills' => [
         '#theme' => 'npc_kills',
@@ -132,35 +138,9 @@ class Account extends ControllerBase {
   public function accountTitle() {
     $current_user = $this->currentUser()->id();
     $player_id = $this->routeMatch->getParameter('account_id'); // get from route.
+    $user = $this->accountManager->getAccountData($current_user, $player_id)['forum_username'];
 
-    $query = $this->serverIntegrationManager->getExternalDatabaseConnection()->select('players');
-    $query->condition('players.forum_account', $current_user);
-    $query->condition('players.id', $player_id);
-    $query->fields('players', ['username']);
-    $user = $query->execute()->fetchField();
     return !empty($user) ? $user : $this->t('Access Denied');
-  }
-
-  /**
-   * Returns an array of drop data for the user for each NPC.
-   *
-   * @param int $player_id
-   *   The player account ID from the game database.
-   * @param int $npc_id
-   *   The id of the npc.
-   * @return array
-   *   Array of drop data.
-   */
-  private function getDropItems($player_id, $npc_id) {
-    $query = $this->serverIntegrationManager->getExternalDatabaseConnection()->select('droplogs');
-    $query->condition('playerID', $player_id);
-    $query->condition('npcId', $npc_id);
-    $query->addExpression('count(*)', 'dropQuantity');
-    $query->groupBy('itemId');
-    $query->groupBy('dropAmount');
-    $query->fields('droplogs', ['itemID','dropAmount']);
-
-    return $query->execute()->fetchAll(PDO::FETCH_ASSOC);
   }
 
 }

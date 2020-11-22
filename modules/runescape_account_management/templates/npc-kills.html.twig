@@ -4,15 +4,30 @@
   @TODO: Convert to a grid display.
 #}
 {% if kills %}
-  <table class="kills">
-    <th>Npc ID</th>
-    <th>Npc</th>
-    <th>Kill Count</th>
-    <th>Items</th>
     {% for kill in kills %}
-      <tr>
-        {{ kill }}
-      </tr>
+
+      <details class="js-form-wrapper form-wrapper">
+        <summary role="button" aria-expanded="false" aria-pressed="false" class="details__summary">{{ kill.name }} (Kill Count: {{ kill.kill_count}})</summary>
+          <div class="details-wrapper">
+            {% if kill.items %}
+            <table>
+              <th>Item ID</th>
+              <th>Item</th>
+              <th>Drop Amount</th>
+              <th>Drop Quantity</th>
+              {% for item in kill.items %}
+                <tr>
+                  <td>{{ item.itemID }}</td>
+                  <td>{{ item.name }}</td>
+                  <td>{{ item.dropAmount }}</td>
+                  <td>{{ item.dropQuantity }}</td>
+                </tr>
+              {% endfor %}
+            </table>
+            {% else %}
+              <strong>This NPC either drops no items, or you have not received any drops yet.</strong>
+            {% endif %}
+          </div>
+      </details>
     {% endfor %}
-  </table>
 {% endif %}

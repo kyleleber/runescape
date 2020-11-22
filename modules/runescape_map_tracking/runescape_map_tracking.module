@@ -9,5 +9,12 @@ function runescape_map_tracking_theme() {
       'render element' => 'elements',
       'template' => 'tracking-map',
     ],
+    'tracked_players' => [
+      'render element' => 'elements',
+      'template' => 'tracked-players',
+      'variables' => [
+        'results' => [],
+      ],
+    ],
   ];
 }

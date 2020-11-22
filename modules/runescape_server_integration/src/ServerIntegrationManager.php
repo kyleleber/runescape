@@ -20,7 +20,7 @@ class ServerIntegrationManager implements ServerIntegrationManagerInterface {
   protected $config;
 
   /**
-   * Constructs a new Runescape Account Manager.
+   * Constructs a new Runescape server integration Manager.
    *
    * @param \Drupal\Core\Config\ConfigFactoryInterface $config_factory
    *   The runescape manager service.
@@ -33,7 +33,7 @@ class ServerIntegrationManager implements ServerIntegrationManagerInterface {
    * {@inheritdoc}
    */
   public function setExternalDatabaseConnection(): void {
-    $server_configuration = \Drupal::config('server_integration.settings');
+    $server_configuration = $this->config->get('server_integration.settings');
     $database = [
       'database' => $server_configuration->get('external_database_name'),
       'username' => $server_configuration->get('external_database_username'),

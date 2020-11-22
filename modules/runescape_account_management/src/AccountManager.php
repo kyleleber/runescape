@@ -2,6 +2,9 @@
 
 namespace Drupal\runescape_account_management;
 
+use Drupal\Core\Database\DatabaseNotFoundException;
+use Drupal\Core\StringTranslation\StringTranslationTrait;
+use Drupal\Core\Messenger\MessengerInterface;
 use Drupal\runescape\RunescapeManagerInterface;
 use Drupal\runescape_server_integration\ServerIntegrationManagerInterface;
 use PDO;
@@ -10,6 +13,8 @@ use PDO;
  * Class AccountManager.
  */
 class AccountManager implements AccountManagerInterface {
+
+  use StringTranslationTrait;
 
   /**
    * The runescape account manager service.
@@ -26,37 +31,65 @@ class AccountManager implements AccountManagerInterface {
   protected $serverIntegrationManager;
 
   /**
+   * The messenger service.
+   *
+   * @var \Drupal\Core\Messenger\MessengerInterface
+   */
+  protected $messenger;
+
+  /**
+   * The account of current user.
+   *
+   * @var array
+   */
+  protected $account;
+
+  /**
    * Constructs a new Runescape Account Manager.
    *
    * @param \Drupal\runescape\RunescapeManagerInterface $runescape_manager_interface
    *   The runescape manager service.
    * @param \Drupal\runescape_server_integration\ServerIntegrationManagerInterface $server_integration_manager
    *   The server integration service.
+   * @param \Drupal\Core\Messenger\MessengerInterface $messenger
+   *   The messenger service.
    */
-  public function __construct(RunescapeManagerInterface $runescape_manager_interface, ServerIntegrationManagerInterface  $server_integration_manager) {
+  public function __construct(RunescapeManagerInterface $runescape_manager_interface, ServerIntegrationManagerInterface  $server_integration_manager, MessengerInterface $messenger) {
     $this->serverIntegrationManager = $server_integration_manager;
     $this->runescapeManager = $runescape_manager_interface;
+    $this->messenger = $messenger;
   }
 
   /**
    * {@inheritdoc}
    */
-  public function createInGameAccount($data): void {
-    $player_id = $this->insertPlayer($data);
-    $this->insertCurStats($player_id, $data);
-    $this->insertExperience($player_id, $data);
-    $this->insertBankItems($player_id, $data);
+  public function createInGameAccount($data): bool {
+    try {
+      $player_id = $this->insertPlayer($data);
+      $this->insertCurStats($player_id, $data);
+      $this->insertExperience($player_id, $data);
+      $this->insertBankItems($player_id, $data);
+      return true;
+    }
+    catch (DatabaseNotFoundException | \PDOException $e) {
+      $this->messenger->addError($this->t('There was an issue creating the account. Please try again later'));
+    }
+    return false;
   }
 
   /**
    * {@inheritdoc}
    */
   public function isUsernameTaken($username): bool {
-    $account = $this->serverIntegrationManager->getExternalDatabaseConnection()->select('players')
-      ->condition('username', $username)
-      ->fields('players',['username'])
-      ->execute()->fetchField();
-
+    try {
+      $account = $this->serverIntegrationManager->getExternalDatabaseConnection()->select('players')
+        ->condition('username', $username)
+        ->fields('players', ['username'])
+        ->execute()->fetchField();
+    }
+    catch (DatabaseNotFoundException | \PDOException $e) {
+      $this->messenger->addError($this->t('There was an issue creating the account. Please try again later'));
+    }
     return $account ? true : false;
   }
 
@@ -64,13 +97,66 @@ class AccountManager implements AccountManagerInterface {
    * {@inheritdoc}
    */
   public function getExistingAccounts($current_user): array {
-    $query = $this->serverIntegrationManager->getExternalDatabaseConnection()->select('players')
-      ->fields('players',['id','username','combat','login_date'])
-      ->condition('forum_account', $current_user);
-    $query->addExpression("DATE_FORMAT(FROM_UNIXTIME(login_date), '%m/%d/%Y %H:%i')", 'login_date');
+    $accounts = [];
+    try {
+      $query = $this->serverIntegrationManager->getExternalDatabaseConnection()->select('players')
+        ->fields('players', ['id', 'username', 'combat', 'login_date'])
+        ->condition('forum_account', $current_user);
+      $query->addExpression("DATE_FORMAT(FROM_UNIXTIME(login_date), '%m/%d/%Y %H:%i')", 'login_date');
 
-    return $query->execute()->fetchAll(PDO::FETCH_ASSOC);
+      $accounts = $query->execute()->fetchAll(PDO::FETCH_ASSOC);
+    }
+    catch(DatabaseNotFoundException | \PDOException $e) {
+      $this->messenger->addWarning($this->t("Your account's data could not be loaded at this time. Please try again later."));
+    }
 
+    return $accounts;
+  }
+
+  /**
+   * {inheritdoc}
+   */
+  public function getAccountData($current_user, $player_id): array {
+    $this->account = [];
+    try {
+      $database = $this->serverIntegrationManager->getExternalDatabaseConnection();
+      $query = $database->select('npckills');
+      $query->join('players', NULL, 'npckills.playerID = players.id');
+      $query->condition('players.forum_account', $current_user);
+      $query->condition('players.id', $player_id);
+      $query->fields('npckills', ['npcID', 'killCount']);
+      $query->groupBy('npckills.npcId');
+      $query->groupBy('npckills.killCount');
+      $query->groupBy('players.id');
+      $npc_kills = $query->execute()->fetchAllAssoc('npcID');
+      foreach ($npc_kills as $kill) {
+        $query = $database->select('droplogs');
+        $query->condition('playerID', $player_id);
+        $query->condition('npcId', $kill->npcID);
+        $query->addExpression('count(*)', 'dropQuantity');
+        $query->groupBy('npcId');
+        $query->groupBy('itemId');
+        $query->groupBy('dropAmount');
+        $query->fields('droplogs', ['npcId','itemID','dropAmount']);
+        $query->orderBy('itemId');
+        $drops = $query->execute()->fetchAll(PDO::FETCH_ASSOC);
+        $kill->drops = $drops;
+      }
+      $this->account['npc_kills'] = $npc_kills;
+
+      $query = $database->select('players');
+      $query->condition('players.forum_account', $current_user);
+      $query->condition('players.id', $player_id);
+      $query->fields('players', ['username']);
+
+      $this->account['forum_username'] = $query->execute()->fetchField();
+
+    }
+    catch (DatabaseNotFoundException | \PDOException $e) {
+      $this->messenger->addWarning($this->t("Your account's data could not be loaded at this time. Please try again later."));
+    }
+
+    return $this->account;
   }
 
   /**

@@ -3,4 +3,5 @@ services:
     class: Drupal\runescape_highscores\HighscoreManager
     arguments:
       - '@runescape_server_integration.manager'
+      - '@messenger'
 

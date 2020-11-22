@@ -23,16 +23,6 @@ function runescape_account_management_theme() {
         'kills' => [],
       ],
     ],
-    'npc_kill' => [
-      'render element' => 'elements',
-      'template' => 'npc-kill',
-      'variables' => [
-        'id' => NULL,
-        'name' => NULL,
-        'kill_count' => NULL,
-        'items' => [],
-      ],
-    ]
   ];
 }
 

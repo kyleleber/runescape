@@ -2,6 +2,7 @@
 
 namespace Drupal\runescape_account_management\Form;
 
+use Drupal\Core\Database\DatabaseNotFoundException;
 use Drupal\Core\Form\FormBase;
 use Drupal\Core\Form\FormStateInterface;
 use Symfony\Component\DependencyInjection\ContainerInterface;
@@ -295,14 +296,9 @@ class UserMigrationManagement extends FormBase {
         }
       }
 
-      try {
-        $this->accountManager->createInGameAccount($data);
+      if ($this->accountManager->createInGameAccount($data)) {
+        $this->messenger()->addMessage($this->t("The account has been created. Copy this password: <strong>%s</strong> and send to the user who you migrated.", ['%s' => $data['password']]));
       }
-      catch(\Exception $e) {
-        $this->messenger()->addError($e->getMessage());
-        $this->messenger()->addError($this->t('There was an issue migrating the account. Please try again later'));
-      }
-      $this->messenger()->addMessage($this->t("The account has been created. Copy this password: <strong>%s</strong> and send to the user who you migrated.", ['%s' => $data['password']]));
     }
   }
 

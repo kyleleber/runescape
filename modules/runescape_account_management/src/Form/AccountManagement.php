@@ -36,8 +36,18 @@ class AccountManagement extends FormBase {
    */
   public function buildForm(array $form, FormStateInterface $form_state) {
 
+    $existing_accounts = $this->accountManager->getExistingAccounts($this->currentUser()->id());
+    $form['account_creation']['existing_accounts'] = [
+      '#type' => 'details',
+      '#title' => $this->t('Current Accounts (%c)', ['%c' => count($existing_accounts)]),
+      'accounts' => [
+        '#theme' => 'account_cards',
+        '#items' => $existing_accounts,
+      ],
+      '#open' => TRUE,
+    ];
     $form['account_creation']['new_account'] = [
-      '#type' => 'fieldset',
+      '#type' => 'details',
       '#title' => 'Create new account',
     ];
     $form['account_creation']['new_account']['username'] = [
@@ -62,15 +72,6 @@ class AccountManagement extends FormBase {
       '#value' => 'Create Account',
 
     ];
-
-    $form['account_creation']['existing_accounts'] = [
-      '#type' => 'fieldset',
-      '#title' => $this->t('Current Accounts (%c)', ['%c' => count($this->accountManager->getExistingAccounts($this->currentUser()->id()))]),
-      'accounts' => [
-        '#theme' => 'account_cards',
-        '#items' => $this->accountManager->getExistingAccounts($this->currentUser()->id()),
-      ],
-    ];
     return $form;
   }
 
@@ -82,11 +83,10 @@ class AccountManagement extends FormBase {
       $data['username'] = $form_state->getValue('username');
       $data['password'] = $form_state->getValue('password');
       $data['email'] = $form_state->getValue('email');
-      $data['forum_account'] = \Drupal::currentUser()->id();
-
-      $this->accountManager->createInGameAccount($data);
-
-      $this->messenger()->addMessage("Your account has been successfully created! You can now log in.");
+      $data['forum_account'] = $this->currentUser()->id();
+      if ($this->accountManager->createInGameAccount($data)) {
+        $this->messenger()->addMessage("Your account has been successfully created! You can now log in.");
+      }
     }
   }
   public function validateForm(array &$form, FormStateInterface $form_state) {
@@ -96,7 +96,6 @@ class AccountManagement extends FormBase {
 
     if ($account_count < 10) {
       // validate username
-
       if (empty($username) || strlen($username) >= 2 && strlen($username) <= 12) {
         if (preg_match('/^[a-zA-Z0-9 ]+$/', $username)) {
           // check if username already taken.

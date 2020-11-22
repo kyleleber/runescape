@@ -1,0 +1,7 @@
+{% if results %}
+  <ul>
+    {% for player in results %}
+      <li><a href="#{{ player.id }}">{{ player.username }} ({{ player.combat }})</a></li>
+    {% endfor %}
+  </ul>
+{% endif %}
