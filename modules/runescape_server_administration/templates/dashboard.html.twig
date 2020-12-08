@@ -1,0 +1,116 @@
+<div class="layout-row">
+  <div class="layout-column layout-column--three-quarter">
+    <div class="panel">
+      <details class="panel__content">
+        <summary>Accounts ({{ accounts|length }})</summary>
+        <table>
+          <th>Username</th>
+          <th>Forum Account</th>
+          <th>Rank</th>
+          {% for username,account in accounts %}
+            <tr>
+              <td>{{ username }}</td>
+              <td>{{ account.forum_account }}</td>
+              <td>{{ account.group }}</td>
+            </tr>
+          {% endfor %}
+        </table>
+      </details>
+    </div>
+    <div class="panel">
+      <details class="panel__content">
+        <summary>Items</summary>
+        <table>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Amount in Game</th>
+          {% for item in items %}
+            <tr>
+              <td>{{ item.id }}</td>
+              <td>{{ item.name }}</td>
+              <td>{{ item.amount }}</td>
+            </tr>
+          {% endfor %}
+        </table>
+      </details>
+    </div>
+    <div class="panel">
+      <details class="panel__content">
+        <summary>Logs</summary>
+        <div class="panel">
+          <details class="panel__content">
+            <summary>Trade Logs</summary>
+            <table>
+              <th>Transaction Timestamp</th>
+              <th>Transaction ID</th>
+              <th>Transaction</th>
+              {% for trade in trade_logs %}
+                <tr>
+                  <td>{{ trade.time|date("m/d/Y H:i:s") }}</td>
+                  <td>{{ trade.id }}</td>
+                  <td>
+                    {{ trade.player1 }} traded
+                    {% if trade.player1_items %}
+                      {%  for item in trade.player1_items %}
+                        [{{ item.amount }} {{ item.name }}]
+                      {% endfor %}
+                    {% else %}
+                      Nothing
+                    {% endif %}
+                    to
+                    {{ trade.player2 }} and got
+                    {% if trade.player2_items %}
+                      {% for item in trade.player2_items %}
+                        [{{ item.amount }} {{ item.name }}]
+                      {% endfor %}
+                    {% else %}
+                      Nothing
+                    {% endif %}
+                  </td>
+                </tr>
+              {% endfor %}
+            </table>
+          </details>
+        </div>
+
+        <div class="panel">
+          <details class="panel__content">
+            <summary>Local/Global Chat Logs</summary>
+            <table>
+              <th>Timestamp</th>
+              <th>Sender</th>
+              <th>Message</th>
+              {% for message in chat_logs %}
+                <tr>
+                  <td>{{ message.time|date("m/d/Y H:i:s") }}</td>
+                  <td>{{ message.sender }}</td>
+                  <td>{{ message.message }}</td>
+                </tr>
+              {% endfor %}
+            </table>
+          </details>
+        </div>
+        <div class="panel">
+          <details class="panel__content">
+            <summary>Private Chat Logs</summary>
+            <table>
+              <th>Timestamp</th>
+              <th>Sender</th>
+              <th>Receiver</th>
+              <th>Message</th>
+              {% for message in private_chat_logs %}
+                <tr>
+                  <td>{{ message.time|date("m/d/Y H:i:s") }}</td>
+                  <td>{{ message.sender }}</td>
+                  <td>{{ message.reciever }}</td>
+                  <td>{{ message.message }}</td>
+                </tr>
+              {% endfor %}
+            </table>
+          </details>
+        </div>
+      </details>
+    </div>
+
+  </div>
+</div>

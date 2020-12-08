@@ -3,12 +3,13 @@
 namespace Drupal\runescape_account_management\Controller;
 
 use Drupal\Core\Controller\ControllerBase;
-use PDO;
 use Symfony\Component\DependencyInjection\ContainerInterface;
 
 
 /**
- * HomepageController class that allows for the homepage /home route to work.
+ * Account class controller that allows a user to create accounts via
+ * a drupal form. Users can also view their existing accounts and perform
+ * actions such as changing password and deleting account through web application.
  */
 class Account extends ControllerBase {
 

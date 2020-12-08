@@ -1,0 +1,8 @@
+runescape_auctionhouse:
+  version: 1.x
+  js:
+    js/auction-house.js: {}
+  dependencies:
+    - core/jquery
+
+

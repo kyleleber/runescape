@@ -64,7 +64,7 @@ class TrackedPlayers extends BlockBase implements ContainerFactoryPluginInterfac
     }
 
     catch(DatabaseNotFoundException | \PDOException $e) {
-      $this->messenger->addWarning($this->t('Unable to load map data at this time. Please try again later.'));
+      $this->messenger()->addWarning($this->t('Unable to load map data at this time. Please try again later.'));
     }
 
     return $build;

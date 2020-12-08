@@ -1,0 +1,7 @@
+services:
+  runescape_server_administration.asset_manager:
+    class: Drupal\runescape_server_administration\GameAssetManager
+    arguments:
+      - '@config.factory'
+      - '@runescape_server_integration.manager'
+      - '@messenger'

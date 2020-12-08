@@ -1,4 +1,4 @@
 runescape_server_integration.configuration:
-  title: Runescape Server Integration Settings
+  title: Server Integration Settings
   route_name: runescape_server_integration.configuration
   parent: runescape.menu

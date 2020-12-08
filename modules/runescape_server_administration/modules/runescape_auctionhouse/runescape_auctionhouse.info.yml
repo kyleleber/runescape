@@ -1,0 +1,7 @@
+name: Runescape Auction House
+type: module
+description: 'Allows an integration of the auction house functionality from ORSC sources into web application.'
+package: gaming
+core_version_requirement: 9.x
+dependencies:
+  - runescape_server_integration

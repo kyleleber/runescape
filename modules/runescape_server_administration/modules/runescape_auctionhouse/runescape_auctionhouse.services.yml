@@ -1,0 +1,7 @@
+services:
+  runescape_auctionhouse.manager:
+    class: Drupal\runescape_auctionhouse\AuctionHouseManager
+    arguments:
+      - '@runescape_server_integration.manager'
+      - '@messenger'
+

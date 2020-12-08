@@ -18,7 +18,7 @@ interface AccountManagerInterface {
   public function createInGameAccount(array $data): bool;
 
   /**
-   * Checks whether a username is already taken.
+   * Check whether a username is already taken.
    *
    * @param string $username
    *   The username to be checked if already taken.
@@ -28,7 +28,7 @@ interface AccountManagerInterface {
   public function isUsernameTaken(string $username): bool;
 
   /**
-   * Gets all existing in-game accounts for given forum id.
+   * Get all existing in-game accounts for given forum id.
    *
    * @param int $current_user
    *   The id of the forum account.
@@ -46,6 +46,5 @@ interface AccountManagerInterface {
    *   Returns an associative array of an account's data.
    */
   public function getAccountData(int $current_user, string $player_id): array;
-
 
 }

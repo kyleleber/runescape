@@ -9,8 +9,8 @@
     {% for item in items %}
       <div class="card card--account">
         <div class="card--account__internal">
-
-          <img src="/assets/rsc_avatars/{{ item.id }}.png"/>
+          {% set itok = random(1000) %}
+          <img src="/assets/rsc_avatars/{{ item.id }}.png?ver={{itok}}"/>
           <h2><a href="/user/account/{{ item.id}}/account-information">{{ item.username }}</a></h2>
           <div>Combat Level: {{ item.combat }}</div>
           <div>Last Login: {{ item.login_date }}</div>

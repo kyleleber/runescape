@@ -1,5 +1,5 @@
 runescape.menu:
-  title: Manage Runescape Configuration
+  title: Runescape Configuration
   route_name: runescape.configuration
   parent: system.admin_config
 

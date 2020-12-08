@@ -5,7 +5,6 @@ namespace Drupal\runescape_server_integration;
 use Drupal\Core\Config\ConfigFactoryInterface;
 use Drupal\Core\Database\Connection;
 use Drupal\Core\Database\Database;
-use Exception;
 
 /**
  * Class ServerIntegrationManager.

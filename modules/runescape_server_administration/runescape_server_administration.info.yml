@@ -1,0 +1,8 @@
+name: Runescape Server Administration
+type: module
+description: 'Allows privileged forum accounts to have access to live game data views and controls.'
+package: gaming
+core_version_requirement: 9.x
+dependencies:
+  - runescape_server_integration
+  - runescape_account_management

@@ -1,4 +1,4 @@
 runescape.account_migration_management:
-  title: Create Account Migration
+  title: Account Migrations
   route_name: runescape_account_management.migration-form
   parent: runescape.menu

@@ -1,8 +1,6 @@
 .runescape-map {
-  margin-left: auto;
-  margin-right: auto;
   height: 600px;
-  max-width: 505px;
+  max-width: 740px;
   overflow: auto;
 }
 .runescape-map-internal {

@@ -1,0 +1,42 @@
+{{ attach_library('runescape_auctionhouse/runescape_auctionhouse') }}
+
+<button class="tablink" data-tab-target='active_auctions'>Active Auctions</button>
+<button class="tablink" data-tab-target='soldout_auctions'>Expired Auctions</button>
+<div class="active_auctions tabcontent">
+  <h1>Active Auctions</h1>
+  <table>
+    <th>Item</th>
+    <th>Auction amount left</th>
+    <th>Price per item</th>
+    <th>Seller</th>
+    <th>Time listed</th>
+    {% for auction in active_auctions %}
+      <tr>
+        <td><img src="/assets/rsc_items/{{ auction.item_id }}.png"/>{{ auction.item_name }}</td>
+        <td>{{ auction.amount_left }}</td>
+        <td>{{ auction.price|number_format(0, '.', ',') }}</td>
+        <td>{{ auction.seller_username }}</td>
+        <td>{{ auction.time|date("m/d/Y H:i:s") }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<div class="soldout_auctions tabcontent">
+  <h1>Expired Auctions</h1>
+  <table>
+    <th>Item</th>
+    <th>Price per item</th>
+    <th>Seller</th>
+    <th>Time listed</th>
+    {% for auction in soldout_auctions %}
+      <tr>
+        <td><img src="/assets/rsc_items/{{ auction.item_id }}.png"/>{{ auction.item_name }}</td>
+        <td>{{ auction.price|number_format(0, '.', ',') }}</td>
+        <td>{{ auction.seller_username }}</td>
+        <td>{{ auction.time|date("m/d/Y H:i:s") }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+</div>
+

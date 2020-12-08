@@ -7,7 +7,10 @@
     {% for kill in kills %}
 
       <details class="js-form-wrapper form-wrapper">
-        <summary role="button" aria-expanded="false" aria-pressed="false" class="details__summary">{{ kill.name }} (Kill Count: {{ kill.kill_count}})</summary>
+        <summary role="button" aria-expanded="false" aria-pressed="false" class="details__summary">
+          <img src="/assets/rsc_npcs/{{ kill.id }}.png"/>
+          <span class="details">{{ kill.name }}({{ kill.id }}) (Kill Count: {{ kill.kill_count}})</span>
+        </summary>
           <div class="details-wrapper">
             {% if kill.items %}
             <table>
@@ -17,7 +20,7 @@
               <th>Drop Quantity</th>
               {% for item in kill.items %}
                 <tr>
-                  <td>{{ item.itemID }}</td>
+                  <td><img src="/assets/rsc_items/{{ item.itemID }}.png"/></td>
                   <td>{{ item.name }}</td>
                   <td>{{ item.dropAmount }}</td>
                   <td>{{ item.dropQuantity }}</td>

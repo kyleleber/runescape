@@ -1,0 +1,20 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function runescape_server_administration_theme() {
+  return [
+    'dashboard' => [
+      'render element' => 'elements',
+      'template' => 'dashboard',
+      'variables' => [
+        'accounts' => [],
+        'items' => [],
+        'trade_logs' => [],
+        'chat_logs' => [],
+        'private_chat_logs' => [],
+      ],
+    ],
+  ];
+}

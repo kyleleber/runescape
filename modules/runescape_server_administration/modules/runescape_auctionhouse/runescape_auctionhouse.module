@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Implements hook_theme().
+ */
+function runescape_auctionhouse_theme() {
+  return [
+    'auction_house' => [
+      'render element' => 'elements',
+      'template' => 'auction-house',
+      'variables' => [
+        'active_auctions' => [],
+        'soldout_auctions' => [],
+      ],
+    ],
+  ];
+}

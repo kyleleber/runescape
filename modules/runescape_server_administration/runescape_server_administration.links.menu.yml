@@ -1,0 +1,4 @@
+runescape_server_administration.dashboard:
+  title: Server Administration Dashboard
+  route_name: runescape_server_administration.dashboard
+  parent: runescape.menu

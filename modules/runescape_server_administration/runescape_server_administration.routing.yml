@@ -1,0 +1,7 @@
+runescape_server_administration.dashboard:
+  path: '/admin/config/runescape/server-dashboard'
+  defaults:
+    _controller: '\Drupal\runescape_server_administration\Controller\ServerAdministrationDashboard::build'
+    _title: 'Administration Dashboard'
+  requirements:
+    _permission: 'access runescape server administration dashboard'
